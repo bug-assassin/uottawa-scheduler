@@ -1,0 +1,907 @@
+{
+    "CourseCode": "PHY1331",
+    "Title": "Principles of Physics I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=026725\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PHY1331 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MRN 150",
+                            "Professor": "Andrzej  Czajkowski"
+                        },
+                        {
+                            "Name": "PHY1331 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MRN 150",
+                            "Professor": "Andrzej  Czajkowski"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "PHY1331 A37",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1730,
+                            "EndHour": 1830,
+                            "Place": "FTX 232",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "PHY1331 A38",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 930,
+                            "Place": "TBT 070",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "PHY1331 A39",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1030,
+                            "EndHour": 1130,
+                            "Place": "MRT 221",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "PHY1331 A40",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1030,
+                            "EndHour": 1130,
+                            "Place": "MRT 212",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "PHY1331 A41",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1030,
+                            "EndHour": 1130,
+                            "Place": "MRT 205",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "PHY1331 A01",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 A02",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 A03",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 A04",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 A05",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 A06",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 A07",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 A08",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 A09",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 A10",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 A11",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3010",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 A12",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3010",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 A13",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3010",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 A14",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3010",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 A15",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3010",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 A16",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3010",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 A17",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3010",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 A18",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3010",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 A19",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3010",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 A20",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3010",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 A21",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3013",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 A22",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3013",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 A23",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3013",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 A24",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3013",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 A25",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3013",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 A26",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3013",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 A27",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3013",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 A28",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3013",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 A29",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3013",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 A31",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 A32",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 A33",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "STE 3010",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 A34",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "STE 3010",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 A35",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "STE 3013",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 A36",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "Not available at this time.",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "TUT",
+                    "Activities": [
+                        {
+                            "Name": "PHY1331 A42",
+                            "ActivityType": "TUT",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "FSS 2005",
+                            "Professor": "Andrzej  Czajkowski"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PHY1331 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "MRN 150",
+                            "Professor": "Andrzej  Czajkowski"
+                        },
+                        {
+                            "Name": "PHY1331 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "MRN 150",
+                            "Professor": "Andrzej  Czajkowski"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "PHY1331 B37",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1300,
+                            "EndHour": 1400,
+                            "Place": "STE A0150",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "PHY1331 B38",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1530,
+                            "Place": "MRT 205",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "PHY1331 B39",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1030,
+                            "EndHour": 1130,
+                            "Place": "MNT 201",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "PHY1331 B01",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 B02",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 B03",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 B04",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 B05",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 B06",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 B07",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 B08",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 B09",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 B10",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 B11",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3010",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 B12",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3010",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 B13",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3010",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 B14",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3010",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 B15",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3010",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 B16",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3010",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 B17",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3010",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 B18",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3010",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 B19",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3010",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 B20",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3010",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 B21",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3013",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 B22",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3013",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 B23",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3013",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 B24",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3013",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 B25",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3013",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 B26",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3013",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 B27",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3013",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 B28",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3013",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 B29",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3013",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 B30",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "Not available at this time.",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "PHY1331 B31",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 B32",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 B33",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "STE 3010",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 B34",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "STE 3010",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 B35",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "STE 3013",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1331 B36",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "Not available at this time.",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "TUT",
+                    "Activities": [
+                        {
+                            "Name": "PHY1331 B40",
+                            "ActivityType": "TUT",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "FSS 2005",
+                            "Professor": "Andrzej  Czajkowski"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

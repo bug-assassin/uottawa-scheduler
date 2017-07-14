@@ -1,0 +1,37 @@
+{
+    "CourseCode": "NSG4730",
+    "Title": "Soins infirmiers complexes",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=023128\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "NSG4730 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "RGN 2003",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "NSG4730 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "October 13 - October 13",
+                            "Day": 4,
+                            "StartHour": 800,
+                            "EndHour": 900,
+                            "Place": "RGN 2003",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

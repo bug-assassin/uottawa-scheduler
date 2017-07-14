@@ -1,0 +1,37 @@
+{
+    "CourseCode": "DCL6300",
+    "Title": "International Investment Law",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=008149\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "DCL6300 000",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "FTX 361",
+                            "Professor": "John Anthony  Vanduzer"
+                        },
+                        {
+                            "Name": "DCL6300 000",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "FTX 137",
+                            "Professor": "John Anthony  Vanduzer"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

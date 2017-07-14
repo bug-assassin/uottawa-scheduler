@@ -1,0 +1,27 @@
+{
+    "CourseCode": "BMG5109",
+    "Title": "Advanced Topics in Medical Instrumentation",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=003266\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "F",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "BMG5109 F00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "VNR 2075",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

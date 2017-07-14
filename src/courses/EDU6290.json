@@ -1,0 +1,27 @@
+{
+    "CourseCode": "EDU6290",
+    "Title": "Research in Education",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=010815\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "F",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "EDU6290 F00 - Hybrid course",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "LMX 240",
+                            "Professor": "Ruth  Kane"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

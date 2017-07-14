@@ -1,0 +1,37 @@
+{
+    "CourseCode": "PDP1578",
+    "Title": "Langue des signes québécoise, développement du langage et des apprentissages d'une langue, partie II",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=023836\u0026term=2179\u0026session=L",
+    "Sections": [
+        {
+            "SectionCode": "Z",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PDP1578 ZC00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 12 - December 07",
+                            "Day": 1,
+                            "StartHour": 1800,
+                            "EndHour": 2100,
+                            "Place": "LMX 390",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "PDP1578 ZC00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 12 - December 07",
+                            "Day": 3,
+                            "StartHour": 1800,
+                            "EndHour": 2100,
+                            "Place": "LMX 390",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

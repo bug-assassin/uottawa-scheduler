@@ -1,0 +1,67 @@
+{
+    "CourseCode": "CVG3516",
+    "Title": "Hydraulique",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=045137\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CVG3516 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "STE F0126",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "CVG3516 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "STE F0126",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "CVG3516 A01",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1500,
+                            "Place": "CBY E05",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "TUT",
+                    "Activities": [
+                        {
+                            "Name": "CVG3516 A02",
+                            "ActivityType": "TUT",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "TBT 0021",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "CourseCode": "MBA5340",
+    "Title": "Financial Accounting Information and Decisions",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=020618\u0026term=2179\u0026session=B",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MBA5340 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 03",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "DMS 4140",
+                            "Professor": "Darlene  Himick"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

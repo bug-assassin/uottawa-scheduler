@@ -1,0 +1,67 @@
+{
+    "CourseCode": "DRC2514",
+    "Title": "Droit des obligations III",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=008599\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DRC2514 C00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "FTX 133",
+                            "Professor": "Marieve  Lacroix"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DRC2514 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "FTX 227",
+                            "Professor": "Karen  Eltis"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DRC2514 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "FTX 302",
+                            "Professor": "Josée Marie Elaine Aspinall"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

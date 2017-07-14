@@ -1,0 +1,67 @@
+{
+    "CourseCode": "MED23011",
+    "Title": "Physician Skills Development Part I (1 of 2)",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=051328\u0026term=2179\u0026session=TR",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MED23011 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 07 - September 07",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1530,
+                            "Place": "RGN 2149",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED23011 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 28 - September 28",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "RGN 2149",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED23011 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "October 26 - October 26",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1500,
+                            "Place": "RGN 2149",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED23011 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "November 02 - November 02",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1630,
+                            "Place": "RGN 2149",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED23011 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "November 09 - December 07",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "RGN 2149",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

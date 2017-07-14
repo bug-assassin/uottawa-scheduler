@@ -1,0 +1,27 @@
+{
+    "CourseCode": "POL8511",
+    "Title": "Séminaire dans le champ mineur : Politique comparée",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=027547\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "POL8511 A00",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "FSS 12003",
+                            "Professor": "Marie-Christine  Doran"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

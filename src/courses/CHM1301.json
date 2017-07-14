@@ -1,0 +1,182 @@
+{
+    "CourseCode": "CHM1301",
+    "Title": "Principles of Chemistry",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=003854\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CHM1301 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MRN 150",
+                            "Professor": "Rashmi  Venkateswaran"
+                        },
+                        {
+                            "Name": "CHM1301 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MRN 150",
+                            "Professor": "Rashmi  Venkateswaran"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "CHM1301 011",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "UCU AUD",
+                            "Professor": "Rashmi  Venkateswaran"
+                        },
+                        {
+                            "Name": "CHM1301 012",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MHN 033",
+                            "Professor": "Rashmi  Venkateswaran"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "CHM1301 001",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "MRN 301",
+                            "Professor": "Rashmi  Venkateswaran"
+                        },
+                        {
+                            "Name": "CHM1301 002",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "MRN 301",
+                            "Professor": "Rashmi  Venkateswaran"
+                        },
+                        {
+                            "Name": "CHM1301 003",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1830,
+                            "EndHour": 2130,
+                            "Place": "MRN 301",
+                            "Professor": "Rashmi  Venkateswaran"
+                        },
+                        {
+                            "Name": "CHM1301 004",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1830,
+                            "EndHour": 2130,
+                            "Place": "MRN 301",
+                            "Professor": "Rashmi  Venkateswaran"
+                        },
+                        {
+                            "Name": "CHM1301 005",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "MRN 301",
+                            "Professor": "Rashmi  Venkateswaran"
+                        },
+                        {
+                            "Name": "CHM1301 006",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "MRN 301",
+                            "Professor": "Rashmi  Venkateswaran"
+                        },
+                        {
+                            "Name": "CHM1301 007",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1830,
+                            "EndHour": 2130,
+                            "Place": "MRN 301",
+                            "Professor": "Rashmi  Venkateswaran"
+                        },
+                        {
+                            "Name": "CHM1301 008",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1830,
+                            "EndHour": 2130,
+                            "Place": "MRN 301",
+                            "Professor": "Rashmi  Venkateswaran"
+                        },
+                        {
+                            "Name": "CHM1301 009",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "MRN 301",
+                            "Professor": "Rashmi  Venkateswaran"
+                        },
+                        {
+                            "Name": "CHM1301 010",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "MRN 301",
+                            "Professor": "Rashmi  Venkateswaran"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "TUT",
+                    "Activities": [
+                        {
+                            "Name": "CHM1301 013",
+                            "ActivityType": "TUT",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "FSS 1030",
+                            "Professor": "Rashmi  Venkateswaran"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

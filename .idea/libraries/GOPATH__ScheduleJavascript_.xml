@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;ScheduleJavascript&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/go/src/gopkg.in" />
+      <root url="file://$USER_HOME$/go/src/.idea" />
+      <root url="file://$USER_HOME$/go/src/Algorithms" />
+      <root url="file://$USER_HOME$/go/src/PScraper" />
+      <root url="file://$USER_HOME$/go/src/GolangAI" />
+      <root url="file://$USER_HOME$/go/src/github.com" />
+      <root url="file://$USER_HOME$/go/src/golang.org" />
+      <root url="file://$USER_HOME$/go/src/LabTest" />
+      <root url="file://$USER_HOME$/go/src/ScheduleWebsite" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/go/src/gopkg.in" />
+      <root url="file://$USER_HOME$/go/src/.idea" />
+      <root url="file://$USER_HOME$/go/src/Algorithms" />
+      <root url="file://$USER_HOME$/go/src/PScraper" />
+      <root url="file://$USER_HOME$/go/src/GolangAI" />
+      <root url="file://$USER_HOME$/go/src/github.com" />
+      <root url="file://$USER_HOME$/go/src/golang.org" />
+      <root url="file://$USER_HOME$/go/src/LabTest" />
+      <root url="file://$USER_HOME$/go/src/ScheduleWebsite" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>

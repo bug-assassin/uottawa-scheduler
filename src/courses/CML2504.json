@@ -1,0 +1,27 @@
+{
+    "CourseCode": "CML2504",
+    "Title": "Les transactions immobilières",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=004918\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML2504 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "FTX 137",
+                            "Professor": "Brigitte  Pilon"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

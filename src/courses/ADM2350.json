@@ -1,0 +1,87 @@
+{
+    "CourseCode": "ADM2350",
+    "Title": "Financial Management",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=000033\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ADM2350 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "DMS 1150",
+                            "Professor": "Chen  Guo"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "ADM2350 B01",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "MRT 205",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ADM2350 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "DMS 1120",
+                            "Professor": "Chen  Guo"
+                        },
+                        {
+                            "Name": "ADM2350 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "DMS 1120",
+                            "Professor": "Chen  Guo"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "ADM2350 A01",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "DMS 1140",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "CourseCode": "CHM2531",
+    "Title": "Thermodynamique chimique des gaz et des solutions",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=003917\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CHM2531 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "WLD 104",
+                            "Professor": "Heshel  Teitelbaum"
+                        },
+                        {
+                            "Name": "CHM2531 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "LMX 223",
+                            "Professor": "Heshel  Teitelbaum"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "CHM2531 001",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1700,
+                            "Place": "MRN 08",
+                            "Professor": "Heshel  Teitelbaum"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

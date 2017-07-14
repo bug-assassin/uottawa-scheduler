@@ -1,0 +1,27 @@
+{
+    "CourseCode": "GNG5120",
+    "Title": "Technology entrepreneurship for Engineers and Computer Scientists",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=015067\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "GNG5120 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "STE H0104",
+                            "Professor": "Hanan  Anis"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

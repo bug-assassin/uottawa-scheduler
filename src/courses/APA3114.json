@@ -1,0 +1,72 @@
+{
+    "CourseCode": "APA3114",
+    "Title": "Exercise Physiology II",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=001524\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "APA3114 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 800,
+                            "EndHour": 1000,
+                            "Place": "VNR 1075",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "APA3114 A01",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1000,
+                            "EndHour": 1200,
+                            "Place": "MNT 303",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "APA3114 A02",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1200,
+                            "EndHour": 1400,
+                            "Place": "MNT 303",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "APA3114 A03",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1400,
+                            "EndHour": 1600,
+                            "Place": "MNT 303",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "APA3114 A04",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1600,
+                            "EndHour": 1800,
+                            "Place": "MNT 303",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

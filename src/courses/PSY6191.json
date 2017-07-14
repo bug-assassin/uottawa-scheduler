@@ -1,0 +1,47 @@
+{
+    "CourseCode": "PSY6191",
+    "Title": "Seminars in Psychology",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=028066\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PSY6191 B00 - Psychological Approaches to Bilingualism",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "FSS 5023",
+                            "Professor": "Christopher  Fennell"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PSY6191 A00 - Qualitative Methods",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "FSS 4013",
+                            "Professor": "John Charles  Sylvestre"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

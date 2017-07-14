@@ -1,0 +1,27 @@
+{
+    "CourseCode": "MUS39091",
+    "Title": "Brass Choir (Part 1 of 2)",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=051453\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "MUS39091 A00",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "PRZ 113",
+                            "Professor": "Daniel  Gress"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

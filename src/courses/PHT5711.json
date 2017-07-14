@@ -1,0 +1,57 @@
+{
+    "CourseCode": "PHT5711",
+    "Title": "Principes de pratique clinique",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=026667\u0026term=2179\u0026session=TR",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PHT5711 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 07 - September 07",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "RGN 2113",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "PHT5711 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 12 - October 03",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "RGN 2113",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "PHT5711 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "October 11 - November 29",
+                            "Day": 2,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "RGN 2113",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "PHT5711 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "December 13 - December 20",
+                            "Day": 2,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "RGN 2113",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

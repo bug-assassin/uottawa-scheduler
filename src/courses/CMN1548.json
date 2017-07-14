@@ -1,0 +1,37 @@
+{
+    "CourseCode": "CMN1548",
+    "Title": "Introduction à la communication organisationnelle",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=005415\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CMN1548 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "DMS 1160",
+                            "Professor": "Ivan Emilov Ivanov"
+                        },
+                        {
+                            "Name": "CMN1548 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "DMS 1160",
+                            "Professor": "Ivan Emilov Ivanov"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

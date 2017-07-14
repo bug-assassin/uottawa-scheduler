@@ -1,0 +1,27 @@
+{
+    "CourseCode": "MCG5170",
+    "Title": "Computer-Aided Design",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=020995\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MCG5170 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 800,
+                            "EndHour": 1000,
+                            "Place": "UCU 205",
+                            "Professor": "Marc  Doumit"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

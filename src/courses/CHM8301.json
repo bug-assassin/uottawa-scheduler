@@ -1,0 +1,37 @@
+{
+    "CourseCode": "CHM8301",
+    "Title": "Analytical Mass Spectrometry",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=004208\u0026term=2179\u0026session=TR",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CHM8301 000 - Hybrid course",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - October 20",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "LMX 223",
+                            "Professor": "Sharon  Curtis"
+                        },
+                        {
+                            "Name": "CHM8301 000 - Hybrid course",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - October 20",
+                            "Day": 3,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "LMX 223",
+                            "Professor": "Sharon  Curtis"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

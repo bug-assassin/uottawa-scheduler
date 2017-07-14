@@ -1,0 +1,87 @@
+{
+    "CourseCode": "BIO4920",
+    "Title": "Seminar I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=039369\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "D",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "BIO4920 D00 - Bilingue/Bilingual",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1630,
+                            "Place": "FSS 7035",
+                            "Professor": "Howard D. Rundle,Vincent  Careau"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "BIO4920 A00 - Cell and Molecular",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1630,
+                            "Place": "STE F0126",
+                            "Professor": "Howard D. Rundle,Laurie  Chan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "BIO4920 B00 - Physiology option",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1630,
+                            "Place": "CBY E016",
+                            "Professor": "Howard D. Rundle,Colin  Montpetit,Jean-Michel  Weber"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "BIO4920 C00 - Ecology option",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1630,
+                            "Place": "SMD 402",
+                            "Professor": "Howard D. Rundle,Risa D. Sargent"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

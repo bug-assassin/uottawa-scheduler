@@ -1,0 +1,27 @@
+{
+    "CourseCode": "SOC7540",
+    "Title": "Méthodologie quantitative avancée",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=029445\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "SOC7540 A00",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "VNR 2025",
+                            "Professor": "Gustave J.  Goldmann"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

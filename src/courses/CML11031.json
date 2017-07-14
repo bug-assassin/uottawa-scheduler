@@ -1,0 +1,97 @@
+{
+    "CourseCode": "CML11031",
+    "Title": "Criminal Law and Procedure (Part 1 of 2)",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=051225\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML11031 C00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "FTX 147",
+                            "Professor": "Vanessa Ann  MacDonnell"
+                        },
+                        {
+                            "Name": "CML11031 C00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "FTX 147A",
+                            "Professor": "Vanessa Ann  MacDonnell"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML11031 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "FTX 302",
+                            "Professor": "Rosemary Lea  Cairns"
+                        },
+                        {
+                            "Name": "CML11031 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "FTX 302",
+                            "Professor": "Rosemary Lea  Cairns"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML11031 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "FTX 351",
+                            "Professor": "Graham  Mayeda"
+                        },
+                        {
+                            "Name": "CML11031 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "FTX 147A",
+                            "Professor": "Graham  Mayeda"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

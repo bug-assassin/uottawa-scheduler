@@ -1,0 +1,37 @@
+{
+    "CourseCode": "PHY2325",
+    "Title": "Physics in Biology",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=026771\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PHY2325 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "MRT 250",
+                            "Professor": "Andrew E. Pelling"
+                        },
+                        {
+                            "Name": "PHY2325 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "MRT 250",
+                            "Professor": "Andrew E. Pelling"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

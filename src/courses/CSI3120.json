@@ -1,0 +1,67 @@
+{
+    "CourseCode": "CSI3120",
+    "Title": "Programming Language Concepts",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=006605\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CSI3120 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "FTX 147B",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "CSI3120 A01",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "STE 2060",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "CSI3120 A02",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "STE 2060",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "TUT",
+                    "Activities": [
+                        {
+                            "Name": "CSI3120 A03",
+                            "ActivityType": "TUT",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "HGN 302",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

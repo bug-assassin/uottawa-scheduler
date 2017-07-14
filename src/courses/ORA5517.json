@@ -1,0 +1,27 @@
+{
+    "CourseCode": "ORA5517",
+    "Title": "Pratique professionnelle en audiologie et en orthophonie",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=023337\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "ORA5517 000",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "RGN 2112",
+                            "Professor": "Lynn F.  Metthe"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

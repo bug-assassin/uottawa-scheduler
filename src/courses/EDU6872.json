@@ -1,0 +1,27 @@
+{
+    "CourseCode": "EDU6872",
+    "Title": "Séminaire et practicum en counselling de groupe",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=010923\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "F",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "EDU6872 F00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "LMX 418",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

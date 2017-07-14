@@ -1,0 +1,27 @@
+{
+    "CourseCode": "DCL5523",
+    "Title": "Publicité des droits et propriété",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=008066\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "DCL5523 000",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "BRS 302",
+                            "Professor": "Natacha  Bouffard"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

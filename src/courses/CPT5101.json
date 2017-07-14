@@ -1,0 +1,37 @@
+{
+    "CourseCode": "CPT5101",
+    "Title": "Advanced Competencies in Audit, Assurance and Governance",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=042747\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CPT5101 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - October 16",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "DMS 4130",
+                            "Professor": "Sheldon  Weatherstone"
+                        },
+                        {
+                            "Name": "CPT5101 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "October 30 - December 06",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "DMS 4130",
+                            "Professor": "Sheldon  Weatherstone"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

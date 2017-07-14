@@ -1,0 +1,27 @@
+{
+    "CourseCode": "DVM4508",
+    "Title": "Conflit et développement",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=009092\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "DVM4508 A00",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "FSS 1005",
+                            "Professor": "Stephen H.L. Baranyi"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

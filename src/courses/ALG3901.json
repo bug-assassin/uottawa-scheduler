@@ -1,0 +1,52 @@
+{
+    "CourseCode": "ALG3901",
+    "Title": "Advanced German I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=001069\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ALG3901 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "TBT 327",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ALG3901 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "TBT 327",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "ALG3901 A01",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1900,
+                            "EndHour": 2000,
+                            "Place": "SMD 427",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

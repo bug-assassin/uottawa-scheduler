@@ -1,0 +1,37 @@
+{
+    "CourseCode": "PDP1680",
+    "Title": "Stage d'observation",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=023874\u0026term=2179\u0026session=L",
+    "Sections": [
+        {
+            "SectionCode": "Z",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PDP1680 ZC00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 12 - December 07",
+                            "Day": 1,
+                            "StartHour": 1800,
+                            "EndHour": 2100,
+                            "Place": "VNR 5040",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "PDP1680 ZC00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 12 - December 07",
+                            "Day": 3,
+                            "StartHour": 1800,
+                            "EndHour": 2100,
+                            "Place": "VNR 5040",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

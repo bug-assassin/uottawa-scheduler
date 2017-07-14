@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        th.blank_space {
+            width: 1rem;
+            border-top: 0;
+        }
+
+        td.blank_space {
+            width: 1rem;
+            border-top: 0;
+        }
+
+        th {
+            text-align: left;
+        }
+
+        td {
+            text-align: left;
+        }
+
+        .monitored_table tbody tr:hover {
+            background-color: #F5F5F5;
+            cursor: pointer;
+        }
+
+        .monitored_table {
+            margin-left: 0.5rem;
+        }
+    </style>
+    <script
+            src="https://code.jquery.com/jquery-2.2.4.min.js"
+            integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+            crossorigin="anonymous"></script> <!-- jquery 3.xx breaks the radio button deselect below, find out why -->
+
+    <script src="utilities.js"></script>
+    <script src="course.titles.min.js"></script><!-- Used for autocomplete search -->
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.4.3/css/bulma.min.css">
+    <!-- Css Framework -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/awesomplete/1.1.2/awesomplete.min.css"
+          integrity="sha256-TQcHzEz3/ZJ8MeAoO1SRE5sa5q68U57dwZO/tArtNqk=" crossorigin="anonymous"/>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/awesomplete/1.1.2/awesomplete.min.js"
+            integrity="sha256-xA+USAVmEnBnz1FiLRSG8xglJflQVHmQvbx5+u4bslk=" crossorigin="anonymous"></script>
+
+
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.4.0/fullcalendar.min.css'/>
+    <link rel="stylesheet" href="css/fontello/fontello.css">
+
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.4.0/fullcalendar.min.js'></script>
+    <script src="schedule_generator.js"></script>
+    <style>
+        .fc-title {
+            font-size: 1.2em;
+        }
+
+        .eventPlace, .eventProf {
+            font-size: 0.9em;
+        }
+    </style>
+    <!-- <script
+            src="https://code.jquery.com/jquery-3.2.1.min.js"
+            integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+            crossorigin="anonymous"></script> -->
+    <script>
+        var dayStrings = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"];
+
+        var template_activity = `
+            <tr>
+            <td>
+            {{ActivityType}}
+        </td>
+        <td>
+        {{Name}}
+        </td>
+        <td>
+        {{Place}}
+        </td>
+        <td>
+        {{Professor}}
+        </td>
+        <td>
+        {{Day}} {{StartHour}} - {{EndHour}}
+        </td>
+            </tr>`;
+
+        var courseList = [];
+
+        //Allow radio buttons to be deselectable
+        $(function () {
+            var inputClickHandler = function () {
+                var previousValue = $(this).attr('previousValue');
+                var name = $(this).attr('name');
+
+                if (previousValue == 'checked') {
+                    $(this).prop('checked', false);
+                    $(this).attr('previousValue', false);
+                    $(this).checkboxradio("refresh");//This method doesn't exist but it works for some reason (any non-existent method will refresh the view)
+                }
+                else {
+                    $("input[name=" + name + "]:radio").attr('previousValue', false);
+                    $(this).attr('previousValue', 'checked');
+                }
+            };
+
+            /*
+             $('.record_table tr').click(function (event) {
+             if (event.target.type !== 'checkbox') {
+             $(':checkbox', this).trigger('click');
+             }
+             });
+             */
+
+            $("input[type='radio']").click(inputClickHandler);
+
+            $('.monitored_table tbody tr').click(function (event) {
+                if (event.target.type !== 'radio') {
+                    $(':radio', this).trigger("click");
+                }
+            });
+
+            $('#courseListTable').on('click', '.removeCourseBtn', function () {
+                var courseCode = $(this).parent().parent().parent().attr('data-course-code');
+                removeCourse(courseCode);
+            });
+
+            new Awesomplete($('#courseSearch')[0], {
+                list: courseTitles
+            });
+
+            document.getElementById("courseSearch").addEventListener('awesomplete-selectcomplete', function (e) {
+                var courseCode = e.text.label.split(" ")[0];
+                getCourseAndAddIt(courseCode);
+                this.value = "";
+            });
+
+        });
+
+        function getCourseAndAddIt(courseCode) {
+            //If already added the course, then return
+            if (courseList.filter(function (e) {
+                    return e.CourseCode == courseCode;
+                }).length > 0) return;
+
+            //TODO debug only
+            var path = "/ScheduleJavascript" + "/courses/" + courseCode + ".json";
+            $.getJSON(path, addCourse);
+
+            function addCourse(course) {
+                courseList.push(course);
+
+                var courseHtml = generateCourseHTML(course);
+                $('#courseListTable').append(courseHtml);
+
+                //Update Agenda
+                generateAndShowSchedules();
+            }
+        }
+        function removeCourse(courseCode) {
+            courseList = courseList.filter(function (course) {//Remove course from courselist
+                return course.CourseCode != courseCode;
+            });
+
+            //Update View
+            $("#courseListTable tbody[data-course-code=" + courseCode + "]").remove();
+
+            //Update Agenda
+            generateAndShowSchedules();
+        }
+
+        function generateCourseHTML(course) {
+            var courseHtml = "<tbody data-course-code='{{CourseCode}}'><tr><td colspan='2'>{{CourseCode}} {{CourseName}} <a class='removeCourseBtn'><span class='icon is-small'><i class='icon-cancel'></i></span></a> </td></tr><td><table class='monitored_table'>"
+                .replaceAll("{{CourseCode}}", course.CourseCode)
+                .replace("{{CourseName}}", course.Title);
+
+            course.Sections.forEach(function (courseSection) {
+                //For Each Section Code (A, B, C)
+                var sectionCode = courseSection.SectionCode;
+                var sectionHtml = "<thead><tr><th>Section {{SectionCode}}</th></tr></thead>".replace("{{SectionCode}}", sectionCode);
+
+                //TODO Sort By LEC, DGD, ETC
+                courseSection.ActivityGroups.forEach(function (activityGroup) {
+                    sectionHtml += "<tbody>";
+                    activityGroup.Activities.forEach(function (activity) {
+                        sectionHtml += generateActivityHtml(activity, sectionCode);
+                    });
+                    sectionHtml += "</tbody>";
+                });
+
+                courseHtml += sectionHtml;
+            });
+
+            courseHtml += "</table></td></tbody>";
+            return courseHtml;
+        }
+
+        function generateActivityHtml(activity, sectionCode) {
+            var result = template_activity.replace("{{ActivityType}}", activity.ActivityType)
+                .replaceAll("{{Name}}", activity.Name)
+                .replace("{{Day}}", dayStrings[activity.Day])
+                .replace("{{StartHour}}", hourMinuteToString(activity.StartHour))
+                .replace("{{EndHour}}", hourMinuteToString(activity.EndHour))
+                .replace("{{Place}}", activity.Place)
+                .replace("{{Professor}}", activity.Professor)
+                .replace("{{SectionName}}", "section_" + sectionCode + activity.ActivityType);
+
+            return result;
+        }
+    </script>
+
+    <script>
+        var calendarSettings = {
+            header: false,
+            defaultView: 'agendaWeek',
+            allDaySlot: false,
+            editable: false,
+            eventRender: function (event, element, view) {
+                var title = element.find('.fc-title');
+                title.html(title.text());
+            }
+        };
+
+        var topGeneratedActivities = [];
+
+        $(function () {
+            $('#radioNumActivityComb input').on('change', function () {
+                var selectedIndex = parseInt($('#radioNumActivityComb input[name=scheduleIndex]:checked').val());
+                showActivityCombination(selectedIndex);
+            });
+            showNumSelectableActivities(0); //Disable all radio buttons
+
+            $("#calendar").fullCalendar(calendarSettings);
+            removeDateInDayHeader();
+        });
+
+        function removeDateInDayHeader() {//Could not find option to disable this in fullcalendar
+            $('.fc-day-header span').each(function (index, element) {
+                element.textContent = element.textContent.split(" ")[0]; //Converts "Mon 23" to Mon
+            });
+        }
+
+        var availableColors = generateColors(20); //For 20 courses, overkill but why not
+
+        function generateColors(total) {
+            var i = 360 / (total - 1); // distribute the colors evenly on the hue range
+            var r = []; // hold the generated colors
+            for (var x = 0; x < total; x++) {
+                r.push(HSVtoRGB(i * x, 100, 100)); // you can also alternate the saturation and value for even more contrast between the colors
+            }
+            return r;
+        }
+        /* accepts parameters
+         * h  Object = {h:x, s:y, v:z}
+         * OR
+         * h, s, v
+         */
+        function HSVtoRGB(h, s, v) {
+            var r, g, b, i, f, p, q, t;
+            if (arguments.length === 1) {
+                s = h.s, v = h.v, h = h.h;
+            }
+            i = Math.floor(h * 6);
+            f = h * 6 - i;
+            p = v * (1 - s);
+            q = v * (1 - f * s);
+            t = v * (1 - (1 - f) * s);
+            switch (i % 6) {
+                case 0:
+                    r = v, g = t, b = p;
+                    break;
+                case 1:
+                    r = q, g = v, b = p;
+                    break;
+                case 2:
+                    r = p, g = v, b = t;
+                    break;
+                case 3:
+                    r = p, g = q, b = v;
+                    break;
+                case 4:
+                    r = t, g = p, b = v;
+                    break;
+                case 5:
+                    r = v, g = p, b = q;
+                    break;
+            }
+            return {
+                r: Math.round(r * 255),
+                g: Math.round(g * 255),
+                b: Math.round(b * 255)
+            };
+        }
+        function getActivityColor() {
+            return 'red';
+        }
+
+        function pickTopGeneratedActivities(generatedActivitiesCombinations) {
+            if (generatedActivitiesCombinations.length < 5) {
+                return toArray(generatedActivitiesCombinations);
+            }
+
+            //TODO
+            //Pick top 5 activity comb
+            return generatedActivitiesCombinations.slice(0, 4);
+        }
+        function showNumSelectableActivities(activitiesLength) {
+            $('#radioNumActivityComb input[type="radio"]').each(function (index, radioBtn) {
+                $(radioBtn).prop("disabled", parseInt(radioBtn.value) >= activitiesLength);
+            });
+        }
+        function clearSelectedActivityIndex() {
+            $('#radioNumActivityComb input[name="scheduleIndex"]').prop('checked', false);
+        }
+        function generateAndShowSchedules() {
+            var generatedActivitiesComb = generateValidSchedulesFromCourses(courseList);
+            console.log("Generated %s activities", generatedActivitiesComb.length);
+
+            topGeneratedActivities = pickTopGeneratedActivities(generatedActivitiesComb);
+            showNumSelectableActivities(topGeneratedActivities.length);
+            clearSelectedActivityIndex();
+
+            if (topGeneratedActivities.length == 0) {
+                showError("No combination is possible. Remove 1 or more courses.")
+            }
+            else {
+                showActivityCombination(0);
+                clearError();
+            }
+        }
+        function showError(message) {
+            $('#errorMessage').html("&nbsp;" + message);
+            $('#errorMessage').show();
+        }
+        function clearError() {
+            $('#errorMessage').hide();
+        }
+
+        function showActivityCombination(index) {
+            var activities = toArray(topGeneratedActivities[index]);
+
+            var fullCalendarActivities = [];
+
+            activities.forEach(function (activity) {
+                fullCalendarActivities.push(convertActivityToFullCalendarFormat(activity));
+            });
+
+            //Change Selected Schedule #
+            clearSelectedActivityIndex();
+            $('#radioNumActivityComb input[name="scheduleIndex"][value="' + index + '"]').prop('checked', true);
+
+
+            $("#calendar").fullCalendar('removeEvents');
+            $("#calendar").fullCalendar('renderEvents', fullCalendarActivities);
+        }
+        function convertActivityToFullCalendarFormat(activity) {
+            var activityColor = getActivityColor(activity.ActivityType);
+            var eventDay = (activity.Day + 1) % 7; //Monday is index 0 in our data and fullCalendar wants Sunday to be index 0
+            var event = {
+                title: activity.Name + " (" + activity.ActivityType + ")" + "<br /><span class='eventPlace'>" + activity.Place + "</span><br /><span class='eventProf'>" + activity.Professor + "</span>",
+                color: activityColor,
+                start: hourMinuteToString(activity.StartHour),
+                end: hourMinuteToString(activity.EndHour),
+                dow: [eventDay],
+                allDay: false
+            }
+
+            return event;
+        }
+        function showLoading(isLoading) {
+            $('.sk-fading-circle').toggle(isLoading);
+        }
+    </script>
+    <script>
+        //DEBUG ONLY
+        var testAdd = ['ADM1100', 'ADM2772', 'ADM4754', 'CVG5124', 'CVG5162', 'DLS3510'];
+        testAdd.forEach(function (courseCode) {
+            getCourseAndAddIt(courseCode);
+        });
+    </script>
+</head>
+<body>
+
+<div class="columns">
+
+    <div class="column">
+        <div class="box">
+            <div id="radioNumActivityComb">
+                <input type="radio" name="scheduleIndex" value="0">
+                <input type="radio" name="scheduleIndex" value="1">
+                <input type="radio" name="scheduleIndex" value="2">
+                <input type="radio" name="scheduleIndex" value="3">
+                <input type="radio" name="scheduleIndex" value="4">
+            </div>
+            <div id="calendar"></div>
+        </div>
+    </div>
+
+    <div class="column">
+        <nav class="panel">
+            <p class="panel-heading">
+                Add To Schedule
+            </p>
+            <div class="panel-block">
+                <p class="control has-icons-left">
+                    <input id="courseSearch" class="input is-flat" type="text" placeholder="Search Course">
+                    <span class="icon is-small is-left">
+        <i class="fa fa-search"></i>
+      </span>
+                </p>
+            </div>
+
+
+        <span class="tag is-danger is-medium icon-attention" id="errorMessage" style="display: none"></span>
+        <!-- Where The User can pick his/her courses -->
+        <table id="courseListTable">
+            <tbody>
+            </tbody>
+        </table>
+        </nav>
+    </div>
+
+</div>
+
+</body>
+</html>

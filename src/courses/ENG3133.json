@@ -1,0 +1,57 @@
+{
+    "CourseCode": "ENG3133",
+    "Title": "Elizabethan Shakespeare",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=012163\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ENG3133 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "SMD 422",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ENG3133 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "SMD 428",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ENG3133 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "SMD 226",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

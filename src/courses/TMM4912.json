@@ -1,0 +1,37 @@
+{
+    "CourseCode": "TMM4912",
+    "Title": "Advanced Methods in Biomedical Research - Biochemistry and Biophysics",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=031692\u0026term=2179\u0026session=TR",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "TMM4912 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - October 20",
+                            "Day": 1,
+                            "StartHour": 1030,
+                            "EndHour": 1200,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "TMM4912 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - October 20",
+                            "Day": 1,
+                            "StartHour": 900,
+                            "EndHour": 1030,
+                            "Place": "DEP DEPT",
+                            "Professor": "Jean-François  Couture"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

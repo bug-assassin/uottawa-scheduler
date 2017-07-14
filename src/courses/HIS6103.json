@@ -1,0 +1,27 @@
+{
+    "CourseCode": "HIS6103",
+    "Title": "Seminar in American History I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=016138\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "HIS6103 A00 - US Foreign Policy in the 20th Century",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "DMS 9143",
+                            "Professor": "Galen  Perras"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

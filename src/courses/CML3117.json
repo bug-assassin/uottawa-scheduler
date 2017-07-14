@@ -1,0 +1,27 @@
+{
+    "CourseCode": "CML3117",
+    "Title": "International Law",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=004954\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "S",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML3117 SC00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "MNO C211",
+                            "Professor": "Delphine  Nakache"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

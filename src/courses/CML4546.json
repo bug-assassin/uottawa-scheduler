@@ -1,0 +1,37 @@
+{
+    "CourseCode": "CML4546",
+    "Title": "Études en Common Law et équité",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=005294\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "N",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML4546 N00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "FTX 147",
+                            "Professor": "Yan  Campagnolo"
+                        },
+                        {
+                            "Name": "CML4546 N00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "FTX 227",
+                            "Professor": "Yan  Campagnolo"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

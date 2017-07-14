@@ -1,0 +1,77 @@
+{
+    "CourseCode": "ELG3106",
+    "Title": "Electromagnetic Engineering",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=011238\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ELG3106 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "STE A0150",
+                            "Professor": "Henry Peter Schriemer"
+                        },
+                        {
+                            "Name": "ELG3106 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "STE A0150",
+                            "Professor": "Henry Peter Schriemer"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "ELG3106 A01",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "CBY B402",
+                            "Professor": "Henry Peter Schriemer"
+                        },
+                        {
+                            "Name": "ELG3106 A02",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "CBY B402",
+                            "Professor": "Henry Peter Schriemer"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "TUT",
+                    "Activities": [
+                        {
+                            "Name": "ELG3106 A03",
+                            "ActivityType": "TUT",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "STE A0150",
+                            "Professor": "Henry Peter Schriemer"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

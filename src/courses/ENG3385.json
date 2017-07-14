@@ -1,0 +1,37 @@
+{
+    "CourseCode": "ENG3385",
+    "Title": "Canadian Literature of the Confederation Period (1867-1912)",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=012250\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ENG3385 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "SMD 428",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ENG3385 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "SMD 428",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

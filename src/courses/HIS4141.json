@@ -1,0 +1,47 @@
+{
+    "CourseCode": "HIS4141",
+    "Title": "Seminar in Comparative History",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=015910\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "HIS4141 A00 - Euro Empires \u0026 Indig Dispossession",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "FTX 401",
+                            "Professor": "Daniel  Rück"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "HIS4141 B00 - Black Lives Matter",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "DMS 8143",
+                            "Professor": "Heather  Murray"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

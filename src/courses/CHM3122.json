@@ -1,0 +1,52 @@
+{
+    "CourseCode": "CHM3122",
+    "Title": "Applications of Spectroscopy in Chemistry",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=003943\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CHM3122 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "FSS 2005",
+                            "Professor": "William Walter  Ogilvie"
+                        },
+                        {
+                            "Name": "CHM3122 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "FSS 2005",
+                            "Professor": "William Walter  Ogilvie"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "CHM3122 001",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "MRT 218",
+                            "Professor": "William Walter  Ogilvie"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

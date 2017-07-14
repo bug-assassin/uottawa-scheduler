@@ -1,0 +1,27 @@
+{
+    "CourseCode": "SVS6501",
+    "Title": "Promotion de la santé et pratiques préventives en service social",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=030070\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "SVS6501 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "FSS 12003",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

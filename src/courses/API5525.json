@@ -1,0 +1,27 @@
+{
+    "CourseCode": "API5525",
+    "Title": "Politique macroéconomique",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=001802\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "API5525 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "FSS 6004",
+                            "Professor": "Patrick  Leblond"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "CourseCode": "ALG1100",
+    "Title": "Road Map to the Culture of the German-Speaking Countries",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=001028\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ALG1100 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MNT 204",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ALG1100 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MNT 204",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

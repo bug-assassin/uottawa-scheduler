@@ -1,0 +1,77 @@
+{
+    "CourseCode": "CHM2353",
+    "Title": "Descriptive Inorganic Chemistry",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=003905\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CHM2353 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "CBY B205",
+                            "Professor": "Deryn E. Fogg"
+                        },
+                        {
+                            "Name": "CHM2353 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "CBY B205",
+                            "Professor": "Deryn E. Fogg"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "CHM2353 003",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "CBY B205",
+                            "Professor": "Deryn E. Fogg"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "CHM2353 001",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1830,
+                            "EndHour": 2130,
+                            "Place": "MRN 301",
+                            "Professor": "Eva  Hemmer"
+                        },
+                        {
+                            "Name": "CHM2353 002",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1830,
+                            "EndHour": 2130,
+                            "Place": "MRN 301",
+                            "Professor": "Eva  Hemmer"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "CourseCode": "PHY4382",
+    "Title": "Introduction to Solid State Physics",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=026881\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PHY4382 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "TBT 0019",
+                            "Professor": "Ravi  Bhardwaj"
+                        },
+                        {
+                            "Name": "PHY4382 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "TBT 0019",
+                            "Professor": "Ravi  Bhardwaj"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "CourseCode": "BIO2137",
+    "Title": "Introduction to Plant Science: Biodiversity to Biotechnology",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=002719\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "BIO2137 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "STE H0104",
+                            "Professor": "Julian R. Starr"
+                        },
+                        {
+                            "Name": "BIO2137 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MHN 033",
+                            "Professor": "Julian R. Starr"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "BIO2137 A01",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "BSC 312",
+                            "Professor": "Julian R. Starr"
+                        },
+                        {
+                            "Name": "BIO2137 A02",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "BSC 312",
+                            "Professor": "Julian R. Starr"
+                        },
+                        {
+                            "Name": "BIO2137 A03",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "BSC 312",
+                            "Professor": "Julian R. Starr"
+                        },
+                        {
+                            "Name": "BIO2137 A04",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "BSC 312",
+                            "Professor": "Julian R. Starr"
+                        },
+                        {
+                            "Name": "BIO2137 A05",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "BSC 330",
+                            "Professor": "Julian R. Starr"
+                        },
+                        {
+                            "Name": "BIO2137 A06",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "BSC 330",
+                            "Professor": "Julian R. Starr"
+                        },
+                        {
+                            "Name": "BIO2137 A07",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "BSC 330",
+                            "Professor": "Julian R. Starr"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

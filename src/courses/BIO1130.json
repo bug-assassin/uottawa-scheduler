@@ -1,0 +1,422 @@
+{
+    "CourseCode": "BIO1130",
+    "Title": "Introduction to Organismal Biology",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=002659\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "BIO1130 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "MRN 150",
+                            "Professor": "François  Chapleau"
+                        },
+                        {
+                            "Name": "BIO1130 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "MRN 150",
+                            "Professor": "François  Chapleau"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "BIO1130 A01",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 312",
+                            "Professor": "François  Chapleau"
+                        },
+                        {
+                            "Name": "BIO1130 A02",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 312",
+                            "Professor": "François  Chapleau"
+                        },
+                        {
+                            "Name": "BIO1130 A03",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 312",
+                            "Professor": "François  Chapleau"
+                        },
+                        {
+                            "Name": "BIO1130 A04",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 312",
+                            "Professor": "François  Chapleau"
+                        },
+                        {
+                            "Name": "BIO1130 A05",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 312",
+                            "Professor": "François  Chapleau"
+                        },
+                        {
+                            "Name": "BIO1130 A06",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 330",
+                            "Professor": "François  Chapleau"
+                        },
+                        {
+                            "Name": "BIO1130 A07",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 330",
+                            "Professor": "Fabien  Avaron"
+                        },
+                        {
+                            "Name": "BIO1130 A08",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 330",
+                            "Professor": "François  Chapleau"
+                        },
+                        {
+                            "Name": "BIO1130 A09",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 330",
+                            "Professor": "François  Chapleau"
+                        },
+                        {
+                            "Name": "BIO1130 A10",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 330",
+                            "Professor": "François  Chapleau"
+                        },
+                        {
+                            "Name": "BIO1130 A11",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 310",
+                            "Professor": "François  Chapleau"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "BIO1130 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MRN 150",
+                            "Professor": "François  Chapleau"
+                        },
+                        {
+                            "Name": "BIO1130 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MRN 150",
+                            "Professor": "François  Chapleau"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "BIO1130 B01",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 312",
+                            "Professor": "François  Chapleau"
+                        },
+                        {
+                            "Name": "BIO1130 B02",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 312",
+                            "Professor": "François  Chapleau"
+                        },
+                        {
+                            "Name": "BIO1130 B03",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 312",
+                            "Professor": "François  Chapleau"
+                        },
+                        {
+                            "Name": "BIO1130 B04",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 312",
+                            "Professor": "François  Chapleau"
+                        },
+                        {
+                            "Name": "BIO1130 B05",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 312",
+                            "Professor": "François  Chapleau"
+                        },
+                        {
+                            "Name": "BIO1130 B06",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 330",
+                            "Professor": "François  Chapleau"
+                        },
+                        {
+                            "Name": "BIO1130 B07",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 330",
+                            "Professor": "Fabien  Avaron"
+                        },
+                        {
+                            "Name": "BIO1130 B08",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 330",
+                            "Professor": "François  Chapleau"
+                        },
+                        {
+                            "Name": "BIO1130 B09",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 330",
+                            "Professor": "François  Chapleau"
+                        },
+                        {
+                            "Name": "BIO1130 B10",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 330",
+                            "Professor": "François  Chapleau"
+                        },
+                        {
+                            "Name": "BIO1130 B11",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 310",
+                            "Professor": "François  Chapleau"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "BIO1130 C00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "MRN 150",
+                            "Professor": "François  Chapleau"
+                        },
+                        {
+                            "Name": "BIO1130 C00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "MRN 150",
+                            "Professor": "François  Chapleau,Charles  Benoît"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "BIO1130 C01",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 335",
+                            "Professor": "François  Chapleau"
+                        },
+                        {
+                            "Name": "BIO1130 C02",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 335",
+                            "Professor": "François  Chapleau"
+                        },
+                        {
+                            "Name": "BIO1130 C03",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 335",
+                            "Professor": "François  Chapleau"
+                        },
+                        {
+                            "Name": "BIO1130 C04",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 335",
+                            "Professor": "François  Chapleau"
+                        },
+                        {
+                            "Name": "BIO1130 C05",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 335",
+                            "Professor": "François  Chapleau"
+                        },
+                        {
+                            "Name": "BIO1130 C08",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 335",
+                            "Professor": "François  Chapleau"
+                        },
+                        {
+                            "Name": "BIO1130 C09",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 335",
+                            "Professor": "François  Chapleau"
+                        },
+                        {
+                            "Name": "BIO1130 C10",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 335",
+                            "Professor": "François  Chapleau"
+                        },
+                        {
+                            "Name": "BIO1130 C11",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 310",
+                            "Professor": "François  Chapleau"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

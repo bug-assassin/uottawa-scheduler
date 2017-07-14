@@ -1,0 +1,37 @@
+{
+    "CourseCode": "THE2122",
+    "Title": "Fundamental Techniques of Voice and Movement",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=030147\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "THE2122 A00",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "SMN 303",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "THE2122 A00",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "SMN 303",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

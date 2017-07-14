@@ -1,0 +1,67 @@
+{
+    "CourseCode": "ESL2122",
+    "Title": "Listening and Speaking Skills for Second Language Learners: Low Advanced",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=012918\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ESL2122 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "SMD 402",
+                            "Professor": "Carla M.  Schnitzler"
+                        },
+                        {
+                            "Name": "ESL2122 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "SMD 330",
+                            "Professor": "Carla M.  Schnitzler"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ESL2122 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "TBT 317",
+                            "Professor": "Carla M.  Schnitzler"
+                        },
+                        {
+                            "Name": "ESL2122 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "DMS 3105",
+                            "Professor": "Carla M.  Schnitzler"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

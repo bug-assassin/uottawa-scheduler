@@ -1,0 +1,72 @@
+{
+    "CourseCode": "CHG4116",
+    "Title": "Chemical Engineering Laboratory",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=003720\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CHG4116 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "SMD 224",
+                            "Professor": "Boguslaw  Kruczek"
+                        },
+                        {
+                            "Name": "CHG4116 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "SMD 224",
+                            "Professor": "Boguslaw  Kruczek"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "CHG4116 A01",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 900,
+                            "EndHour": 1300,
+                            "Place": "CBY D415",
+                            "Professor": "Boguslaw  Kruczek"
+                        },
+                        {
+                            "Name": "CHG4116 A02",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 900,
+                            "EndHour": 1300,
+                            "Place": "CBY D415",
+                            "Professor": "Boguslaw  Kruczek"
+                        },
+                        {
+                            "Name": "CHG4116 A03",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 900,
+                            "EndHour": 1300,
+                            "Place": "CBY D415",
+                            "Professor": "Boguslaw  Kruczek"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

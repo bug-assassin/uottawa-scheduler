@@ -1,0 +1,87 @@
+{
+    "CourseCode": "TRA4950",
+    "Title": "Special Topics",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=031834\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "J",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "TRA4950 J00 - English-Chinese Translation",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "K",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "TRA4950 K00 - Chinese-English-Chinese Interpretation",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "TRA4950 A00 - Computers and Translation",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "MHN 523",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "H",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "TRA4950 H00 - Chinese-English Translation",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "CourseCode": "BPS4527",
+    "Title": "Techniques avancées en biosciences",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=003367\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "BPS4527 000",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "BSC 231",
+                            "Professor": "Alp  Oran"
+                        },
+                        {
+                            "Name": "BPS4527 000",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "BSC 231",
+                            "Professor": "Alp  Oran"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

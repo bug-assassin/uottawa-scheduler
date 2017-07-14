@@ -1,0 +1,217 @@
+{
+    "CourseCode": "MED2601",
+    "Title": "Unité II",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=021298\u0026term=2179\u0026session=TR",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MED2601 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 05 - September 05",
+                            "Day": 1,
+                            "StartHour": 800,
+                            "EndHour": 1030,
+                            "Place": "RGN 2021",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED2601 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 07 - December 07",
+                            "Day": 3,
+                            "StartHour": 1030,
+                            "EndHour": 1230,
+                            "Place": "RGN 2021",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED2601 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 08 - December 01",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1230,
+                            "Place": "RGN 2021",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED2601 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 11 - September 11",
+                            "Day": 0,
+                            "StartHour": 800,
+                            "EndHour": 1030,
+                            "Place": "RGN 2021",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED2601 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 12 - October 03",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1230,
+                            "Place": "RGN 2021",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED2601 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 14 - November 30",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1030,
+                            "Place": "RGN 2021",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED2601 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 18 - October 02",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1030,
+                            "Place": "RGN 2021",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED2601 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "October 10 - October 24",
+                            "Day": 1,
+                            "StartHour": 800,
+                            "EndHour": 1030,
+                            "Place": "RGN 2021",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED2601 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "October 13 - October 13",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1030,
+                            "Place": "RGN 2022",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED2601 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "October 16 - October 16",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1030,
+                            "Place": "RGN 2021",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED2601 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "October 18 - October 18",
+                            "Day": 2,
+                            "StartHour": 800,
+                            "EndHour": 1230,
+                            "Place": "RGN 2021",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED2601 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "October 30 - October 30",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1030,
+                            "Place": "RGN 2021",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED2601 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "October 31 - November 28",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1230,
+                            "Place": "RGN 2021",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED2601 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "November 06 - November 06",
+                            "Day": 0,
+                            "StartHour": 800,
+                            "EndHour": 1030,
+                            "Place": "RGN 2021",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED2601 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "November 13 - November 20",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1030,
+                            "Place": "RGN 2021",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED2601 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "November 27 - November 27",
+                            "Day": 0,
+                            "StartHour": 800,
+                            "EndHour": 1030,
+                            "Place": "RGN 2021",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED2601 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "December 11 - December 11",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 930,
+                            "Place": "RGN 2021",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED2601 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "December 12 - December 12",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1030,
+                            "Place": "RGN 2021",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED2601 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "December 13 - December 13",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1030,
+                            "Place": "RGN 2021",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED2601 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "December 14 - December 14",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1030,
+                            "Place": "RGN 2021",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

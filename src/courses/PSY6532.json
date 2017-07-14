@@ -1,0 +1,27 @@
+{
+    "CourseCode": "PSY6532",
+    "Title": "Psychopathologie de l'enfant",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=028132\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PSY6532 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "VNR 2027",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

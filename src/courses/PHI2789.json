@@ -1,0 +1,37 @@
+{
+    "CourseCode": "PHI2789",
+    "Title": "Philosophie asiatique",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=026027\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PHI2789 A00 - Philosophie de l’Inde ancienne",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MRT 252",
+                            "Professor": "Catherine  Collobert"
+                        },
+                        {
+                            "Name": "PHI2789 A00 - Philosophie de l’Inde ancienne",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MRT 251",
+                            "Professor": "Catherine  Collobert"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

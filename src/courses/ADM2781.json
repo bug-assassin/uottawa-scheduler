@@ -1,0 +1,82 @@
+{
+    "CourseCode": "ADM2781",
+    "Title": "Habiletés de communication d'affaires",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=000061\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ADM2781 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 16 - September 16",
+                            "Day": 5,
+                            "StartHour": 900,
+                            "EndHour": 1600,
+                            "Place": "MHN 033",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "ADM2781 A01",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "WLD 104",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ADM2781 A02",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "WLD 105",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ADM2781 A03",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "WLD 104",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ADM2781 A04",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "WLD 104",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ADM2781 A05",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "WLD 104",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

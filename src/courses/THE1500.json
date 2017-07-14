@@ -1,0 +1,62 @@
+{
+    "CourseCode": "THE1500",
+    "Title": "Introduction à la pratique théâtrale : Les métiers de la scène",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=030137\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "THE1500 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "SMN 310",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "THE1500 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "SMN 310",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "THE1500 A01",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "SMN 311",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "THE1500 A02",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "SMN 311",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

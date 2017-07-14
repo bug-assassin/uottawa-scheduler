@@ -1,0 +1,72 @@
+{
+    "CourseCode": "CVG4148",
+    "Title": "Theory of Structures II",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=007109\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CVG4148 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "MRT 205",
+                            "Professor": "Beatriz  Martin-Perez"
+                        },
+                        {
+                            "Name": "CVG4148 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "MRT 205",
+                            "Professor": "Beatriz  Martin-Perez"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "CVG4148 A01",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 800,
+                            "EndHour": 1000,
+                            "Place": "STE 2060",
+                            "Professor": "Beatriz  Martin-Perez"
+                        },
+                        {
+                            "Name": "CVG4148 A02",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 800,
+                            "EndHour": 1000,
+                            "Place": "STE 0130",
+                            "Professor": "Beatriz  Martin-Perez"
+                        },
+                        {
+                            "Name": "CVG4148 A03",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 800,
+                            "EndHour": 1000,
+                            "Place": "STE 0131",
+                            "Professor": "Beatriz  Martin-Perez"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

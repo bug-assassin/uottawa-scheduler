@@ -1,0 +1,27 @@
+{
+    "CourseCode": "SVS6701",
+    "Title": "Modèles contemporains de pratiques dans le domaine famille-enfance",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=030085\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "SVS6701 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "FSS 12003",
+                            "Professor": "Jean-Martin  Deslauriers"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

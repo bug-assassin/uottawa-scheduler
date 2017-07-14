@@ -1,0 +1,87 @@
+{
+    "CourseCode": "CHM8302",
+    "Title": "Advanced Topics in Inorganic Chemistry",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=004210\u0026term=2179\u0026session=TR",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CHM8302 A00 - Molecular Magnetism I",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - October 20",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "DEP DEPT",
+                            "Professor": "Muralee  Murugesu"
+                        },
+                        {
+                            "Name": "CHM8302 A00 - Molecular Magnetism I",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - October 20",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "DEP DEPT",
+                            "Professor": "Muralee  Murugesu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CHM8302 B00 - Molecular Magnetism II",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "October 30 - December 06",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "DEP DEPT",
+                            "Professor": "Muralee  Murugesu"
+                        },
+                        {
+                            "Name": "CHM8302 B00 - Molecular Magnetism II",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "October 30 - December 06",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "DEP DEPT",
+                            "Professor": "Muralee  Murugesu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CHM8302 C00 - Porous Materials For Catalysis and Separation",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "October 30 - December 06",
+                            "Day": 2,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "MNT 103",
+                            "Professor": "Abdelhamid  Sayari"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "CourseCode": "CML4544",
+    "Title": "Procédure civile I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=005292\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "N",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML4544 N00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "FTX 302",
+                            "Professor": "Pierre J.  Champagne"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

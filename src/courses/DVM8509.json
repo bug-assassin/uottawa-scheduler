@@ -1,0 +1,27 @@
+{
+    "CourseCode": "DVM8509",
+    "Title": "Théories du développement international",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=009171\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "DVM8509 A00",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "VNR 2027",
+                            "Professor": "Lauchlan Thomas  Munro"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

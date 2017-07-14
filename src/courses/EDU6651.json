@@ -1,0 +1,47 @@
+{
+    "CourseCode": "EDU6651",
+    "Title": "Éducation à la citoyenneté",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=010896\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "EDU6651 C00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "LPR 284",
+                            "Professor": "Marie-Hélène  Brunet"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "H",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "EDU6651 HC00 - VirtualAudio-conference course",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "DEP DEPT",
+                            "Professor": "Marie-Hélène  Brunet"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

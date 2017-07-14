@@ -1,0 +1,297 @@
+{
+    "CourseCode": "HSS2381",
+    "Title": "Quantitative Methods in Health Sciences I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=016319\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "HSS2381 AP00 - CA Pembroke Algonquin College",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 900,
+                            "EndHour": 1000,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "HSS2381 AP00 - CA Pembroke Algonquin College",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1030,
+                            "EndHour": 1200,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "HSS2381 AW00 - CA Woodroffe Algonquin College",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1130,
+                            "EndHour": 1400,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "HSS2381 AP01 - CA Pembroke Algonquin College",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1100,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "HSS2381 AP02 - CA Pembroke Algonquin College",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1100,
+                            "EndHour": 1200,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "HSS2381 AW01 - CA Woodroffe Algonquin College",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1400,
+                            "EndHour": 1500,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "HSS2381 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1900,
+                            "EndHour": 2130,
+                            "Place": "CBY B205",
+                            "Professor": "Raywat S. Deonandan"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "HSS2381 B01",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 900,
+                            "EndHour": 1000,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "HSS2381 B02",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1100,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "HSS2381 B03",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1100,
+                            "EndHour": 1200,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "HSS2381 C00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1700,
+                            "Place": "LEE A130",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "HSS2381 C01",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 900,
+                            "EndHour": 1000,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "HSS2381 C02",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1000,
+                            "EndHour": 1100,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "HSS2381 C03",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1530,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "HSS2381 C04",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1530,
+                            "EndHour": 1630,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "HSS2381 C05",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1630,
+                            "EndHour": 1730,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "D",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "HSS2381 D00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1700,
+                            "EndHour": 1930,
+                            "Place": "RGN 2005",
+                            "Professor": "Pascal  Fallavollita"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "HSS2381 D01",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1330,
+                            "EndHour": 1430,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "HSS2381 D02",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1530,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "HSS2381 D03",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1530,
+                            "EndHour": 1630,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "HSS2381 D04",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1630,
+                            "EndHour": 1730,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "HSS2381 D05",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1730,
+                            "EndHour": 1830,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "HSS2381 D06",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1830,
+                            "EndHour": 1930,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

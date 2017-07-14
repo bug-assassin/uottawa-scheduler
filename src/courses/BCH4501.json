@@ -1,0 +1,37 @@
+{
+    "CourseCode": "BCH4501",
+    "Title": "Structure et fonction du génome humain",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=002535\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "BCH4501 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "MRN 130",
+                            "Professor": "Elaine  Beaulieu"
+                        },
+                        {
+                            "Name": "BCH4501 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "STE F0126",
+                            "Professor": "Elaine  Beaulieu"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

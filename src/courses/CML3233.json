@@ -1,0 +1,37 @@
+{
+    "CourseCode": "CML3233",
+    "Title": "Labour Law I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=005035\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML3233 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "FTX 135",
+                            "Professor": "Ravi A.  Malhotra"
+                        },
+                        {
+                            "Name": "CML3233 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "FTX 361",
+                            "Professor": "Ravi A.  Malhotra"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

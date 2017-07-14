@@ -1,0 +1,67 @@
+{
+    "CourseCode": "SEG3501",
+    "Title": "Ingénierie des exigences",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=028747\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "SEG3501 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "WLD 105",
+                            "Professor": "Daniel  Amyot"
+                        },
+                        {
+                            "Name": "SEG3501 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "WLD 104",
+                            "Professor": "Daniel  Amyot"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "SEG3501 A01",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "STE 2052",
+                            "Professor": "Daniel  Amyot"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "TUT",
+                    "Activities": [
+                        {
+                            "Name": "SEG3501 A02",
+                            "ActivityType": "TUT",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MNO C211",
+                            "Professor": "Daniel  Amyot"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

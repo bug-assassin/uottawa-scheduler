@@ -1,0 +1,52 @@
+{
+    "CourseCode": "BIO3310",
+    "Title": "Plant Systematics and Diversity",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=002815\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "BIO3310 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "CBY B202",
+                            "Professor": "Julian R. Starr"
+                        },
+                        {
+                            "Name": "BIO3310 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "CBY B202",
+                            "Professor": "Julian R. Starr"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "BIO3310 A01",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 310",
+                            "Professor": "Julian R. Starr"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "CourseCode": "HSS3101",
+    "Title": "Health Research: Quantitative and Qualitative Approaches",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=016336\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "HSS3101 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "TBT 070",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "HSS3101 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "TBT 070",
+                            "Professor": "Jason  Steffener"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "HSS3101 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "FSS 1006",
+                            "Professor": "Pascal  Fallavollita"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

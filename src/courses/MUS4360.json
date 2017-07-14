@@ -1,0 +1,37 @@
+{
+    "CourseCode": "MUS4360",
+    "Title": "Orchestral Conducting",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=022468\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MUS4360 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "PRZ 109",
+                            "Professor": "David L. Currie"
+                        },
+                        {
+                            "Name": "MUS4360 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "PRZ 109",
+                            "Professor": "David L. Currie"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

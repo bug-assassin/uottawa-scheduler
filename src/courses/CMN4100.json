@@ -1,0 +1,27 @@
+{
+    "CourseCode": "CMN4100",
+    "Title": "Special Issues (Media or Organizational)",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=005686\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "CMN4100 A00 - Social Media Analysis, Civic Good",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "MRT 252",
+                            "Professor": "Elizabeth  Dubois"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

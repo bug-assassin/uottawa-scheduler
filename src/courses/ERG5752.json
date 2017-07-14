@@ -1,0 +1,47 @@
+{
+    "CourseCode": "ERG5752",
+    "Title": "Méthodologie de la recherche et analyse des données de recherche en réadaptation I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=012829\u0026term=2179\u0026session=TR",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ERG5752 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 07 - November 30",
+                            "Day": 3,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "RGN 1009",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ERG5752 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 28 - September 28",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "RGN 1009",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ERG5752 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "November 30 - November 30",
+                            "Day": 3,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "RGN 2113",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

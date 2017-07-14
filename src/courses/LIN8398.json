@@ -1,0 +1,27 @@
+{
+    "CourseCode": "LIN8398",
+    "Title": "Doctoral Seminar",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=018833\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "LIN8398 A00",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "MHN 420",
+                            "Professor": "Éric  Mathieu"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "CourseCode": "PSY2116",
+    "Title": "Quantitative Methods in Psychology II",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=027624\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PSY2116 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "LMX 220",
+                            "Professor": "Yaroslav  Konar"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "TUT",
+                    "Activities": [
+                        {
+                            "Name": "PSY2116 B01",
+                            "ActivityType": "TUT",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "THN 124",
+                            "Professor": "Yaroslav  Konar"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

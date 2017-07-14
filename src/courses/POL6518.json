@@ -1,0 +1,27 @@
+{
+    "CourseCode": "POL6518",
+    "Title": "Séminaire en politique comparée",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=027472\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "POL6518 A00",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "FSS 12003",
+                            "Professor": "Marie-Christine  Doran"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

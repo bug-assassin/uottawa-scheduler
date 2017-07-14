@@ -1,0 +1,27 @@
+{
+    "CourseCode": "DRC4793",
+    "Title": "Pensée civiliste",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=008893\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DRC4793 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

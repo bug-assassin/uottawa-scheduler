@@ -1,0 +1,162 @@
+{
+    "CourseCode": "ADM2703",
+    "Title": "Les statistiques en gestion",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=000044\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ADM2703 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "FSS 1030",
+                            "Professor": "Sarah  Ben Amor"
+                        },
+                        {
+                            "Name": "ADM2703 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "DMS 1110",
+                            "Professor": "Sarah  Ben Amor"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "ADM2703 A01",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "SMD 222",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ADM2703 A02",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "WLD 108",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ADM2703 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "DMS 1130",
+                            "Professor": "Sarah  Ben Amor"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "ADM2703 B01",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "TBT 323",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ADM2703 B02",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "LMX 242",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ADM2703 C00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "DMS 1150",
+                            "Professor": "Sarah  Ben Amor"
+                        },
+                        {
+                            "Name": "ADM2703 C00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "DMS 1150",
+                            "Professor": "Sarah  Ben Amor"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "ADM2703 C01",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "TBT 325",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ADM2703 C02",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "TBT 0019",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

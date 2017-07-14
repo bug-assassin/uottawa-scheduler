@@ -1,0 +1,27 @@
+{
+    "CourseCode": "ART2935",
+    "Title": "Mise en scène: Lighting on Location and in the Studio",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=002044\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "ART2935 A00",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1230,
+                            "Place": "MRT 0022",
+                            "Professor": "Andrew E. Wright"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

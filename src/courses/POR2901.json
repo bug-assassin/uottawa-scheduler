@@ -1,0 +1,52 @@
+{
+    "CourseCode": "POR2901",
+    "Title": "Intermediate Portuguese I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=027587\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "POR2901 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "DMS 8143",
+                            "Professor": "José Pedro  Abreu Ferreira"
+                        },
+                        {
+                            "Name": "POR2901 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "DMS 8143",
+                            "Professor": "José Pedro  Abreu Ferreira"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "POR2901 A01",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 900,
+                            "EndHour": 1000,
+                            "Place": "TBT 309",
+                            "Professor": "José Pedro  Abreu Ferreira"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

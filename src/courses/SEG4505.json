@@ -1,0 +1,67 @@
+{
+    "CourseCode": "SEG4505",
+    "Title": "Gestion de projets en génie logiciel",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=028778\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "SEG4505 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "KED B004",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "SEG4505 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "KED B004",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "SEG4505 A01",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "STE 2052",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "TUT",
+                    "Activities": [
+                        {
+                            "Name": "SEG4505 A02",
+                            "ActivityType": "TUT",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "TBT 319",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

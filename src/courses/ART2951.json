@@ -1,0 +1,27 @@
+{
+    "CourseCode": "ART2951",
+    "Title": "Drawing I: Materiality and Process",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=002049\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "ART2951 A00",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1230,
+                            "Place": "LRR 320",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

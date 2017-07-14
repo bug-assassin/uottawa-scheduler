@@ -1,0 +1,37 @@
+{
+    "CourseCode": "MCG5111",
+    "Title": "Gas Dynamics",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=020918\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "F",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MCG5111 F00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "FTX 361",
+                            "Professor": "Matei I Radulescu"
+                        },
+                        {
+                            "Name": "MCG5111 F00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1100,
+                            "Place": "VNR 3075",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "CourseCode": "ORA5513",
+    "Title": "Anatomie et physiologie appliquées à l'orthophonie",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=023335\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ORA5513 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "RGN 2112",
+                            "Professor": "Carol  Léonard"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "CourseCode": "CML4508",
+    "Title": "Études en droit international",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=005275\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "CML4508 A00 - Droit maritime",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "FTX 136",
+                            "Professor": "Maria E. Katsivela"
+                        },
+                        {
+                            "Name": "CML4508 A00 - Droit maritime",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "FTX 413",
+                            "Professor": "Maria E. Katsivela"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "CML4508 B00 - Droit international humanitaire",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "FTX 136",
+                            "Professor": "Claude  Emanuelli"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "CML4508 C00 - Commerce international",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "FTX 416",
+                            "Professor": "Wolfgang  Alschner"
+                        },
+                        {
+                            "Name": "CML4508 C00 - Commerce international",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "FTX 359",
+                            "Professor": "Wolfgang  Alschner"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "F",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "CML4508 F00 - Droit international des investissements étrangers",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "FTX 135",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

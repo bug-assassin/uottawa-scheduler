@@ -1,0 +1,27 @@
+{
+    "CourseCode": "DLS4504",
+    "Title": "Curriculum et matériel pédagogique en didactique des langues secondes",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=008503\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DLS4504 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "MNT 103",
+                            "Professor": "Laura C.  Ambrosio"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

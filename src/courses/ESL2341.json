@@ -1,0 +1,37 @@
+{
+    "CourseCode": "ESL2341",
+    "Title": "Advanced Reading Skills for Second Language Learners",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=012936\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ESL2341 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "FSS 1005",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ESL2341 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "SMD 227",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

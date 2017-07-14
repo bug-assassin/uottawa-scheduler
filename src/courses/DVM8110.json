@@ -1,0 +1,27 @@
+{
+    "CourseCode": "DVM8110",
+    "Title": "Development Policy and Practice",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=009168\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "DVM8110 A00",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "VNR 3076",
+                            "Professor": "Gordon  Betcherman"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

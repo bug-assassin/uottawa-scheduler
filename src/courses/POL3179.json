@@ -1,0 +1,27 @@
+{
+    "CourseCode": "POL3179",
+    "Title": "International Organizations and Global Governance",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=039448\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "POL3179 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "MRN 021",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

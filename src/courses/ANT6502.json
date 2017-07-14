@@ -1,0 +1,27 @@
+{
+    "CourseCode": "ANT6502",
+    "Title": "Anthropologie sociale et culturelle : Enjeux fondamentaux",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=001407\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "ANT6502 A00",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "FSS 4013",
+                            "Professor": "Karine  Vanthuyne"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

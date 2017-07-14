@@ -1,0 +1,27 @@
+{
+    "CourseCode": "CRM3734",
+    "Title": "Recherche quantitative en criminologie",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=006132\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "TLB",
+                    "Activities": [
+                        {
+                            "Name": "CRM3734 A00",
+                            "ActivityType": "TLB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "VNR 2008",
+                            "Professor": "David  Joubert"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

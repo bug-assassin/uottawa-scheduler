@@ -1,0 +1,27 @@
+{
+    "CourseCode": "BIL5507",
+    "Title": "Planification et politique linguistiques au Canada",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=002631\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "BIL5507 A00 - Hybrid course",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1700,
+                            "EndHour": 2000,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

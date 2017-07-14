@@ -1,0 +1,67 @@
+{
+    "CourseCode": "ELG7100",
+    "Title": "Topics in Electromagnetics I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=011899\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ELG7100 A00 - Microwave Photonics",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "CBY B012",
+                            "Professor": "Jianping  Yao"
+                        },
+                        {
+                            "Name": "ELG7100 A00 - Microwave Photonics",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "CBY B012",
+                            "Professor": "Jianping  Yao"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "D",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ELG7100 D00 - Finite Elem. Methods for Electromagnetic Modeling",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "LPR 154",
+                            "Professor": "Derek Albert  Mcnamara"
+                        },
+                        {
+                            "Name": "ELG7100 D00 - Finite Elem. Methods for Electromagnetic Modeling",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "MRN 130",
+                            "Professor": "Derek Albert  Mcnamara"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

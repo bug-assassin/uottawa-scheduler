@@ -1,0 +1,47 @@
+{
+    "CourseCode": "TRA3524",
+    "Title": "Traduction générale de l'anglais vers le français (L1) III",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=031754\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "TRA3524 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "DMS 2175",
+                            "Professor": "Clara  Foz"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "TRA3524 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "SMD 039",
+                            "Professor": "Marc  Charron"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

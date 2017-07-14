@@ -1,0 +1,57 @@
+{
+    "CourseCode": "EDU5616",
+    "Title": "Principales problématiques en éducation",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=010650\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "W",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "EDU5616 WB00 - VirtualInternet course",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 12 - September 12",
+                            "Day": 1,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "Not available at this time.",
+                            "Professor": "Eliane  Dulude"
+                        },
+                        {
+                            "Name": "EDU5616 WB00 - VirtualInternet course",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "October 03 - October 03",
+                            "Day": 1,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "Not available at this time.",
+                            "Professor": "Eliane  Dulude"
+                        },
+                        {
+                            "Name": "EDU5616 WB00 - VirtualInternet course",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "October 31 - October 31",
+                            "Day": 1,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "Not available at this time.",
+                            "Professor": "Eliane  Dulude"
+                        },
+                        {
+                            "Name": "EDU5616 WB00 - VirtualInternet course",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "November 21 - November 21",
+                            "Day": 1,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "Not available at this time.",
+                            "Professor": "Eliane  Dulude"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

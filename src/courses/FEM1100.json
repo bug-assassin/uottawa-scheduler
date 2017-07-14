@@ -1,0 +1,37 @@
+{
+    "CourseCode": "FEM1100",
+    "Title": "Women, Gender, Feminism: An Introduction",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=013319\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "FEM1100 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "CBY C03",
+                            "Professor": "Gulzar R.  Charania"
+                        },
+                        {
+                            "Name": "FEM1100 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "CBY C03",
+                            "Professor": "Gulzar R.  Charania"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "CourseCode": "CHM8304",
+    "Title": "Advanced Topics in Organic Chemistry",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=004214\u0026term=2179\u0026session=TR",
+    "Sections": [
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CHM8304 C00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - October 20",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "LPR 154",
+                            "Professor": "Derek  Pratt"
+                        },
+                        {
+                            "Name": "CHM8304 C00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - October 20",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "LPR 154",
+                            "Professor": "Derek  Pratt"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

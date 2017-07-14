@@ -1,0 +1,47 @@
+{
+    "CourseCode": "DRC4731",
+    "Title": "Thèmes choisis en droit",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=008851\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DRC4731 A00 - Les droits linguistiques au Canada",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "FTX 413",
+                            "Professor": "Darius Junior  Bossé,Mark Clifford  Power"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DRC4731 C00 - Cyberdroit",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "FTX 135",
+                            "Professor": "Karen  Eltis"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "CourseCode": "POL9618",
+    "Title": "Théories et problèmes en politique comparée",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=027562\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "POL9618 A00",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "DEP DEPT",
+                            "Professor": "Marie-Christine  Doran"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

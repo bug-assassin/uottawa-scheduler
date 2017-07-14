@@ -1,0 +1,57 @@
+{
+    "CourseCode": "CML2312",
+    "Title": "Administrative Law",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=004902\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML2312 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "FTX 302",
+                            "Professor": "Craig Stephen  Forcese"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML2312 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "FTX 147B",
+                            "Professor": "Graham  Mayeda"
+                        },
+                        {
+                            "Name": "CML2312 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "FTX 147B",
+                            "Professor": "Graham  Mayeda"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "CourseCode": "BIO3176",
+    "Title": "Animal Behaviour",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=002807\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "BIO3176 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "VNR 3035",
+                            "Professor": "Adam Oliver Brown"
+                        },
+                        {
+                            "Name": "BIO3176 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "VNR 3035",
+                            "Professor": "Adam Oliver Brown"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "BIO3176 A01",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1000,
+                            "EndHour": 1100,
+                            "Place": "LPR 154",
+                            "Professor": "Adam Oliver Brown"
+                        },
+                        {
+                            "Name": "BIO3176 A02",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1230,
+                            "Place": "HGN 305",
+                            "Professor": "Adam Oliver Brown"
+                        },
+                        {
+                            "Name": "BIO3176 A04",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1400,
+                            "Place": "GSD 307",
+                            "Professor": "Adam Oliver Brown"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "CourseCode": "NSG3723",
+    "Title": "Stage clinique en santé communautaire",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=022972\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "STG",
+                    "Activities": [
+                        {
+                            "Name": "NSG3723 A00",
+                            "ActivityType": "STG",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 730,
+                            "EndHour": 2200,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "NSG3723 A00",
+                            "ActivityType": "STG",
+                            "StartEndDates": "September 07 - September 07",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "RGN 2005",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "NSG3723 A00",
+                            "ActivityType": "STG",
+                            "StartEndDates": "September 20 - September 20",
+                            "Day": 2,
+                            "StartHour": 1700,
+                            "EndHour": 2000,
+                            "Place": "RGN 2005",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "NSG3723 A00",
+                            "ActivityType": "STG",
+                            "StartEndDates": "October 18 - October 18",
+                            "Day": 2,
+                            "StartHour": 1700,
+                            "EndHour": 2000,
+                            "Place": "RGN 2005",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "NSG3723 A00",
+                            "ActivityType": "STG",
+                            "StartEndDates": "November 30 - November 30",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1700,
+                            "Place": "RGN 3248",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "NSG3723 A00",
+                            "ActivityType": "STG",
+                            "StartEndDates": "November 30 - November 30",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1700,
+                            "Place": "RGN 2005",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

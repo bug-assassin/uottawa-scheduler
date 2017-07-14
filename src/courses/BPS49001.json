@@ -1,0 +1,67 @@
+{
+    "CourseCode": "BPS49001",
+    "Title": "Seminar (Part 1 of 2)",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=051488\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "D",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "BPS49001 D00 - Génomique/Genomics (Part 1 of 2)",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "STE J0106",
+                            "Professor": "Danielle  Carrier"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "BPS49001 B00 - Medicinal Chemistry (Part 1 of 2)",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "STE J0106",
+                            "Professor": "Fabien  Gagosz"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "BPS49001 C00 - Genomics (Part 1 of 2)",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "STE J0106",
+                            "Professor": "Christopher N. Boddy"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

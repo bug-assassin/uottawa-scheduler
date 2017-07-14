@@ -1,0 +1,27 @@
+{
+    "CourseCode": "CVG5366",
+    "Title": "Master's Seminar in Civil Engineering",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=007324\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "F",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "CVG5366 F00",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "LEE A130",
+                            "Professor": "Ahmad  Jrade"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

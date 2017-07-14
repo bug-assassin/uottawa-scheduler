@@ -1,0 +1,77 @@
+{
+    "CourseCode": "MHA6230",
+    "Title": "Human Resource Management in Health Care",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=021393\u0026term=2179\u0026session=B",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MHA6230 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 13 - September 13",
+                            "Day": 2,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "DMS 4130",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MHA6230 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 27 - September 27",
+                            "Day": 2,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "DMS 4130",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MHA6230 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "October 11 - October 11",
+                            "Day": 2,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "DMS 4130",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MHA6230 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "October 25 - October 25",
+                            "Day": 2,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "DMS 4130",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MHA6230 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "November 08 - November 08",
+                            "Day": 2,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "DMS 4130",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MHA6230 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "November 22 - November 22",
+                            "Day": 2,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "DMS 4130",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "CourseCode": "BIO3537",
+    "Title": "Expériences en physiologie animale",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=002840\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "BIO3537 A00",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1900,
+                            "Place": "BSC 112",
+                            "Professor": "Colin  Montpetit,Vance  Trudeau"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "CourseCode": "MBA6262",
+    "Title": "Entrepreneurship",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=020675\u0026term=2179\u0026session=E",
+    "Sections": [
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MBA6262 C00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 05 - September 05",
+                            "Day": 1,
+                            "StartHour": 1600,
+                            "EndHour": 1900,
+                            "Place": "DMS 4140",
+                            "Professor": "Stephen  Daze"
+                        },
+                        {
+                            "Name": "MBA6262 C00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 11 - September 11",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "DMS 4140",
+                            "Professor": "Stephen  Daze"
+                        },
+                        {
+                            "Name": "MBA6262 C00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 12 - September 12",
+                            "Day": 1,
+                            "StartHour": 1600,
+                            "EndHour": 1900,
+                            "Place": "DMS 4140",
+                            "Professor": "Stephen  Daze"
+                        },
+                        {
+                            "Name": "MBA6262 C00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 18 - October 02",
+                            "Day": 0,
+                            "StartHour": 1600,
+                            "EndHour": 1900,
+                            "Place": "DMS 4140",
+                            "Professor": "Stephen  Daze"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

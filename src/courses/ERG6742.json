@@ -1,0 +1,137 @@
+{
+    "CourseCode": "ERG6742",
+    "Title": "Intervention de l'ergothérapeute auprès des adultes (santé physique)",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=012839\u0026term=2179\u0026session=TR",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ERG6742 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "August 31 - August 31",
+                            "Day": 3,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "RGN 2055",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ERG6742 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "August 31 - August 31",
+                            "Day": 3,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "RGN 2054",
+                            "Professor": "Jacinthe  Savard,Lindsay  Noël,Caroline  Borris"
+                        },
+                        {
+                            "Name": "ERG6742 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 07 - October 05",
+                            "Day": 0,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "RGN 2055",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ERG6742 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 07 - October 05",
+                            "Day": 3,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "RGN 2055",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ERG6742 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 11 - October 05",
+                            "Day": 0,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "RGN 2054",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ERG6742 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 11 - October 05",
+                            "Day": 3,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "RGN 2054",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ERG6742 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "October 16 - October 19",
+                            "Day": 0,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "RGN 2055",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ERG6742 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "October 16 - October 19",
+                            "Day": 3,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "RGN 2055",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ERG6742 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "October 16 - October 19",
+                            "Day": 0,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "RGN 2054",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ERG6742 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "October 16 - October 19",
+                            "Day": 3,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "RGN 2054",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ERG6742 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "October 23 - October 23",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1300,
+                            "Place": "RGN 2055",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ERG6742 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "October 23 - October 23",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1300,
+                            "Place": "RGN 2054",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "CourseCode": "CRM3308",
+    "Title": "Prevention and Criminology",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=006072\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CRM3308 CJ00 - CA CornwallVideo-conference course",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "DEP DEPT",
+                            "Professor": "Kate Elizabeth  Fletcher"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "H",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CRM3308 HC00 - CanadaVideo-conference course",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "DEP DEPT",
+                            "Professor": "Kate Elizabeth  Fletcher"
+                        },
+                        {
+                            "Name": "CRM3308 HJ00 - CA HawkesburyVideo-conference course",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "DEP DEPT",
+                            "Professor": "Kate Elizabeth  Fletcher"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "P",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CRM3308 PJ00 - CAOTTAWUOCVideo-conference course",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "DEP DEPT",
+                            "Professor": "Kate Elizabeth  Fletcher"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CRM3308 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "LPR 155",
+                            "Professor": "Kate Elizabeth  Fletcher"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

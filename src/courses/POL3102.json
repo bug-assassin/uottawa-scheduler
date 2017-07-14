@@ -1,0 +1,57 @@
+{
+    "CourseCode": "POL3102",
+    "Title": "Modern Political Thought II",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=027205\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "POL3102 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "FSS 1006",
+                            "Professor": "Robert  Sparling"
+                        },
+                        {
+                            "Name": "POL3102 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "FSS 1006",
+                            "Professor": "Robert  Sparling"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "POL3102 C00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "FSS 1030",
+                            "Professor": "Robert  Sparling"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

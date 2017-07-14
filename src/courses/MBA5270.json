@@ -1,0 +1,27 @@
+{
+    "CourseCode": "MBA5270",
+    "Title": "Knowledge and Information Management",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=020613\u0026term=2179\u0026session=E",
+    "Sections": [
+        {
+            "SectionCode": "E",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MBA5270 E00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - October 15",
+                            "Day": 3,
+                            "StartHour": 1600,
+                            "EndHour": 1900,
+                            "Place": "TBT 0021",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

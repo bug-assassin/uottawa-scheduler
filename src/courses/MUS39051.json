@@ -1,0 +1,37 @@
+{
+    "CourseCode": "MUS39051",
+    "Title": "Calixa-Lavallée Choir (Part 1 of 2)",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=051444\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "MUS39051 A00",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1600,
+                            "EndHour": 1800,
+                            "Place": "PRZ 113",
+                            "Professor": "Laurence J.  Ewashko"
+                        },
+                        {
+                            "Name": "MUS39051 A00",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 930,
+                            "EndHour": 1130,
+                            "Place": "PRZ 113",
+                            "Professor": "Laurence J.  Ewashko"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

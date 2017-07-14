@@ -1,0 +1,27 @@
+{
+    "CourseCode": "CML3112",
+    "Title": "Theory and Practice of Social Justice Law",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=004952\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "CML3112 A00",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "FTX 235",
+                            "Professor": "Rakhi  Ruparelia"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

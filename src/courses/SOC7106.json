@@ -1,0 +1,27 @@
+{
+    "CourseCode": "SOC7106",
+    "Title": "The Life course and Generations",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=029379\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "SOC7106 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "FSS 5023",
+                            "Professor": "Willow  Scobie"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

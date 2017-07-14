@@ -1,0 +1,27 @@
+{
+    "CourseCode": "CML2320",
+    "Title": "Mediation Theory and Practice",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=004909\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "CML2320 000",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "FTX 402",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

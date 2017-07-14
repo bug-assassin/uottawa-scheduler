@@ -1,0 +1,37 @@
+{
+    "CourseCode": "EDU5190",
+    "Title": "Introduction to Research in Education",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=010441\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "F",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "EDU5190 F00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "LMX 445",
+                            "Professor": "Awad  Ibrahim"
+                        },
+                        {
+                            "Name": "EDU5190 F100 - Hybrid course",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "LEE C204",
+                            "Professor": "Christine  Tippett"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "CourseCode": "HIS2764",
+    "Title": "Le Canada contemporain",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=015668\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "HIS2764 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "SMD 226",
+                            "Professor": "Michel Guy  Bock"
+                        },
+                        {
+                            "Name": "HIS2764 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "LMX 220",
+                            "Professor": "Michel Guy  Bock"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

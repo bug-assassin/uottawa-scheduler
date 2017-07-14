@@ -1,0 +1,27 @@
+{
+    "CourseCode": "CML3160",
+    "Title": "Advanced Criminal Procedure",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=004992\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML3160 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "FTX 359",
+                            "Professor": "Michael  Davies"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

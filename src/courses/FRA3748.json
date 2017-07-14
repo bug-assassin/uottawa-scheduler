@@ -1,0 +1,37 @@
+{
+    "CourseCode": "FRA3748",
+    "Title": "Écriture et persuasion",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=013735\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "FRA3748 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "FSS 4012",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "FRA3748 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "SMD 422",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

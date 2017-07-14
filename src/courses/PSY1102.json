@@ -1,0 +1,87 @@
+{
+    "CourseCode": "PSY1102",
+    "Title": "Introduction to Psychology: Applications",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=027602\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PSY1102 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MNT 202",
+                            "Professor": "Najwa  Haddad"
+                        },
+                        {
+                            "Name": "PSY1102 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MNT 202",
+                            "Professor": "Najwa  Haddad"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PSY1102 C00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MNT 202",
+                            "Professor": "Najwa  Haddad"
+                        },
+                        {
+                            "Name": "PSY1102 C00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MNT 202",
+                            "Professor": "Najwa  Haddad"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "D",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PSY1102 D00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "MNT 202",
+                            "Professor": "Christine-Shawn  Boisvert"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

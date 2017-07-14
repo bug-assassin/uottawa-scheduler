@@ -1,0 +1,27 @@
+{
+    "CourseCode": "DCL6736",
+    "Title": "Droit international humanitaire",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=008208\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DCL6736 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "FTX 136",
+                            "Professor": "Claude  Emanuelli"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

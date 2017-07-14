@@ -1,0 +1,27 @@
+{
+    "CourseCode": "EBC6260",
+    "Title": "Integrated Networks for the Enterprise",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=009221\u0026term=2179\u0026session=E",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "EBC6260 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - October 15",
+                            "Day": 2,
+                            "StartHour": 1600,
+                            "EndHour": 1900,
+                            "Place": "MRT 015",
+                            "Professor": "Nancy A.  Samaan"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

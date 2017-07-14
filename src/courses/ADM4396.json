@@ -1,0 +1,127 @@
+{
+    "CourseCode": "ADM4396",
+    "Title": "Seminar in Administration",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=000225\u0026term=2179\u0026session=TR",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "ADM4396 A00 - Selected issues in Global Marketing",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "October 23 - October 27",
+                            "Day": 0,
+                            "StartHour": 900,
+                            "EndHour": 1600,
+                            "Place": "DMS 1110",
+                            "Professor": "Jean-Émile  Denis"
+                        },
+                        {
+                            "Name": "ADM4396 A00 - Selected issues in Global Marketing",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "October 23 - October 27",
+                            "Day": 1,
+                            "StartHour": 900,
+                            "EndHour": 1600,
+                            "Place": "DMS 1110",
+                            "Professor": "Jean-Émile  Denis"
+                        },
+                        {
+                            "Name": "ADM4396 A00 - Selected issues in Global Marketing",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "October 23 - October 27",
+                            "Day": 2,
+                            "StartHour": 900,
+                            "EndHour": 1600,
+                            "Place": "DMS 1110",
+                            "Professor": "Jean-Émile  Denis"
+                        },
+                        {
+                            "Name": "ADM4396 A00 - Selected issues in Global Marketing",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "October 23 - October 27",
+                            "Day": 3,
+                            "StartHour": 900,
+                            "EndHour": 1600,
+                            "Place": "DMS 1110",
+                            "Professor": "Jean-Émile  Denis"
+                        },
+                        {
+                            "Name": "ADM4396 A00 - Selected issues in Global Marketing",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "October 23 - October 27",
+                            "Day": 4,
+                            "StartHour": 900,
+                            "EndHour": 1600,
+                            "Place": "DMS 1110",
+                            "Professor": "Jean-Émile  Denis"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "ADM4396 B00 - Global Strategy",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "October 23 - October 27",
+                            "Day": 0,
+                            "StartHour": 900,
+                            "EndHour": 1600,
+                            "Place": "DMS 4170",
+                            "Professor": "Nicolas  Kfuri"
+                        },
+                        {
+                            "Name": "ADM4396 B00 - Global Strategy",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "October 23 - October 27",
+                            "Day": 1,
+                            "StartHour": 900,
+                            "EndHour": 1600,
+                            "Place": "DMS 4170",
+                            "Professor": "Nicolas  Kfuri"
+                        },
+                        {
+                            "Name": "ADM4396 B00 - Global Strategy",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "October 23 - October 27",
+                            "Day": 2,
+                            "StartHour": 900,
+                            "EndHour": 1600,
+                            "Place": "DMS 4170",
+                            "Professor": "Nicolas  Kfuri"
+                        },
+                        {
+                            "Name": "ADM4396 B00 - Global Strategy",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "October 23 - October 27",
+                            "Day": 3,
+                            "StartHour": 900,
+                            "EndHour": 1600,
+                            "Place": "DMS 4170",
+                            "Professor": "Nicolas  Kfuri"
+                        },
+                        {
+                            "Name": "ADM4396 B00 - Global Strategy",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "October 23 - October 27",
+                            "Day": 4,
+                            "StartHour": 900,
+                            "EndHour": 1600,
+                            "Place": "DMS 4170",
+                            "Professor": "Nicolas  Kfuri"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

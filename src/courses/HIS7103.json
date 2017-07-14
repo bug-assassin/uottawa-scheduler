@@ -1,0 +1,27 @@
+{
+    "CourseCode": "HIS7103",
+    "Title": "Seminar in European History I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=016161\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "HIS7103 A00 - Cosmopolitan Europe in the Era of Globalization",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "DMS 9143",
+                            "Professor": "Eda  Kranakis"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
