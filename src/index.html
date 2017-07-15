@@ -29,6 +29,13 @@
 
         .monitored_table {
             margin-left: 0.5rem;
+            table-layout:fixed;
+        }
+        #courseListTable .courseTitle {
+            border: 1px solid #dbdbdb;
+            border-width: 0 0 1px;
+            padding: .5em .75em;
+            vertical-align: top;
         }
     </style>
     <script
@@ -61,13 +68,16 @@
         .eventPlace, .eventProf {
             font-size: 0.9em;
         }
+        .table-spacer {
+            height: 1rem;
+        }
     </style>
     <!-- <script
             src="https://code.jquery.com/jquery-3.2.1.min.js"
             integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
             crossorigin="anonymous"></script> -->
     <script>
-        var dayStrings = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"];
+        var dayStrings = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
 
         var template_activity = `
             <tr>
@@ -129,7 +139,7 @@
             });
 
             new Awesomplete($('#courseSearch')[0], {
-                list: courseTitles
+                list: coursesTitle
             });
 
             document.getElementById("courseSearch").addEventListener('awesomplete-selectcomplete', function (e) {
@@ -173,7 +183,7 @@
         }
 
         function generateCourseHTML(course) {
-            var courseHtml = "<tbody data-course-code='{{CourseCode}}'><tr><td colspan='2'>{{CourseCode}} {{CourseName}} <a class='removeCourseBtn'><span class='icon is-small'><i class='icon-cancel'></i></span></a> </td></tr><td><table class='monitored_table'>"
+            var courseHtml = "<tbody data-course-code='{{CourseCode}}'><tr><th class='courseTitle' colspan='2'>{{CourseCode}} {{CourseName}} <a class='removeCourseBtn'><span class='icon is-small'><i class='icon-cancel'></i></span></a> </th></tr><td><table class='monitored_table table'>"
                 .replaceAll("{{CourseCode}}", course.CourseCode)
                 .replace("{{CourseName}}", course.Title);
 
@@ -194,7 +204,10 @@
                 courseHtml += sectionHtml;
             });
 
-            courseHtml += "</table></td></tbody>";
+            courseHtml += "</table></td>";
+            courseHtml += "<tr class='table-spacer'></tr>";
+            courseHtml += "</tbody>";
+
             return courseHtml;
         }
 
@@ -316,6 +329,11 @@
             $('#radioNumActivityComb input[name="scheduleIndex"]').prop('checked', false);
         }
         function generateAndShowSchedules() {
+            if(courseList.length == 0) {
+                clearError();
+                return
+            }
+
             var generatedActivitiesComb = generateValidSchedulesFromCourses(courseList);
             console.log("Generated %s activities", generatedActivitiesComb.length);
 
@@ -384,46 +402,48 @@
 </head>
 <body>
 
-<div class="columns">
+<section class="section">
+    <div class="container" id="schedule">
+        <div id="calendar"></div>
 
-    <div class="column">
-        <div class="box">
-            <div id="radioNumActivityComb">
-                <input type="radio" name="scheduleIndex" value="0">
-                <input type="radio" name="scheduleIndex" value="1">
-                <input type="radio" name="scheduleIndex" value="2">
-                <input type="radio" name="scheduleIndex" value="3">
-                <input type="radio" name="scheduleIndex" value="4">
-            </div>
-            <div id="calendar"></div>
+        <p>Schedule Option: </p>
+        <div id="radioNumActivityComb">
+            <input type="radio" name="scheduleIndex" value="0">
+            <input type="radio" name="scheduleIndex" value="1">
+            <input type="radio" name="scheduleIndex" value="2">
+            <input type="radio" name="scheduleIndex" value="3">
+            <input type="radio" name="scheduleIndex" value="4">
         </div>
     </div>
+</section>
 
-    <div class="column">
+<section class="section">
+    <div class="container">
+
         <nav class="panel">
             <p class="panel-heading">
-                Add To Schedule
+                Add To <a href="#schedule">Schedule</a>
             </p>
             <div class="panel-block">
                 <p class="control has-icons-left">
                     <input id="courseSearch" class="input is-flat" type="text" placeholder="Search Course">
                     <span class="icon is-small is-left">
-        <i class="fa fa-search"></i>
-      </span>
+                        <i class="fa fa-search"></i>
+                    </span>
                 </p>
             </div>
 
-
-        <span class="tag is-danger is-medium icon-attention" id="errorMessage" style="display: none"></span>
-        <!-- Where The User can pick his/her courses -->
-        <table id="courseListTable">
-            <tbody>
-            </tbody>
-        </table>
+            <div class="panel-block" style="border-bottom: none; border-top: none;">
+                <span class="tag is-danger is-medium icon-attention" id="errorMessage" style="display: none"></span>
+            </div>
+            <div class="panel-block">
+                <!-- Where The User can pick his/her courses -->
+                <table id="courseListTable"></table>
+            </div>
         </nav>
-    </div>
 
-</div>
+    </div>
+</section>
 
 </body>
 </html>
