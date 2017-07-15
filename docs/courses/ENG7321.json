@@ -1,0 +1,27 @@
+{
+    "CourseCode": "ENG7321",
+    "Title": "Canadian Literature II",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=012450\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "ENG7321 A00 - Object Oriented Ontology",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "MHN 350",
+                            "Professor": "Irene Rima Makaryk"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "CourseCode": "CML4113",
+    "Title": "Selected Problems in Legal Practice",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=005229\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "CML4113 A00 - Legal Writing and Social Justice",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1800,
+                            "EndHour": 2100,
+                            "Place": "FTX 401",
+                            "Professor": "Virginia  McRae"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "CML4113 B00 - Legal Writing Academy",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1800,
+                            "EndHour": 2100,
+                            "Place": "FTX 413",
+                            "Professor": "Virginia  McRae"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "CourseCode": "ENG4148",
+    "Title": "Renaissance: Seminar",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=012276\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "ENG4148 A00 - Debating Women in Early Modern England",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "MHN 318",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ENG4148 A00 - Debating Women in Early Modern England",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "MHN 318",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "CourseCode": "ECO2542",
+    "Title": "Théorie macroéconomique I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=009334\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ECO2542 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "VNR 2095",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ECO2542 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "VNR 2095",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

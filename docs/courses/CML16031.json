@@ -1,0 +1,37 @@
+{
+    "CourseCode": "CML16031",
+    "Title": "Droit pénal et procédure (Partie 1 de 2)",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=051375\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML16031 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "FTX 147",
+                            "Professor": "Pacifique  Manirakiza"
+                        },
+                        {
+                            "Name": "CML16031 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "FTX 147A",
+                            "Professor": "Pacifique  Manirakiza"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

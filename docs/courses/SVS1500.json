@@ -1,0 +1,37 @@
+{
+    "CourseCode": "SVS1500",
+    "Title": "Introduction au service social",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=030002\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "SVS1500 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MRT 205",
+                            "Professor": "Lorie Hazel  Laroche"
+                        },
+                        {
+                            "Name": "SVS1500 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MRT 205",
+                            "Professor": "Lorie Hazel  Laroche"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

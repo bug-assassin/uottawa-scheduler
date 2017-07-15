@@ -1,0 +1,67 @@
+{
+    "CourseCode": "CRM2301",
+    "Title": "Positivist Theories in Criminology",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=006028\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CRM2301 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "MHN 257",
+                            "Professor": "Christine L.M.  Gervais"
+                        },
+                        {
+                            "Name": "CRM2301 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "MHN 257",
+                            "Professor": "Christine L.M.  Gervais"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CRM2301 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "HGN 302",
+                            "Professor": "Christine L.M.  Gervais"
+                        },
+                        {
+                            "Name": "CRM2301 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "HGN 302",
+                            "Professor": "Christine L.M.  Gervais"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

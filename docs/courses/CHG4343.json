@@ -1,0 +1,52 @@
+{
+    "CourseCode": "CHG4343",
+    "Title": "Computer-Aided Design in Chemical Engineering",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=003751\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CHG4343 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "SMD 224",
+                            "Professor": "David G. Taylor"
+                        },
+                        {
+                            "Name": "CHG4343 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "FTX 147",
+                            "Professor": "David G. Taylor"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "CHG4343 A01",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "CBY B205",
+                            "Professor": "David G. Taylor"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

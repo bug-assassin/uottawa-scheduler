@@ -1,0 +1,27 @@
+{
+    "CourseCode": "ENG6341",
+    "Title": "Shakespeare I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=012377\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "ENG6341 A00",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1600,
+                            "EndHour": 1900,
+                            "Place": "MHN 318",
+                            "Professor": "Bernhard  Radloff"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

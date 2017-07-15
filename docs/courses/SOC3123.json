@@ -1,0 +1,37 @@
+{
+    "CourseCode": "SOC3123",
+    "Title": "Sociological Perspectives on Determinants of Health",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=029212\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "SOC3123 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "VNR 1095",
+                            "Professor": "Loes  Knaapen"
+                        },
+                        {
+                            "Name": "SOC3123 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "VNR 2095",
+                            "Professor": "Loes  Knaapen"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

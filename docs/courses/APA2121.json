@@ -1,0 +1,27 @@
+{
+    "CourseCode": "APA2121",
+    "Title": "Nutrition and Health",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=001452\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "APA2121 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "MHN 257",
+                            "Professor": "Carla  Geurts"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

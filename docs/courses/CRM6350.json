@@ -1,0 +1,27 @@
+{
+    "CourseCode": "CRM6350",
+    "Title": "Contemporary Criminological Theories",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=006314\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "CRM6350 A00",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "FSS 4013",
+                            "Professor": "Michael  Kempa"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

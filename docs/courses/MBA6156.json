@@ -1,0 +1,77 @@
+{
+    "CourseCode": "MBA6156",
+    "Title": "Performance Management: Business Process Modelling",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=042785\u0026term=2179\u0026session=A",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MBA6156 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "November 11 - November 12",
+                            "Day": 5,
+                            "StartHour": 1445,
+                            "EndHour": 1700,
+                            "Place": "DMS 4120",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MBA6156 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "November 11 - November 12",
+                            "Day": 6,
+                            "StartHour": 1445,
+                            "EndHour": 1700,
+                            "Place": "DMS 4120",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MBA6156 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "November 11 - November 12",
+                            "Day": 5,
+                            "StartHour": 1200,
+                            "EndHour": 1415,
+                            "Place": "DMS 4120",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MBA6156 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "November 11 - November 12",
+                            "Day": 6,
+                            "StartHour": 1200,
+                            "EndHour": 1415,
+                            "Place": "DMS 4120",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MBA6156 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "November 11 - November 12",
+                            "Day": 5,
+                            "StartHour": 900,
+                            "EndHour": 1115,
+                            "Place": "DMS 4120",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MBA6156 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "November 11 - November 12",
+                            "Day": 6,
+                            "StartHour": 900,
+                            "EndHour": 1115,
+                            "Place": "DMS 4120",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

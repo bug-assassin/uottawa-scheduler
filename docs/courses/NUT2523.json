@@ -1,0 +1,37 @@
+{
+    "CourseCode": "NUT2523",
+    "Title": "Nutrition communautaire I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=023237\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "NUT2523 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "MNT 204",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "NUT2523 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "MNT 204",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

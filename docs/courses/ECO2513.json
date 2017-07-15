@@ -1,0 +1,37 @@
+{
+    "CourseCode": "ECO2513",
+    "Title": "Le Canada et l'économie mondiale",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=009320\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ECO2513 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "FSS 1007",
+                            "Professor": "Claude  Parthenay"
+                        },
+                        {
+                            "Name": "ECO2513 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "MRT 205",
+                            "Professor": "Claude  Parthenay"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

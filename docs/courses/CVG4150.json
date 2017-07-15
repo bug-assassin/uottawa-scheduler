@@ -1,0 +1,72 @@
+{
+    "CourseCode": "CVG4150",
+    "Title": "Highway and Transportation Engineering",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=007110\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CVG4150 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "FSS 4007",
+                            "Professor": "Alaa Mohammed  Abdulridha"
+                        },
+                        {
+                            "Name": "CVG4150 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "FSS 4007",
+                            "Professor": "Alaa Mohammed  Abdulridha"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "CVG4150 A01",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "FTX 147A",
+                            "Professor": "Alaa Mohammed  Abdulridha"
+                        },
+                        {
+                            "Name": "CVG4150 A02",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "STE A0150",
+                            "Professor": "Alaa Mohammed  Abdulridha"
+                        },
+                        {
+                            "Name": "CVG4150 A03",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "HNN 013",
+                            "Professor": "Alaa Mohammed  Abdulridha"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

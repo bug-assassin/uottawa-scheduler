@@ -1,0 +1,27 @@
+{
+    "CourseCode": "DVM4520",
+    "Title": "Enjeux de développement international en Afrique",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=009094\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DVM4520 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "TBT 323",
+                            "Professor": "Sanni  Yaya"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

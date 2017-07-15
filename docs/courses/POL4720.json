@@ -1,0 +1,27 @@
+{
+    "CourseCode": "POL4720",
+    "Title": "Séminaire de synthèse en politique canadienne",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=027427\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "POL4720 A00",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "FSS 11003",
+                            "Professor": "Janique Francine  Dubois"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

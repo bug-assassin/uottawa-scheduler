@@ -1,0 +1,27 @@
+{
+    "CourseCode": "GEO40101",
+    "Title": "Honours Project (Part 1 of 2)",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=051500\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "REC",
+                    "Activities": [
+                        {
+                            "Name": "GEO40101 A00",
+                            "ActivityType": "REC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1600,
+                            "EndHour": 1900,
+                            "Place": "MRN 121",
+                            "Professor": "Jonathan  O'Neil"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

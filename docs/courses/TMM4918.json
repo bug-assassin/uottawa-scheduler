@@ -1,0 +1,27 @@
+{
+    "CourseCode": "TMM4918",
+    "Title": "Advanced Methods in Biomedical Research - Proteomics",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=031698\u0026term=2179\u0026session=TR",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "TMM4918 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "October 30 - December 06",
+                            "Day": 1,
+                            "StartHour": 900,
+                            "EndHour": 1030,
+                            "Place": "DEP DEPT",
+                            "Professor": "Daniel  Figeys"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

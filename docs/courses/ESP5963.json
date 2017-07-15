@@ -1,0 +1,27 @@
+{
+    "CourseCode": "ESP5963",
+    "Title": "Special Seminar II",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=013150\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "ESP5963 A00",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "MHN 246",
+                            "Professor": "Juana  Munoz-Liceras"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

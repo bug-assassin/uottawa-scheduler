@@ -1,0 +1,37 @@
+{
+    "CourseCode": "LSR1500",
+    "Title": "Introduction à l'étude du loisir",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=019550\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "LSR1500 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "TBT 070",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "LSR1500 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "FTX 351",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "CourseCode": "CVG2532",
+    "Title": "Principes fondamentaux du génie de l'environnement",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=007028\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CVG2532 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "VNR 3035",
+                            "Professor": "Christopher  Kinsley"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "CVG2532 A02",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1600,
+                            "EndHour": 1830,
+                            "Place": "CBY D113",
+                            "Professor": "Christopher  Kinsley"
+                        },
+                        {
+                            "Name": "CVG2532 A03",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1500,
+                            "EndHour": 1730,
+                            "Place": "CBY D113",
+                            "Professor": "Christopher  Kinsley"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "TUT",
+                    "Activities": [
+                        {
+                            "Name": "CVG2532 A04",
+                            "ActivityType": "TUT",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "VNR 5070",
+                            "Professor": "Christopher  Kinsley"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "CourseCode": "SOC4103",
+    "Title": "Sociology of Populations",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=029297\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "SOC4103 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "SMD 330",
+                            "Professor": "Jungwee  Park"
+                        },
+                        {
+                            "Name": "SOC4103 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "SMD 330",
+                            "Professor": "Jungwee  Park"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "CourseCode": "ORA5511",
+    "Title": "Sciences de l'ouïe",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=023333\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ORA5511 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - October 13",
+                            "Day": 4,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "RGN 3031",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ORA5511 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - October 11",
+                            "Day": 2,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "RGN 3031",
+                            "Professor": "Chantal  Laroche"
+                        },
+                        {
+                            "Name": "ORA5511 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "October 18 - October 18",
+                            "Day": 2,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "RGN 2012",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

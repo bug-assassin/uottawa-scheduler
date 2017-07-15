@@ -1,0 +1,37 @@
+{
+    "CourseCode": "HIS2362",
+    "Title": "British North America, 1763-1867",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=015588\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "HIS2362 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "SMD 428",
+                            "Professor": "Nicole J.  St-Onge"
+                        },
+                        {
+                            "Name": "HIS2362 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "SMD 428",
+                            "Professor": "Nicole J.  St-Onge"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

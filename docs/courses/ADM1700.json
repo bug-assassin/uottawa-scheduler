@@ -1,0 +1,187 @@
+{
+    "CourseCode": "ADM1700",
+    "Title": "Introduction à la gestion des affaires",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=000009\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ADM1700 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "DMS 1160",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "ADM1700 A01",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "HGN 305",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ADM1700 A02",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1900,
+                            "EndHour": 2030,
+                            "Place": "FTX 235",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ADM1700 A03",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "SMD 402",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ADM1700 A04",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "CBY E016",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ADM1700 A05",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "GSD 307",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ADM1700 A06",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "HGN 305",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ADM1700 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "STE H0104",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ADM1700 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "STE H0104",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "ADM1700 B01",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "HGN 305",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ADM1700 B02",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "TBT 327",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ADM1700 B03",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "DMS 3105",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ADM1700 B04",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "GSD 307",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ADM1700 B05",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "HGN 305",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ADM1700 B06",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "GSD 307",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

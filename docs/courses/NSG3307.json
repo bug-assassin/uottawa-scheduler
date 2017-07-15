@@ -1,0 +1,92 @@
+{
+    "CourseCode": "NSG3307",
+    "Title": "Practicum: Family-Centered Care of Children with Acute and Chronic Illness",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=022906\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "NSG3307 AP01 - CA Pembroke Algonquin College",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1200,
+                            "EndHour": 1500,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "NSG3307 AP01 - CA Pembroke Algonquin College",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 800,
+                            "EndHour": 1100,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "NSG3307 AW01 - CA Woodroffe Algonquin College",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1700,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "STG",
+                    "Activities": [
+                        {
+                            "Name": "NSG3307 AP00 - CA Pembroke Algonquin College",
+                            "ActivityType": "STG",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1500,
+                            "EndHour": 2200,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "NSG3307 AP00 - CA Pembroke Algonquin College",
+                            "ActivityType": "STG",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1500,
+                            "EndHour": 2200,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "NSG3307 AW00 - CA Woodroffe Algonquin College",
+                            "ActivityType": "STG",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1500,
+                            "EndHour": 2200,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "NSG3307 AW00 - CA Woodroffe Algonquin College",
+                            "ActivityType": "STG",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1500,
+                            "EndHour": 2200,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

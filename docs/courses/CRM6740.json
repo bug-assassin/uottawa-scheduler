@@ -1,0 +1,27 @@
+{
+    "CourseCode": "CRM6740",
+    "Title": "Théories de l'intervention en criminologie et pratiques alternatives",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=006409\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "CRM6740 A00",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "FSS 14005",
+                            "Professor": "Bastien  Quirion"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

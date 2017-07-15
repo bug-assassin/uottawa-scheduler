@@ -1,0 +1,52 @@
+{
+    "CourseCode": "CEG4140",
+    "Title": "Digital Control Systems",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=003606\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CEG4140 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "CBY E015",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "CEG4140 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "CBY E015",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "CEG4140 A02",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "MRT 221",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

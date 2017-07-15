@@ -1,0 +1,37 @@
+{
+    "CourseCode": "MHA6203",
+    "Title": "Program Evaluation for Health Care Managers",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=021388\u0026term=2179\u0026session=E",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MHA6203 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "July 07 - July 07",
+                            "Day": 4,
+                            "StartHour": 1730,
+                            "EndHour": 2200,
+                            "Place": "DMS 4120",
+                            "Professor": "Mirou  Jaana"
+                        },
+                        {
+                            "Name": "MHA6203 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "July 10 - July 10",
+                            "Day": 0,
+                            "StartHour": 1730,
+                            "EndHour": 2200,
+                            "Place": "DMS 8161",
+                            "Professor": "Mirou  Jaana"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "CourseCode": "REA5940",
+    "Title": "English Conversation for Clinical Placements in Rehabilitation",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=028409\u0026term=2179\u0026session=TR",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "REA5940 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "October 11 - November 22",
+                            "Day": 2,
+                            "StartHour": 1630,
+                            "EndHour": 1930,
+                            "Place": "RGN 1009",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

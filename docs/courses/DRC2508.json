@@ -1,0 +1,47 @@
+{
+    "CourseCode": "DRC2508",
+    "Title": "Droit administratif",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=008595\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DRC2508 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "FTX 302",
+                            "Professor": "André  Braen"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DRC2508 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "FTX 227",
+                            "Professor": "Denis  Nadeau"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

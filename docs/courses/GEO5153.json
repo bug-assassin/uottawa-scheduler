@@ -1,0 +1,27 @@
+{
+    "CourseCode": "GEO5153",
+    "Title": "Computer Techniques in the Earth Sciences",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=014905\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "GEO5153 A00 - GIS for Science \u0026 Engineering Applications",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "MNT 141",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "CourseCode": "SRS4702",
+    "Title": "Séminaire en sciences des religions",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=029722\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "SRS4702 A00 - Textes apocryphes et mémoire sociale",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "VNR 5040",
+                            "Professor": "Pierluigi  Piovanelli"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

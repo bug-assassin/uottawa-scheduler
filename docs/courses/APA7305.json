@@ -1,0 +1,27 @@
+{
+    "CourseCode": "APA7305",
+    "Title": "Advanced Topics in Biomechanics and Motor/Control Learning",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=001779\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "APA7305 000",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "VNR 5040",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

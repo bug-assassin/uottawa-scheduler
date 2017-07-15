@@ -1,0 +1,37 @@
+{
+    "CourseCode": "FEM2103",
+    "Title": "Methodology in Feminist Studies",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=013321\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "FEM2103 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "LMX 243",
+                            "Professor": "Gulzar R.  Charania"
+                        },
+                        {
+                            "Name": "FEM2103 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "TBT 0021",
+                            "Professor": "Gulzar R.  Charania"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "CourseCode": "TRA5921",
+    "Title": "Conference Documentation I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=031875\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "TRA5921 A00",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 930,
+                            "EndHour": 1230,
+                            "Place": "SMD 504",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "CourseCode": "CML3787",
+    "Title": "Droit de l'emploi",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=005203\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML3787 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "FTX 137",
+                            "Professor": "Chantal  Beaupré"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

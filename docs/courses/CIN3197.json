@@ -1,0 +1,27 @@
+{
+    "CourseCode": "CIN3197",
+    "Title": "Canadian and Quebec Cinema I: fiction",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=004376\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CIN3197 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "MRT 219",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

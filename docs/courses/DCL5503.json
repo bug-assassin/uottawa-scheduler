@@ -1,0 +1,27 @@
+{
+    "CourseCode": "DCL5503",
+    "Title": "Théories contemporaines du droit",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=008057\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "DCL5503 A00 - Regards critiques et multidisc. sur le droit",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "FTX 315",
+                            "Professor": "Peter  Oliver"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

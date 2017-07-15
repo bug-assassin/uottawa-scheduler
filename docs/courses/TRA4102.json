@@ -1,0 +1,27 @@
+{
+    "CourseCode": "TRA4102",
+    "Title": "Translation from English to Spanish",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=031783\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "TRA4102 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "DMS 2175",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

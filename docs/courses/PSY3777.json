@@ -1,0 +1,52 @@
+{
+    "CourseCode": "PSY3777",
+    "Title": "Processus cognitifs",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=027753\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "PSY3777 A01",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "VNR 2015",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "TLB",
+                    "Activities": [
+                        {
+                            "Name": "PSY3777 A00",
+                            "ActivityType": "TLB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "MRN 130",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "PSY3777 A00",
+                            "ActivityType": "TLB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "MRN 130",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

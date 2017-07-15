@@ -1,0 +1,37 @@
+{
+    "CourseCode": "MAT1374",
+    "Title": "Probability and Games of Chance: Poker 101",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=019755\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MAT1374 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "FSS 2005",
+                            "Professor": "Pieter J.W. Hofstra"
+                        },
+                        {
+                            "Name": "MAT1374 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "FSS 2005",
+                            "Professor": "Pieter J.W. Hofstra"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

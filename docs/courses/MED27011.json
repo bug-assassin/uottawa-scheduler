@@ -1,0 +1,97 @@
+{
+    "CourseCode": "MED27011",
+    "Title": "Développement des aptitudes cliniques partie I (1 de 2)",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=051342\u0026term=2179\u0026session=TR",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "TLB",
+                    "Activities": [
+                        {
+                            "Name": "MED27011 000",
+                            "ActivityType": "TLB",
+                            "StartEndDates": "September 07 - September 14",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1700,
+                            "Place": "RGN 2241",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED27011 000",
+                            "ActivityType": "TLB",
+                            "StartEndDates": "September 21 - October 05",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1700,
+                            "Place": "RGN 2241",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED27011 000",
+                            "ActivityType": "TLB",
+                            "StartEndDates": "October 12 - October 12",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1700,
+                            "Place": "RGN 2241",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED27011 000",
+                            "ActivityType": "TLB",
+                            "StartEndDates": "October 19 - October 19",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1700,
+                            "Place": "RGN 2241",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED27011 000",
+                            "ActivityType": "TLB",
+                            "StartEndDates": "October 26 - October 26",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1500,
+                            "Place": "RGN 2241",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED27011 000",
+                            "ActivityType": "TLB",
+                            "StartEndDates": "November 02 - November 23",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1500,
+                            "Place": "RGN 2241",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED27011 000",
+                            "ActivityType": "TLB",
+                            "StartEndDates": "November 30 - November 30",
+                            "Day": 3,
+                            "StartHour": 1330,
+                            "EndHour": 1630,
+                            "Place": "RGN 2241",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED27011 000",
+                            "ActivityType": "TLB",
+                            "StartEndDates": "December 07 - December 07",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1700,
+                            "Place": "RGN 2241",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

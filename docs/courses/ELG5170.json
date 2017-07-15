@@ -1,0 +1,27 @@
+{
+    "CourseCode": "ELG5170",
+    "Title": "Information Theory",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=011527\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "F",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ELG5170 F00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "THN 124",
+                            "Professor": "Yongyi  Mao"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

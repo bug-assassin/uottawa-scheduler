@@ -1,0 +1,67 @@
+{
+    "CourseCode": "ERG6903",
+    "Title": "Formation clinique en ergothérapie III",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=012845\u0026term=2179\u0026session=TR",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "STG",
+                    "Activities": [
+                        {
+                            "Name": "ERG6903 A00",
+                            "ActivityType": "STG",
+                            "StartEndDates": "October 30 - December 20",
+                            "Day": 0,
+                            "StartHour": 900,
+                            "EndHour": 1700,
+                            "Place": "DEP DEPT",
+                            "Professor": "Marie  White"
+                        },
+                        {
+                            "Name": "ERG6903 A00",
+                            "ActivityType": "STG",
+                            "StartEndDates": "October 30 - December 20",
+                            "Day": 1,
+                            "StartHour": 900,
+                            "EndHour": 1700,
+                            "Place": "DEP DEPT",
+                            "Professor": "Marie  White"
+                        },
+                        {
+                            "Name": "ERG6903 A00",
+                            "ActivityType": "STG",
+                            "StartEndDates": "October 30 - December 20",
+                            "Day": 2,
+                            "StartHour": 900,
+                            "EndHour": 1700,
+                            "Place": "DEP DEPT",
+                            "Professor": "Marie  White"
+                        },
+                        {
+                            "Name": "ERG6903 A00",
+                            "ActivityType": "STG",
+                            "StartEndDates": "October 30 - December 20",
+                            "Day": 3,
+                            "StartHour": 900,
+                            "EndHour": 1700,
+                            "Place": "DEP DEPT",
+                            "Professor": "Marie  White"
+                        },
+                        {
+                            "Name": "ERG6903 A00",
+                            "ActivityType": "STG",
+                            "StartEndDates": "October 30 - December 20",
+                            "Day": 4,
+                            "StartHour": 900,
+                            "EndHour": 1700,
+                            "Place": "DEP DEPT",
+                            "Professor": "Marie  White"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

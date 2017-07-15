@@ -1,0 +1,87 @@
+{
+    "CourseCode": "THE3710",
+    "Title": "Thèmes choisis en études théâtrales",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=030262\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "THE3710 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 09 - September 22",
+                            "Day": 4,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "SMN 309",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "THE3710 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 09 - September 22",
+                            "Day": 5,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "SMN 310",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "THE3710 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 09 - September 22",
+                            "Day": 6,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "SMN 310",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "THE3710 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 09 - September 22",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "SMN 310",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "THE3710 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 09 - September 22",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "SMN 309",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "THE3710 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 09 - September 22",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "SMN 310",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "THE3710 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 09 - September 22",
+                            "Day": 2,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "SMN 309",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

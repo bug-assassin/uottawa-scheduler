@@ -1,0 +1,27 @@
+{
+    "CourseCode": "ENG2140",
+    "Title": "Literature and Film",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=012070\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ENG2140 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "LEE C204",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

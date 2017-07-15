@@ -1,0 +1,27 @@
+{
+    "CourseCode": "PAP6110",
+    "Title": "Theories of Public Management",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=023569\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "PAP6110 A00",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "FSS 4014",
+                            "Professor": "Christian  Rouillard"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

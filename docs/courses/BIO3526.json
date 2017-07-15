@@ -1,0 +1,27 @@
+{
+    "CourseCode": "BIO3526",
+    "Title": "Laboratoire de microbiologie générale",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=002837\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "BIO3526 A00",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1900,
+                            "Place": "BSC 236",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

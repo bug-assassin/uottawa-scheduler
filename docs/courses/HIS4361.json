@@ -1,0 +1,27 @@
+{
+    "CourseCode": "HIS4361",
+    "Title": "Selected Topics in American History",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=015963\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "HIS4361 A00 - Social and Culture History of Rock n Roll",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "DMS 11161",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

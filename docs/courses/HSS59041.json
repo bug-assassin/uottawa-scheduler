@@ -1,0 +1,77 @@
+{
+    "CourseCode": "HSS59041",
+    "Title": "Master's Seminar II (Part 1 of 2)",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=051560\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "HSS59041 A00",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 19 - September 19",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "STT 125",
+                            "Professor": "Frédérique  Tesson"
+                        },
+                        {
+                            "Name": "HSS59041 A00",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "October 03 - October 03",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "STT 125",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "HSS59041 A00",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "October 17 - October 17",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "STT 125",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "HSS59041 A00",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "November 07 - November 07",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "STT 125",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "HSS59041 A00",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "November 21 - November 21",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "STT 125",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "HSS59041 A00",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "December 05 - December 05",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "STT 125",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

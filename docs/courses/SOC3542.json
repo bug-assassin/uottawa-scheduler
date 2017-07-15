@@ -1,0 +1,27 @@
+{
+    "CourseCode": "SOC3542",
+    "Title": "Analyse statistique appliquée",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=029269\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "SOC3542 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "TBT 323",
+                            "Professor": "André  Tremblay"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

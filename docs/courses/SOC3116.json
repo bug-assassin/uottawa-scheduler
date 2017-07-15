@@ -1,0 +1,57 @@
+{
+    "CourseCode": "SOC3116",
+    "Title": "Technologies, World and Societies",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=029209\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "SOC3116 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "DMS 1160",
+                            "Professor": "Stéphan  Larose"
+                        },
+                        {
+                            "Name": "SOC3116 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "DMS 1160",
+                            "Professor": "Stéphan  Larose"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "SOC3116 C00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "MHN 033",
+                            "Professor": "Tonio  Sadik"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

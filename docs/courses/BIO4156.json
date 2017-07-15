@@ -1,0 +1,37 @@
+{
+    "CourseCode": "BIO4156",
+    "Title": "Freshwater Ecology",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=002930\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "BIO4156 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "DEP DEPT",
+                            "Professor": "Jules M. Blais,Nathalie  Bourassa"
+                        },
+                        {
+                            "Name": "BIO4156 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "DEP DEPT",
+                            "Professor": "Jules M. Blais,Nathalie  Bourassa"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

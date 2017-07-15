@@ -1,0 +1,72 @@
+{
+    "CourseCode": "PHY2311",
+    "Title": "Waves and Optics",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=026766\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PHY2311 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "STE F0126",
+                            "Professor": "Lora  Ramunno"
+                        },
+                        {
+                            "Name": "PHY2311 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "STE F0126",
+                            "Professor": "Lora  Ramunno"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "PHY2311 A01",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 4035",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "PHY2311 A02",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 4035",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "PHY2311 A03",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 4035",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

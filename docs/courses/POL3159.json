@@ -1,0 +1,37 @@
+{
+    "CourseCode": "POL3159",
+    "Title": "Indigenous Politics in Canada",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=027227\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "POL3159 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MRN 021",
+                            "Professor": "Janique Francine  Dubois"
+                        },
+                        {
+                            "Name": "POL3159 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MRT 256",
+                            "Professor": "Janique Francine  Dubois"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "CourseCode": "CML36481",
+    "Title": "Clinique juridique I : Introduction (Partie 1 de 2)",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=051490\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "STG",
+                    "Activities": [
+                        {
+                            "Name": "CML36481 000",
+                            "ActivityType": "STG",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "DEP DEPT",
+                            "Professor": "Louise  Toone"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

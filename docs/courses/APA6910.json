@@ -1,0 +1,27 @@
+{
+    "CourseCode": "APA6910",
+    "Title": "Selected Topics in Sport, Physical Activity and Health: Management",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=001767\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "APA6910 000",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "DMS 10143",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "CourseCode": "NUT1524",
+    "Title": "Sciences des aliments II",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=023233\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "NUT1524 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "SMD 221",
+                            "Professor": "Nicolas  Bordenave"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "NUT1524 A01",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1530,
+                            "EndHour": 1830,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "NUT1524 A02",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1530,
+                            "EndHour": 1830,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

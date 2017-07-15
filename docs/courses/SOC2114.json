@@ -1,0 +1,37 @@
+{
+    "CourseCode": "SOC2114",
+    "Title": "Diversity: History, Issues, and Challenges",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=029159\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "SOC2114 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "FSS 2005",
+                            "Professor": "Mariia  Alekseevskaia"
+                        },
+                        {
+                            "Name": "SOC2114 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "FSS 2005",
+                            "Professor": "Mariia  Alekseevskaia"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

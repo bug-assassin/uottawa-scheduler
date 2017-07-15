@@ -1,0 +1,62 @@
+{
+    "CourseCode": "NSG3705",
+    "Title": "Stage clinique auprès des adultes aux prises avec la maladie",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=022959\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "NSG3705 A01",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 05",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "STG",
+                    "Activities": [
+                        {
+                            "Name": "NSG3705 A00",
+                            "ActivityType": "STG",
+                            "StartEndDates": "September 06 - December 01",
+                            "Day": 2,
+                            "StartHour": 1500,
+                            "EndHour": 2200,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "NSG3705 A00",
+                            "ActivityType": "STG",
+                            "StartEndDates": "September 06 - December 01",
+                            "Day": 3,
+                            "StartHour": 1500,
+                            "EndHour": 2200,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "NSG3705 A00",
+                            "ActivityType": "STG",
+                            "StartEndDates": "September 06 - December 01",
+                            "Day": 4,
+                            "StartHour": 1500,
+                            "EndHour": 2200,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

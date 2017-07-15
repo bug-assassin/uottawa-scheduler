@@ -1,0 +1,37 @@
+{
+    "CourseCode": "MAT4530",
+    "Title": "Introduction aux équations aux dérivées partielles",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=020040\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MAT4530 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "KED B004",
+                            "Professor": "Victor Gilles Leblanc"
+                        },
+                        {
+                            "Name": "MAT4530 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "KED B004",
+                            "Professor": "Victor Gilles Leblanc"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

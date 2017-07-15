@@ -1,0 +1,27 @@
+{
+    "CourseCode": "ERG6755",
+    "Title": "Séminaire de recherche",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=012843\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "F",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "ERG6755 F00",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "October 26 - October 26",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1630,
+                            "Place": "RGN 2003",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

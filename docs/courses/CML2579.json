@@ -1,0 +1,27 @@
+{
+    "CourseCode": "CML2579",
+    "Title": "Accès à la justice stage (niveau I)",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=004924\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "STG",
+                    "Activities": [
+                        {
+                            "Name": "CML2579 A00 - Clinique Programme de défense des contraventions",
+                            "ActivityType": "STG",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

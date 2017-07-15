@@ -1,0 +1,47 @@
+{
+    "CourseCode": "DCL5326",
+    "Title": "Studies in Indigenous Legal Issues",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=008045\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "DCL5326 A00 - Laws and Literature",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "FTX 102",
+                            "Professor": "Tracey Dee  Lindberg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "DCL5326 B00 - Indigenous Health Law",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "WLD 108",
+                            "Professor": "Yvonne Marie  Boyer"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

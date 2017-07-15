@@ -1,0 +1,27 @@
+{
+    "CourseCode": "NSG3505",
+    "Title": "Soins aux adultes aux prises avec la maladie",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=022932\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "NSG3505 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 800,
+                            "EndHour": 1130,
+                            "Place": "LEE A131",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

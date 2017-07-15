@@ -1,0 +1,52 @@
+{
+    "CourseCode": "LCL3151",
+    "Title": "Ancient Greek III",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=018345\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "LCL3151 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "DMS 8143",
+                            "Professor": "Richard W. Burgess"
+                        },
+                        {
+                            "Name": "LCL3151 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "VNR 2027",
+                            "Professor": "Richard W. Burgess"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "LCL3151 A01",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "DMS 10143",
+                            "Professor": "Richard W. Burgess"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "CourseCode": "PHS4336",
+    "Title": "Reproductive Physiology",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=026557\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PHS4336 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "RGN 1007",
+                            "Professor": "Jacqueline A.  Carnegie"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

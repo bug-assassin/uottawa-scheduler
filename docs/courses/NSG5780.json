@@ -1,0 +1,27 @@
+{
+    "CourseCode": "NSG5780",
+    "Title": "Méthodes thérapeutiques en soins de santé primaires I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=023164\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "NSG5780 A00 - Hybrid course",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1800,
+                            "EndHour": 2100,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "CourseCode": "ERG5901",
+    "Title": "Formation clinique en ergothérapie I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=012831\u0026term=2179\u0026session=TR",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "STG",
+                    "Activities": [
+                        {
+                            "Name": "ERG5901 A00",
+                            "ActivityType": "STG",
+                            "StartEndDates": "October 31 - October 31",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "RGN 1009",
+                            "Professor": "Mary  Egan"
+                        },
+                        {
+                            "Name": "ERG5901 A00",
+                            "ActivityType": "STG",
+                            "StartEndDates": "December 05 - December 21",
+                            "Day": 0,
+                            "StartHour": 900,
+                            "EndHour": 1700,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ERG5901 A00",
+                            "ActivityType": "STG",
+                            "StartEndDates": "December 05 - December 21",
+                            "Day": 1,
+                            "StartHour": 900,
+                            "EndHour": 1700,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ERG5901 A00",
+                            "ActivityType": "STG",
+                            "StartEndDates": "December 05 - December 21",
+                            "Day": 2,
+                            "StartHour": 900,
+                            "EndHour": 1700,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ERG5901 A00",
+                            "ActivityType": "STG",
+                            "StartEndDates": "December 05 - December 21",
+                            "Day": 3,
+                            "StartHour": 900,
+                            "EndHour": 1700,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ERG5901 A00",
+                            "ActivityType": "STG",
+                            "StartEndDates": "December 05 - December 21",
+                            "Day": 4,
+                            "StartHour": 900,
+                            "EndHour": 1700,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

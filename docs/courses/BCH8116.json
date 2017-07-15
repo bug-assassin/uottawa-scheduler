@@ -1,0 +1,27 @@
+{
+    "CourseCode": "BCH8116",
+    "Title": "Model Organisms and Systems Biology",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=002575\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "BCH8116 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "DEP DEPT",
+                            "Professor": "Kristin Kitty Baetz"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "CourseCode": "CIN2501",
+    "Title": "Histoire du cinéma I : 1895-1960",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=004365\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CIN2501 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "SMD 221",
+                            "Professor": "Florian  Grandena"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

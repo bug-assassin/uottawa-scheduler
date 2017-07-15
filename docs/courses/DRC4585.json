@@ -1,0 +1,27 @@
+{
+    "CourseCode": "DRC4585",
+    "Title": "Droit constitutionnel comparé",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=008741\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DRC4585 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "FTX 235",
+                            "Professor": "Warren  Newman"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

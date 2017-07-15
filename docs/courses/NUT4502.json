@@ -1,0 +1,27 @@
+{
+    "CourseCode": "NUT4502",
+    "Title": "Nutrition clinique III",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=023262\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "NUT4502 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "SMD 423",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

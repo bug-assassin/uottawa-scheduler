@@ -1,0 +1,27 @@
+{
+    "CourseCode": "MBA5320",
+    "Title": "Strategic Marketing Management",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=020616\u0026term=2179\u0026session=B",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MBA5320 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 03",
+                            "Day": 2,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "DMS 4140",
+                            "Professor": "Michael S.  Mulvey"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

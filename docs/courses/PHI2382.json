@@ -1,0 +1,37 @@
+{
+    "CourseCode": "PHI2382",
+    "Title": "Philosophy in the Middle Ages",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=025951\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PHI2382 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MRT 256",
+                            "Professor": "Antoine  Côté"
+                        },
+                        {
+                            "Name": "PHI2382 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "VNR 1075",
+                            "Professor": "Antoine  Côté"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

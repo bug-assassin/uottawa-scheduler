@@ -1,0 +1,27 @@
+{
+    "CourseCode": "ORA6520",
+    "Title": "Évaluation audiologique I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=023363\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ORA6520 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "RGN 3031",
+                            "Professor": "Josée Claude  Lagacé"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

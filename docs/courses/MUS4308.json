@@ -1,0 +1,27 @@
+{
+    "CourseCode": "MUS4308",
+    "Title": "Topics in Counterpoint",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=022433\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MUS4308 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1600,
+                            "EndHour": 1900,
+                            "Place": "PRZ 307",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

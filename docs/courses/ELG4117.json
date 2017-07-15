@@ -1,0 +1,67 @@
+{
+    "CourseCode": "ELG4117",
+    "Title": "Optoelectronics and Optical Components",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=011323\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ELG4117 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "CBY E015",
+                            "Professor": "Ksenia  Dolgaleva"
+                        },
+                        {
+                            "Name": "ELG4117 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "CBY E015",
+                            "Professor": "Ksenia  Dolgaleva"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "ELG4117 A01",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "DEP DEPT",
+                            "Professor": "Ksenia  Dolgaleva"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "TUT",
+                    "Activities": [
+                        {
+                            "Name": "ELG4117 A02",
+                            "ActivityType": "TUT",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "CBY E016",
+                            "Professor": "Ksenia  Dolgaleva"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

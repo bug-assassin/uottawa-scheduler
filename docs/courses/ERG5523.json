@@ -1,0 +1,37 @@
+{
+    "CourseCode": "ERG5523",
+    "Title": "L'environnement physique, social, culturel et institutionnel",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=012820\u0026term=2179\u0026session=TR",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ERG5523 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 19 - October 31",
+                            "Day": 1,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "RGN 1009",
+                            "Professor": "Lindsay  Noël"
+                        },
+                        {
+                            "Name": "ERG5523 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "November 14 - November 14",
+                            "Day": 1,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "RGN 1009",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

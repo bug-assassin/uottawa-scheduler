@@ -1,0 +1,52 @@
+{
+    "CourseCode": "CHG3724",
+    "Title": "Principes et applications de thermodynamique en génie chimique",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=003716\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CHG3724 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "CBY E016",
+                            "Professor": "Olena  Baranova"
+                        },
+                        {
+                            "Name": "CHG3724 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "SMD 330",
+                            "Professor": "Olena  Baranova"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "TUT",
+                    "Activities": [
+                        {
+                            "Name": "CHG3724 A01",
+                            "ActivityType": "TUT",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "CBY E016",
+                            "Professor": "Olena  Baranova"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

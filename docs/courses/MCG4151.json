@@ -1,0 +1,52 @@
+{
+    "CourseCode": "MCG4151",
+    "Title": "Design of Artificial Joint Prostheses and Implants",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=020866\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MCG4151 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "MRT 256",
+                            "Professor": "Marc  Doumit"
+                        },
+                        {
+                            "Name": "MCG4151 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "MRN 021",
+                            "Professor": "Marc  Doumit"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "TUT",
+                    "Activities": [
+                        {
+                            "Name": "MCG4151 A01",
+                            "ActivityType": "TUT",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "LMX 219",
+                            "Professor": "Marc  Doumit"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

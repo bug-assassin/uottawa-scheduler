@@ -1,0 +1,52 @@
+{
+    "CourseCode": "BPS3502",
+    "Title": "Principes de toxicologie et pharmacologie",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=003333\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "BPS3502 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "KED B004",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "BPS3502 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "KED B004",
+                            "Professor": "Cory Steven  Harris"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "BPS3502 001",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "LPR 154",
+                            "Professor": "Cory Steven  Harris"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

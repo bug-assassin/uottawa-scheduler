@@ -1,0 +1,37 @@
+{
+    "CourseCode": "MAT3172",
+    "Title": "Foundations of Probability",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=019897\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MAT3172 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "KED B005",
+                            "Professor": "Vadim  Kaimanovich"
+                        },
+                        {
+                            "Name": "MAT3172 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "KED B005",
+                            "Professor": "Vadim  Kaimanovich"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

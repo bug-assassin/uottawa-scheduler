@@ -1,0 +1,27 @@
+{
+    "CourseCode": "SRS3353",
+    "Title": "Contemporary Issues in Psychology of Religion",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=029639\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "SRS3353 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "SMD 422",
+                            "Professor": "Naomi  Goldenberg"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "CourseCode": "CML4507",
+    "Title": "Études en droit des affaires",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=005274\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "CML4507 A00 - Droit de la concurrence",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "FTX 315",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

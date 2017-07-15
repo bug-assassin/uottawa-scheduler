@@ -1,0 +1,47 @@
+{
+    "CourseCode": "MBA5636",
+    "Title": "Leadership et gestion",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=020637\u0026term=2179\u0026session=E",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MBA5636 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 10 - September 10",
+                            "Day": 6,
+                            "StartHour": 800,
+                            "EndHour": 1245,
+                            "Place": "DMS 4140",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MBA5636 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 24 - September 24",
+                            "Day": 6,
+                            "StartHour": 800,
+                            "EndHour": 1245,
+                            "Place": "DMS 4140",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MBA5636 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "October 15 - October 15",
+                            "Day": 6,
+                            "StartHour": 800,
+                            "EndHour": 1245,
+                            "Place": "DMS 4140",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

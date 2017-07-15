@@ -1,0 +1,27 @@
+{
+    "CourseCode": "CMN4105",
+    "Title": "Ethics and Information Society",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=005687\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "CMN4105 A00",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "HGN 305",
+                            "Professor": "Rocci  Luppicini"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

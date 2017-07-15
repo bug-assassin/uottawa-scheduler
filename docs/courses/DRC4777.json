@@ -1,0 +1,37 @@
+{
+    "CourseCode": "DRC4777",
+    "Title": "Thèmes choisis de droit pénal I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=008885\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DRC4777 000 - Droit et criminologie",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "FTX 316",
+                            "Professor": "Joao Gustavo  Vieira Velloso"
+                        },
+                        {
+                            "Name": "DRC4777 000 - Droit et criminologie",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "FTX 416",
+                            "Professor": "Joao Gustavo  Vieira Velloso"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

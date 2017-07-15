@@ -1,0 +1,27 @@
+{
+    "CourseCode": "TRA4501",
+    "Title": "Traduction générale de l'espagnol vers le français I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=031798\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "TRA4501 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "DMS 2175",
+                            "Professor": "Clara  Foz"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

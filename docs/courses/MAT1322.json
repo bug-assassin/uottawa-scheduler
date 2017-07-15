@@ -1,0 +1,82 @@
+{
+    "CourseCode": "MAT1322",
+    "Title": "Calculus II",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=019741\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "D",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MAT1322 D00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "MNT 202",
+                            "Professor": "Weixuan  Li"
+                        },
+                        {
+                            "Name": "MAT1322 D00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "MNT 202",
+                            "Professor": "Weixuan  Li"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "MAT1322 D01",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "KED B005",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MAT1322 D02",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "FTX 361",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MAT1322 D03",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "SMD 430",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MAT1322 D04",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "MRT 250",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

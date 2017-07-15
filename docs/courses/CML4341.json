@@ -1,0 +1,37 @@
+{
+    "CourseCode": "CML4341",
+    "Title": "Contracts",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=042740\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "N",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML4341 N00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "FTX 227",
+                            "Professor": "Anthony R  Daimsis"
+                        },
+                        {
+                            "Name": "CML4341 N00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "FTX 232",
+                            "Professor": "Anthony R  Daimsis"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

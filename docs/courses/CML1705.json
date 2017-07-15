@@ -1,0 +1,37 @@
+{
+    "CourseCode": "CML1705",
+    "Title": "Droit, histoire et société",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=004860\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML1705 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "FTX 315",
+                            "Professor": "Anne-Françoise  Debruche,Murielle  Paradelle"
+                        },
+                        {
+                            "Name": "CML1705 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "FTX 315",
+                            "Professor": "Anne-Françoise  Debruche,Murielle  Paradelle"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

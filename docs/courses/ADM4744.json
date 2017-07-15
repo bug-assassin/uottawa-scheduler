@@ -1,0 +1,37 @@
+{
+    "CourseCode": "ADM4744",
+    "Title": "Fiscalité II",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=000263\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ADM4744 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "MNT 204",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ADM4744 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "MNT 204",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

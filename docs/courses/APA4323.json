@@ -1,0 +1,57 @@
+{
+    "CourseCode": "APA4323",
+    "Title": "Selected Topics in Human Kinetics",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=001648\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "APA4323 A00 - Entrepreneurship in HK",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "LEE B163",
+                            "Professor": "Thomas Blaine Hoshizaki"
+                        },
+                        {
+                            "Name": "APA4323 A00 - Entrepreneurship in HK",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "LEE B163",
+                            "Professor": "Thomas Blaine Hoshizaki"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "APA4323 B00 - Assessment of Fitness and Life style",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "MNT 303",
+                            "Professor": "Carla  Geurts"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

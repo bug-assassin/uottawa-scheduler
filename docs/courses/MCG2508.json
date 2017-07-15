@@ -1,0 +1,52 @@
+{
+    "CourseCode": "MCG2508",
+    "Title": "Mécanique II",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=020762\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MCG2508 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "CBY B012",
+                            "Professor": "Patrick François  Richer"
+                        },
+                        {
+                            "Name": "MCG2508 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "CBY B012",
+                            "Professor": "Patrick François  Richer"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "TUT",
+                    "Activities": [
+                        {
+                            "Name": "MCG2508 A01",
+                            "ActivityType": "TUT",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 800,
+                            "EndHour": 1000,
+                            "Place": "FTX 135",
+                            "Professor": "Patrick François  Richer"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

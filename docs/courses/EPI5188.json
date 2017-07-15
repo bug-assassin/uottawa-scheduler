@@ -1,0 +1,27 @@
+{
+    "CourseCode": "EPI5188",
+    "Title": "Health Technology Assessment",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=012674\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "EPI5188 A00",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "RGN 3035",
+                            "Professor": "Tammy  Clifford"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

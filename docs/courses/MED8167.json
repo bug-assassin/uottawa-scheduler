@@ -1,0 +1,27 @@
+{
+    "CourseCode": "MED8167",
+    "Title": "Professional Skills",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=021317\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "MED8167 A00",
+                            "ActivityType": "SEM",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "CourseCode": "ADM3733",
+    "Title": "Dotation des organisations",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=000142\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ADM3733 A00 - Hybrid course",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "MRT 211",
+                            "Professor": "François  Chiocchio"
+                        },
+                        {
+                            "Name": "ADM3733 A00 - Hybrid course",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "MRT 211",
+                            "Professor": "François  Chiocchio"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

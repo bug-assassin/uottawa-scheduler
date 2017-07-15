@@ -1,0 +1,127 @@
+{
+    "CourseCode": "PSY2105",
+    "Title": "Child Development",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=027614\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PSY2105 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "HGN 302",
+                            "Professor": "Alastair J.  Younger"
+                        },
+                        {
+                            "Name": "PSY2105 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "HGN 302",
+                            "Professor": "Alastair J.  Younger"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PSY2105 C00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "STE A0150",
+                            "Professor": "Caroline  Sullivan"
+                        },
+                        {
+                            "Name": "PSY2105 C00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "STE A0150",
+                            "Professor": "Caroline  Sullivan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "D",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PSY2105 D00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MRT 205",
+                            "Professor": "Brenda  Baird"
+                        },
+                        {
+                            "Name": "PSY2105 D00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MRT 205",
+                            "Professor": "Brenda  Baird"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "E",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PSY2105 E00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "HGN 302",
+                            "Professor": "Alastair J.  Younger"
+                        },
+                        {
+                            "Name": "PSY2105 E00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "HGN 302",
+                            "Professor": "Alastair J.  Younger"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

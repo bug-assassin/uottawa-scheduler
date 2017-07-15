@@ -1,0 +1,52 @@
+{
+    "CourseCode": "CHG2717",
+    "Title": "Introduction à l'analyse et la conception des procédés chimiques",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=003690\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CHG2717 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "CBY E016",
+                            "Professor": "Arturo  Macchi"
+                        },
+                        {
+                            "Name": "CHG2717 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "STT 125",
+                            "Professor": "Arturo  Macchi"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "TUT",
+                    "Activities": [
+                        {
+                            "Name": "CHG2717 A01",
+                            "ActivityType": "TUT",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "CBY E016",
+                            "Professor": "Arturo  Macchi"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

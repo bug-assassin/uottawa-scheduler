@@ -1,0 +1,52 @@
+{
+    "CourseCode": "CHM3520",
+    "Title": "Chimie organique intermédiaire",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=003976\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CHM3520 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "LMX 221",
+                            "Professor": "Louis  Barriault"
+                        },
+                        {
+                            "Name": "CHM3520 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "LMX 221",
+                            "Professor": "Louis  Barriault"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "CHM3520 001",
+                            "ActivityType": "DGD",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "MNO E217",
+                            "Professor": "Louis  Barriault"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

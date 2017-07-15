@@ -1,0 +1,37 @@
+{
+    "CourseCode": "ECH3730",
+    "Title": "Thèmes choisis en études des conflits et droits humains",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=009248\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ECH3730 A00 - Afrique des Grands Lacs",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MNO E218",
+                            "Professor": "Marie-Eve  Desrosiers"
+                        },
+                        {
+                            "Name": "ECH3730 A00 - Afrique des Grands Lacs",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MNO E218",
+                            "Professor": "Marie-Eve  Desrosiers"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

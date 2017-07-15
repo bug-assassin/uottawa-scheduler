@@ -1,0 +1,27 @@
+{
+    "CourseCode": "SVS2515",
+    "Title": "Méthodes d'intervention en service social",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=030007\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "SVS2515 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "VNR 1075",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

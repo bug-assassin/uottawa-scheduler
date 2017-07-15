@@ -1,0 +1,37 @@
+{
+    "CourseCode": "CVG5133",
+    "Title": "Solid Waste Disposal",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=007192\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "F",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CVG5133 F00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "VNR 5070",
+                            "Professor": "Roberto M.  Narbaitz"
+                        },
+                        {
+                            "Name": "CVG5133 F00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "VNR 5070",
+                            "Professor": "Roberto M.  Narbaitz"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

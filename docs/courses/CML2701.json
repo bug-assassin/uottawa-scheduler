@@ -1,0 +1,27 @@
+{
+    "CourseCode": "CML2701",
+    "Title": "Les autochtones et le droit",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=004931\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML2701 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "FTX 401",
+                            "Professor": "Darren Padraic  O'Toole"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

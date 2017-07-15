@@ -1,0 +1,47 @@
+{
+    "CourseCode": "ORA5515",
+    "Title": "Pédoaudiologie I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=023336\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ORA5515 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - October 12",
+                            "Day": 3,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "RGN 3031",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ORA5515 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - October 17",
+                            "Day": 1,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "RGN 3031",
+                            "Professor": "Amineh  Koravand"
+                        },
+                        {
+                            "Name": "ORA5515 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "October 31 - October 31",
+                            "Day": 1,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "RGN 2012",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

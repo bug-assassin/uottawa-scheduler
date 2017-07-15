@@ -1,0 +1,37 @@
+{
+    "CourseCode": "HIS3775",
+    "Title": "Thèmes choisis en histoire du Canada",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=015865\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "HIS3775 A00 - Histoire de la presse francophone au Canada",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "MRT 251",
+                            "Professor": "Pierre  Anctil"
+                        },
+                        {
+                            "Name": "HIS3775 A00 - Histoire de la presse francophone au Canada",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "MRT 251",
+                            "Professor": "Pierre  Anctil"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

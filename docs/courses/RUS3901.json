@@ -1,0 +1,52 @@
+{
+    "CourseCode": "RUS3901",
+    "Title": "Advanced Russian I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=028578\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "RUS3901 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "FTX 316",
+                            "Professor": "Arkadi  Klioutchanski"
+                        },
+                        {
+                            "Name": "RUS3901 A00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "FTX 315",
+                            "Professor": "Arkadi  Klioutchanski"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "RUS3901 A01",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1900,
+                            "EndHour": 2000,
+                            "Place": "DEP DEPT",
+                            "Professor": "Arkadi  Klioutchanski"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

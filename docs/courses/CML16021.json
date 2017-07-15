@@ -1,0 +1,37 @@
+{
+    "CourseCode": "CML16021",
+    "Title": "Les contrats (Partie 1 de 2)",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=051327\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML16021 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "FTX 147B",
+                            "Professor": "John A. Manwaring"
+                        },
+                        {
+                            "Name": "CML16021 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "FTX 147A",
+                            "Professor": "John A. Manwaring"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

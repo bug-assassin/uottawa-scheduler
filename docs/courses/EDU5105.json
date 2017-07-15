@@ -1,0 +1,27 @@
+{
+    "CourseCode": "EDU5105",
+    "Title": "Inter-Professional Education in the Health Professions",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=010406\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "F",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "EDU5105 F00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "LMX 241",
+                            "Professor": "Angus R. McMurtry"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

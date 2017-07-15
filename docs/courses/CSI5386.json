@@ -1,0 +1,27 @@
+{
+    "CourseCode": "CSI5386",
+    "Title": "Natural Language Processing",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=006894\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "F",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CSI5386 F00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "DMS 3105",
+                            "Professor": "Diana M. Inkpen"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

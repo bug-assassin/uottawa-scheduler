@@ -1,0 +1,27 @@
+{
+    "CourseCode": "EDU5671",
+    "Title": "Counselling et psychothérapie",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=010691\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "F",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "EDU5671 F00 - Hybrid course",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "LMX 451",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

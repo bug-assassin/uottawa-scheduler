@@ -1,0 +1,67 @@
+{
+    "CourseCode": "ECO3145",
+    "Title": "Mathematical Economics I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=009366\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ECO3145 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "VNR 1095",
+                            "Professor": "Michael Leslie Shiell"
+                        },
+                        {
+                            "Name": "ECO3145 B00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "VNR 1095",
+                            "Professor": "Michael Leslie Shiell"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ECO3145 C00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "VNR 1095",
+                            "Professor": "Nguyen Van Quyen"
+                        },
+                        {
+                            "Name": "ECO3145 C00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "VNR 1095",
+                            "Professor": "Nguyen Van Quyen"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

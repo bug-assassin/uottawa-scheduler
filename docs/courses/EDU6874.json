@@ -1,0 +1,27 @@
+{
+    "CourseCode": "EDU6874",
+    "Title": "Stage en psychologie du counselling III",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=010925\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "F",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "EDU6874 F00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "LMX 342",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

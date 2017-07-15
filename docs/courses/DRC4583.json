@@ -1,0 +1,37 @@
+{
+    "CourseCode": "DRC4583",
+    "Title": "Droit de l'immigration et des réfugiés",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=008739\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DRC4583 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "FTX 227",
+                            "Professor": "Yves  Lebouthillier"
+                        },
+                        {
+                            "Name": "DRC4583 000",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "FTX 227",
+                            "Professor": "Yves  Lebouthillier"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

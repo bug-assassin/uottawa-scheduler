@@ -1,0 +1,37 @@
+{
+    "CourseCode": "CHM8309",
+    "Title": "Advanced Topics in Physical",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=004222\u0026term=2179\u0026session=E",
+    "Sections": [
+        {
+            "SectionCode": "G",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CHM8309 G00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - October 20",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "FSS 7035",
+                            "Professor": "Robert Jack  Cornett"
+                        },
+                        {
+                            "Name": "CHM8309 G00",
+                            "ActivityType": "LEC",
+                            "StartEndDates": "September 06 - October 20",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "CBY E016",
+                            "Professor": "Robert Jack  Cornett"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

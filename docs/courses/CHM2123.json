@@ -1,0 +1,67 @@
+{
+    "CourseCode": "CHM2123",
+    "Title": "Laboratory of Organic Chemistry II",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=003880\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "CHM2123 A00",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 800,
+                            "EndHour": 1100,
+                            "Place": "MRN 301",
+                            "Professor": "Katherine  McGilvray"
+                        },
+                        {
+                            "Name": "CHM2123 A01",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 0,
+                            "StartHour": 1830,
+                            "EndHour": 2130,
+                            "Place": "MRN 301",
+                            "Professor": "Katherine  McGilvray"
+                        },
+                        {
+                            "Name": "CHM2123 A02",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "MRN 301",
+                            "Professor": "Katherine  McGilvray"
+                        },
+                        {
+                            "Name": "CHM2123 A03",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "MRN 301",
+                            "Professor": "Katherine  McGilvray"
+                        },
+                        {
+                            "Name": "CHM2123 A04",
+                            "ActivityType": "LAB",
+                            "StartEndDates": "September 06 - December 06",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "MRN 301",
+                            "Professor": "Katherine  McGilvray"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
