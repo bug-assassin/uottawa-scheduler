@@ -12,5 +12,6 @@
     <orderEntry type="library" name="fullcalendar" level="application" />
     <orderEntry type="library" name="GOPATH &lt;ScheduleJavascript&gt;" level="project" />
     <orderEntry type="library" name="awesomplete" level="application" />
+    <orderEntry type="library" name="GOPATH &lt;uottawa-scheduler&gt;" level="project" />
   </component>
 </module>

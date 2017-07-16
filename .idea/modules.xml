@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ScheduleJavascript.iml" filepath="$PROJECT_DIR$/ScheduleJavascript.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uottawa-scheduler.iml" filepath="$PROJECT_DIR$/uottawa-scheduler.iml" />
     </modules>
   </component>
 </project>
