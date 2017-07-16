@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b4fb82e-26fc-49b2-8eab-fa53b185a382" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ScheduleJavascript.iml" afterPath="$PROJECT_DIR$/uottawa-scheduler.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/GOPATH__ScheduleJavascript_.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uottawa-scheduler.iml" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -1012,7 +1015,7 @@
       <workItem from="1500071434394" duration="14130000" />
       <workItem from="1500149592156" duration="11000" />
       <workItem from="1500155266972" duration="1576000" />
-      <workItem from="1500176701239" duration="440000" />
+      <workItem from="1500176701239" duration="479000" />
     </task>
     <task id="LOCAL-00001" summary="Improved website design">
       <created>1500083070985</created>
@@ -1042,7 +1045,14 @@
       <option name="project" value="LOCAL" />
       <updated>1500176588715</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added gitignore">
+      <created>1500177155616</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1500177155616</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1078,7 +1088,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98657000" />
+    <option name="totallyTimeSpent" value="98696000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1137,7 +1147,8 @@
     <MESSAGE value="Added navbar and added docs folder to test github pages hosting" />
     <MESSAGE value="Removed docs folder and moved the files from src/ to root" />
     <MESSAGE value="Added google analytics" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added google analytics" />
+    <MESSAGE value="Added gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
