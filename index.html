@@ -168,8 +168,7 @@
                     return e.CourseCode == courseCode;
                 }).length > 0) return;
 
-            //TODO debug only
-            var path = "/ScheduleJavascript" + "/courses/" + courseCode + ".json";
+            var path = "./courses/" + courseCode + ".json";
             $.getJSON(path, addCourse);
 
             function addCourse(course) {
