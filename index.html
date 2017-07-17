@@ -37,6 +37,7 @@
             padding: .5em .75em;
             vertical-align: top;
         }
+        body.modal-open { overflow: hidden; }
     </style>
 
     <script>
@@ -73,10 +74,9 @@
     <script src='https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.4.0/fullcalendar.min.js'></script>
     <script src="schedule_generator.js"></script>
     <style>
-        .fc-title {
-            font-size: 1.2em;
+        .fc-event {
+            margin-bottom: 1px;
         }
-
         .eventPlace, .eventProf {
             font-size: 0.9em;
         }
@@ -242,9 +242,35 @@
             defaultView: 'agendaWeek',
             allDaySlot: false,
             editable: false,
+            height: 'auto',
             eventRender: function (event, element, view) {
                 var title = element.find('.fc-title');
                 title.html(title.text());
+            },
+            eventClick: function(calEvent, jsEvent, view) {
+
+                //alert('Event: ' + calEvent.title);
+                //alert('Coordinates: ' + jsEvent.pageX + ',' + jsEvent.pageY);
+                //alert('View: ' + view.name);
+
+                var start = moment(calEvent.start).format("hh:mm");
+                var end = moment(calEvent.end).format("hh:mm");
+                var modalHtml = start + " - " + end + "<br/>" + calEvent.title;
+
+                var eventClickView = $('#eventClickView');
+                eventClickView.find(".modal-content-html").html(modalHtml);
+                eventClickView.addClass('is-active');
+
+                eventClickView.find('.modal-close').click(closeModal);
+                eventClickView.click(function (e) {
+                    if(!$(e.target).hasClass('box')) {
+                        closeModal();
+                    }
+                });
+
+                function closeModal() {
+                    $('#eventClickView').removeClass('is-active');
+                }
             }
         };
 
@@ -347,9 +373,6 @@
 
             return event;
         }
-        function showLoading(isLoading) {
-            $('.sk-fading-circle').toggle(isLoading);
-        }
     </script>
     <script>
         //DEBUG ONLY
@@ -360,6 +383,15 @@
     </script>
 </head>
 <body>
+<div class="modal" id="eventClickView">
+    <div class="modal-background"></div>
+    <div class="modal-content">
+        <div class="box modal-content-html">
+
+        </div>
+    </div>
+    <button class="modal-close is-large"></button>
+</div>
 
 <nav class="navbar ">
     <div class="navbar-brand">
