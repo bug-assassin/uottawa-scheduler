@@ -267,61 +267,6 @@
             });
         }
 
-        var availableColors = generateColors(20); //For 20 courses, overkill but why not
-
-        function generateColors(total) {
-            var i = 360 / (total - 1); // distribute the colors evenly on the hue range
-            var r = []; // hold the generated colors
-            for (var x = 0; x < total; x++) {
-                r.push(HSVtoRGB(i * x, 100, 100)); // you can also alternate the saturation and value for even more contrast between the colors
-            }
-            return r;
-        }
-        /* accepts parameters
-         * h  Object = {h:x, s:y, v:z}
-         * OR
-         * h, s, v
-         */
-        function HSVtoRGB(h, s, v) {
-            var r, g, b, i, f, p, q, t;
-            if (arguments.length === 1) {
-                s = h.s, v = h.v, h = h.h;
-            }
-            i = Math.floor(h * 6);
-            f = h * 6 - i;
-            p = v * (1 - s);
-            q = v * (1 - f * s);
-            t = v * (1 - (1 - f) * s);
-            switch (i % 6) {
-                case 0:
-                    r = v, g = t, b = p;
-                    break;
-                case 1:
-                    r = q, g = v, b = p;
-                    break;
-                case 2:
-                    r = p, g = v, b = t;
-                    break;
-                case 3:
-                    r = p, g = q, b = v;
-                    break;
-                case 4:
-                    r = t, g = p, b = v;
-                    break;
-                case 5:
-                    r = v, g = p, b = q;
-                    break;
-            }
-            return {
-                r: Math.round(r * 255),
-                g: Math.round(g * 255),
-                b: Math.round(b * 255)
-            };
-        }
-        function getActivityColor() {
-            return 'red';
-        }
-
         function pickTopGeneratedActivities(generatedActivitiesCombinations) {
             if (generatedActivitiesCombinations.length < 5) {
                 return toArray(generatedActivitiesCombinations);
@@ -386,7 +331,10 @@
             $("#calendar").fullCalendar('renderEvents', fullCalendarActivities);
         }
         function convertActivityToFullCalendarFormat(activity) {
-            var activityColor = getActivityColor(activity.ActivityType);
+            var courseCode = activity.Name.split(" ")[0];
+            var salt = " -ASDASDG";//Helps avoid color collision
+
+            var activityColor = nameToColor(courseCode + salt);
             var eventDay = (activity.Day + 1) % 7; //Monday is index 0 in our data and fullCalendar wants Sunday to be index 0
             var event = {
                 title: activity.Name + " (" + activity.ActivityType + ")" + "<br /><span class='eventPlace'>" + activity.Place + "</span><br /><span class='eventProf'>" + activity.Professor + "</span>",
