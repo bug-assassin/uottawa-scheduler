@@ -109,7 +109,8 @@ function toArray(data) {
     return data instanceof Array ? data : [data];
 }
 
-var module;
-module.exports = {
-    generateValidSchedulesFromCourses: generateValidSchedulesFromCourses
-};
+if (typeof module === "object" && module.exports) {
+    module.exports = {
+        generateValidSchedulesFromCourses: generateValidSchedulesFromCourses
+    };
+}

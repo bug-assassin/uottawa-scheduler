@@ -50,6 +50,8 @@ Number.prototype.intToHSL = function() {
     return "hsl(" + shortened + ",100%,30%)";
 };
 
-module.exports = {
-    timer: timer
-};
+if (typeof module === "object" && module.exports) {
+    module.exports = {
+        timer: timer
+    };
+}
