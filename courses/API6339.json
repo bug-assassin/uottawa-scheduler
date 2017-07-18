@@ -12,7 +12,8 @@
                         {
                             "Name": "API6339 A00 - Evaluating Public Policies and Programs",
                             "ActivityType": "SEM",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1430,
                             "EndHour": 1730,
@@ -32,7 +33,8 @@
                         {
                             "Name": "API6339 B00 - International Institutions",
                             "ActivityType": "SEM",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1130,
                             "EndHour": 1430,
@@ -52,7 +54,8 @@
                         {
                             "Name": "API6339 C00 - E-Government",
                             "ActivityType": "SEM",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1430,
                             "EndHour": 1730,
@@ -72,7 +75,8 @@
                         {
                             "Name": "API6339 D00 - Analytics Public Policy: Data",
                             "ActivityType": "SEM",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1730,
                             "EndHour": 2030,
@@ -92,7 +96,8 @@
                         {
                             "Name": "API6339 K00 - Canadian Refugee Resettlement",
                             "ActivityType": "SEM",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1130,
                             "EndHour": 1430,

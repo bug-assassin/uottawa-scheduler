@@ -12,7 +12,8 @@
                         {
                             "Name": "MBA6269 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 09 - September 09",
+                            "StartDate": "09-09",
+                            "EndDate": "09-09",
                             "Day": 5,
                             "StartHour": 800,
                             "EndHour": 1245,
@@ -22,7 +23,8 @@
                         {
                             "Name": "MBA6269 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 23 - September 23",
+                            "StartDate": "09-23",
+                            "EndDate": "09-23",
                             "Day": 5,
                             "StartHour": 800,
                             "EndHour": 1245,
@@ -32,7 +34,8 @@
                         {
                             "Name": "MBA6269 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 14 - October 14",
+                            "StartDate": "10-14",
+                            "EndDate": "10-14",
                             "Day": 5,
                             "StartHour": 800,
                             "EndHour": 1245,

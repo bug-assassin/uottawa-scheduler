@@ -12,7 +12,8 @@
                         {
                             "Name": "APA1313 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 800,
                             "EndHour": 1000,
@@ -27,7 +28,8 @@
                         {
                             "Name": "APA1313 A01",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 800,
                             "EndHour": 1000,
@@ -37,7 +39,8 @@
                         {
                             "Name": "APA1313 A02",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1000,
                             "EndHour": 1200,
@@ -47,7 +50,8 @@
                         {
                             "Name": "APA1313 A03",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1800,
                             "EndHour": 2000,
@@ -57,7 +61,8 @@
                         {
                             "Name": "APA1313 A04",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 800,
                             "EndHour": 1000,
@@ -67,7 +72,8 @@
                         {
                             "Name": "APA1313 A05",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1000,
                             "EndHour": 1200,
@@ -77,7 +83,8 @@
                         {
                             "Name": "APA1313 A06",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1200,
                             "EndHour": 1400,
@@ -87,7 +94,8 @@
                         {
                             "Name": "APA1313 A07",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1400,
                             "EndHour": 1600,
@@ -97,7 +105,8 @@
                         {
                             "Name": "APA1313 A08",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1600,
                             "EndHour": 1800,
@@ -107,7 +116,8 @@
                         {
                             "Name": "APA1313 A09",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1000,
                             "EndHour": 1200,
@@ -117,7 +127,8 @@
                         {
                             "Name": "APA1313 A10",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1200,
                             "EndHour": 1400,
@@ -127,7 +138,8 @@
                         {
                             "Name": "APA1313 A11",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1400,
                             "EndHour": 1600,

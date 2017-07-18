@@ -12,7 +12,8 @@
                         {
                             "Name": "HIS4365 X00 - History of Global Health and Disease",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1900,
                             "EndHour": 2200,

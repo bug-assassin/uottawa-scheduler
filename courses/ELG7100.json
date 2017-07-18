@@ -12,7 +12,8 @@
                         {
                             "Name": "ELG7100 A00 - Microwave Photonics",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 830,
                             "EndHour": 1000,
@@ -22,7 +23,8 @@
                         {
                             "Name": "ELG7100 A00 - Microwave Photonics",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1000,
                             "EndHour": 1130,
@@ -42,7 +44,8 @@
                         {
                             "Name": "ELG7100 D00 - Finite Elem. Methods for Electromagnetic Modeling",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1730,
                             "EndHour": 1900,
@@ -52,7 +55,8 @@
                         {
                             "Name": "ELG7100 D00 - Finite Elem. Methods for Electromagnetic Modeling",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1730,
                             "EndHour": 1900,

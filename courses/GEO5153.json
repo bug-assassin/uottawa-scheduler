@@ -12,7 +12,8 @@
                         {
                             "Name": "GEO5153 A00 - GIS for Science \u0026 Engineering Applications",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1730,
                             "EndHour": 2030,

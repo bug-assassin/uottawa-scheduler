@@ -12,7 +12,8 @@
                         {
                             "Name": "BIM4920 C00",
                             "ActivityType": "SEM",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1430,
                             "EndHour": 1630,
@@ -32,7 +33,8 @@
                         {
                             "Name": "BIM4920 D00",
                             "ActivityType": "SEM",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1430,
                             "EndHour": 1630,
@@ -52,7 +54,8 @@
                         {
                             "Name": "BIM4920 E00 - bilingue/Bilingual",
                             "ActivityType": "SEM",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1430,
                             "EndHour": 1630,
@@ -72,7 +75,8 @@
                         {
                             "Name": "BIM4920 A00",
                             "ActivityType": "SEM",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1430,
                             "EndHour": 1630,
@@ -92,7 +96,8 @@
                         {
                             "Name": "BIM4920 B00",
                             "ActivityType": "SEM",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1430,
                             "EndHour": 1630,

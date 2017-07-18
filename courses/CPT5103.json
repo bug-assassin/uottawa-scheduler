@@ -12,7 +12,8 @@
                         {
                             "Name": "CPT5103 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 12 - October 17",
+                            "StartDate": "09-12",
+                            "EndDate": "10-17",
                             "Day": 1,
                             "StartHour": 830,
                             "EndHour": 1130,

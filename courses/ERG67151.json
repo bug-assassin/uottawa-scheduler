@@ -12,7 +12,8 @@
                         {
                             "Name": "ERG67151 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 08 - September 08",
+                            "StartDate": "09-08",
+                            "EndDate": "09-08",
                             "Day": 4,
                             "StartHour": 1300,
                             "EndHour": 1600,
@@ -22,7 +23,8 @@
                         {
                             "Name": "ERG67151 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 14 - September 14",
+                            "StartDate": "09-14",
+                            "EndDate": "09-14",
                             "Day": 3,
                             "StartHour": 1300,
                             "EndHour": 1600,
@@ -32,7 +34,8 @@
                         {
                             "Name": "ERG67151 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 15 - October 20",
+                            "StartDate": "09-15",
+                            "EndDate": "10-20",
                             "Day": 4,
                             "StartHour": 1300,
                             "EndHour": 1600,
@@ -42,7 +45,8 @@
                         {
                             "Name": "ERG67151 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 18 - October 18",
+                            "StartDate": "10-18",
+                            "EndDate": "10-18",
                             "Day": 2,
                             "StartHour": 900,
                             "EndHour": 1200,

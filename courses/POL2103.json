@@ -4,26 +4,6 @@
     "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=027171\u0026term=2179\u0026session=FS",
     "Sections": [
         {
-            "SectionCode": "B",
-            "ActivityGroups": [
-                {
-                    "ActivityType": "LEC",
-                    "Activities": [
-                        {
-                            "Name": "POL2103 B00",
-                            "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 2,
-                            "StartHour": 1900,
-                            "EndHour": 2200,
-                            "Place": "FSS 4007",
-                            "Professor": "Kevin  McMillan"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "SectionCode": "C",
             "ActivityGroups": [
                 {
@@ -32,7 +12,8 @@
                         {
                             "Name": "POL2103 C00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1730,
                             "EndHour": 1900,
@@ -42,12 +23,34 @@
                         {
                             "Name": "POL2103 C00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1730,
                             "EndHour": 1900,
                             "Place": "FSS 4007",
                             "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "POL2103 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 2,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "FSS 4007",
+                            "Professor": "Kevin  McMillan"
                         }
                     ]
                 }

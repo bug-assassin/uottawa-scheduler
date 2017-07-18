@@ -12,7 +12,8 @@
                         {
                             "Name": "MBA6156 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "November 11 - November 12",
+                            "StartDate": "11-11",
+                            "EndDate": "11-12",
                             "Day": 5,
                             "StartHour": 1445,
                             "EndHour": 1700,
@@ -22,7 +23,8 @@
                         {
                             "Name": "MBA6156 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "November 11 - November 12",
+                            "StartDate": "11-11",
+                            "EndDate": "11-12",
                             "Day": 6,
                             "StartHour": 1445,
                             "EndHour": 1700,
@@ -32,7 +34,8 @@
                         {
                             "Name": "MBA6156 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "November 11 - November 12",
+                            "StartDate": "11-11",
+                            "EndDate": "11-12",
                             "Day": 5,
                             "StartHour": 1200,
                             "EndHour": 1415,
@@ -42,7 +45,8 @@
                         {
                             "Name": "MBA6156 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "November 11 - November 12",
+                            "StartDate": "11-11",
+                            "EndDate": "11-12",
                             "Day": 6,
                             "StartHour": 1200,
                             "EndHour": 1415,
@@ -52,7 +56,8 @@
                         {
                             "Name": "MBA6156 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "November 11 - November 12",
+                            "StartDate": "11-11",
+                            "EndDate": "11-12",
                             "Day": 5,
                             "StartHour": 900,
                             "EndHour": 1115,
@@ -62,7 +67,8 @@
                         {
                             "Name": "MBA6156 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "November 11 - November 12",
+                            "StartDate": "11-11",
+                            "EndDate": "11-12",
                             "Day": 6,
                             "StartHour": 900,
                             "EndHour": 1115,

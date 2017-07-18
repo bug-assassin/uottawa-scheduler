@@ -12,7 +12,8 @@
                         {
                             "Name": "MHA6360 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 03",
+                            "StartDate": "09-06",
+                            "EndDate": "12-03",
                             "Day": 3,
                             "StartHour": 1730,
                             "EndHour": 2030,

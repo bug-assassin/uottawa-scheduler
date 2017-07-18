@@ -4,46 +4,6 @@
     "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=008169\u0026term=2179\u0026session=FS",
     "Sections": [
         {
-            "SectionCode": "C",
-            "ActivityGroups": [
-                {
-                    "ActivityType": "LEC",
-                    "Activities": [
-                        {
-                            "Name": "DCL6339 C00 - Securities Law and Regulation",
-                            "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 3,
-                            "StartHour": 1730,
-                            "EndHour": 2030,
-                            "Place": "FTX 361",
-                            "Professor": "Ian  Macgregor"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "SectionCode": "F",
-            "ActivityGroups": [
-                {
-                    "ActivityType": "LEC",
-                    "Activities": [
-                        {
-                            "Name": "DCL6339 F00 - Competition Law",
-                            "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 0,
-                            "StartHour": 1600,
-                            "EndHour": 1900,
-                            "Place": "FTX 402",
-                            "Professor": "John  Tyhurst"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "SectionCode": "A",
             "ActivityGroups": [
                 {
@@ -52,7 +12,8 @@
                         {
                             "Name": "DCL6339 A00 - Corporate Finance Law and Practice",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1430,
                             "EndHour": 1600,
@@ -62,7 +23,8 @@
                         {
                             "Name": "DCL6339 A00 - Corporate Finance Law and Practice",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1000,
                             "EndHour": 1130,
@@ -82,12 +44,55 @@
                         {
                             "Name": "DCL6339 D00 - Taxation",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 830,
                             "EndHour": 1130,
                             "Place": "FTX 133",
                             "Professor": "Ellen B. Zweibel"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DCL6339 C00 - Securities Law and Regulation",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 3,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "FTX 361",
+                            "Professor": "Ian  Macgregor"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "F",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DCL6339 F00 - Competition Law",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 0,
+                            "StartHour": 1600,
+                            "EndHour": 1900,
+                            "Place": "FTX 402",
+                            "Professor": "John  Tyhurst"
                         }
                     ]
                 }

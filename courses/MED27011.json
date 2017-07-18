@@ -12,7 +12,8 @@
                         {
                             "Name": "MED27011 000",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 07 - September 14",
+                            "StartDate": "09-07",
+                            "EndDate": "09-14",
                             "Day": 3,
                             "StartHour": 1300,
                             "EndHour": 1700,
@@ -22,7 +23,8 @@
                         {
                             "Name": "MED27011 000",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 21 - October 05",
+                            "StartDate": "09-21",
+                            "EndDate": "10-05",
                             "Day": 3,
                             "StartHour": 1300,
                             "EndHour": 1700,
@@ -32,7 +34,8 @@
                         {
                             "Name": "MED27011 000",
                             "ActivityType": "TLB",
-                            "StartEndDates": "October 12 - October 12",
+                            "StartDate": "10-12",
+                            "EndDate": "10-12",
                             "Day": 3,
                             "StartHour": 1300,
                             "EndHour": 1700,
@@ -42,7 +45,8 @@
                         {
                             "Name": "MED27011 000",
                             "ActivityType": "TLB",
-                            "StartEndDates": "October 19 - October 19",
+                            "StartDate": "10-19",
+                            "EndDate": "10-19",
                             "Day": 3,
                             "StartHour": 1300,
                             "EndHour": 1700,
@@ -52,7 +56,8 @@
                         {
                             "Name": "MED27011 000",
                             "ActivityType": "TLB",
-                            "StartEndDates": "October 26 - October 26",
+                            "StartDate": "10-26",
+                            "EndDate": "10-26",
                             "Day": 3,
                             "StartHour": 1300,
                             "EndHour": 1500,
@@ -62,7 +67,8 @@
                         {
                             "Name": "MED27011 000",
                             "ActivityType": "TLB",
-                            "StartEndDates": "November 02 - November 23",
+                            "StartDate": "11-02",
+                            "EndDate": "11-23",
                             "Day": 3,
                             "StartHour": 1300,
                             "EndHour": 1500,
@@ -72,7 +78,8 @@
                         {
                             "Name": "MED27011 000",
                             "ActivityType": "TLB",
-                            "StartEndDates": "November 30 - November 30",
+                            "StartDate": "11-30",
+                            "EndDate": "11-30",
                             "Day": 3,
                             "StartHour": 1330,
                             "EndHour": 1630,
@@ -82,7 +89,8 @@
                         {
                             "Name": "MED27011 000",
                             "ActivityType": "TLB",
-                            "StartEndDates": "December 07 - December 07",
+                            "StartDate": "12-07",
+                            "EndDate": "12-07",
                             "Day": 3,
                             "StartHour": 1300,
                             "EndHour": 1700,

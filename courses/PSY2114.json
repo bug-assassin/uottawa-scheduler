@@ -4,56 +4,6 @@
     "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=027621\u0026term=2179\u0026session=FS",
     "Sections": [
         {
-            "SectionCode": "C",
-            "ActivityGroups": [
-                {
-                    "ActivityType": "LEC",
-                    "Activities": [
-                        {
-                            "Name": "PSY2114 CJ00 - CA CornwallVideo-conference course",
-                            "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 0,
-                            "StartHour": 1900,
-                            "EndHour": 2200,
-                            "Place": "Not available at this time.",
-                            "Professor": "N/a"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "SectionCode": "H",
-            "ActivityGroups": [
-                {
-                    "ActivityType": "LEC",
-                    "Activities": [
-                        {
-                            "Name": "PSY2114 HC00 - Video-conference course",
-                            "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 0,
-                            "StartHour": 1900,
-                            "EndHour": 2200,
-                            "Place": "FSS 11003",
-                            "Professor": "N/a"
-                        },
-                        {
-                            "Name": "PSY2114 HJ00 - CA HawkesburyVideo-conference course",
-                            "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 0,
-                            "StartHour": 1900,
-                            "EndHour": 2200,
-                            "Place": "Not available at this time.",
-                            "Professor": "N/a"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "SectionCode": "P",
             "ActivityGroups": [
                 {
@@ -62,7 +12,8 @@
                         {
                             "Name": "PSY2114 PJ00 - CA Pembroke Algonquin CollegeVideo-conference course",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1900,
                             "EndHour": 2200,
@@ -82,7 +33,8 @@
                         {
                             "Name": "PSY2114 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1900,
                             "EndHour": 2200,
@@ -102,11 +54,65 @@
                         {
                             "Name": "PSY2114 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1900,
                             "EndHour": 2200,
                             "Place": "MRT 205",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PSY2114 CJ00 - CA CornwallVideo-conference course",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 0,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "Not available at this time.",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "H",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PSY2114 HC00 - Video-conference course",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 0,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "FSS 11003",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "PSY2114 HJ00 - CA HawkesburyVideo-conference course",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 0,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "Not available at this time.",
                             "Professor": "N/a"
                         }
                     ]

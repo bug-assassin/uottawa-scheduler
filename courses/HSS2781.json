@@ -12,7 +12,8 @@
                         {
                             "Name": "HSS2781 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1600,
                             "EndHour": 1830,
@@ -27,7 +28,8 @@
                         {
                             "Name": "HSS2781 B01",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1130,
                             "EndHour": 1230,
@@ -37,7 +39,8 @@
                         {
                             "Name": "HSS2781 B02",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1230,
                             "EndHour": 1330,
@@ -57,7 +60,8 @@
                         {
                             "Name": "HSS2781 C00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1700,
                             "EndHour": 1930,
@@ -72,7 +76,8 @@
                         {
                             "Name": "HSS2781 C01",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 830,
                             "EndHour": 930,
@@ -82,7 +87,8 @@
                         {
                             "Name": "HSS2781 C02",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 930,
                             "EndHour": 1030,
@@ -92,7 +98,8 @@
                         {
                             "Name": "HSS2781 C03",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 830,
                             "EndHour": 930,
@@ -102,7 +109,8 @@
                         {
                             "Name": "HSS2781 C04",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 930,
                             "EndHour": 1030,
@@ -112,7 +120,8 @@
                         {
                             "Name": "HSS2781 C05",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1030,
                             "EndHour": 1130,

@@ -12,7 +12,8 @@
                         {
                             "Name": "CRM6380 A00 - Governing Through Health: Health, Law and Medecine",
                             "ActivityType": "SEM",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1130,
                             "EndHour": 1430,
@@ -32,7 +33,8 @@
                         {
                             "Name": "CRM6380 B00 - Theoretical Contributions to Criminology",
                             "ActivityType": "SEM",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1130,
                             "EndHour": 1430,

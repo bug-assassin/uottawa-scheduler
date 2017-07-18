@@ -4,76 +4,6 @@
     "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=011241\u0026term=2179\u0026session=FS",
     "Sections": [
         {
-            "SectionCode": "A",
-            "ActivityGroups": [
-                {
-                    "ActivityType": "LEC",
-                    "Activities": [
-                        {
-                            "Name": "ELG3125 A00",
-                            "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 4,
-                            "StartHour": 1300,
-                            "EndHour": 1430,
-                            "Place": "FTX 147A",
-                            "Professor": "Martin  Bouchard"
-                        },
-                        {
-                            "Name": "ELG3125 A00",
-                            "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 1,
-                            "StartHour": 1130,
-                            "EndHour": 1300,
-                            "Place": "FTX 147B",
-                            "Professor": "Martin  Bouchard"
-                        }
-                    ]
-                },
-                {
-                    "ActivityType": "LAB",
-                    "Activities": [
-                        {
-                            "Name": "ELG3125 A01",
-                            "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 1,
-                            "StartHour": 1600,
-                            "EndHour": 1730,
-                            "Place": "STE 2060",
-                            "Professor": "Martin  Bouchard"
-                        },
-                        {
-                            "Name": "ELG3125 A02",
-                            "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 2,
-                            "StartHour": 1730,
-                            "EndHour": 1900,
-                            "Place": "STE 0130",
-                            "Professor": "Martin  Bouchard"
-                        }
-                    ]
-                },
-                {
-                    "ActivityType": "TUT",
-                    "Activities": [
-                        {
-                            "Name": "ELG3125 A03",
-                            "ActivityType": "TUT",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 0,
-                            "StartHour": 1730,
-                            "EndHour": 1900,
-                            "Place": "MRT 218",
-                            "Professor": "Martin  Bouchard"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "SectionCode": "B",
             "ActivityGroups": [
                 {
@@ -82,7 +12,8 @@
                         {
                             "Name": "ELG3125 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1730,
                             "EndHour": 1900,
@@ -92,7 +23,8 @@
                         {
                             "Name": "ELG3125 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1730,
                             "EndHour": 1900,
@@ -107,7 +39,8 @@
                         {
                             "Name": "ELG3125 B01",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1000,
                             "EndHour": 1130,
@@ -117,7 +50,8 @@
                         {
                             "Name": "ELG3125 B02",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1300,
                             "EndHour": 1430,
@@ -132,12 +66,88 @@
                         {
                             "Name": "ELG3125 B03",
                             "ActivityType": "TUT",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1130,
                             "EndHour": 1300,
                             "Place": "MNT 207",
                             "Professor": "Jianping  Yao"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ELG3125 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 4,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "FTX 147A",
+                            "Professor": "Martin  Bouchard"
+                        },
+                        {
+                            "Name": "ELG3125 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "FTX 147B",
+                            "Professor": "Martin  Bouchard"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "ELG3125 A01",
+                            "ActivityType": "LAB",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 1,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "STE 2060",
+                            "Professor": "Martin  Bouchard"
+                        },
+                        {
+                            "Name": "ELG3125 A02",
+                            "ActivityType": "LAB",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 2,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "STE 0130",
+                            "Professor": "Martin  Bouchard"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "TUT",
+                    "Activities": [
+                        {
+                            "Name": "ELG3125 A03",
+                            "ActivityType": "TUT",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 0,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "MRT 218",
+                            "Professor": "Martin  Bouchard"
                         }
                     ]
                 }

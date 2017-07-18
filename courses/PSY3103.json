@@ -4,51 +4,6 @@
     "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=027664\u0026term=2179\u0026session=FS",
     "Sections": [
         {
-            "SectionCode": "C",
-            "ActivityGroups": [
-                {
-                    "ActivityType": "LEC",
-                    "Activities": [
-                        {
-                            "Name": "PSY3103 C00",
-                            "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 1,
-                            "StartHour": 1430,
-                            "EndHour": 1730,
-                            "Place": "MRT 251",
-                            "Professor": "N/a"
-                        }
-                    ]
-                },
-                {
-                    "ActivityType": "LAB",
-                    "Activities": [
-                        {
-                            "Name": "PSY3103 C01",
-                            "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 2,
-                            "StartHour": 1900,
-                            "EndHour": 2000,
-                            "Place": "VNR 1050",
-                            "Professor": "N/a"
-                        },
-                        {
-                            "Name": "PSY3103 C02",
-                            "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 2,
-                            "StartHour": 2000,
-                            "EndHour": 2100,
-                            "Place": "VNR 1050",
-                            "Professor": "N/a"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "SectionCode": "A",
             "ActivityGroups": [
                 {
@@ -57,7 +12,8 @@
                         {
                             "Name": "PSY3103 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 830,
                             "EndHour": 1000,
@@ -67,7 +23,8 @@
                         {
                             "Name": "PSY3103 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1000,
                             "EndHour": 1130,
@@ -82,7 +39,8 @@
                         {
                             "Name": "PSY3103 A01",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1100,
                             "EndHour": 1200,
@@ -92,7 +50,8 @@
                         {
                             "Name": "PSY3103 A02",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1200,
                             "EndHour": 1300,
@@ -112,7 +71,8 @@
                         {
                             "Name": "PSY3103 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1130,
                             "EndHour": 1300,
@@ -122,7 +82,8 @@
                         {
                             "Name": "PSY3103 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1300,
                             "EndHour": 1430,
@@ -137,7 +98,8 @@
                         {
                             "Name": "PSY3103 B01",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1500,
                             "EndHour": 1600,
@@ -147,12 +109,61 @@
                         {
                             "Name": "PSY3103 B02",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1600,
                             "EndHour": 1700,
                             "Place": "VNR 1050",
                             "Professor": "Catherine  Plowright"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PSY3103 C00",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "MRT 251",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "PSY3103 C01",
+                            "ActivityType": "LAB",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 2,
+                            "StartHour": 1900,
+                            "EndHour": 2000,
+                            "Place": "VNR 1050",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "PSY3103 C02",
+                            "ActivityType": "LAB",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 2,
+                            "StartHour": 2000,
+                            "EndHour": 2100,
+                            "Place": "VNR 1050",
+                            "Professor": "N/a"
                         }
                     ]
                 }

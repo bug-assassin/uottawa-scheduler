@@ -12,7 +12,8 @@
                         {
                             "Name": "PHY5332 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1400,
                             "EndHour": 1700,

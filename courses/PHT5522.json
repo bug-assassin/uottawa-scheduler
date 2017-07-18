@@ -12,7 +12,8 @@
                         {
                             "Name": "PHT5522 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - September 15",
+                            "StartDate": "09-06",
+                            "EndDate": "09-15",
                             "Day": 2,
                             "StartHour": 1200,
                             "EndHour": 1400,
@@ -22,7 +23,8 @@
                         {
                             "Name": "PHT5522 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - September 15",
+                            "StartDate": "09-06",
+                            "EndDate": "09-15",
                             "Day": 4,
                             "StartHour": 1200,
                             "EndHour": 1400,
@@ -32,7 +34,8 @@
                         {
                             "Name": "PHT5522 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 18 - October 02",
+                            "StartDate": "09-18",
+                            "EndDate": "10-02",
                             "Day": 0,
                             "StartHour": 1130,
                             "EndHour": 1330,
@@ -42,7 +45,8 @@
                         {
                             "Name": "PHT5522 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 22 - October 06",
+                            "StartDate": "09-22",
+                            "EndDate": "10-06",
                             "Day": 4,
                             "StartHour": 1200,
                             "EndHour": 1400,

@@ -12,7 +12,8 @@
                         {
                             "Name": "JPN1901 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 830,
                             "EndHour": 1000,
@@ -22,7 +23,8 @@
                         {
                             "Name": "JPN1901 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1000,
                             "EndHour": 1130,
@@ -37,7 +39,8 @@
                         {
                             "Name": "JPN1901 B01",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1000,
                             "EndHour": 1100,
@@ -57,7 +60,8 @@
                         {
                             "Name": "JPN1901 C00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1130,
                             "EndHour": 1300,
@@ -67,7 +71,8 @@
                         {
                             "Name": "JPN1901 C00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1300,
                             "EndHour": 1430,
@@ -82,7 +87,8 @@
                         {
                             "Name": "JPN1901 C01",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1300,
                             "EndHour": 1400,
@@ -102,7 +108,8 @@
                         {
                             "Name": "JPN1901 D00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 830,
                             "EndHour": 1000,
@@ -112,7 +119,8 @@
                         {
                             "Name": "JPN1901 D00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1000,
                             "EndHour": 1130,
@@ -127,7 +135,8 @@
                         {
                             "Name": "JPN1901 D01",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 900,
                             "EndHour": 1000,
@@ -147,7 +156,8 @@
                         {
                             "Name": "JPN1901 E00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1430,
                             "EndHour": 1600,
@@ -157,7 +167,8 @@
                         {
                             "Name": "JPN1901 E00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1600,
                             "EndHour": 1730,
@@ -172,7 +183,8 @@
                         {
                             "Name": "JPN1901 E01",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1600,
                             "EndHour": 1700,
@@ -192,7 +204,8 @@
                         {
                             "Name": "JPN1901 F00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1730,
                             "EndHour": 1900,
@@ -202,7 +215,8 @@
                         {
                             "Name": "JPN1901 F00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1730,
                             "EndHour": 1900,
@@ -217,7 +231,8 @@
                         {
                             "Name": "JPN1901 F01",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1900,
                             "EndHour": 2000,
@@ -237,7 +252,8 @@
                         {
                             "Name": "JPN1901 G00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1730,
                             "EndHour": 1900,
@@ -247,7 +263,8 @@
                         {
                             "Name": "JPN1901 G00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1730,
                             "EndHour": 1900,
@@ -262,7 +279,8 @@
                         {
                             "Name": "JPN1901 G01",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1900,
                             "EndHour": 2000,
@@ -282,7 +300,8 @@
                         {
                             "Name": "JPN1901 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1000,
                             "EndHour": 1130,
@@ -292,7 +311,8 @@
                         {
                             "Name": "JPN1901 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 830,
                             "EndHour": 1000,
@@ -307,7 +327,8 @@
                         {
                             "Name": "JPN1901 A01",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1130,
                             "EndHour": 1230,

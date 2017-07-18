@@ -12,7 +12,8 @@
                         {
                             "Name": "NSG3723 A00",
                             "ActivityType": "STG",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 730,
                             "EndHour": 2200,
@@ -22,7 +23,8 @@
                         {
                             "Name": "NSG3723 A00",
                             "ActivityType": "STG",
-                            "StartEndDates": "September 07 - September 07",
+                            "StartDate": "09-07",
+                            "EndDate": "09-07",
                             "Day": 3,
                             "StartHour": 830,
                             "EndHour": 1130,
@@ -32,7 +34,8 @@
                         {
                             "Name": "NSG3723 A00",
                             "ActivityType": "STG",
-                            "StartEndDates": "September 20 - September 20",
+                            "StartDate": "09-20",
+                            "EndDate": "09-20",
                             "Day": 2,
                             "StartHour": 1700,
                             "EndHour": 2000,
@@ -42,7 +45,8 @@
                         {
                             "Name": "NSG3723 A00",
                             "ActivityType": "STG",
-                            "StartEndDates": "October 18 - October 18",
+                            "StartDate": "10-18",
+                            "EndDate": "10-18",
                             "Day": 2,
                             "StartHour": 1700,
                             "EndHour": 2000,
@@ -52,7 +56,8 @@
                         {
                             "Name": "NSG3723 A00",
                             "ActivityType": "STG",
-                            "StartEndDates": "November 30 - November 30",
+                            "StartDate": "11-30",
+                            "EndDate": "11-30",
                             "Day": 3,
                             "StartHour": 1300,
                             "EndHour": 1700,
@@ -62,7 +67,8 @@
                         {
                             "Name": "NSG3723 A00",
                             "ActivityType": "STG",
-                            "StartEndDates": "November 30 - November 30",
+                            "StartDate": "11-30",
+                            "EndDate": "11-30",
                             "Day": 3,
                             "StartHour": 830,
                             "EndHour": 1700,

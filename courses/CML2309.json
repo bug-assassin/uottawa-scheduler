@@ -4,6 +4,27 @@
     "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=004900\u0026term=2179\u0026session=FS",
     "Sections": [
         {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML2309 C00",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "FTX 359",
+                            "Professor": "Paul  Vickery"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "SectionCode": "A",
             "ActivityGroups": [
                 {
@@ -12,7 +33,8 @@
                         {
                             "Name": "CML2309 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1900,
                             "EndHour": 2200,
@@ -32,31 +54,12 @@
                         {
                             "Name": "CML2309 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 830,
                             "EndHour": 1130,
                             "Place": "FTX 302",
-                            "Professor": "Paul  Vickery"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "SectionCode": "C",
-            "ActivityGroups": [
-                {
-                    "ActivityType": "LEC",
-                    "Activities": [
-                        {
-                            "Name": "CML2309 C00",
-                            "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 3,
-                            "StartHour": 1300,
-                            "EndHour": 1600,
-                            "Place": "FTX 359",
                             "Professor": "Paul  Vickery"
                         }
                     ]

@@ -12,7 +12,8 @@
                         {
                             "Name": "MCG5131 F00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 830,
                             "EndHour": 1130,

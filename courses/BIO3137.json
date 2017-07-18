@@ -4,26 +4,6 @@
     "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=002783\u0026term=2179\u0026session=FS",
     "Sections": [
         {
-            "SectionCode": "B",
-            "ActivityGroups": [
-                {
-                    "ActivityType": "LAB",
-                    "Activities": [
-                        {
-                            "Name": "BIO3137 B00",
-                            "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 0,
-                            "StartHour": 1300,
-                            "EndHour": 1900,
-                            "Place": "BSC 112",
-                            "Professor": "Colin  Montpetit,Vance  Trudeau"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "SectionCode": "A",
             "ActivityGroups": [
                 {
@@ -32,12 +12,34 @@
                         {
                             "Name": "BIO3137 A00",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1300,
                             "EndHour": 1900,
                             "Place": "BSC 112",
                             "Professor": "Charles-Antoine  Darveau,Vance  Trudeau,Matthew  Pamenter"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "BIO3137 B00",
+                            "ActivityType": "LAB",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1900,
+                            "Place": "BSC 112",
+                            "Professor": "Colin  Montpetit,Vance  Trudeau"
                         }
                     ]
                 }

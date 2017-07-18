@@ -12,7 +12,8 @@
                         {
                             "Name": "MBA5236 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 10 - September 10",
+                            "StartDate": "09-10",
+                            "EndDate": "09-10",
                             "Day": 6,
                             "StartHour": 800,
                             "EndHour": 1245,
@@ -22,7 +23,8 @@
                         {
                             "Name": "MBA5236 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 24 - September 24",
+                            "StartDate": "09-24",
+                            "EndDate": "09-24",
                             "Day": 6,
                             "StartHour": 800,
                             "EndHour": 1245,
@@ -32,7 +34,8 @@
                         {
                             "Name": "MBA5236 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 15 - October 15",
+                            "StartDate": "10-15",
+                            "EndDate": "10-15",
                             "Day": 6,
                             "StartHour": 800,
                             "EndHour": 1245,

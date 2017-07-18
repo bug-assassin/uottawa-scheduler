@@ -12,7 +12,8 @@
                         {
                             "Name": "MUS4710 A00 - Œuvres au début du vingtième siècle (1900-1925)",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1300,
                             "EndHour": 1600,

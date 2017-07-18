@@ -12,7 +12,8 @@
                         {
                             "Name": "ART1721 A00",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 830,
                             "EndHour": 1230,

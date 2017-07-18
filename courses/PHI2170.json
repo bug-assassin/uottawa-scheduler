@@ -12,7 +12,8 @@
                         {
                             "Name": "PHI2170 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - September 06",
+                            "StartDate": "09-06",
+                            "EndDate": "09-06",
                             "Day": 2,
                             "StartHour": 1430,
                             "EndHour": 1600,
@@ -22,7 +23,8 @@
                         {
                             "Name": "PHI2170 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1600,
                             "EndHour": 1730,
@@ -32,7 +34,8 @@
                         {
                             "Name": "PHI2170 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 13 - December 06",
+                            "StartDate": "09-13",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1430,
                             "EndHour": 1600,
@@ -47,7 +50,8 @@
                         {
                             "Name": "PHI2170 A01",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1430,
                             "EndHour": 1600,

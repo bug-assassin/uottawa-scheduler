@@ -12,7 +12,8 @@
                         {
                             "Name": "REA5940 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 11 - November 22",
+                            "StartDate": "10-11",
+                            "EndDate": "11-22",
                             "Day": 2,
                             "StartHour": 1630,
                             "EndHour": 1930,

@@ -12,7 +12,8 @@
                         {
                             "Name": "ORA5511 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - October 13",
+                            "StartDate": "09-06",
+                            "EndDate": "10-13",
                             "Day": 4,
                             "StartHour": 900,
                             "EndHour": 1200,
@@ -22,7 +23,8 @@
                         {
                             "Name": "ORA5511 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - October 11",
+                            "StartDate": "09-06",
+                            "EndDate": "10-11",
                             "Day": 2,
                             "StartHour": 900,
                             "EndHour": 1200,
@@ -32,7 +34,8 @@
                         {
                             "Name": "ORA5511 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 18 - October 18",
+                            "StartDate": "10-18",
+                            "EndDate": "10-18",
                             "Day": 2,
                             "StartHour": 900,
                             "EndHour": 1200,

@@ -12,7 +12,8 @@
                         {
                             "Name": "MBA5355 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - October 18",
+                            "StartDate": "09-06",
+                            "EndDate": "10-18",
                             "Day": 2,
                             "StartHour": 1600,
                             "EndHour": 1900,
@@ -22,7 +23,8 @@
                         {
                             "Name": "MBA5355 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 27 - December 03",
+                            "StartDate": "10-27",
+                            "EndDate": "12-03",
                             "Day": 4,
                             "StartHour": 1000,
                             "EndHour": 1300,

@@ -12,7 +12,8 @@
                         {
                             "Name": "CVG2132 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1430,
                             "EndHour": 1600,
@@ -22,7 +23,8 @@
                         {
                             "Name": "CVG2132 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1600,
                             "EndHour": 1730,
@@ -37,7 +39,8 @@
                         {
                             "Name": "CVG2132 A06",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1900,
                             "EndHour": 2200,
@@ -47,7 +50,8 @@
                         {
                             "Name": "CVG2132 A07",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1900,
                             "EndHour": 2200,
@@ -57,7 +61,8 @@
                         {
                             "Name": "CVG2132 A08",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1900,
                             "EndHour": 2200,
@@ -67,7 +72,8 @@
                         {
                             "Name": "CVG2132 A09",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1900,
                             "EndHour": 2200,
@@ -82,7 +88,8 @@
                         {
                             "Name": "CVG2132 A01",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1000,
                             "EndHour": 1230,
@@ -92,7 +99,8 @@
                         {
                             "Name": "CVG2132 A03",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1230,
                             "EndHour": 1500,
@@ -102,7 +110,8 @@
                         {
                             "Name": "CVG2132 A04",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1030,
                             "EndHour": 1300,
@@ -112,7 +121,8 @@
                         {
                             "Name": "CVG2132 A05",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1000,
                             "EndHour": 1230,

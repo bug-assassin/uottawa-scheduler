@@ -12,7 +12,8 @@
                         {
                             "Name": "MCG2508 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1430,
                             "EndHour": 1600,
@@ -22,7 +23,8 @@
                         {
                             "Name": "MCG2508 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1600,
                             "EndHour": 1730,
@@ -37,7 +39,8 @@
                         {
                             "Name": "MCG2508 A01",
                             "ActivityType": "TUT",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 800,
                             "EndHour": 1000,

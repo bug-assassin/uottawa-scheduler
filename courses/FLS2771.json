@@ -4,36 +4,6 @@
     "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=013477\u0026term=2179\u0026session=FS",
     "Sections": [
         {
-            "SectionCode": "C",
-            "ActivityGroups": [
-                {
-                    "ActivityType": "LEC",
-                    "Activities": [
-                        {
-                            "Name": "FLS2771 C00",
-                            "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 3,
-                            "StartHour": 1130,
-                            "EndHour": 1300,
-                            "Place": "SMD 222",
-                            "Professor": "Parvin  Movassat"
-                        },
-                        {
-                            "Name": "FLS2771 C00",
-                            "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 1,
-                            "StartHour": 1300,
-                            "EndHour": 1430,
-                            "Place": "SMD 222",
-                            "Professor": "Parvin  Movassat"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "SectionCode": "A",
             "ActivityGroups": [
                 {
@@ -42,7 +12,8 @@
                         {
                             "Name": "FLS2771 A00 - Hybrid course",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1730,
                             "EndHour": 1900,
@@ -52,7 +23,8 @@
                         {
                             "Name": "FLS2771 A00 - Hybrid course",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1730,
                             "EndHour": 1900,
@@ -72,7 +44,8 @@
                         {
                             "Name": "FLS2771 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1000,
                             "EndHour": 1130,
@@ -82,11 +55,44 @@
                         {
                             "Name": "FLS2771 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 830,
                             "EndHour": 1000,
                             "Place": "TBT 325",
+                            "Professor": "Parvin  Movassat"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "FLS2771 C00",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "SMD 222",
+                            "Professor": "Parvin  Movassat"
+                        },
+                        {
+                            "Name": "FLS2771 C00",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "SMD 222",
                             "Professor": "Parvin  Movassat"
                         }
                     ]

@@ -12,7 +12,8 @@
                         {
                             "Name": "PHI4384 A00 - Ethics and Analysis: Major 20th century works",
                             "ActivityType": "SEM",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 830,
                             "EndHour": 1000,
@@ -22,7 +23,8 @@
                         {
                             "Name": "PHI4384 A00 - Ethics and Analysis: Major 20th century works",
                             "ActivityType": "SEM",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1000,
                             "EndHour": 1130,

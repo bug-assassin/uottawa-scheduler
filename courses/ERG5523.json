@@ -12,7 +12,8 @@
                         {
                             "Name": "ERG5523 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 19 - October 31",
+                            "StartDate": "09-19",
+                            "EndDate": "10-31",
                             "Day": 1,
                             "StartHour": 900,
                             "EndHour": 1200,
@@ -22,7 +23,8 @@
                         {
                             "Name": "ERG5523 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "November 14 - November 14",
+                            "StartDate": "11-14",
+                            "EndDate": "11-14",
                             "Day": 1,
                             "StartHour": 900,
                             "EndHour": 1200,

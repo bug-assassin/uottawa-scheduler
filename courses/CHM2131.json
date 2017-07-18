@@ -12,7 +12,8 @@
                         {
                             "Name": "CHM2131 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1300,
                             "EndHour": 1430,
@@ -22,7 +23,8 @@
                         {
                             "Name": "CHM2131 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1130,
                             "EndHour": 1300,
@@ -37,7 +39,8 @@
                         {
                             "Name": "CHM2131 003",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1130,
                             "EndHour": 1300,
@@ -52,7 +55,8 @@
                         {
                             "Name": "CHM2131 001",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1300,
                             "EndHour": 1700,
@@ -62,7 +66,8 @@
                         {
                             "Name": "CHM2131 002",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1300,
                             "EndHour": 1700,

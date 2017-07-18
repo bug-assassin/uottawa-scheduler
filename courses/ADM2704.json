@@ -12,7 +12,8 @@
                         {
                             "Name": "ADM2704 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1730,
                             "EndHour": 2030,
@@ -27,7 +28,8 @@
                         {
                             "Name": "ADM2704 A01",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1130,
                             "EndHour": 1300,
@@ -37,7 +39,8 @@
                         {
                             "Name": "ADM2704 A02",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1600,
                             "EndHour": 1730,

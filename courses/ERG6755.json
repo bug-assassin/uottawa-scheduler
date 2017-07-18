@@ -12,7 +12,8 @@
                         {
                             "Name": "ERG6755 F00",
                             "ActivityType": "SEM",
-                            "StartEndDates": "October 26 - October 26",
+                            "StartDate": "10-26",
+                            "EndDate": "10-26",
                             "Day": 3,
                             "StartHour": 830,
                             "EndHour": 1630,

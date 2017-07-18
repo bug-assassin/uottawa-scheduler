@@ -12,7 +12,8 @@
                         {
                             "Name": "MCG4328 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 830,
                             "EndHour": 1000,
@@ -22,7 +23,8 @@
                         {
                             "Name": "MCG4328 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1000,
                             "EndHour": 1130,
@@ -37,7 +39,8 @@
                         {
                             "Name": "MCG4328 A01",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1130,
                             "EndHour": 1300,
@@ -47,7 +50,8 @@
                         {
                             "Name": "MCG4328 A02",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1300,
                             "EndHour": 1430,
@@ -62,7 +66,8 @@
                         {
                             "Name": "MCG4328 A03",
                             "ActivityType": "TUT",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1730,
                             "EndHour": 1900,
@@ -82,7 +87,8 @@
                         {
                             "Name": "MCG4328 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1730,
                             "EndHour": 2030,
@@ -97,7 +103,8 @@
                         {
                             "Name": "MCG4328 B01",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1300,
                             "EndHour": 1430,
@@ -107,7 +114,8 @@
                         {
                             "Name": "MCG4328 B02",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1430,
                             "EndHour": 1600,
@@ -122,7 +130,8 @@
                         {
                             "Name": "MCG4328 B03",
                             "ActivityType": "TUT",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1730,
                             "EndHour": 1900,

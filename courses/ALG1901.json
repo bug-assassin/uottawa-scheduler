@@ -4,96 +4,6 @@
     "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=001032\u0026term=2179\u0026session=FS",
     "Sections": [
         {
-            "SectionCode": "A",
-            "ActivityGroups": [
-                {
-                    "ActivityType": "LEC",
-                    "Activities": [
-                        {
-                            "Name": "ALG1901 A00",
-                            "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 4,
-                            "StartHour": 1000,
-                            "EndHour": 1130,
-                            "Place": "TBT 327",
-                            "Professor": "N/a"
-                        },
-                        {
-                            "Name": "ALG1901 A00",
-                            "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 1,
-                            "StartHour": 830,
-                            "EndHour": 1000,
-                            "Place": "MNT 103",
-                            "Professor": "N/a"
-                        }
-                    ]
-                },
-                {
-                    "ActivityType": "DGD",
-                    "Activities": [
-                        {
-                            "Name": "ALG1901 A01",
-                            "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 4,
-                            "StartHour": 1130,
-                            "EndHour": 1230,
-                            "Place": "FTX 135",
-                            "Professor": "N/a"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "SectionCode": "B",
-            "ActivityGroups": [
-                {
-                    "ActivityType": "LEC",
-                    "Activities": [
-                        {
-                            "Name": "ALG1901 B00",
-                            "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 3,
-                            "StartHour": 1300,
-                            "EndHour": 1430,
-                            "Place": "TBT 319",
-                            "Professor": "N/a"
-                        },
-                        {
-                            "Name": "ALG1901 B00",
-                            "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 0,
-                            "StartHour": 1130,
-                            "EndHour": 1300,
-                            "Place": "TBT 319",
-                            "Professor": "N/a"
-                        }
-                    ]
-                },
-                {
-                    "ActivityType": "DGD",
-                    "Activities": [
-                        {
-                            "Name": "ALG1901 B01",
-                            "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 0,
-                            "StartHour": 1300,
-                            "EndHour": 1400,
-                            "Place": "TBT 0019",
-                            "Professor": "N/a"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "SectionCode": "C",
             "ActivityGroups": [
                 {
@@ -102,7 +12,8 @@
                         {
                             "Name": "ALG1901 C00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 830,
                             "EndHour": 1000,
@@ -112,7 +23,8 @@
                         {
                             "Name": "ALG1901 C00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1000,
                             "EndHour": 1130,
@@ -127,7 +39,8 @@
                         {
                             "Name": "ALG1901 C01",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 900,
                             "EndHour": 1000,
@@ -147,7 +60,8 @@
                         {
                             "Name": "ALG1901 D00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1730,
                             "EndHour": 1900,
@@ -157,7 +71,8 @@
                         {
                             "Name": "ALG1901 D00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1730,
                             "EndHour": 1900,
@@ -172,7 +87,8 @@
                         {
                             "Name": "ALG1901 D01",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1900,
                             "EndHour": 2000,
@@ -192,7 +108,8 @@
                         {
                             "Name": "ALG1901 E00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1730,
                             "EndHour": 1900,
@@ -202,7 +119,8 @@
                         {
                             "Name": "ALG1901 E00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1730,
                             "EndHour": 1900,
@@ -217,11 +135,108 @@
                         {
                             "Name": "ALG1901 E01",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1900,
                             "EndHour": 2000,
                             "Place": "TBT 327",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ALG1901 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 4,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "TBT 327",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ALG1901 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "MNT 103",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "ALG1901 A01",
+                            "ActivityType": "DGD",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1230,
+                            "Place": "FTX 135",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ALG1901 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "TBT 319",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ALG1901 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "TBT 319",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "ALG1901 B01",
+                            "ActivityType": "DGD",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1400,
+                            "Place": "TBT 0019",
                             "Professor": "N/a"
                         }
                     ]

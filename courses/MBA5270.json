@@ -12,7 +12,8 @@
                         {
                             "Name": "MBA5270 E00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - October 15",
+                            "StartDate": "09-06",
+                            "EndDate": "10-15",
                             "Day": 3,
                             "StartHour": 1600,
                             "EndHour": 1900,

@@ -12,7 +12,8 @@
                         {
                             "Name": "NSG2317 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 830,
                             "EndHour": 1030,
@@ -22,7 +23,8 @@
                         {
                             "Name": "NSG2317 AP00 - CA Pembroke Algonquin College",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1000,
                             "EndHour": 1200,
@@ -32,7 +34,8 @@
                         {
                             "Name": "NSG2317 AW00 - CA Woodroffe Algonquin College",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1200,
                             "EndHour": 1400,
@@ -47,7 +50,8 @@
                         {
                             "Name": "NSG2317 A01",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 900,
                             "EndHour": 1200,
@@ -57,7 +61,8 @@
                         {
                             "Name": "NSG2317 A02",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 900,
                             "EndHour": 1200,
@@ -67,7 +72,8 @@
                         {
                             "Name": "NSG2317 A03",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 900,
                             "EndHour": 1200,
@@ -77,7 +83,8 @@
                         {
                             "Name": "NSG2317 A04",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 900,
                             "EndHour": 1200,
@@ -87,7 +94,8 @@
                         {
                             "Name": "NSG2317 A05",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 900,
                             "EndHour": 1200,
@@ -97,7 +105,8 @@
                         {
                             "Name": "NSG2317 A06",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 900,
                             "EndHour": 1200,
@@ -107,7 +116,8 @@
                         {
                             "Name": "NSG2317 A07",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1230,
                             "EndHour": 1530,
@@ -117,7 +127,8 @@
                         {
                             "Name": "NSG2317 A08",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1230,
                             "EndHour": 1530,
@@ -127,7 +138,8 @@
                         {
                             "Name": "NSG2317 A09",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1230,
                             "EndHour": 1530,
@@ -137,7 +149,8 @@
                         {
                             "Name": "NSG2317 AP01 - CA Pembroke Algonquin College",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1300,
                             "EndHour": 1600,
@@ -147,7 +160,8 @@
                         {
                             "Name": "NSG2317 AP02 - CA Pembroke Algonquin College",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 800,
                             "EndHour": 1100,
@@ -157,7 +171,8 @@
                         {
                             "Name": "NSG2317 AP03 - CA Pembroke Algonquin College",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1200,
                             "EndHour": 1500,
@@ -167,7 +182,8 @@
                         {
                             "Name": "NSG2317 AP05 - CA Pembroke Algonquin College",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 800,
                             "EndHour": 1100,
@@ -177,7 +193,8 @@
                         {
                             "Name": "NSG2317 AP06 - CA Pembroke Algonquin College",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1200,
                             "EndHour": 1500,
@@ -187,7 +204,8 @@
                         {
                             "Name": "NSG2317 AW01 - CA Woodroffe Algonquin College",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 800,
                             "EndHour": 1100,
@@ -197,7 +215,8 @@
                         {
                             "Name": "NSG2317 AW02 - CA Woodroffe Algonquin College",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 800,
                             "EndHour": 1100,
@@ -207,7 +226,8 @@
                         {
                             "Name": "NSG2317 AW03 - CA Woodroffe Algonquin College",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 800,
                             "EndHour": 1100,
@@ -217,7 +237,8 @@
                         {
                             "Name": "NSG2317 AW04 - CA Woodroffe Algonquin College",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 800,
                             "EndHour": 1100,
@@ -227,7 +248,8 @@
                         {
                             "Name": "NSG2317 AW05 - CA Woodroffe Algonquin College",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1130,
                             "EndHour": 1430,
@@ -237,7 +259,8 @@
                         {
                             "Name": "NSG2317 AW06 - CA Woodroffe Algonquin College",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1130,
                             "EndHour": 1430,
@@ -247,7 +270,8 @@
                         {
                             "Name": "NSG2317 AW07 - CA Woodroffe Algonquin College",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1130,
                             "EndHour": 1430,
@@ -257,7 +281,8 @@
                         {
                             "Name": "NSG2317 AW08 - CA Woodroffe Algonquin College",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1130,
                             "EndHour": 1430,
@@ -267,7 +292,8 @@
                         {
                             "Name": "NSG2317 AW09 - CA Woodroffe Algonquin College",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1500,
                             "EndHour": 1800,

@@ -12,7 +12,8 @@
                         {
                             "Name": "MBA6262 C00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 05 - September 05",
+                            "StartDate": "09-05",
+                            "EndDate": "09-05",
                             "Day": 1,
                             "StartHour": 1600,
                             "EndHour": 1900,
@@ -22,7 +23,8 @@
                         {
                             "Name": "MBA6262 C00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 11 - September 11",
+                            "StartDate": "09-11",
+                            "EndDate": "09-11",
                             "Day": 0,
                             "StartHour": 830,
                             "EndHour": 1130,
@@ -32,7 +34,8 @@
                         {
                             "Name": "MBA6262 C00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 12 - September 12",
+                            "StartDate": "09-12",
+                            "EndDate": "09-12",
                             "Day": 1,
                             "StartHour": 1600,
                             "EndHour": 1900,
@@ -42,7 +45,8 @@
                         {
                             "Name": "MBA6262 C00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 18 - October 02",
+                            "StartDate": "09-18",
+                            "EndDate": "10-02",
                             "Day": 0,
                             "StartHour": 1600,
                             "EndHour": 1900,

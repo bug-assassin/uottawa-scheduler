@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <!--
+Schedule Variant
+Year Select
+-->
     <meta charset="UTF-8">
     <title>Title</title>
     <style>
@@ -56,7 +60,12 @@
             integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
             crossorigin="anonymous"></script> <!-- jquery 3.xx breaks the radio button deselect below, find out why -->
 
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.min.js'></script>
+
     <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.4/js.cookie.min.js" integrity="sha256-NjbogQqosWgor0UBdCURR5dzcvAgHnfUZMcZ8RCwkk8=" crossorigin="anonymous"></script>
+
+    <script src="blob.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/1.3.3/FileSaver.min.js" integrity="sha256-FPJJt8nA+xL4RU6/gsriA8p8xAeLGatoyTjldvQKGdE=" crossorigin="anonymous"></script>
     <script src="icsFormatter.js"></script>
     <script src="utilities.js"></script>
     <script src="course.titles.min.js"></script><!-- Used for autocomplete search -->
@@ -72,7 +81,6 @@
     <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.4.0/fullcalendar.min.css'/>
     <link rel="stylesheet" href="css/fontello/fontello.css">
 
-    <script src='https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.min.js'></script>
     <script src='https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.4.0/fullcalendar.min.js'></script>
     <script src="schedule_generator.js"></script>
     <style>
@@ -114,6 +122,10 @@
 
         var courseList = [];
         var selectedScheduleVariantIndex = 0;
+        var topGeneratedActivities = [];
+        var currentYear = new Date().getFullYear();//TODO update to actual selected year
+        var currentSemester = 0;//TODO 0 Fall, 1 Winter
+        var appVersion = 1;
 
         //Allow radio buttons to be deselectable
         $(function () {
@@ -201,6 +213,7 @@
             console.log('Updated Cookies');
             setTimeout(updateCookies, 0);
             function updateCookies() {
+                Cookies.set('version', appVersion);
                 Cookies.set('courses', courseList);
                 Cookies.set('scheduleVariantIndex', selectedScheduleVariantIndex);
             }
@@ -239,8 +252,8 @@
             var result = template_activity.replace("{{ActivityType}}", activity.ActivityType)
                 .replaceAll("{{Name}}", activity.Name)
                 .replace("{{Day}}", dayStrings[activity.Day])
-                .replace("{{StartHour}}", hourMinuteToString(activity.StartHour))
-                .replace("{{EndHour}}", hourMinuteToString(activity.EndHour))
+                .replace("{{StartHour}}", convertHourMinuteIntegerToString(activity.StartHour))
+                .replace("{{EndHour}}", convertHourMinuteIntegerToString(activity.EndHour))
                 .replace("{{Place}}", activity.Place)
                 .replace("{{Professor}}", activity.Professor)
                 .replace("{{SectionName}}", "section_" + sectionCode + activity.ActivityType);
@@ -286,8 +299,6 @@
                 }
             }
         };
-
-        var topGeneratedActivities = [];
 
         $(function () {
             $('#radioNumActivityComb input').on('change', function () {
@@ -380,8 +391,8 @@
             var event = {
                 title: activity.Name + " (" + activity.ActivityType + ")" + "<br /><span class='eventPlace'>" + activity.Place + "</span><br /><span class='eventProf'>" + activity.Professor + "</span>",
                 color: activityColor,
-                start: hourMinuteToString(activity.StartHour),
-                end: hourMinuteToString(activity.EndHour),
+                start: convertHourMinuteIntegerToString(activity.StartHour),
+                end: convertHourMinuteIntegerToString(activity.EndHour),
                 dow: [eventDay],
                 allDay: false
             }
@@ -393,6 +404,11 @@
         Cookies.defaults.expires = 14;
         setTimeout(loadCookies, 0);
         function loadCookies() {
+            var cookiesVersion = Cookies.get('version');
+            if(appVersion > cookiesVersion) {
+                return //Don't parse if cookies are old version
+            }
+
             var courses = Cookies.getJSON('courses');
             var scheduleVariantIndex = Cookies.get('scheduleVariantIndex');
 
@@ -403,10 +419,67 @@
         }
     </script>
     <script>
-        function downloadSchedule() {
-            var cal = icsFormatter();
-            
+        $(function () {
+           $('#downloadSchedule').click(function () {
+               downloadSchedule();
+               return false; //Prevent link from doing anything
+           });
+        });
+        function convertActivityToICSFormat(activity) {
+            var dayStrings = ['MO', 'TU', 'WE', 'TH', 'FR', 'SA', 'SU'];
+
+
+            //Convert to Format 2017-07-18T20:04:03Z
+            function toISODateFormat(year, monthHour, hourMinute) {
+                return year + "-" + monthHour + "T" + convertHourMinuteIntegerToString(hourMinute) + ":00Z";
+            }
+
+            var startHourDate = moment(toISODateFormat(currentYear, activity.StartDate, activity.StartHour));
+            var endHourDate = moment(toISODateFormat(currentYear, activity.StartDate, activity.EndHour));
+            var numDaysToAdd = getNumDaysToDayOfWeek(startHourDate.isoWeekday() - 1, activity.Day);
+            startHourDate.add(numDaysToAdd, 'days');
+            endHourDate.add(numDaysToAdd, 'days');
+
+            var untilDate = currentYear + "-" + activity.EndDate;
+            var recurrentDay = dayStrings[activity.Day];
+
+            return {
+                title: activity.Name,
+                description: activity.ActivityType + "\r\n" + activity.Professor,
+                location: activity.Place,
+                startDate: startHourDate.toISOString(),
+                endDate: endHourDate.toISOString(),
+                rrule: {
+                    freq: 'WEEKLY',
+                    until: untilDate,
+                    byday: [recurrentDay]
+                }
+            };
+
+            //Both are Monday Indexed
+            //Get the number of days to add(can be 0) so we get the expectedDayOfWeek
+            function getNumDaysToDayOfWeek(currentDayOfWeek, expectedDayOfWeek) {
+                return (expectedDayOfWeek - currentDayOfWeek + 7) % 7;
+            }
         }
+        function downloadSchedule() {
+            var activities = topGeneratedActivities[selectedScheduleVariantIndex];
+
+            var cal = ics("uottawa-scheduler");
+
+            activities.forEach(function (activity) {
+                var calEvent = convertActivityToICSFormat(activity);
+
+                try {
+                    cal.addEvent(calEvent.title, calEvent.description, calEvent.location, calEvent.startDate, calEvent.endDate, calEvent.rrule);
+                }catch (e) {
+                    if(e.length > 0) throw e;
+                }
+            });
+
+            cal.download("uottawa-scheduler", ".ics");
+        }
+
     </script>
 </head>
 <body>
@@ -598,6 +671,7 @@
             <input type="radio" name="scheduleIndex" value="3">
             <input type="radio" name="scheduleIndex" value="4">
         </div>
+        <a href="" id="downloadSchedule">Download Schedule</a>
     </div>
 </section>
 

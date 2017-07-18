@@ -12,7 +12,8 @@
                         {
                             "Name": "CML2179 FA00 - Refugee Sponsorship Support Program",
                             "ActivityType": "STG",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1500,
                             "EndHour": 1800,
@@ -22,7 +23,8 @@
                         {
                             "Name": "CML2179 FB00 - A2J Lab",
                             "ActivityType": "STG",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1500,
                             "EndHour": 1700,

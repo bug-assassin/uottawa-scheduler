@@ -12,7 +12,8 @@
                         {
                             "Name": "GEO1515 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1300,
                             "EndHour": 1430,
@@ -27,7 +28,8 @@
                         {
                             "Name": "GEO1515 A03",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 900,
                             "EndHour": 1100,
@@ -42,7 +44,8 @@
                         {
                             "Name": "GEO1515 A01",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1430,
                             "EndHour": 1730,
@@ -52,7 +55,8 @@
                         {
                             "Name": "GEO1515 A02",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1430,
                             "EndHour": 1730,

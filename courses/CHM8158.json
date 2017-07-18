@@ -12,7 +12,8 @@
                         {
                             "Name": "CHM8158 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 30 - December 06",
+                            "StartDate": "10-30",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1730,
                             "EndHour": 2000,

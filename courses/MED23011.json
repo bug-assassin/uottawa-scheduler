@@ -12,7 +12,8 @@
                         {
                             "Name": "MED23011 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 07 - September 07",
+                            "StartDate": "09-07",
+                            "EndDate": "09-07",
                             "Day": 3,
                             "StartHour": 1300,
                             "EndHour": 1530,
@@ -22,7 +23,8 @@
                         {
                             "Name": "MED23011 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 28 - September 28",
+                            "StartDate": "09-28",
+                            "EndDate": "09-28",
                             "Day": 3,
                             "StartHour": 1300,
                             "EndHour": 1430,
@@ -32,7 +34,8 @@
                         {
                             "Name": "MED23011 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 26 - October 26",
+                            "StartDate": "10-26",
+                            "EndDate": "10-26",
                             "Day": 3,
                             "StartHour": 1300,
                             "EndHour": 1500,
@@ -42,7 +45,8 @@
                         {
                             "Name": "MED23011 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "November 02 - November 02",
+                            "StartDate": "11-02",
+                            "EndDate": "11-02",
                             "Day": 3,
                             "StartHour": 1300,
                             "EndHour": 1630,
@@ -52,7 +56,8 @@
                         {
                             "Name": "MED23011 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "November 09 - December 07",
+                            "StartDate": "11-09",
+                            "EndDate": "12-07",
                             "Day": 3,
                             "StartHour": 1300,
                             "EndHour": 1430,

@@ -12,7 +12,8 @@
                         {
                             "Name": "CRM3322 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1300,
                             "EndHour": 1430,
@@ -22,7 +23,8 @@
                         {
                             "Name": "CRM3322 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1130,
                             "EndHour": 1300,

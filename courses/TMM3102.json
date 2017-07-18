@@ -4,26 +4,6 @@
     "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=031658\u0026term=2179\u0026session=FS",
     "Sections": [
         {
-            "SectionCode": "Z",
-            "ActivityGroups": [
-                {
-                    "ActivityType": "DGD",
-                    "Activities": [
-                        {
-                            "Name": "TMM3102 Z01",
-                            "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 4,
-                            "StartHour": 1130,
-                            "EndHour": 1300,
-                            "Place": "DEP DEPT",
-                            "Professor": "N/a"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "SectionCode": "A",
             "ActivityGroups": [
                 {
@@ -32,7 +12,8 @@
                         {
                             "Name": "TMM3102 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1030,
                             "EndHour": 1200,
@@ -42,12 +23,34 @@
                         {
                             "Name": "TMM3102 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1530,
                             "EndHour": 1700,
                             "Place": "RGN 3001",
                             "Professor": "John Edward  Baenziger"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "Z",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "TMM3102 Z01",
+                            "ActivityType": "DGD",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
                         }
                     ]
                 }

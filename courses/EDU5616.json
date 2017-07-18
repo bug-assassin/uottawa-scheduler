@@ -12,7 +12,8 @@
                         {
                             "Name": "EDU5616 WB00 - VirtualInternet course",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 12 - September 12",
+                            "StartDate": "09-12",
+                            "EndDate": "09-12",
                             "Day": 1,
                             "StartHour": 1600,
                             "EndHour": 1730,
@@ -22,7 +23,8 @@
                         {
                             "Name": "EDU5616 WB00 - VirtualInternet course",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 03 - October 03",
+                            "StartDate": "10-03",
+                            "EndDate": "10-03",
                             "Day": 1,
                             "StartHour": 1600,
                             "EndHour": 1730,
@@ -32,7 +34,8 @@
                         {
                             "Name": "EDU5616 WB00 - VirtualInternet course",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 31 - October 31",
+                            "StartDate": "10-31",
+                            "EndDate": "10-31",
                             "Day": 1,
                             "StartHour": 1600,
                             "EndHour": 1730,
@@ -42,7 +45,8 @@
                         {
                             "Name": "EDU5616 WB00 - VirtualInternet course",
                             "ActivityType": "LEC",
-                            "StartEndDates": "November 21 - November 21",
+                            "StartDate": "11-21",
+                            "EndDate": "11-21",
                             "Day": 1,
                             "StartHour": 1600,
                             "EndHour": 1730,

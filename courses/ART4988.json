@@ -4,26 +4,6 @@
     "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=002313\u0026term=2179\u0026session=FS",
     "Sections": [
         {
-            "SectionCode": "B",
-            "ActivityGroups": [
-                {
-                    "ActivityType": "LAB",
-                    "Activities": [
-                        {
-                            "Name": "ART4988 B00",
-                            "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 3,
-                            "StartHour": 1330,
-                            "EndHour": 1730,
-                            "Place": "WLD 110",
-                            "Professor": "N/a"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "SectionCode": "A",
             "ActivityGroups": [
                 {
@@ -32,12 +12,34 @@
                         {
                             "Name": "ART4988 A00",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1330,
                             "EndHour": 1730,
                             "Place": "WLD 110",
                             "Professor": "Penny Anne Cousineau-Levine"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "ART4988 B00",
+                            "ActivityType": "LAB",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 3,
+                            "StartHour": 1330,
+                            "EndHour": 1730,
+                            "Place": "WLD 110",
+                            "Professor": "N/a"
                         }
                     ]
                 }

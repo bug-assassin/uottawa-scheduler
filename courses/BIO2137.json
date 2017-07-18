@@ -12,7 +12,8 @@
                         {
                             "Name": "BIO2137 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1300,
                             "EndHour": 1430,
@@ -22,7 +23,8 @@
                         {
                             "Name": "BIO2137 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1130,
                             "EndHour": 1300,
@@ -37,7 +39,8 @@
                         {
                             "Name": "BIO2137 A01",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 830,
                             "EndHour": 1130,
@@ -47,7 +50,8 @@
                         {
                             "Name": "BIO2137 A02",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 830,
                             "EndHour": 1130,
@@ -57,7 +61,8 @@
                         {
                             "Name": "BIO2137 A03",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 830,
                             "EndHour": 1130,
@@ -67,7 +72,8 @@
                         {
                             "Name": "BIO2137 A04",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 830,
                             "EndHour": 1130,
@@ -77,7 +83,8 @@
                         {
                             "Name": "BIO2137 A05",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 830,
                             "EndHour": 1130,
@@ -87,7 +94,8 @@
                         {
                             "Name": "BIO2137 A06",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 830,
                             "EndHour": 1130,
@@ -97,7 +105,8 @@
                         {
                             "Name": "BIO2137 A07",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 830,
                             "EndHour": 1130,

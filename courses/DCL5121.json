@@ -12,7 +12,8 @@
                         {
                             "Name": "DCL5121 B00 - Sexual Orientation, Gender Identity and the Law",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1300,
                             "EndHour": 1430,
@@ -22,7 +23,8 @@
                         {
                             "Name": "DCL5121 B00 - Sexual Orientation, Gender Identity and the Law",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1130,
                             "EndHour": 1300,
@@ -42,7 +44,8 @@
                         {
                             "Name": "DCL5121 C00 - Medical-Legal Problems",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 830,
                             "EndHour": 1000,
@@ -52,7 +55,8 @@
                         {
                             "Name": "DCL5121 C00 - Medical-Legal Problems",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1430,
                             "EndHour": 1600,
@@ -72,7 +76,8 @@
                         {
                             "Name": "DCL5121 A00 - Privacy Law",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 830,
                             "EndHour": 1130,

@@ -12,7 +12,8 @@
                         {
                             "Name": "HIS4141 A00 - Euro Empires \u0026 Indig Dispossession",
                             "ActivityType": "SEM",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1430,
                             "EndHour": 1730,
@@ -32,7 +33,8 @@
                         {
                             "Name": "HIS4141 B00 - Black Lives Matter",
                             "ActivityType": "SEM",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1430,
                             "EndHour": 1730,

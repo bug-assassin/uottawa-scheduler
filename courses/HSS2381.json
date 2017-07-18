@@ -12,7 +12,8 @@
                         {
                             "Name": "HSS2381 AP00 - CA Pembroke Algonquin College",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 900,
                             "EndHour": 1000,
@@ -22,7 +23,8 @@
                         {
                             "Name": "HSS2381 AP00 - CA Pembroke Algonquin College",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1030,
                             "EndHour": 1200,
@@ -32,7 +34,8 @@
                         {
                             "Name": "HSS2381 AW00 - CA Woodroffe Algonquin College",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1130,
                             "EndHour": 1400,
@@ -47,7 +50,8 @@
                         {
                             "Name": "HSS2381 AP01 - CA Pembroke Algonquin College",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1000,
                             "EndHour": 1100,
@@ -57,7 +61,8 @@
                         {
                             "Name": "HSS2381 AP02 - CA Pembroke Algonquin College",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1100,
                             "EndHour": 1200,
@@ -67,7 +72,8 @@
                         {
                             "Name": "HSS2381 AW01 - CA Woodroffe Algonquin College",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1400,
                             "EndHour": 1500,
@@ -87,7 +93,8 @@
                         {
                             "Name": "HSS2381 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1900,
                             "EndHour": 2130,
@@ -102,7 +109,8 @@
                         {
                             "Name": "HSS2381 B01",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 900,
                             "EndHour": 1000,
@@ -112,7 +120,8 @@
                         {
                             "Name": "HSS2381 B02",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1000,
                             "EndHour": 1100,
@@ -122,7 +131,8 @@
                         {
                             "Name": "HSS2381 B03",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1100,
                             "EndHour": 1200,
@@ -142,7 +152,8 @@
                         {
                             "Name": "HSS2381 C00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1430,
                             "EndHour": 1700,
@@ -157,7 +168,8 @@
                         {
                             "Name": "HSS2381 C01",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 900,
                             "EndHour": 1000,
@@ -167,7 +179,8 @@
                         {
                             "Name": "HSS2381 C02",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1000,
                             "EndHour": 1100,
@@ -177,7 +190,8 @@
                         {
                             "Name": "HSS2381 C03",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1430,
                             "EndHour": 1530,
@@ -187,7 +201,8 @@
                         {
                             "Name": "HSS2381 C04",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1530,
                             "EndHour": 1630,
@@ -197,7 +212,8 @@
                         {
                             "Name": "HSS2381 C05",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1630,
                             "EndHour": 1730,
@@ -217,7 +233,8 @@
                         {
                             "Name": "HSS2381 D00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1700,
                             "EndHour": 1930,
@@ -232,7 +249,8 @@
                         {
                             "Name": "HSS2381 D01",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1330,
                             "EndHour": 1430,
@@ -242,7 +260,8 @@
                         {
                             "Name": "HSS2381 D02",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1430,
                             "EndHour": 1530,
@@ -252,7 +271,8 @@
                         {
                             "Name": "HSS2381 D03",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1530,
                             "EndHour": 1630,
@@ -262,7 +282,8 @@
                         {
                             "Name": "HSS2381 D04",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1630,
                             "EndHour": 1730,
@@ -272,7 +293,8 @@
                         {
                             "Name": "HSS2381 D05",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1730,
                             "EndHour": 1830,
@@ -282,7 +304,8 @@
                         {
                             "Name": "HSS2381 D06",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1830,
                             "EndHour": 1930,

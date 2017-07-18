@@ -4,46 +4,6 @@
     "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=051271\u0026term=2179\u0026session=FS",
     "Sections": [
         {
-            "SectionCode": "D",
-            "ActivityGroups": [
-                {
-                    "ActivityType": "LEC",
-                    "Activities": [
-                        {
-                            "Name": "MUS29431 D00",
-                            "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 3,
-                            "StartHour": 1130,
-                            "EndHour": 1300,
-                            "Place": "PRZ 109",
-                            "Professor": "Paul  Marleyn"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "SectionCode": "E",
-            "ActivityGroups": [
-                {
-                    "ActivityType": "LEC",
-                    "Activities": [
-                        {
-                            "Name": "MUS29431 E00",
-                            "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 4,
-                            "StartHour": 1130,
-                            "EndHour": 1300,
-                            "Place": "PRZ 109",
-                            "Professor": "Daniel  Gress"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "SectionCode": "A",
             "ActivityGroups": [
                 {
@@ -52,7 +12,8 @@
                         {
                             "Name": "MUS29431 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 830,
                             "EndHour": 1000,
@@ -72,12 +33,55 @@
                         {
                             "Name": "MUS29431 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1130,
                             "EndHour": 1300,
                             "Place": "PRZ 113",
                             "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "D",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MUS29431 D00",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "PRZ 109",
+                            "Professor": "Paul  Marleyn"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "E",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MUS29431 E00",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "PRZ 109",
+                            "Professor": "Daniel  Gress"
                         }
                     ]
                 }

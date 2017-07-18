@@ -12,7 +12,8 @@
                         {
                             "Name": "PAP9310 A00",
                             "ActivityType": "SEM",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1430,
                             "EndHour": 1730,

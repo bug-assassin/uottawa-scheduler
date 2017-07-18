@@ -4,26 +4,6 @@
     "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=020610\u0026term=2179\u0026session=A",
     "Sections": [
         {
-            "SectionCode": "A",
-            "ActivityGroups": [
-                {
-                    "ActivityType": "LEC",
-                    "Activities": [
-                        {
-                            "Name": "MBA5260 A00",
-                            "ActivityType": "LEC",
-                            "StartEndDates": "October 22 - December 03",
-                            "Day": 0,
-                            "StartHour": 1300,
-                            "EndHour": 1600,
-                            "Place": "DMS 4140",
-                            "Professor": "N/a"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "SectionCode": "B",
             "ActivityGroups": [
                 {
@@ -32,7 +12,8 @@
                         {
                             "Name": "MBA5260 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "November 04 - November 04",
+                            "StartDate": "11-04",
+                            "EndDate": "11-04",
                             "Day": 5,
                             "StartHour": 800,
                             "EndHour": 1245,
@@ -42,7 +23,8 @@
                         {
                             "Name": "MBA5260 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "November 18 - November 18",
+                            "StartDate": "11-18",
+                            "EndDate": "11-18",
                             "Day": 5,
                             "StartHour": 800,
                             "EndHour": 1245,
@@ -52,11 +34,33 @@
                         {
                             "Name": "MBA5260 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "December 02 - December 02",
+                            "StartDate": "12-02",
+                            "EndDate": "12-02",
                             "Day": 5,
                             "StartHour": 800,
                             "EndHour": 1245,
                             "Place": "DMS 4130",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MBA5260 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "10-22",
+                            "EndDate": "12-03",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "DMS 4140",
                             "Professor": "N/a"
                         }
                     ]

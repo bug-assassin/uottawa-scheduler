@@ -12,7 +12,8 @@
                         {
                             "Name": "HSS59041 A00",
                             "ActivityType": "SEM",
-                            "StartEndDates": "September 19 - September 19",
+                            "StartDate": "09-19",
+                            "EndDate": "09-19",
                             "Day": 1,
                             "StartHour": 1000,
                             "EndHour": 1130,
@@ -22,7 +23,8 @@
                         {
                             "Name": "HSS59041 A00",
                             "ActivityType": "SEM",
-                            "StartEndDates": "October 03 - October 03",
+                            "StartDate": "10-03",
+                            "EndDate": "10-03",
                             "Day": 1,
                             "StartHour": 1000,
                             "EndHour": 1130,
@@ -32,7 +34,8 @@
                         {
                             "Name": "HSS59041 A00",
                             "ActivityType": "SEM",
-                            "StartEndDates": "October 17 - October 17",
+                            "StartDate": "10-17",
+                            "EndDate": "10-17",
                             "Day": 1,
                             "StartHour": 1000,
                             "EndHour": 1130,
@@ -42,7 +45,8 @@
                         {
                             "Name": "HSS59041 A00",
                             "ActivityType": "SEM",
-                            "StartEndDates": "November 07 - November 07",
+                            "StartDate": "11-07",
+                            "EndDate": "11-07",
                             "Day": 1,
                             "StartHour": 1000,
                             "EndHour": 1130,
@@ -52,7 +56,8 @@
                         {
                             "Name": "HSS59041 A00",
                             "ActivityType": "SEM",
-                            "StartEndDates": "November 21 - November 21",
+                            "StartDate": "11-21",
+                            "EndDate": "11-21",
                             "Day": 1,
                             "StartHour": 1000,
                             "EndHour": 1130,
@@ -62,7 +67,8 @@
                         {
                             "Name": "HSS59041 A00",
                             "ActivityType": "SEM",
-                            "StartEndDates": "December 05 - December 05",
+                            "StartDate": "12-05",
+                            "EndDate": "12-05",
                             "Day": 1,
                             "StartHour": 1000,
                             "EndHour": 1130,

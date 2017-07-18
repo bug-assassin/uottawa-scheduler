@@ -12,7 +12,8 @@
                         {
                             "Name": "HIS4592 A00 - Histoire de l’islamisme",
                             "ActivityType": "SEM",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 830,
                             "EndHour": 1130,

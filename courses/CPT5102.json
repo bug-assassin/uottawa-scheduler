@@ -12,7 +12,8 @@
                         {
                             "Name": "CPT5102 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 07 - October 19",
+                            "StartDate": "09-07",
+                            "EndDate": "10-19",
                             "Day": 3,
                             "StartHour": 830,
                             "EndHour": 1130,
@@ -22,7 +23,8 @@
                         {
                             "Name": "CPT5102 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "November 02 - November 30",
+                            "StartDate": "11-02",
+                            "EndDate": "11-30",
                             "Day": 3,
                             "StartHour": 830,
                             "EndHour": 1130,

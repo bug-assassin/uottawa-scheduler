@@ -4,6 +4,27 @@
     "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=051417\u0026term=2179\u0026session=FS",
     "Sections": [
         {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "STG",
+                    "Activities": [
+                        {
+                            "Name": "CML32481 A00",
+                            "ActivityType": "STG",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "FTX 361",
+                            "Professor": "Lisa D.  Sidoli"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "SectionCode": "B",
             "ActivityGroups": [
                 {
@@ -12,7 +33,8 @@
                         {
                             "Name": "CML32481 B00",
                             "ActivityType": "STG",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 830,
                             "EndHour": 1130,
@@ -32,32 +54,13 @@
                         {
                             "Name": "CML32481 C00",
                             "ActivityType": "STG",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 830,
                             "EndHour": 1130,
                             "Place": "BRS 232",
                             "Professor": "Subha Tia  Hazra"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "SectionCode": "A",
-            "ActivityGroups": [
-                {
-                    "ActivityType": "STG",
-                    "Activities": [
-                        {
-                            "Name": "CML32481 A00",
-                            "ActivityType": "STG",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 2,
-                            "StartHour": 830,
-                            "EndHour": 1130,
-                            "Place": "FTX 361",
-                            "Professor": "Lisa D.  Sidoli"
                         }
                     ]
                 }

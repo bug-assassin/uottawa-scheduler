@@ -12,7 +12,8 @@
                         {
                             "Name": "NSG4430 A01",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 900,
                             "EndHour": 1200,
@@ -22,7 +23,8 @@
                         {
                             "Name": "NSG4430 A02",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 900,
                             "EndHour": 1200,
@@ -32,7 +34,8 @@
                         {
                             "Name": "NSG4430 A03",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 900,
                             "EndHour": 1200,
@@ -42,7 +45,8 @@
                         {
                             "Name": "NSG4430 A04",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 900,
                             "EndHour": 1200,
@@ -52,7 +56,8 @@
                         {
                             "Name": "NSG4430 A05",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 900,
                             "EndHour": 1200,
@@ -62,7 +67,8 @@
                         {
                             "Name": "NSG4430 A06",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 900,
                             "EndHour": 1200,
@@ -72,7 +78,8 @@
                         {
                             "Name": "NSG4430 A07",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1700,
                             "EndHour": 2000,
@@ -82,7 +89,8 @@
                         {
                             "Name": "NSG4430 A08",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1700,
                             "EndHour": 2000,
@@ -92,7 +100,8 @@
                         {
                             "Name": "NSG4430 A09",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1700,
                             "EndHour": 2000,
@@ -102,7 +111,8 @@
                         {
                             "Name": "NSG4430 A10",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1700,
                             "EndHour": 2000,
@@ -112,7 +122,8 @@
                         {
                             "Name": "NSG4430 A11",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1700,
                             "EndHour": 2000,
@@ -122,7 +133,8 @@
                         {
                             "Name": "NSG4430 AP01 - CA Pembroke Algonquin College",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1200,
                             "EndHour": 1500,
@@ -132,7 +144,8 @@
                         {
                             "Name": "NSG4430 AP02",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1200,
                             "EndHour": 1500,
@@ -142,7 +155,8 @@
                         {
                             "Name": "NSG4430 AP03",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 800,
                             "EndHour": 1100,
@@ -152,7 +166,8 @@
                         {
                             "Name": "NSG4430 AP04",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 800,
                             "EndHour": 1100,
@@ -162,7 +177,8 @@
                         {
                             "Name": "NSG4430 AW01 - CA Woodroffe Algonquin College",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 900,
                             "EndHour": 1200,
@@ -177,7 +193,8 @@
                         {
                             "Name": "NSG4430 A00",
                             "ActivityType": "STG",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 730,
                             "EndHour": 2200,
@@ -187,7 +204,8 @@
                         {
                             "Name": "NSG4430 A00",
                             "ActivityType": "STG",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 730,
                             "EndHour": 2200,
@@ -197,7 +215,8 @@
                         {
                             "Name": "NSG4430 A00",
                             "ActivityType": "STG",
-                            "StartEndDates": "September 08 - September 08",
+                            "StartDate": "09-08",
+                            "EndDate": "09-08",
                             "Day": 4,
                             "StartHour": 1300,
                             "EndHour": 1700,
@@ -207,7 +226,8 @@
                         {
                             "Name": "NSG4430 AP00 - CA Pembroke Algonquin College",
                             "ActivityType": "STG",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 730,
                             "EndHour": 2200,
@@ -217,7 +237,8 @@
                         {
                             "Name": "NSG4430 AP00 - CA Pembroke Algonquin College",
                             "ActivityType": "STG",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 730,
                             "EndHour": 2200,
@@ -227,7 +248,8 @@
                         {
                             "Name": "NSG4430 AW00 - CA Woodroffe Algonquin College",
                             "ActivityType": "STG",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 730,
                             "EndHour": 2200,
@@ -237,7 +259,8 @@
                         {
                             "Name": "NSG4430 AW00 - CA Woodroffe Algonquin College",
                             "ActivityType": "STG",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 730,
                             "EndHour": 2200,

@@ -12,7 +12,8 @@
                         {
                             "Name": "MAT2384 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1130,
                             "EndHour": 1230,
@@ -22,7 +23,8 @@
                         {
                             "Name": "MAT2384 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1000,
                             "EndHour": 1130,
@@ -32,7 +34,8 @@
                         {
                             "Name": "MAT2384 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 830,
                             "EndHour": 1000,
@@ -52,7 +55,8 @@
                         {
                             "Name": "MAT2384 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1130,
                             "EndHour": 1230,
@@ -62,7 +66,8 @@
                         {
                             "Name": "MAT2384 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1000,
                             "EndHour": 1130,
@@ -72,7 +77,8 @@
                         {
                             "Name": "MAT2384 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 830,
                             "EndHour": 1000,

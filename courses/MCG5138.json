@@ -12,7 +12,8 @@
                         {
                             "Name": "MCG5138 A00 - Microscopic and Spectroscopic Methods",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1900,
                             "EndHour": 2200,
@@ -32,7 +33,8 @@
                         {
                             "Name": "MCG5138 B00 - Linear Systems Theory",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1900,
                             "EndHour": 2200,
@@ -52,7 +54,8 @@
                         {
                             "Name": "MCG5138 F00 - Deformation and Fracture of Engineering Materials",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 830,
                             "EndHour": 1130,
@@ -72,7 +75,8 @@
                         {
                             "Name": "MCG5138 C00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1430,
                             "EndHour": 1730,

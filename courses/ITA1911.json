@@ -12,7 +12,8 @@
                         {
                             "Name": "ITA1911 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1730,
                             "EndHour": 1900,
@@ -27,7 +28,8 @@
                         {
                             "Name": "ITA1911 A01",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1900,
                             "EndHour": 2130,
@@ -37,7 +39,8 @@
                         {
                             "Name": "ITA1911 A02",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1900,
                             "EndHour": 2130,
@@ -47,7 +50,8 @@
                         {
                             "Name": "ITA1911 A03",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1430,
                             "EndHour": 1700,
@@ -57,7 +61,8 @@
                         {
                             "Name": "ITA1911 A04",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1430,
                             "EndHour": 1700,
@@ -67,7 +72,8 @@
                         {
                             "Name": "ITA1911 A05",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 900,
                             "EndHour": 1130,
@@ -77,7 +83,8 @@
                         {
                             "Name": "ITA1911 A06",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1130,
                             "EndHour": 1400,

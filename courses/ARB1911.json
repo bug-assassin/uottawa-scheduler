@@ -4,96 +4,6 @@
     "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=001874\u0026term=2179\u0026session=FS",
     "Sections": [
         {
-            "SectionCode": "G",
-            "ActivityGroups": [
-                {
-                    "ActivityType": "LEC",
-                    "Activities": [
-                        {
-                            "Name": "ARB1911 G00",
-                            "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 3,
-                            "StartHour": 1730,
-                            "EndHour": 1900,
-                            "Place": "TBT 319",
-                            "Professor": "N/a"
-                        },
-                        {
-                            "Name": "ARB1911 G00",
-                            "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 1,
-                            "StartHour": 1730,
-                            "EndHour": 1900,
-                            "Place": "TBT 319",
-                            "Professor": "N/a"
-                        }
-                    ]
-                },
-                {
-                    "ActivityType": "DGD",
-                    "Activities": [
-                        {
-                            "Name": "ARB1911 G01",
-                            "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 1,
-                            "StartHour": 1900,
-                            "EndHour": 2000,
-                            "Place": "TBT 319",
-                            "Professor": "N/a"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "SectionCode": "A",
-            "ActivityGroups": [
-                {
-                    "ActivityType": "LEC",
-                    "Activities": [
-                        {
-                            "Name": "ARB1911 A00",
-                            "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 3,
-                            "StartHour": 1000,
-                            "EndHour": 1130,
-                            "Place": "SMD 427",
-                            "Professor": "N/a"
-                        },
-                        {
-                            "Name": "ARB1911 A00",
-                            "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 0,
-                            "StartHour": 830,
-                            "EndHour": 1000,
-                            "Place": "TBT 319",
-                            "Professor": "N/a"
-                        }
-                    ]
-                },
-                {
-                    "ActivityType": "DGD",
-                    "Activities": [
-                        {
-                            "Name": "ARB1911 A01",
-                            "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 0,
-                            "StartHour": 1000,
-                            "EndHour": 1100,
-                            "Place": "TBT 323",
-                            "Professor": "N/a"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "SectionCode": "B",
             "ActivityGroups": [
                 {
@@ -102,7 +12,8 @@
                         {
                             "Name": "ARB1911 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 830,
                             "EndHour": 1000,
@@ -112,7 +23,8 @@
                         {
                             "Name": "ARB1911 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1000,
                             "EndHour": 1130,
@@ -127,7 +39,8 @@
                         {
                             "Name": "ARB1911 B01",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1130,
                             "EndHour": 1230,
@@ -147,7 +60,8 @@
                         {
                             "Name": "ARB1911 C00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1130,
                             "EndHour": 1300,
@@ -157,7 +71,8 @@
                         {
                             "Name": "ARB1911 C00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1300,
                             "EndHour": 1430,
@@ -172,7 +87,8 @@
                         {
                             "Name": "ARB1911 C01",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1030,
                             "EndHour": 1130,
@@ -192,7 +108,8 @@
                         {
                             "Name": "ARB1911 D00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1130,
                             "EndHour": 1300,
@@ -202,7 +119,8 @@
                         {
                             "Name": "ARB1911 D00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1300,
                             "EndHour": 1430,
@@ -217,7 +135,8 @@
                         {
                             "Name": "ARB1911 D01",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1430,
                             "EndHour": 1530,
@@ -237,7 +156,8 @@
                         {
                             "Name": "ARB1911 E00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1430,
                             "EndHour": 1600,
@@ -247,7 +167,8 @@
                         {
                             "Name": "ARB1911 E00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1600,
                             "EndHour": 1730,
@@ -262,7 +183,8 @@
                         {
                             "Name": "ARB1911 E01",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1600,
                             "EndHour": 1700,
@@ -282,7 +204,8 @@
                         {
                             "Name": "ARB1911 F00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1730,
                             "EndHour": 1900,
@@ -292,7 +215,8 @@
                         {
                             "Name": "ARB1911 F00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1730,
                             "EndHour": 1900,
@@ -307,11 +231,108 @@
                         {
                             "Name": "ARB1911 F01",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1900,
                             "EndHour": 2000,
                             "Place": "LMX 407",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "G",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ARB1911 G00",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 3,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "TBT 319",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ARB1911 G00",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 1,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "TBT 319",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "ARB1911 G01",
+                            "ActivityType": "DGD",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 1,
+                            "StartHour": 1900,
+                            "EndHour": 2000,
+                            "Place": "TBT 319",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ARB1911 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 3,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "SMD 427",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ARB1911 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "TBT 319",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "ARB1911 A01",
+                            "ActivityType": "DGD",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 0,
+                            "StartHour": 1000,
+                            "EndHour": 1100,
+                            "Place": "TBT 323",
                             "Professor": "N/a"
                         }
                     ]

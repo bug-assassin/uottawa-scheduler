@@ -12,7 +12,8 @@
                         {
                             "Name": "GEO5306 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 21 - October 28",
+                            "StartDate": "10-21",
+                            "EndDate": "10-28",
                             "Day": 0,
                             "StartHour": 800,
                             "EndHour": 1800,
@@ -22,7 +23,8 @@
                         {
                             "Name": "GEO5306 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 21 - October 28",
+                            "StartDate": "10-21",
+                            "EndDate": "10-28",
                             "Day": 1,
                             "StartHour": 800,
                             "EndHour": 1800,
@@ -32,7 +34,8 @@
                         {
                             "Name": "GEO5306 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 21 - October 28",
+                            "StartDate": "10-21",
+                            "EndDate": "10-28",
                             "Day": 2,
                             "StartHour": 800,
                             "EndHour": 1800,
@@ -42,7 +45,8 @@
                         {
                             "Name": "GEO5306 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 21 - October 28",
+                            "StartDate": "10-21",
+                            "EndDate": "10-28",
                             "Day": 3,
                             "StartHour": 800,
                             "EndHour": 1800,
@@ -52,7 +56,8 @@
                         {
                             "Name": "GEO5306 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 21 - October 28",
+                            "StartDate": "10-21",
+                            "EndDate": "10-28",
                             "Day": 4,
                             "StartHour": 800,
                             "EndHour": 1800,
@@ -62,7 +67,8 @@
                         {
                             "Name": "GEO5306 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 21 - October 28",
+                            "StartDate": "10-21",
+                            "EndDate": "10-28",
                             "Day": 5,
                             "StartHour": 800,
                             "EndHour": 1800,
@@ -72,7 +78,8 @@
                         {
                             "Name": "GEO5306 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 21 - October 28",
+                            "StartDate": "10-21",
+                            "EndDate": "10-28",
                             "Day": 6,
                             "StartHour": 800,
                             "EndHour": 1800,

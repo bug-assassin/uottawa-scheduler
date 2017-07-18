@@ -12,7 +12,8 @@
                         {
                             "Name": "CRM6780 A00 - Genre, enfermement, et créativ ité",
                             "ActivityType": "SEM",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1130,
                             "EndHour": 1430,
@@ -32,7 +33,8 @@
                         {
                             "Name": "CRM6780 B00 - Contributions théoriques à la criminologie",
                             "ActivityType": "SEM",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 830,
                             "EndHour": 1130,

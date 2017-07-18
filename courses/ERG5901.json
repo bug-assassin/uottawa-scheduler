@@ -12,7 +12,8 @@
                         {
                             "Name": "ERG5901 A00",
                             "ActivityType": "STG",
-                            "StartEndDates": "October 31 - October 31",
+                            "StartDate": "10-31",
+                            "EndDate": "10-31",
                             "Day": 1,
                             "StartHour": 1300,
                             "EndHour": 1600,
@@ -22,7 +23,8 @@
                         {
                             "Name": "ERG5901 A00",
                             "ActivityType": "STG",
-                            "StartEndDates": "December 05 - December 21",
+                            "StartDate": "12-05",
+                            "EndDate": "12-21",
                             "Day": 0,
                             "StartHour": 900,
                             "EndHour": 1700,
@@ -32,7 +34,8 @@
                         {
                             "Name": "ERG5901 A00",
                             "ActivityType": "STG",
-                            "StartEndDates": "December 05 - December 21",
+                            "StartDate": "12-05",
+                            "EndDate": "12-21",
                             "Day": 1,
                             "StartHour": 900,
                             "EndHour": 1700,
@@ -42,7 +45,8 @@
                         {
                             "Name": "ERG5901 A00",
                             "ActivityType": "STG",
-                            "StartEndDates": "December 05 - December 21",
+                            "StartDate": "12-05",
+                            "EndDate": "12-21",
                             "Day": 2,
                             "StartHour": 900,
                             "EndHour": 1700,
@@ -52,7 +56,8 @@
                         {
                             "Name": "ERG5901 A00",
                             "ActivityType": "STG",
-                            "StartEndDates": "December 05 - December 21",
+                            "StartDate": "12-05",
+                            "EndDate": "12-21",
                             "Day": 3,
                             "StartHour": 900,
                             "EndHour": 1700,
@@ -62,7 +67,8 @@
                         {
                             "Name": "ERG5901 A00",
                             "ActivityType": "STG",
-                            "StartEndDates": "December 05 - December 21",
+                            "StartDate": "12-05",
+                            "EndDate": "12-21",
                             "Day": 4,
                             "StartHour": 900,
                             "EndHour": 1700,

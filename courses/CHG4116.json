@@ -12,7 +12,8 @@
                         {
                             "Name": "CHG4116 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1130,
                             "EndHour": 1300,
@@ -22,7 +23,8 @@
                         {
                             "Name": "CHG4116 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1300,
                             "EndHour": 1430,
@@ -37,7 +39,8 @@
                         {
                             "Name": "CHG4116 A01",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 900,
                             "EndHour": 1300,
@@ -47,7 +50,8 @@
                         {
                             "Name": "CHG4116 A02",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 900,
                             "EndHour": 1300,
@@ -57,7 +61,8 @@
                         {
                             "Name": "CHG4116 A03",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 900,
                             "EndHour": 1300,

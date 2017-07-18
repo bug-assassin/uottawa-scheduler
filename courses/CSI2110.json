@@ -4,86 +4,6 @@
     "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=006509\u0026term=2179\u0026session=FS",
     "Sections": [
         {
-            "SectionCode": "A",
-            "ActivityGroups": [
-                {
-                    "ActivityType": "LEC",
-                    "Activities": [
-                        {
-                            "Name": "CSI2110 A00",
-                            "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 3,
-                            "StartHour": 1130,
-                            "EndHour": 1300,
-                            "Place": "SCR 002",
-                            "Professor": "Lucia  Moura"
-                        },
-                        {
-                            "Name": "CSI2110 A00",
-                            "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 1,
-                            "StartHour": 1300,
-                            "EndHour": 1430,
-                            "Place": "SCR 002",
-                            "Professor": "Lucia  Moura"
-                        }
-                    ]
-                },
-                {
-                    "ActivityType": "LAB",
-                    "Activities": [
-                        {
-                            "Name": "CSI2110 A01",
-                            "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 0,
-                            "StartHour": 1430,
-                            "EndHour": 1600,
-                            "Place": "STE 2060",
-                            "Professor": "Lucia  Moura"
-                        },
-                        {
-                            "Name": "CSI2110 A02",
-                            "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 1,
-                            "StartHour": 1000,
-                            "EndHour": 1130,
-                            "Place": "CBY B02",
-                            "Professor": "Lucia  Moura"
-                        },
-                        {
-                            "Name": "CSI2110 A03",
-                            "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 0,
-                            "StartHour": 1130,
-                            "EndHour": 1300,
-                            "Place": "STE 2052",
-                            "Professor": "Lucia  Moura"
-                        }
-                    ]
-                },
-                {
-                    "ActivityType": "TUT",
-                    "Activities": [
-                        {
-                            "Name": "CSI2110 A05",
-                            "ActivityType": "TUT",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 4,
-                            "StartHour": 1430,
-                            "EndHour": 1600,
-                            "Place": "TBT 333",
-                            "Professor": "Lucia  Moura"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "SectionCode": "B",
             "ActivityGroups": [
                 {
@@ -92,7 +12,8 @@
                         {
                             "Name": "CSI2110 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 830,
                             "EndHour": 1000,
@@ -102,7 +23,8 @@
                         {
                             "Name": "CSI2110 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1000,
                             "EndHour": 1130,
@@ -117,7 +39,8 @@
                         {
                             "Name": "CSI2110 B01",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1430,
                             "EndHour": 1600,
@@ -127,7 +50,8 @@
                         {
                             "Name": "CSI2110 B02",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1300,
                             "EndHour": 1430,
@@ -137,7 +61,8 @@
                         {
                             "Name": "CSI2110 B03",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1300,
                             "EndHour": 1430,
@@ -152,7 +77,8 @@
                         {
                             "Name": "CSI2110 B04",
                             "ActivityType": "TUT",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1430,
                             "EndHour": 1600,
@@ -172,7 +98,8 @@
                         {
                             "Name": "CSI2110 C00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 830,
                             "EndHour": 1000,
@@ -182,7 +109,8 @@
                         {
                             "Name": "CSI2110 C00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1000,
                             "EndHour": 1130,
@@ -197,7 +125,8 @@
                         {
                             "Name": "CSI2110 C01",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1430,
                             "EndHour": 1600,
@@ -207,7 +136,8 @@
                         {
                             "Name": "CSI2110 C02",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1000,
                             "EndHour": 1130,
@@ -222,11 +152,98 @@
                         {
                             "Name": "CSI2110 C04",
                             "ActivityType": "TUT",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1600,
                             "EndHour": 1730,
                             "Place": "DMS 1150",
+                            "Professor": "Lucia  Moura"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CSI2110 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "SCR 002",
+                            "Professor": "Lucia  Moura"
+                        },
+                        {
+                            "Name": "CSI2110 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "SCR 002",
+                            "Professor": "Lucia  Moura"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "CSI2110 A01",
+                            "ActivityType": "LAB",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "STE 2060",
+                            "Professor": "Lucia  Moura"
+                        },
+                        {
+                            "Name": "CSI2110 A02",
+                            "ActivityType": "LAB",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "CBY B02",
+                            "Professor": "Lucia  Moura"
+                        },
+                        {
+                            "Name": "CSI2110 A03",
+                            "ActivityType": "LAB",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "STE 2052",
+                            "Professor": "Lucia  Moura"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "TUT",
+                    "Activities": [
+                        {
+                            "Name": "CSI2110 A05",
+                            "ActivityType": "TUT",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "TBT 333",
                             "Professor": "Lucia  Moura"
                         }
                     ]

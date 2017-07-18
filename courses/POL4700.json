@@ -12,7 +12,8 @@
                         {
                             "Name": "POL4700 A00 - Islam politique",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 830,
                             "EndHour": 1130,

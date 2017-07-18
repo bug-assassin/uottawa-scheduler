@@ -12,7 +12,8 @@
                         {
                             "Name": "HIS4397 B00 - Trials of Empire in Britain",
                             "ActivityType": "SEM",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1430,
                             "EndHour": 1730,
@@ -32,7 +33,8 @@
                         {
                             "Name": "HIS4397 C00 - Migration and Integration",
                             "ActivityType": "SEM",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1900,
                             "EndHour": 2200,

@@ -12,7 +12,8 @@
                         {
                             "Name": "DCL5503 A00 - Regards critiques et multidisc. sur le droit",
                             "ActivityType": "SEM",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1430,
                             "EndHour": 1730,

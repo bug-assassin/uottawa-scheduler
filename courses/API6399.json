@@ -12,7 +12,8 @@
                         {
                             "Name": "API6399 B00 - Canada-Russia relations",
                             "ActivityType": "SEM",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1730,
                             "EndHour": 2030,
@@ -32,7 +33,8 @@
                         {
                             "Name": "API6399 C00 - Concepts \u0026 Issues in Public  Management",
                             "ActivityType": "SEM",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1730,
                             "EndHour": 2030,

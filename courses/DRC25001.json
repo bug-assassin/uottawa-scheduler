@@ -4,6 +4,48 @@
     "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=051547\u0026term=2179\u0026session=FS",
     "Sections": [
         {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DRC25001 A00 - Séminaire de plaidoirie (Partie 1 de 2)",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 1,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "FTX 136",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DRC25001 B00 - Séminaire de plaidoirie (Partie 1 de 2)",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 1,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "DEP DEPT",
+                            "Professor": "Marie-France  Dompierre"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "SectionCode": "E",
             "ActivityGroups": [
                 {
@@ -12,7 +54,8 @@
                         {
                             "Name": "DRC25001 E00 - Sém. médiat.\u0026just. particip. (Partie 1 de 2)",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1300,
                             "EndHour": 1600,
@@ -32,12 +75,76 @@
                         {
                             "Name": "DRC25001 F00 - Sém. médiat.\u0026just. particip. (Partie 1 de 2)",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1900,
                             "EndHour": 2200,
                             "Place": "FSS 14001",
                             "Professor": "Jean L.  Beauchamp"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "I",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DRC25001 I00 - Sém. médiat.\u0026just. particip. (Partie 1 de 2)",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "DEP DEPT",
+                            "Professor": "Maxime  Brunet"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DRC25001 C00 - Séminaire de plaidoirie (Partie 1 de 2)",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "FTX 137",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "D",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DRC25001 D00 - Séminaire de plaidoirie (Partie 1 de 2)",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "DEP DEPT",
+                            "Professor": "Michel  Isabelle"
                         }
                     ]
                 }
@@ -52,7 +159,8 @@
                         {
                             "Name": "DRC25001 G00 - Sém. médiat.\u0026just. particip. (Partie 1 de 2)",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1730,
                             "EndHour": 2030,
@@ -72,112 +180,13 @@
                         {
                             "Name": "DRC25001 H00 - Sém. médiat.\u0026just. particip. (Partie 1 de 2)",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1300,
                             "EndHour": 1600,
                             "Place": "MRT 015",
                             "Professor": "Marcel  Ste-Marie"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "SectionCode": "C",
-            "ActivityGroups": [
-                {
-                    "ActivityType": "LEC",
-                    "Activities": [
-                        {
-                            "Name": "DRC25001 C00 - Séminaire de plaidoirie (Partie 1 de 2)",
-                            "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 2,
-                            "StartHour": 1300,
-                            "EndHour": 1600,
-                            "Place": "FTX 137",
-                            "Professor": "N/a"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "SectionCode": "B",
-            "ActivityGroups": [
-                {
-                    "ActivityType": "LEC",
-                    "Activities": [
-                        {
-                            "Name": "DRC25001 B00 - Séminaire de plaidoirie (Partie 1 de 2)",
-                            "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 1,
-                            "StartHour": 1730,
-                            "EndHour": 2030,
-                            "Place": "DEP DEPT",
-                            "Professor": "Marie-France  Dompierre"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "SectionCode": "D",
-            "ActivityGroups": [
-                {
-                    "ActivityType": "LEC",
-                    "Activities": [
-                        {
-                            "Name": "DRC25001 D00 - Séminaire de plaidoirie (Partie 1 de 2)",
-                            "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 2,
-                            "StartHour": 1300,
-                            "EndHour": 1600,
-                            "Place": "DEP DEPT",
-                            "Professor": "Michel  Isabelle"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "SectionCode": "I",
-            "ActivityGroups": [
-                {
-                    "ActivityType": "LEC",
-                    "Activities": [
-                        {
-                            "Name": "DRC25001 I00 - Sém. médiat.\u0026just. particip. (Partie 1 de 2)",
-                            "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 2,
-                            "StartHour": 1300,
-                            "EndHour": 1600,
-                            "Place": "DEP DEPT",
-                            "Professor": "Maxime  Brunet"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "SectionCode": "A",
-            "ActivityGroups": [
-                {
-                    "ActivityType": "LEC",
-                    "Activities": [
-                        {
-                            "Name": "DRC25001 A00 - Séminaire de plaidoirie (Partie 1 de 2)",
-                            "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 1,
-                            "StartHour": 1730,
-                            "EndHour": 2030,
-                            "Place": "FTX 136",
-                            "Professor": "N/a"
                         }
                     ]
                 }

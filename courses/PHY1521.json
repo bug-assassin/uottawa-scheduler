@@ -4,66 +4,6 @@
     "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=026730\u0026term=2179\u0026session=FS",
     "Sections": [
         {
-            "SectionCode": "B",
-            "ActivityGroups": [
-                {
-                    "ActivityType": "LEC",
-                    "Activities": [
-                        {
-                            "Name": "PHY1521 B00",
-                            "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 3,
-                            "StartHour": 1300,
-                            "EndHour": 1430,
-                            "Place": "MRN 021",
-                            "Professor": "Bela  Joos"
-                        },
-                        {
-                            "Name": "PHY1521 B00",
-                            "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 0,
-                            "StartHour": 1130,
-                            "EndHour": 1300,
-                            "Place": "MRN 021",
-                            "Professor": "Bela  Joos"
-                        }
-                    ]
-                },
-                {
-                    "ActivityType": "DGD",
-                    "Activities": [
-                        {
-                            "Name": "PHY1521 B04",
-                            "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 1,
-                            "StartHour": 1130,
-                            "EndHour": 1230,
-                            "Place": "CBY B012",
-                            "Professor": "N/a"
-                        }
-                    ]
-                },
-                {
-                    "ActivityType": "LAB",
-                    "Activities": [
-                        {
-                            "Name": "PHY1521 B03",
-                            "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 4,
-                            "StartHour": 1430,
-                            "EndHour": 1730,
-                            "Place": "STE 3001",
-                            "Professor": "Michael C. H.  Wong"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "SectionCode": "A",
             "ActivityGroups": [
                 {
@@ -72,7 +12,8 @@
                         {
                             "Name": "PHY1521 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1300,
                             "EndHour": 1430,
@@ -82,7 +23,8 @@
                         {
                             "Name": "PHY1521 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1130,
                             "EndHour": 1300,
@@ -97,7 +39,8 @@
                         {
                             "Name": "PHY1521 A04",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1130,
                             "EndHour": 1230,
@@ -112,7 +55,8 @@
                         {
                             "Name": "PHY1521 A01",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1430,
                             "EndHour": 1730,
@@ -122,8 +66,73 @@
                         {
                             "Name": "PHY1521 A02",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3001",
+                            "Professor": "Michael C. H.  Wong"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PHY1521 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MRN 021",
+                            "Professor": "Bela  Joos"
+                        },
+                        {
+                            "Name": "PHY1521 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MRN 021",
+                            "Professor": "Bela  Joos"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "PHY1521 B04",
+                            "ActivityType": "DGD",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1230,
+                            "Place": "CBY B012",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "PHY1521 B03",
+                            "ActivityType": "LAB",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 4,
                             "StartHour": 1430,
                             "EndHour": 1730,
                             "Place": "STE 3001",

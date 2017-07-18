@@ -12,7 +12,8 @@
                         {
                             "Name": "MHA6230 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 13 - September 13",
+                            "StartDate": "09-13",
+                            "EndDate": "09-13",
                             "Day": 2,
                             "StartHour": 1730,
                             "EndHour": 2030,
@@ -22,7 +23,8 @@
                         {
                             "Name": "MHA6230 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 27 - September 27",
+                            "StartDate": "09-27",
+                            "EndDate": "09-27",
                             "Day": 2,
                             "StartHour": 1730,
                             "EndHour": 2030,
@@ -32,7 +34,8 @@
                         {
                             "Name": "MHA6230 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 11 - October 11",
+                            "StartDate": "10-11",
+                            "EndDate": "10-11",
                             "Day": 2,
                             "StartHour": 1730,
                             "EndHour": 2030,
@@ -42,7 +45,8 @@
                         {
                             "Name": "MHA6230 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 25 - October 25",
+                            "StartDate": "10-25",
+                            "EndDate": "10-25",
                             "Day": 2,
                             "StartHour": 1730,
                             "EndHour": 2030,
@@ -52,7 +56,8 @@
                         {
                             "Name": "MHA6230 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "November 08 - November 08",
+                            "StartDate": "11-08",
+                            "EndDate": "11-08",
                             "Day": 2,
                             "StartHour": 1730,
                             "EndHour": 2030,
@@ -62,7 +67,8 @@
                         {
                             "Name": "MHA6230 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "November 22 - November 22",
+                            "StartDate": "11-22",
+                            "EndDate": "11-22",
                             "Day": 2,
                             "StartHour": 1730,
                             "EndHour": 2030,

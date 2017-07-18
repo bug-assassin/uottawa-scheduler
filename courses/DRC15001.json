@@ -12,7 +12,8 @@
                         {
                             "Name": "DRC15001 A00 - Volets C et D bibliothèque (Partie 1 de 2)",
                             "ActivityType": "SEM",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1900,
                             "EndHour": 2200,
@@ -32,7 +33,8 @@
                         {
                             "Name": "DRC15001 B00 - Volets C et D bibliothèque (Partie 1 de 2)",
                             "ActivityType": "SEM",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1900,
                             "EndHour": 2200,
@@ -52,7 +54,8 @@
                         {
                             "Name": "DRC15001 C00 - Volets C et D bibliothèque (Partie 1 de 2)",
                             "ActivityType": "SEM",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1900,
                             "EndHour": 2200,

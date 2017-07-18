@@ -4,26 +4,6 @@
     "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=022567\u0026term=2179\u0026session=FS",
     "Sections": [
         {
-            "SectionCode": "H",
-            "ActivityGroups": [
-                {
-                    "ActivityType": "LEC",
-                    "Activities": [
-                        {
-                            "Name": "MUS5904 HC00",
-                            "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 3,
-                            "StartHour": 1000,
-                            "EndHour": 1300,
-                            "Place": "DEP DEPT",
-                            "Professor": "Gilles R.  Comeau"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "SectionCode": "A",
             "ActivityGroups": [
                 {
@@ -32,11 +12,33 @@
                         {
                             "Name": "MUS5904 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1000,
                             "EndHour": 1300,
                             "Place": "PRZ 208",
+                            "Professor": "Gilles R.  Comeau"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "H",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MUS5904 HC00",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 3,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "DEP DEPT",
                             "Professor": "Gilles R.  Comeau"
                         }
                     ]

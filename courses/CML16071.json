@@ -4,6 +4,27 @@
     "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=051389\u0026term=2179\u0026session=FS",
     "Sections": [
         {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML16071 C00",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 2,
+                            "StartHour": 1800,
+                            "EndHour": 2100,
+                            "Place": "FSS 8003",
+                            "Professor": "Yan  Zawisza"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "SectionCode": "A",
             "ActivityGroups": [
                 {
@@ -12,7 +33,8 @@
                         {
                             "Name": "CML16071 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1000,
                             "EndHour": 1130,
@@ -22,7 +44,8 @@
                         {
                             "Name": "CML16071 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 830,
                             "EndHour": 1000,
@@ -42,7 +65,8 @@
                         {
                             "Name": "CML16071 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1000,
                             "EndHour": 1130,
@@ -52,32 +76,13 @@
                         {
                             "Name": "CML16071 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 830,
                             "EndHour": 1000,
                             "Place": "FTX 416",
                             "Professor": "Denis  Boivin"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "SectionCode": "C",
-            "ActivityGroups": [
-                {
-                    "ActivityType": "LEC",
-                    "Activities": [
-                        {
-                            "Name": "CML16071 C00",
-                            "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 2,
-                            "StartHour": 1800,
-                            "EndHour": 2100,
-                            "Place": "FSS 8003",
-                            "Professor": "Yan  Zawisza"
                         }
                     ]
                 }

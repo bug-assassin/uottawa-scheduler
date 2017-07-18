@@ -12,7 +12,8 @@
                         {
                             "Name": "GNG1105 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1000,
                             "EndHour": 1130,
@@ -22,7 +23,8 @@
                         {
                             "Name": "GNG1105 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 830,
                             "EndHour": 1000,
@@ -37,7 +39,8 @@
                         {
                             "Name": "GNG1105 A01",
                             "ActivityType": "TUT",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1600,
                             "EndHour": 1730,
@@ -47,7 +50,8 @@
                         {
                             "Name": "GNG1105 A02",
                             "ActivityType": "TUT",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1600,
                             "EndHour": 1730,
@@ -67,7 +71,8 @@
                         {
                             "Name": "GNG1105 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1300,
                             "EndHour": 1430,
@@ -77,7 +82,8 @@
                         {
                             "Name": "GNG1105 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1130,
                             "EndHour": 1300,
@@ -92,7 +98,8 @@
                         {
                             "Name": "GNG1105 B01",
                             "ActivityType": "TUT",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1730,
                             "EndHour": 1900,
@@ -102,7 +109,8 @@
                         {
                             "Name": "GNG1105 B02",
                             "ActivityType": "TUT",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1730,
                             "EndHour": 1900,
@@ -122,7 +130,8 @@
                         {
                             "Name": "GNG1105 C00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 830,
                             "EndHour": 1000,
@@ -132,7 +141,8 @@
                         {
                             "Name": "GNG1105 C00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1000,
                             "EndHour": 1130,
@@ -147,7 +157,8 @@
                         {
                             "Name": "GNG1105 C01",
                             "ActivityType": "TUT",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 830,
                             "EndHour": 1000,
@@ -157,7 +168,8 @@
                         {
                             "Name": "GNG1105 C02",
                             "ActivityType": "TUT",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 830,
                             "EndHour": 1000,
@@ -177,7 +189,8 @@
                         {
                             "Name": "GNG1105 D00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 830,
                             "EndHour": 1000,
@@ -187,7 +200,8 @@
                         {
                             "Name": "GNG1105 D00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1000,
                             "EndHour": 1130,
@@ -202,7 +216,8 @@
                         {
                             "Name": "GNG1105 D01",
                             "ActivityType": "TUT",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1300,
                             "EndHour": 1430,
@@ -212,7 +227,8 @@
                         {
                             "Name": "GNG1105 D02",
                             "ActivityType": "TUT",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1600,
                             "EndHour": 1730,
@@ -232,7 +248,8 @@
                         {
                             "Name": "GNG1105 E00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1430,
                             "EndHour": 1600,
@@ -242,7 +259,8 @@
                         {
                             "Name": "GNG1105 E00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1600,
                             "EndHour": 1730,
@@ -257,7 +275,8 @@
                         {
                             "Name": "GNG1105 E01",
                             "ActivityType": "TUT",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1600,
                             "EndHour": 1730,
@@ -267,7 +286,8 @@
                         {
                             "Name": "GNG1105 E02",
                             "ActivityType": "TUT",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1600,
                             "EndHour": 1730,
@@ -287,7 +307,8 @@
                         {
                             "Name": "GNG1105 H00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1000,
                             "EndHour": 1130,
@@ -297,7 +318,8 @@
                         {
                             "Name": "GNG1105 H00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 830,
                             "EndHour": 1000,
@@ -312,7 +334,8 @@
                         {
                             "Name": "GNG1105 H01",
                             "ActivityType": "TUT",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1600,
                             "EndHour": 1730,
@@ -322,7 +345,8 @@
                         {
                             "Name": "GNG1105 H02",
                             "ActivityType": "TUT",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1600,
                             "EndHour": 1730,

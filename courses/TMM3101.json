@@ -12,7 +12,8 @@
                         {
                             "Name": "TMM3101 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 900,
                             "EndHour": 1030,
@@ -22,7 +23,8 @@
                         {
                             "Name": "TMM3101 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1100,
                             "EndHour": 1230,

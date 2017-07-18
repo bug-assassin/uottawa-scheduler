@@ -12,7 +12,8 @@
                         {
                             "Name": "PHT6737 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 19 - November 09",
+                            "StartDate": "10-19",
+                            "EndDate": "11-09",
                             "Day": 3,
                             "StartHour": 900,
                             "EndHour": 1200,
@@ -22,7 +23,8 @@
                         {
                             "Name": "PHT6737 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 23 - October 23",
+                            "StartDate": "10-23",
+                            "EndDate": "10-23",
                             "Day": 0,
                             "StartHour": 900,
                             "EndHour": 1200,
@@ -32,7 +34,8 @@
                         {
                             "Name": "PHT6737 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 23 - November 13",
+                            "StartDate": "10-23",
+                            "EndDate": "11-13",
                             "Day": 0,
                             "StartHour": 1300,
                             "EndHour": 1600,
@@ -42,7 +45,8 @@
                         {
                             "Name": "PHT6737 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 26 - November 09",
+                            "StartDate": "10-26",
+                            "EndDate": "11-09",
                             "Day": 3,
                             "StartHour": 900,
                             "EndHour": 1200,
@@ -52,7 +56,8 @@
                         {
                             "Name": "PHT6737 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 31 - November 07",
+                            "StartDate": "10-31",
+                            "EndDate": "11-07",
                             "Day": 1,
                             "StartHour": 900,
                             "EndHour": 1200,
@@ -62,7 +67,8 @@
                         {
                             "Name": "PHT6737 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "November 13 - November 13",
+                            "StartDate": "11-13",
+                            "EndDate": "11-13",
                             "Day": 0,
                             "StartHour": 900,
                             "EndHour": 1200,
@@ -72,7 +78,8 @@
                         {
                             "Name": "PHT6737 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "November 16 - November 16",
+                            "StartDate": "11-16",
+                            "EndDate": "11-16",
                             "Day": 3,
                             "StartHour": 1300,
                             "EndHour": 1630,

@@ -12,7 +12,8 @@
                         {
                             "Name": "ORA6521 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 20 - December 08",
+                            "StartDate": "10-20",
+                            "EndDate": "12-08",
                             "Day": 4,
                             "StartHour": 900,
                             "EndHour": 1200,
@@ -22,7 +23,8 @@
                         {
                             "Name": "ORA6521 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "November 01 - November 29",
+                            "StartDate": "11-01",
+                            "EndDate": "11-29",
                             "Day": 2,
                             "StartHour": 900,
                             "EndHour": 1200,

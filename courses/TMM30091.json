@@ -4,36 +4,6 @@
     "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=051621\u0026term=2179\u0026session=FS",
     "Sections": [
         {
-            "SectionCode": "Z",
-            "ActivityGroups": [
-                {
-                    "ActivityType": "DGD",
-                    "Activities": [
-                        {
-                            "Name": "TMM30091 Z01",
-                            "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 2,
-                            "StartHour": 1100,
-                            "EndHour": 1200,
-                            "Place": "DEP DEPT",
-                            "Professor": "N/a"
-                        },
-                        {
-                            "Name": "TMM30091 Z01",
-                            "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 2,
-                            "StartHour": 1100,
-                            "EndHour": 1200,
-                            "Place": "DEP DEPT",
-                            "Professor": "N/a"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "SectionCode": "B",
             "ActivityGroups": [
                 {
@@ -42,7 +12,8 @@
                         {
                             "Name": "TMM30091 B00",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1300,
                             "EndHour": 1700,
@@ -52,10 +23,43 @@
                         {
                             "Name": "TMM30091 B00",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1300,
                             "EndHour": 1700,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "Z",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "TMM30091 Z01",
+                            "ActivityType": "DGD",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 2,
+                            "StartHour": 1100,
+                            "EndHour": 1200,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "TMM30091 Z01",
+                            "ActivityType": "DGD",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 2,
+                            "StartHour": 1100,
+                            "EndHour": 1200,
                             "Place": "DEP DEPT",
                             "Professor": "N/a"
                         }

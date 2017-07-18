@@ -4,6 +4,27 @@
     "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=016374\u0026term=2179\u0026session=FS",
     "Sections": [
         {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "HSS4303 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 4,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "HNN 013",
+                            "Professor": "Raywat S. Deonandan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "SectionCode": "A",
             "ActivityGroups": [
                 {
@@ -12,7 +33,8 @@
                         {
                             "Name": "HSS4303 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1130,
                             "EndHour": 1300,
@@ -22,32 +44,13 @@
                         {
                             "Name": "HSS4303 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1300,
                             "EndHour": 1430,
                             "Place": "MRT 205",
                             "Professor": "James  Gomes"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "SectionCode": "B",
-            "ActivityGroups": [
-                {
-                    "ActivityType": "LEC",
-                    "Activities": [
-                        {
-                            "Name": "HSS4303 B00",
-                            "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 4,
-                            "StartHour": 1730,
-                            "EndHour": 2030,
-                            "Place": "HNN 013",
-                            "Professor": "Raywat S. Deonandan"
                         }
                     ]
                 }

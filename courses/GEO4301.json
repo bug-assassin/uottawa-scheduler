@@ -12,7 +12,8 @@
                         {
                             "Name": "GEO4301 A00 - GIS for Science and Engineering Applications",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1730,
                             "EndHour": 2030,
@@ -32,7 +33,8 @@
                         {
                             "Name": "GEO4301 B00 - Precambrian Geology",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1600,
                             "EndHour": 1900,
@@ -52,7 +54,8 @@
                         {
                             "Name": "GEO4301 D00 - Environmental Radiochemistry Techniques",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 830,
                             "EndHour": 1000,
@@ -62,7 +65,8 @@
                         {
                             "Name": "GEO4301 D00 - Environmental Radiochemistry Techniques",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1000,
                             "EndHour": 1130,

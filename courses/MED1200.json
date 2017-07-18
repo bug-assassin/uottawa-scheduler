@@ -12,7 +12,8 @@
                         {
                             "Name": "MED1200 000",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 05 - September 05",
+                            "StartDate": "09-05",
+                            "EndDate": "09-05",
                             "Day": 1,
                             "StartHour": 1200,
                             "EndHour": 1630,
@@ -22,7 +23,8 @@
                         {
                             "Name": "MED1200 000",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 05 - September 05",
+                            "StartDate": "09-05",
+                            "EndDate": "09-05",
                             "Day": 1,
                             "StartHour": 800,
                             "EndHour": 1200,
@@ -32,7 +34,8 @@
                         {
                             "Name": "MED1200 000",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - September 06",
+                            "StartDate": "09-06",
+                            "EndDate": "09-06",
                             "Day": 2,
                             "StartHour": 800,
                             "EndHour": 1230,
@@ -42,7 +45,8 @@
                         {
                             "Name": "MED1200 000",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 07 - September 07",
+                            "StartDate": "09-07",
+                            "EndDate": "09-07",
                             "Day": 3,
                             "StartHour": 830,
                             "EndHour": 1000,
@@ -52,7 +56,8 @@
                         {
                             "Name": "MED1200 000",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 07 - September 07",
+                            "StartDate": "09-07",
+                            "EndDate": "09-07",
                             "Day": 3,
                             "StartHour": 1000,
                             "EndHour": 1230,
@@ -62,7 +67,8 @@
                         {
                             "Name": "MED1200 000",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 08 - September 08",
+                            "StartDate": "09-08",
+                            "EndDate": "09-08",
                             "Day": 4,
                             "StartHour": 1100,
                             "EndHour": 1230,
@@ -72,7 +78,8 @@
                         {
                             "Name": "MED1200 000",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 08 - September 08",
+                            "StartDate": "09-08",
+                            "EndDate": "09-08",
                             "Day": 4,
                             "StartHour": 830,
                             "EndHour": 1030,
@@ -82,7 +89,8 @@
                         {
                             "Name": "MED1200 000",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 08 - September 08",
+                            "StartDate": "09-08",
+                            "EndDate": "09-08",
                             "Day": 4,
                             "StartHour": 1330,
                             "EndHour": 1630,
@@ -92,7 +100,8 @@
                         {
                             "Name": "MED1200 000",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 08 - September 08",
+                            "StartDate": "09-08",
+                            "EndDate": "09-08",
                             "Day": 4,
                             "StartHour": 1030,
                             "EndHour": 1230,
@@ -102,7 +111,8 @@
                         {
                             "Name": "MED1200 000",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 08 - September 08",
+                            "StartDate": "09-08",
+                            "EndDate": "09-08",
                             "Day": 4,
                             "StartHour": 1100,
                             "EndHour": 1230,
@@ -112,7 +122,8 @@
                         {
                             "Name": "MED1200 000",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 11 - September 11",
+                            "StartDate": "09-11",
+                            "EndDate": "09-11",
                             "Day": 0,
                             "StartHour": 830,
                             "EndHour": 1100,
@@ -122,7 +133,8 @@
                         {
                             "Name": "MED1200 000",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 12 - September 12",
+                            "StartDate": "09-12",
+                            "EndDate": "09-12",
                             "Day": 1,
                             "StartHour": 1200,
                             "EndHour": 1830,
@@ -132,7 +144,8 @@
                         {
                             "Name": "MED1200 000",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 12 - September 12",
+                            "StartDate": "09-12",
+                            "EndDate": "09-12",
                             "Day": 1,
                             "StartHour": 1030,
                             "EndHour": 1130,
@@ -142,7 +155,8 @@
                         {
                             "Name": "MED1200 000",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 13 - September 13",
+                            "StartDate": "09-13",
+                            "EndDate": "09-13",
                             "Day": 2,
                             "StartHour": 830,
                             "EndHour": 1030,
@@ -152,7 +166,8 @@
                         {
                             "Name": "MED1200 000",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 14 - September 14",
+                            "StartDate": "09-14",
+                            "EndDate": "09-14",
                             "Day": 3,
                             "StartHour": 830,
                             "EndHour": 1030,
@@ -162,7 +177,8 @@
                         {
                             "Name": "MED1200 000",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 14 - September 14",
+                            "StartDate": "09-14",
+                            "EndDate": "09-14",
                             "Day": 3,
                             "StartHour": 1030,
                             "EndHour": 1230,
@@ -172,7 +188,8 @@
                         {
                             "Name": "MED1200 000",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 15 - September 15",
+                            "StartDate": "09-15",
+                            "EndDate": "09-15",
                             "Day": 4,
                             "StartHour": 1200,
                             "EndHour": 1500,
@@ -182,7 +199,8 @@
                         {
                             "Name": "MED1200 000",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 15 - September 15",
+                            "StartDate": "09-15",
+                            "EndDate": "09-15",
                             "Day": 4,
                             "StartHour": 1030,
                             "EndHour": 1300,

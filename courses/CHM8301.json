@@ -12,7 +12,8 @@
                         {
                             "Name": "CHM8301 000 - Hybrid course",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - October 20",
+                            "StartDate": "09-06",
+                            "EndDate": "10-20",
                             "Day": 1,
                             "StartHour": 1130,
                             "EndHour": 1300,
@@ -22,7 +23,8 @@
                         {
                             "Name": "CHM8301 000 - Hybrid course",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - October 20",
+                            "StartDate": "09-06",
+                            "EndDate": "10-20",
                             "Day": 3,
                             "StartHour": 1000,
                             "EndHour": 1130,

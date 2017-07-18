@@ -12,7 +12,8 @@
                         {
                             "Name": "MBA6297 C00 - Financing an Entrepreneurial Venture",
                             "ActivityType": "SEM",
-                            "StartEndDates": "October 22 - December 03",
+                            "StartDate": "10-22",
+                            "EndDate": "12-03",
                             "Day": 0,
                             "StartHour": 1600,
                             "EndHour": 1900,
@@ -22,7 +23,8 @@
                         {
                             "Name": "MBA6297 C00 - Financing an Entrepreneurial Venture",
                             "ActivityType": "SEM",
-                            "StartEndDates": "October 26 - October 26",
+                            "StartDate": "10-26",
+                            "EndDate": "10-26",
                             "Day": 3,
                             "StartHour": 1600,
                             "EndHour": 1900,

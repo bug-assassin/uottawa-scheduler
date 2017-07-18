@@ -12,7 +12,8 @@
                         {
                             "Name": "NSG2717 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1300,
                             "EndHour": 1500,
@@ -27,7 +28,8 @@
                         {
                             "Name": "NSG2717 A01",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1300,
                             "EndHour": 1600,
@@ -37,7 +39,8 @@
                         {
                             "Name": "NSG2717 A02",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1300,
                             "EndHour": 1600,
@@ -47,7 +50,8 @@
                         {
                             "Name": "NSG2717 A03",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1300,
                             "EndHour": 1600,
@@ -57,7 +61,8 @@
                         {
                             "Name": "NSG2717 A04",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1700,
                             "EndHour": 2000,
@@ -67,7 +72,8 @@
                         {
                             "Name": "NSG2717 A05",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1700,
                             "EndHour": 2000,
@@ -77,7 +83,8 @@
                         {
                             "Name": "NSG2717 A06",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 900,
                             "EndHour": 1200,
@@ -87,7 +94,8 @@
                         {
                             "Name": "NSG2717 A07",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 900,
                             "EndHour": 1200,

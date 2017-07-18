@@ -12,7 +12,8 @@
                         {
                             "Name": "EBC6220 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 22 - December 03",
+                            "StartDate": "10-22",
+                            "EndDate": "12-03",
                             "Day": 0,
                             "StartHour": 1430,
                             "EndHour": 1730,

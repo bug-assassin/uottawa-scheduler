@@ -1,4 +1,4 @@
-function hourMinuteToString(hourMinute) {
+function convertHourMinuteIntegerToString(hourMinute) {
     var hourMinuteString = hourMinute.toString();
     var length = hourMinuteString.length;
     var hour = hourMinuteString.substr(0, Math.floor(length / 2));

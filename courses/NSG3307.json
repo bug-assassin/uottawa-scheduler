@@ -12,7 +12,8 @@
                         {
                             "Name": "NSG3307 AP01 - CA Pembroke Algonquin College",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1200,
                             "EndHour": 1500,
@@ -22,7 +23,8 @@
                         {
                             "Name": "NSG3307 AP01 - CA Pembroke Algonquin College",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 800,
                             "EndHour": 1100,
@@ -32,7 +34,8 @@
                         {
                             "Name": "NSG3307 AW01 - CA Woodroffe Algonquin College",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1300,
                             "EndHour": 1700,
@@ -47,7 +50,8 @@
                         {
                             "Name": "NSG3307 AP00 - CA Pembroke Algonquin College",
                             "ActivityType": "STG",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1500,
                             "EndHour": 2200,
@@ -57,7 +61,8 @@
                         {
                             "Name": "NSG3307 AP00 - CA Pembroke Algonquin College",
                             "ActivityType": "STG",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1500,
                             "EndHour": 2200,
@@ -67,7 +72,8 @@
                         {
                             "Name": "NSG3307 AW00 - CA Woodroffe Algonquin College",
                             "ActivityType": "STG",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1500,
                             "EndHour": 2200,
@@ -77,7 +83,8 @@
                         {
                             "Name": "NSG3307 AW00 - CA Woodroffe Algonquin College",
                             "ActivityType": "STG",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1500,
                             "EndHour": 2200,

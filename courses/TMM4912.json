@@ -12,7 +12,8 @@
                         {
                             "Name": "TMM4912 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - October 20",
+                            "StartDate": "09-06",
+                            "EndDate": "10-20",
                             "Day": 1,
                             "StartHour": 1030,
                             "EndHour": 1200,
@@ -22,7 +23,8 @@
                         {
                             "Name": "TMM4912 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - October 20",
+                            "StartDate": "09-06",
+                            "EndDate": "10-20",
                             "Day": 1,
                             "StartHour": 900,
                             "EndHour": 1030,

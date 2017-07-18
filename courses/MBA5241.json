@@ -12,7 +12,8 @@
                         {
                             "Name": "MBA5241 EE00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - October 15",
+                            "StartDate": "09-06",
+                            "EndDate": "10-15",
                             "Day": 1,
                             "StartHour": 1900,
                             "EndHour": 2200,

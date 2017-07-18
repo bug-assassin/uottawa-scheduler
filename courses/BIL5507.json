@@ -12,7 +12,8 @@
                         {
                             "Name": "BIL5507 A00 - Hybrid course",
                             "ActivityType": "SEM",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1700,
                             "EndHour": 2000,

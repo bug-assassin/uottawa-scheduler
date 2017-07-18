@@ -12,7 +12,8 @@
                         {
                             "Name": "PHT5722 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - October 04",
+                            "StartDate": "09-06",
+                            "EndDate": "10-04",
                             "Day": 2,
                             "StartHour": 900,
                             "EndHour": 1030,
@@ -22,7 +23,8 @@
                         {
                             "Name": "PHT5722 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 11 - December 04",
+                            "StartDate": "09-11",
+                            "EndDate": "12-04",
                             "Day": 0,
                             "StartHour": 900,
                             "EndHour": 1030,
@@ -32,7 +34,8 @@
                         {
                             "Name": "PHT5722 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 10 - October 10",
+                            "StartDate": "10-10",
+                            "EndDate": "10-10",
                             "Day": 1,
                             "StartHour": 1300,
                             "EndHour": 1430,
@@ -42,7 +45,8 @@
                         {
                             "Name": "PHT5722 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 17 - October 17",
+                            "StartDate": "10-17",
+                            "EndDate": "10-17",
                             "Day": 1,
                             "StartHour": 900,
                             "EndHour": 1200,
@@ -52,7 +56,8 @@
                         {
                             "Name": "PHT5722 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "November 01 - November 29",
+                            "StartDate": "11-01",
+                            "EndDate": "11-29",
                             "Day": 2,
                             "StartHour": 1300,
                             "EndHour": 1430,
@@ -62,7 +67,8 @@
                         {
                             "Name": "PHT5722 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "November 10 - November 10",
+                            "StartDate": "11-10",
+                            "EndDate": "11-10",
                             "Day": 4,
                             "StartHour": 900,
                             "EndHour": 1200,
@@ -72,7 +78,8 @@
                         {
                             "Name": "PHT5722 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "December 06 - December 06",
+                            "StartDate": "12-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 900,
                             "EndHour": 1200,

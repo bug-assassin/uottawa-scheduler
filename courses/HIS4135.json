@@ -12,7 +12,8 @@
                         {
                             "Name": "HIS4135 B00 - Canada's Rights Revolution",
                             "ActivityType": "SEM",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 830,
                             "EndHour": 1130,

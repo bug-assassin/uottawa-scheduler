@@ -4,36 +4,6 @@
     "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=001792\u0026term=2179\u0026session=FS",
     "Sections": [
         {
-            "SectionCode": "A",
-            "ActivityGroups": [
-                {
-                    "ActivityType": "SEM",
-                    "Activities": [
-                        {
-                            "Name": "API5116 A00",
-                            "ActivityType": "SEM",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 0,
-                            "StartHour": 1900,
-                            "EndHour": 2030,
-                            "Place": "FSS 6004",
-                            "Professor": "N/a"
-                        },
-                        {
-                            "Name": "API5116 A00",
-                            "ActivityType": "SEM",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 0,
-                            "StartHour": 1730,
-                            "EndHour": 1900,
-                            "Place": "FSS 1006",
-                            "Professor": "Luc J.  Juillet"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "SectionCode": "B",
             "ActivityGroups": [
                 {
@@ -42,7 +12,8 @@
                         {
                             "Name": "API5116 B00",
                             "ActivityType": "SEM",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1900,
                             "EndHour": 2030,
@@ -52,7 +23,8 @@
                         {
                             "Name": "API5116 B00",
                             "ActivityType": "SEM",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1730,
                             "EndHour": 1900,
@@ -72,7 +44,8 @@
                         {
                             "Name": "API5116 C00",
                             "ActivityType": "SEM",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1300,
                             "EndHour": 1430,
@@ -82,12 +55,45 @@
                         {
                             "Name": "API5116 C00",
                             "ActivityType": "SEM",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1730,
                             "EndHour": 1900,
                             "Place": "DEP DEPT",
                             "Professor": "Luc  Bernier"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "API5116 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 0,
+                            "StartHour": 1900,
+                            "EndHour": 2030,
+                            "Place": "FSS 6004",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "API5116 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 0,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "FSS 1006",
+                            "Professor": "Luc J.  Juillet"
                         }
                     ]
                 }

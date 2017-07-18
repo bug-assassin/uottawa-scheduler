@@ -12,7 +12,8 @@
                         {
                             "Name": "ELG7187 D00 - Computer Animation",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1430,
                             "EndHour": 1730,
@@ -32,7 +33,8 @@
                         {
                             "Name": "ELG7187 A00 - Software Defined Networks \u0026 Cloud",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1730,
                             "EndHour": 1900,
@@ -42,7 +44,8 @@
                         {
                             "Name": "ELG7187 A00 - Software Defined Networks \u0026 Cloud",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1730,
                             "EndHour": 1900,

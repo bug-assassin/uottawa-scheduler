@@ -12,7 +12,8 @@
                         {
                             "Name": "PHY1703 A00 - Physique et environnement",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1600,
                             "EndHour": 1730,
@@ -22,7 +23,8 @@
                         {
                             "Name": "PHY1703 A00 - Physique et environnement",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1430,
                             "EndHour": 1600,
@@ -37,7 +39,8 @@
                         {
                             "Name": "PHY1703 A01 - Physique et environnement",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1730,
                             "EndHour": 1830,
@@ -47,7 +50,8 @@
                         {
                             "Name": "PHY1703 A02 - Physique et environnement",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1430,
                             "EndHour": 1530,

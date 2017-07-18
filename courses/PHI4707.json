@@ -12,7 +12,8 @@
                         {
                             "Name": "PHI4707 A00 - Le poststructuralisme : origines et enjeux",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 830,
                             "EndHour": 1130,

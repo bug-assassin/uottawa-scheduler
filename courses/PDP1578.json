@@ -12,7 +12,8 @@
                         {
                             "Name": "PDP1578 ZC00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 12 - December 07",
+                            "StartDate": "09-12",
+                            "EndDate": "12-07",
                             "Day": 1,
                             "StartHour": 1800,
                             "EndHour": 2100,
@@ -22,7 +23,8 @@
                         {
                             "Name": "PDP1578 ZC00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 12 - December 07",
+                            "StartDate": "09-12",
+                            "EndDate": "12-07",
                             "Day": 3,
                             "StartHour": 1800,
                             "EndHour": 2100,

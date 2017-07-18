@@ -12,7 +12,8 @@
                         {
                             "Name": "MED2201 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 05 - September 05",
+                            "StartDate": "09-05",
+                            "EndDate": "09-05",
                             "Day": 1,
                             "StartHour": 800,
                             "EndHour": 1030,
@@ -22,7 +23,8 @@
                         {
                             "Name": "MED2201 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - September 13",
+                            "StartDate": "09-06",
+                            "EndDate": "09-13",
                             "Day": 2,
                             "StartHour": 800,
                             "EndHour": 1230,
@@ -32,7 +34,8 @@
                         {
                             "Name": "MED2201 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - September 13",
+                            "StartDate": "09-06",
+                            "EndDate": "09-13",
                             "Day": 2,
                             "StartHour": 800,
                             "EndHour": 1230,
@@ -42,7 +45,8 @@
                         {
                             "Name": "MED2201 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 07 - September 07",
+                            "StartDate": "09-07",
+                            "EndDate": "09-07",
                             "Day": 3,
                             "StartHour": 1030,
                             "EndHour": 1230,
@@ -52,7 +56,8 @@
                         {
                             "Name": "MED2201 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 07 - October 05",
+                            "StartDate": "09-07",
+                            "EndDate": "10-05",
                             "Day": 3,
                             "StartHour": 830,
                             "EndHour": 1030,
@@ -62,7 +67,8 @@
                         {
                             "Name": "MED2201 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 15 - September 15",
+                            "StartDate": "09-15",
+                            "EndDate": "09-15",
                             "Day": 4,
                             "StartHour": 830,
                             "EndHour": 1230,
@@ -72,7 +78,8 @@
                         {
                             "Name": "MED2201 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 18 - October 02",
+                            "StartDate": "09-18",
+                            "EndDate": "10-02",
                             "Day": 0,
                             "StartHour": 830,
                             "EndHour": 1030,
@@ -82,7 +89,8 @@
                         {
                             "Name": "MED2201 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 19 - September 19",
+                            "StartDate": "09-19",
+                            "EndDate": "09-19",
                             "Day": 1,
                             "StartHour": 800,
                             "EndHour": 1230,
@@ -92,7 +100,8 @@
                         {
                             "Name": "MED2201 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 20 - November 29",
+                            "StartDate": "09-20",
+                            "EndDate": "11-29",
                             "Day": 2,
                             "StartHour": 800,
                             "EndHour": 1230,
@@ -102,7 +111,8 @@
                         {
                             "Name": "MED2201 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 20 - November 29",
+                            "StartDate": "09-20",
+                            "EndDate": "11-29",
                             "Day": 2,
                             "StartHour": 800,
                             "EndHour": 1230,
@@ -112,7 +122,8 @@
                         {
                             "Name": "MED2201 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 22 - December 01",
+                            "StartDate": "09-22",
+                            "EndDate": "12-01",
                             "Day": 4,
                             "StartHour": 830,
                             "EndHour": 1230,
@@ -122,7 +133,8 @@
                         {
                             "Name": "MED2201 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 26 - September 26",
+                            "StartDate": "09-26",
+                            "EndDate": "09-26",
                             "Day": 1,
                             "StartHour": 830,
                             "EndHour": 1230,
@@ -132,7 +144,8 @@
                         {
                             "Name": "MED2201 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 27 - September 27",
+                            "StartDate": "09-27",
+                            "EndDate": "09-27",
                             "Day": 2,
                             "StartHour": 1230,
                             "EndHour": 1330,
@@ -142,7 +155,8 @@
                         {
                             "Name": "MED2201 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 03 - October 03",
+                            "StartDate": "10-03",
+                            "EndDate": "10-03",
                             "Day": 1,
                             "StartHour": 830,
                             "EndHour": 1230,
@@ -152,7 +166,8 @@
                         {
                             "Name": "MED2201 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 10 - October 10",
+                            "StartDate": "10-10",
+                            "EndDate": "10-10",
                             "Day": 1,
                             "StartHour": 800,
                             "EndHour": 1030,
@@ -162,7 +177,8 @@
                         {
                             "Name": "MED2201 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 11 - October 11",
+                            "StartDate": "10-11",
+                            "EndDate": "10-11",
                             "Day": 2,
                             "StartHour": 800,
                             "EndHour": 1230,
@@ -172,7 +188,8 @@
                         {
                             "Name": "MED2201 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 12 - October 12",
+                            "StartDate": "10-12",
+                            "EndDate": "10-12",
                             "Day": 3,
                             "StartHour": 1030,
                             "EndHour": 1230,
@@ -182,7 +199,8 @@
                         {
                             "Name": "MED2201 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 13 - October 13",
+                            "StartDate": "10-13",
+                            "EndDate": "10-13",
                             "Day": 4,
                             "StartHour": 830,
                             "EndHour": 930,
@@ -192,7 +210,8 @@
                         {
                             "Name": "MED2201 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 16 - October 16",
+                            "StartDate": "10-16",
+                            "EndDate": "10-16",
                             "Day": 0,
                             "StartHour": 830,
                             "EndHour": 1030,
@@ -202,7 +221,8 @@
                         {
                             "Name": "MED2201 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 17 - October 24",
+                            "StartDate": "10-17",
+                            "EndDate": "10-24",
                             "Day": 1,
                             "StartHour": 830,
                             "EndHour": 1030,
@@ -212,7 +232,8 @@
                         {
                             "Name": "MED2201 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 19 - October 26",
+                            "StartDate": "10-19",
+                            "EndDate": "10-26",
                             "Day": 3,
                             "StartHour": 830,
                             "EndHour": 1030,
@@ -222,7 +243,8 @@
                         {
                             "Name": "MED2201 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 25 - October 25",
+                            "StartDate": "10-25",
+                            "EndDate": "10-25",
                             "Day": 2,
                             "StartHour": 800,
                             "EndHour": 1230,
@@ -232,7 +254,8 @@
                         {
                             "Name": "MED2201 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 30 - October 30",
+                            "StartDate": "10-30",
+                            "EndDate": "10-30",
                             "Day": 0,
                             "StartHour": 830,
                             "EndHour": 1030,
@@ -242,7 +265,8 @@
                         {
                             "Name": "MED2201 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 31 - November 28",
+                            "StartDate": "10-31",
+                            "EndDate": "11-28",
                             "Day": 1,
                             "StartHour": 830,
                             "EndHour": 1230,
@@ -252,7 +276,8 @@
                         {
                             "Name": "MED2201 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 31 - October 31",
+                            "StartDate": "10-31",
+                            "EndDate": "10-31",
                             "Day": 1,
                             "StartHour": 1030,
                             "EndHour": 1230,
@@ -262,7 +287,8 @@
                         {
                             "Name": "MED2201 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "November 03 - November 03",
+                            "StartDate": "11-03",
+                            "EndDate": "11-03",
                             "Day": 4,
                             "StartHour": 830,
                             "EndHour": 1130,
@@ -272,7 +298,8 @@
                         {
                             "Name": "MED2201 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "November 03 - November 03",
+                            "StartDate": "11-03",
+                            "EndDate": "11-03",
                             "Day": 4,
                             "StartHour": 800,
                             "EndHour": 1130,
@@ -282,7 +309,8 @@
                         {
                             "Name": "MED2201 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "November 03 - November 03",
+                            "StartDate": "11-03",
+                            "EndDate": "11-03",
                             "Day": 4,
                             "StartHour": 800,
                             "EndHour": 1130,
@@ -292,7 +320,8 @@
                         {
                             "Name": "MED2201 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "November 09 - November 30",
+                            "StartDate": "11-09",
+                            "EndDate": "11-30",
                             "Day": 3,
                             "StartHour": 830,
                             "EndHour": 1030,
@@ -302,7 +331,8 @@
                         {
                             "Name": "MED2201 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "November 22 - November 22",
+                            "StartDate": "11-22",
+                            "EndDate": "11-22",
                             "Day": 2,
                             "StartHour": 800,
                             "EndHour": 1230,
@@ -312,7 +342,8 @@
                         {
                             "Name": "MED2201 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "December 04 - December 05",
+                            "StartDate": "12-04",
+                            "EndDate": "12-05",
                             "Day": 0,
                             "StartHour": 800,
                             "EndHour": 2300,
@@ -322,7 +353,8 @@
                         {
                             "Name": "MED2201 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "December 04 - December 05",
+                            "StartDate": "12-04",
+                            "EndDate": "12-05",
                             "Day": 1,
                             "StartHour": 800,
                             "EndHour": 2300,
@@ -332,7 +364,8 @@
                         {
                             "Name": "MED2201 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "December 11 - December 11",
+                            "StartDate": "12-11",
+                            "EndDate": "12-11",
                             "Day": 0,
                             "StartHour": 830,
                             "EndHour": 930,
@@ -342,7 +375,8 @@
                         {
                             "Name": "MED2201 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "December 12 - December 12",
+                            "StartDate": "12-12",
+                            "EndDate": "12-12",
                             "Day": 1,
                             "StartHour": 830,
                             "EndHour": 1130,
@@ -352,7 +386,8 @@
                         {
                             "Name": "MED2201 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "December 13 - December 13",
+                            "StartDate": "12-13",
+                            "EndDate": "12-13",
                             "Day": 2,
                             "StartHour": 830,
                             "EndHour": 1030,
@@ -362,7 +397,8 @@
                         {
                             "Name": "MED2201 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "December 14 - December 14",
+                            "StartDate": "12-14",
+                            "EndDate": "12-14",
                             "Day": 3,
                             "StartHour": 1200,
                             "EndHour": 1630,
@@ -372,7 +408,8 @@
                         {
                             "Name": "MED2201 000",
                             "ActivityType": "LEC",
-                            "StartEndDates": "December 14 - December 14",
+                            "StartDate": "12-14",
+                            "EndDate": "12-14",
                             "Day": 3,
                             "StartHour": 830,
                             "EndHour": 1030,

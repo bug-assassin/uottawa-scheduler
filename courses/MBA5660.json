@@ -12,7 +12,8 @@
                         {
                             "Name": "MBA5660 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "November 04 - November 04",
+                            "StartDate": "11-04",
+                            "EndDate": "11-04",
                             "Day": 5,
                             "StartHour": 800,
                             "EndHour": 1245,
@@ -22,7 +23,8 @@
                         {
                             "Name": "MBA5660 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "November 18 - November 18",
+                            "StartDate": "11-18",
+                            "EndDate": "11-18",
                             "Day": 5,
                             "StartHour": 800,
                             "EndHour": 1245,
@@ -32,7 +34,8 @@
                         {
                             "Name": "MBA5660 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "December 02 - December 02",
+                            "StartDate": "12-02",
+                            "EndDate": "12-02",
                             "Day": 5,
                             "StartHour": 800,
                             "EndHour": 1245,

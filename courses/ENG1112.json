@@ -4,6 +4,65 @@
     "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=012019\u0026term=2179\u0026session=FS",
     "Sections": [
         {
+            "SectionCode": "E",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ENG1112 E00",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 3,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "DMS 1140",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "ENG1112 E01",
+                            "ActivityType": "DGD",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "LPR 154",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ENG1112 E02",
+                            "ActivityType": "DGD",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "TBT 323",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ENG1112 E03",
+                            "ActivityType": "DGD",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "STE F0126",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "SectionCode": "F",
             "ActivityGroups": [
                 {
@@ -12,7 +71,8 @@
                         {
                             "Name": "ENG1112 F00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1900,
                             "EndHour": 2030,
@@ -27,7 +87,8 @@
                         {
                             "Name": "ENG1112 F01",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 2030,
                             "EndHour": 2200,
@@ -37,7 +98,8 @@
                         {
                             "Name": "ENG1112 F02",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 2030,
                             "EndHour": 2200,
@@ -47,7 +109,8 @@
                         {
                             "Name": "ENG1112 F03",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 2030,
                             "EndHour": 2200,
@@ -67,7 +130,8 @@
                         {
                             "Name": "ENG1112 G00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1730,
                             "EndHour": 1900,
@@ -82,7 +146,8 @@
                         {
                             "Name": "ENG1112 G01",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1730,
                             "EndHour": 1900,
@@ -92,7 +157,8 @@
                         {
                             "Name": "ENG1112 G02",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1730,
                             "EndHour": 1900,
@@ -102,7 +168,8 @@
                         {
                             "Name": "ENG1112 G03",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1730,
                             "EndHour": 1900,
@@ -122,7 +189,8 @@
                         {
                             "Name": "ENG1112 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1430,
                             "EndHour": 1600,
@@ -137,7 +205,8 @@
                         {
                             "Name": "ENG1112 A01",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1600,
                             "EndHour": 1730,
@@ -147,7 +216,8 @@
                         {
                             "Name": "ENG1112 A02",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1600,
                             "EndHour": 1730,
@@ -157,7 +227,8 @@
                         {
                             "Name": "ENG1112 A03",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1600,
                             "EndHour": 1730,
@@ -177,7 +248,8 @@
                         {
                             "Name": "ENG1112 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1900,
                             "EndHour": 2030,
@@ -192,7 +264,8 @@
                         {
                             "Name": "ENG1112 B01",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 2030,
                             "EndHour": 2200,
@@ -202,7 +275,8 @@
                         {
                             "Name": "ENG1112 B02",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 2030,
                             "EndHour": 2200,
@@ -212,7 +286,8 @@
                         {
                             "Name": "ENG1112 B03",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 2030,
                             "EndHour": 2200,
@@ -232,7 +307,8 @@
                         {
                             "Name": "ENG1112 C00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1730,
                             "EndHour": 1900,
@@ -247,7 +323,8 @@
                         {
                             "Name": "ENG1112 C01",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1900,
                             "EndHour": 2030,
@@ -257,7 +334,8 @@
                         {
                             "Name": "ENG1112 C02",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1900,
                             "EndHour": 2000,
@@ -267,7 +345,8 @@
                         {
                             "Name": "ENG1112 C03",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1900,
                             "EndHour": 2030,
@@ -287,7 +366,8 @@
                         {
                             "Name": "ENG1112 D00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1730,
                             "EndHour": 1900,
@@ -302,7 +382,8 @@
                         {
                             "Name": "ENG1112 D01",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1730,
                             "EndHour": 1900,
@@ -312,7 +393,8 @@
                         {
                             "Name": "ENG1112 D02",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1730,
                             "EndHour": 1900,
@@ -322,66 +404,12 @@
                         {
                             "Name": "ENG1112 D03",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1730,
                             "EndHour": 1900,
                             "Place": "SMD 226",
-                            "Professor": "N/a"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "SectionCode": "E",
-            "ActivityGroups": [
-                {
-                    "ActivityType": "LEC",
-                    "Activities": [
-                        {
-                            "Name": "ENG1112 E00",
-                            "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 3,
-                            "StartHour": 1000,
-                            "EndHour": 1130,
-                            "Place": "DMS 1140",
-                            "Professor": "N/a"
-                        }
-                    ]
-                },
-                {
-                    "ActivityType": "DGD",
-                    "Activities": [
-                        {
-                            "Name": "ENG1112 E01",
-                            "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 0,
-                            "StartHour": 830,
-                            "EndHour": 1000,
-                            "Place": "LPR 154",
-                            "Professor": "N/a"
-                        },
-                        {
-                            "Name": "ENG1112 E02",
-                            "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 0,
-                            "StartHour": 830,
-                            "EndHour": 1000,
-                            "Place": "TBT 323",
-                            "Professor": "N/a"
-                        },
-                        {
-                            "Name": "ENG1112 E03",
-                            "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 0,
-                            "StartHour": 830,
-                            "EndHour": 1000,
-                            "Place": "STE F0126",
                             "Professor": "N/a"
                         }
                     ]

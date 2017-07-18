@@ -12,7 +12,8 @@
                         {
                             "Name": "PHT5526 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 07 - September 08",
+                            "StartDate": "09-07",
+                            "EndDate": "09-08",
                             "Day": 3,
                             "StartHour": 900,
                             "EndHour": 1100,
@@ -22,7 +23,8 @@
                         {
                             "Name": "PHT5526 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 07 - September 08",
+                            "StartDate": "09-07",
+                            "EndDate": "09-08",
                             "Day": 4,
                             "StartHour": 900,
                             "EndHour": 1100,
@@ -32,7 +34,8 @@
                         {
                             "Name": "PHT5526 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 11 - October 02",
+                            "StartDate": "09-11",
+                            "EndDate": "10-02",
                             "Day": 0,
                             "StartHour": 1400,
                             "EndHour": 1600,
@@ -42,7 +45,8 @@
                         {
                             "Name": "PHT5526 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 15 - October 06",
+                            "StartDate": "09-15",
+                            "EndDate": "10-06",
                             "Day": 4,
                             "StartHour": 900,
                             "EndHour": 1100,

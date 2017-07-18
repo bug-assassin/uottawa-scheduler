@@ -12,7 +12,8 @@
                         {
                             "Name": "CML2301 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1600,
                             "EndHour": 1900,

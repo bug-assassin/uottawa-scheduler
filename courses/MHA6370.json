@@ -12,7 +12,8 @@
                         {
                             "Name": "MHA6370 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 03",
+                            "StartDate": "09-06",
+                            "EndDate": "12-03",
                             "Day": 0,
                             "StartHour": 1730,
                             "EndHour": 2030,
@@ -22,7 +23,8 @@
                         {
                             "Name": "MHA6370 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 15 - September 15",
+                            "StartDate": "09-15",
+                            "EndDate": "09-15",
                             "Day": 4,
                             "StartHour": 1730,
                             "EndHour": 2030,
@@ -32,7 +34,8 @@
                         {
                             "Name": "MHA6370 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 13 - October 13",
+                            "StartDate": "10-13",
+                            "EndDate": "10-13",
                             "Day": 4,
                             "StartHour": 1730,
                             "EndHour": 2030,

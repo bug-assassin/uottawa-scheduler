@@ -12,7 +12,8 @@
                         {
                             "Name": "ERG5524 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "August 29 - September 05",
+                            "StartDate": "08-29",
+                            "EndDate": "09-05",
                             "Day": 1,
                             "StartHour": 900,
                             "EndHour": 1200,
@@ -22,7 +23,8 @@
                         {
                             "Name": "ERG5524 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "August 29 - September 05",
+                            "StartDate": "08-29",
+                            "EndDate": "09-05",
                             "Day": 1,
                             "StartHour": 1000,
                             "EndHour": 1700,
@@ -32,7 +34,8 @@
                         {
                             "Name": "ERG5524 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "August 29 - September 05",
+                            "StartDate": "08-29",
+                            "EndDate": "09-05",
                             "Day": 2,
                             "StartHour": 1000,
                             "EndHour": 1700,
@@ -42,7 +45,8 @@
                         {
                             "Name": "ERG5524 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "August 29 - September 05",
+                            "StartDate": "08-29",
+                            "EndDate": "09-05",
                             "Day": 4,
                             "StartHour": 1000,
                             "EndHour": 1700,

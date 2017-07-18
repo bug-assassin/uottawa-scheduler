@@ -12,7 +12,8 @@
                         {
                             "Name": "MED8166 A00",
                             "ActivityType": "SEM",
-                            "StartEndDates": "September 15 - September 22",
+                            "StartDate": "09-15",
+                            "EndDate": "09-22",
                             "Day": 4,
                             "StartHour": 1300,
                             "EndHour": 1600,

@@ -12,7 +12,8 @@
                         {
                             "Name": "CML2579 A00 - Clinique Programme de défense des contraventions",
                             "ActivityType": "STG",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1430,
                             "EndHour": 1730,

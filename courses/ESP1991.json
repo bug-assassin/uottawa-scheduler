@@ -4,6 +4,142 @@
     "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=012965\u0026term=2179\u0026session=FS",
     "Sections": [
         {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ESP1991 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "FSS 4007",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "TLB",
+                    "Activities": [
+                        {
+                            "Name": "ESP1991 A01",
+                            "ActivityType": "TLB",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 0,
+                            "StartHour": 1000,
+                            "EndHour": 1100,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ESP1991 A01",
+                            "ActivityType": "TLB",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "MRT 015",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ESP1991 A02",
+                            "ActivityType": "TLB",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 0,
+                            "StartHour": 1000,
+                            "EndHour": 1100,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ESP1991 A02",
+                            "ActivityType": "TLB",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "FTX 137",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ESP1991 A03",
+                            "ActivityType": "TLB",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 0,
+                            "StartHour": 1000,
+                            "EndHour": 1100,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ESP1991 A03",
+                            "ActivityType": "TLB",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "THN 124",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ESP1991 A04",
+                            "ActivityType": "TLB",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1100,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ESP1991 A04",
+                            "ActivityType": "TLB",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "MRT 252",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ESP1991 A05",
+                            "ActivityType": "TLB",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1100,
+                            "Place": "Not available at this time.",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ESP1991 A05",
+                            "ActivityType": "TLB",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "MRT 251",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "SectionCode": "B",
             "ActivityGroups": [
                 {
@@ -12,7 +148,8 @@
                         {
                             "Name": "ESP1991 B00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1300,
                             "EndHour": 1430,
@@ -27,7 +164,8 @@
                         {
                             "Name": "ESP1991 B01",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 900,
                             "EndHour": 1000,
@@ -37,7 +175,8 @@
                         {
                             "Name": "ESP1991 B01",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1000,
                             "EndHour": 1130,
@@ -47,7 +186,8 @@
                         {
                             "Name": "ESP1991 B02",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 900,
                             "EndHour": 1000,
@@ -57,7 +197,8 @@
                         {
                             "Name": "ESP1991 B02",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1000,
                             "EndHour": 1130,
@@ -67,7 +208,8 @@
                         {
                             "Name": "ESP1991 B03",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 900,
                             "EndHour": 1000,
@@ -77,7 +219,8 @@
                         {
                             "Name": "ESP1991 B03",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1000,
                             "EndHour": 1130,
@@ -87,7 +230,8 @@
                         {
                             "Name": "ESP1991 B04",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1130,
                             "EndHour": 1230,
@@ -97,7 +241,8 @@
                         {
                             "Name": "ESP1991 B04",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1000,
                             "EndHour": 1130,
@@ -107,7 +252,8 @@
                         {
                             "Name": "ESP1991 B05",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1130,
                             "EndHour": 1230,
@@ -117,7 +263,8 @@
                         {
                             "Name": "ESP1991 B05",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1000,
                             "EndHour": 1130,
@@ -137,7 +284,8 @@
                         {
                             "Name": "ESP1991 C00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1600,
                             "EndHour": 1730,
@@ -152,7 +300,8 @@
                         {
                             "Name": "ESP1991 C01",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1900,
                             "EndHour": 2000,
@@ -162,7 +311,8 @@
                         {
                             "Name": "ESP1991 C01",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1730,
                             "EndHour": 1900,
@@ -172,7 +322,8 @@
                         {
                             "Name": "ESP1991 C02",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1900,
                             "EndHour": 2000,
@@ -182,7 +333,8 @@
                         {
                             "Name": "ESP1991 C02",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1730,
                             "EndHour": 1900,
@@ -192,7 +344,8 @@
                         {
                             "Name": "ESP1991 C03",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1900,
                             "EndHour": 2000,
@@ -202,7 +355,8 @@
                         {
                             "Name": "ESP1991 C03",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1730,
                             "EndHour": 1900,
@@ -212,7 +366,8 @@
                         {
                             "Name": "ESP1991 C04",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1500,
                             "EndHour": 1600,
@@ -222,7 +377,8 @@
                         {
                             "Name": "ESP1991 C04",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1600,
                             "EndHour": 1730,
@@ -232,7 +388,8 @@
                         {
                             "Name": "ESP1991 C05",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1500,
                             "EndHour": 1600,
@@ -242,7 +399,8 @@
                         {
                             "Name": "ESP1991 C05",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1600,
                             "EndHour": 1730,
@@ -262,7 +420,8 @@
                         {
                             "Name": "ESP1991 D00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1430,
                             "EndHour": 1600,
@@ -277,7 +436,8 @@
                         {
                             "Name": "ESP1991 D01",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1900,
                             "EndHour": 2000,
@@ -287,7 +447,8 @@
                         {
                             "Name": "ESP1991 D01",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1730,
                             "EndHour": 1900,
@@ -297,7 +458,8 @@
                         {
                             "Name": "ESP1991 D02",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1900,
                             "EndHour": 2000,
@@ -307,7 +469,8 @@
                         {
                             "Name": "ESP1991 D02",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1730,
                             "EndHour": 1900,
@@ -317,7 +480,8 @@
                         {
                             "Name": "ESP1991 D03",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1900,
                             "EndHour": 2000,
@@ -327,7 +491,8 @@
                         {
                             "Name": "ESP1991 D03",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1730,
                             "EndHour": 1900,
@@ -337,7 +502,8 @@
                         {
                             "Name": "ESP1991 D04",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1600,
                             "EndHour": 1700,
@@ -347,7 +513,8 @@
                         {
                             "Name": "ESP1991 D04",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1430,
                             "EndHour": 1600,
@@ -357,7 +524,8 @@
                         {
                             "Name": "ESP1991 D05",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1600,
                             "EndHour": 1700,
@@ -367,136 +535,12 @@
                         {
                             "Name": "ESP1991 D05",
                             "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1430,
                             "EndHour": 1600,
                             "Place": "STT 125",
-                            "Professor": "N/a"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "SectionCode": "A",
-            "ActivityGroups": [
-                {
-                    "ActivityType": "LEC",
-                    "Activities": [
-                        {
-                            "Name": "ESP1991 A00",
-                            "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 4,
-                            "StartHour": 1130,
-                            "EndHour": 1300,
-                            "Place": "FSS 4007",
-                            "Professor": "N/a"
-                        }
-                    ]
-                },
-                {
-                    "ActivityType": "TLB",
-                    "Activities": [
-                        {
-                            "Name": "ESP1991 A01",
-                            "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 0,
-                            "StartHour": 1000,
-                            "EndHour": 1100,
-                            "Place": "DEP DEPT",
-                            "Professor": "N/a"
-                        },
-                        {
-                            "Name": "ESP1991 A01",
-                            "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 0,
-                            "StartHour": 830,
-                            "EndHour": 1000,
-                            "Place": "MRT 015",
-                            "Professor": "N/a"
-                        },
-                        {
-                            "Name": "ESP1991 A02",
-                            "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 0,
-                            "StartHour": 1000,
-                            "EndHour": 1100,
-                            "Place": "DEP DEPT",
-                            "Professor": "N/a"
-                        },
-                        {
-                            "Name": "ESP1991 A02",
-                            "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 0,
-                            "StartHour": 830,
-                            "EndHour": 1000,
-                            "Place": "FTX 137",
-                            "Professor": "N/a"
-                        },
-                        {
-                            "Name": "ESP1991 A03",
-                            "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 0,
-                            "StartHour": 1000,
-                            "EndHour": 1100,
-                            "Place": "DEP DEPT",
-                            "Professor": "N/a"
-                        },
-                        {
-                            "Name": "ESP1991 A03",
-                            "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 0,
-                            "StartHour": 830,
-                            "EndHour": 1000,
-                            "Place": "THN 124",
-                            "Professor": "N/a"
-                        },
-                        {
-                            "Name": "ESP1991 A04",
-                            "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 1,
-                            "StartHour": 1000,
-                            "EndHour": 1100,
-                            "Place": "DEP DEPT",
-                            "Professor": "N/a"
-                        },
-                        {
-                            "Name": "ESP1991 A04",
-                            "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 1,
-                            "StartHour": 830,
-                            "EndHour": 1000,
-                            "Place": "MRT 252",
-                            "Professor": "N/a"
-                        },
-                        {
-                            "Name": "ESP1991 A05",
-                            "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 1,
-                            "StartHour": 1000,
-                            "EndHour": 1100,
-                            "Place": "Not available at this time.",
-                            "Professor": "N/a"
-                        },
-                        {
-                            "Name": "ESP1991 A05",
-                            "ActivityType": "TLB",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 1,
-                            "StartHour": 830,
-                            "EndHour": 1000,
-                            "Place": "MRT 251",
                             "Professor": "N/a"
                         }
                     ]

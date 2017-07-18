@@ -12,7 +12,8 @@
                         {
                             "Name": "ADM6286 C00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "October 22 - December 03",
+                            "StartDate": "10-22",
+                            "EndDate": "12-03",
                             "Day": 1,
                             "StartHour": 1600,
                             "EndHour": 1900,

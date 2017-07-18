@@ -4,106 +4,6 @@
     "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=003570\u0026term=2179\u0026session=FS",
     "Sections": [
         {
-            "SectionCode": "B",
-            "ActivityGroups": [
-                {
-                    "ActivityType": "LEC",
-                    "Activities": [
-                        {
-                            "Name": "CEG2136 B00",
-                            "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 4,
-                            "StartHour": 1600,
-                            "EndHour": 1730,
-                            "Place": "CBY C03",
-                            "Professor": "Voicu Zamfir Groza"
-                        },
-                        {
-                            "Name": "CEG2136 B00",
-                            "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 1,
-                            "StartHour": 1430,
-                            "EndHour": 1600,
-                            "Place": "CBY C03",
-                            "Professor": "Voicu Zamfir Groza"
-                        }
-                    ]
-                },
-                {
-                    "ActivityType": "DGD",
-                    "Activities": [
-                        {
-                            "Name": "CEG2136 B04",
-                            "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 2,
-                            "StartHour": 2030,
-                            "EndHour": 2200,
-                            "Place": "CBY B012",
-                            "Professor": "Voicu Zamfir Groza"
-                        },
-                        {
-                            "Name": "CEG2136 B05",
-                            "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 2,
-                            "StartHour": 1900,
-                            "EndHour": 2030,
-                            "Place": "CBY B012",
-                            "Professor": "Voicu Zamfir Groza"
-                        },
-                        {
-                            "Name": "CEG2136 B06",
-                            "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 4,
-                            "StartHour": 1300,
-                            "EndHour": 1430,
-                            "Place": "CBY B012",
-                            "Professor": "Voicu Zamfir Groza"
-                        }
-                    ]
-                },
-                {
-                    "ActivityType": "LAB",
-                    "Activities": [
-                        {
-                            "Name": "CEG2136 B01",
-                            "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 3,
-                            "StartHour": 1900,
-                            "EndHour": 2200,
-                            "Place": "CBY B302",
-                            "Professor": "Voicu Zamfir Groza"
-                        },
-                        {
-                            "Name": "CEG2136 B02",
-                            "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 3,
-                            "StartHour": 1130,
-                            "EndHour": 1430,
-                            "Place": "CBY B302",
-                            "Professor": "Voicu Zamfir Groza"
-                        },
-                        {
-                            "Name": "CEG2136 B03",
-                            "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
-                            "Day": 0,
-                            "StartHour": 830,
-                            "EndHour": 1130,
-                            "Place": "CBY B302",
-                            "Professor": "Voicu Zamfir Groza"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "SectionCode": "A",
             "ActivityGroups": [
                 {
@@ -112,7 +12,8 @@
                         {
                             "Name": "CEG2136 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 830,
                             "EndHour": 1000,
@@ -122,7 +23,8 @@
                         {
                             "Name": "CEG2136 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 1000,
                             "EndHour": 1130,
@@ -137,7 +39,8 @@
                         {
                             "Name": "CEG2136 A04",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1900,
                             "EndHour": 2030,
@@ -147,7 +50,8 @@
                         {
                             "Name": "CEG2136 A05",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1730,
                             "EndHour": 1900,
@@ -157,7 +61,8 @@
                         {
                             "Name": "CEG2136 A06",
                             "ActivityType": "DGD",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1130,
                             "EndHour": 1300,
@@ -172,7 +77,8 @@
                         {
                             "Name": "CEG2136 A01",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1900,
                             "EndHour": 2200,
@@ -182,7 +88,8 @@
                         {
                             "Name": "CEG2136 A02",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1600,
                             "EndHour": 1900,
@@ -192,10 +99,119 @@
                         {
                             "Name": "CEG2136 A03",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1000,
                             "EndHour": 1300,
+                            "Place": "CBY B302",
+                            "Professor": "Voicu Zamfir Groza"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CEG2136 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 4,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "CBY C03",
+                            "Professor": "Voicu Zamfir Groza"
+                        },
+                        {
+                            "Name": "CEG2136 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "CBY C03",
+                            "Professor": "Voicu Zamfir Groza"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "CEG2136 B04",
+                            "ActivityType": "DGD",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 2,
+                            "StartHour": 2030,
+                            "EndHour": 2200,
+                            "Place": "CBY B012",
+                            "Professor": "Voicu Zamfir Groza"
+                        },
+                        {
+                            "Name": "CEG2136 B05",
+                            "ActivityType": "DGD",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 2,
+                            "StartHour": 1900,
+                            "EndHour": 2030,
+                            "Place": "CBY B012",
+                            "Professor": "Voicu Zamfir Groza"
+                        },
+                        {
+                            "Name": "CEG2136 B06",
+                            "ActivityType": "DGD",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 4,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "CBY B012",
+                            "Professor": "Voicu Zamfir Groza"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "CEG2136 B01",
+                            "ActivityType": "LAB",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 3,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "CBY B302",
+                            "Professor": "Voicu Zamfir Groza"
+                        },
+                        {
+                            "Name": "CEG2136 B02",
+                            "ActivityType": "LAB",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "CBY B302",
+                            "Professor": "Voicu Zamfir Groza"
+                        },
+                        {
+                            "Name": "CEG2136 B03",
+                            "ActivityType": "LAB",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1130,
                             "Place": "CBY B302",
                             "Professor": "Voicu Zamfir Groza"
                         }

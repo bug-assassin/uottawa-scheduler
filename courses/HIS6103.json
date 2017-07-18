@@ -12,7 +12,8 @@
                         {
                             "Name": "HIS6103 A00 - US Foreign Policy in the 20th Century",
                             "ActivityType": "SEM",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 0,
                             "StartHour": 830,
                             "EndHour": 1130,

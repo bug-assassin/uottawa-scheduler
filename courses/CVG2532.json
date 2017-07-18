@@ -12,7 +12,8 @@
                         {
                             "Name": "CVG2532 A00",
                             "ActivityType": "LEC",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 3,
                             "StartHour": 1900,
                             "EndHour": 2200,
@@ -27,7 +28,8 @@
                         {
                             "Name": "CVG2532 A02",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 1,
                             "StartHour": 1600,
                             "EndHour": 1830,
@@ -37,7 +39,8 @@
                         {
                             "Name": "CVG2532 A03",
                             "ActivityType": "LAB",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 2,
                             "StartHour": 1500,
                             "EndHour": 1730,
@@ -52,7 +55,8 @@
                         {
                             "Name": "CVG2532 A04",
                             "ActivityType": "TUT",
-                            "StartEndDates": "September 06 - December 06",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
                             "Day": 4,
                             "StartHour": 1730,
                             "EndHour": 1900,
