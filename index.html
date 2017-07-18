@@ -56,6 +56,8 @@
             integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
             crossorigin="anonymous"></script> <!-- jquery 3.xx breaks the radio button deselect below, find out why -->
 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.4/js.cookie.min.js" integrity="sha256-NjbogQqosWgor0UBdCURR5dzcvAgHnfUZMcZ8RCwkk8=" crossorigin="anonymous"></script>
+    <script src="icsFormatter.js"></script>
     <script src="utilities.js"></script>
     <script src="course.titles.min.js"></script><!-- Used for autocomplete search -->
 
@@ -111,6 +113,7 @@
             </tr>`;
 
         var courseList = [];
+        var selectedScheduleVariantIndex = 0;
 
         //Allow radio buttons to be deselectable
         $(function () {
@@ -170,27 +173,37 @@
 
             var path = "./courses/" + courseCode + ".json";
             $.getJSON(path, addCourse);
+        }
+        function addCourse(course) {
+            courseList.push(course);
+            updateCookiesAsync();
 
-            function addCourse(course) {
-                courseList.push(course);
+            var courseHtml = generateCourseHTML(course);
+            $('#courseListTable').append(courseHtml);
 
-                var courseHtml = generateCourseHTML(course);
-                $('#courseListTable').append(courseHtml);
-
-                //Update Agenda
-                generateAndShowSchedules();
-            }
+            //Update Agenda
+            generateAndShowSchedules();
         }
         function removeCourse(courseCode) {
             courseList = courseList.filter(function (course) {//Remove course from courselist
                 return course.CourseCode != courseCode;
             });
+            updateCookiesAsync();
 
             //Update View
             $("#courseListTable tbody[data-course-code=" + courseCode + "]").remove();
 
             //Update Agenda
             generateAndShowSchedules();
+        }
+        
+        function updateCookiesAsync() {
+            console.log('Updated Cookies');
+            setTimeout(updateCookies, 0);
+            function updateCookies() {
+                Cookies.set('courses', courseList);
+                Cookies.set('scheduleVariantIndex', selectedScheduleVariantIndex);
+            }
         }
 
         function generateCourseHTML(course) {
@@ -279,7 +292,7 @@
         $(function () {
             $('#radioNumActivityComb input').on('change', function () {
                 var selectedIndex = parseInt($('#radioNumActivityComb input[name=scheduleIndex]:checked').val());
-                showActivityCombination(selectedIndex);
+                selectScheduleVariant(selectedIndex);
             });
             showNumSelectableActivities(0); //Disable all radio buttons
 
@@ -308,7 +321,7 @@
             });
         }
         function clearSelectedActivityIndex() {
-            $('#radioNumActivityComb input[name="scheduleIndex"]').prop('checked', false);
+            $('#radioNumActivityComb').find('input[name="scheduleIndex"]').prop('checked', false);
         }
         function generateAndShowSchedules() {
             if(courseList.length == 0) {
@@ -327,7 +340,7 @@
                 showError("No combination is possible. Remove 1 or more courses.")
             }
             else {
-                showActivityCombination(0);
+                selectScheduleVariant(0);
                 clearError();
             }
         }
@@ -339,8 +352,10 @@
             $('#errorMessage').hide();
         }
 
-        function showActivityCombination(index) {
+        function selectScheduleVariant(index) {
             var activities = toArray(topGeneratedActivities[index]);
+            selectedScheduleVariantIndex = index;
+            updateCookiesAsync();
 
             var fullCalendarActivities = [];
 
@@ -375,11 +390,23 @@
         }
     </script>
     <script>
-        //DEBUG ONLY
-        var testAdd = ['ADM1100', 'ADM2772', 'ADM4754', 'CVG5124', 'CVG5162', 'DLS3510'];
-        testAdd.forEach(function (courseCode) {
-            getCourseAndAddIt(courseCode);
-        });
+        Cookies.defaults.expires = 14;
+        setTimeout(loadCookies, 0);
+        function loadCookies() {
+            var courses = Cookies.getJSON('courses');
+            var scheduleVariantIndex = Cookies.get('scheduleVariantIndex');
+
+            courses.forEach(function (course) {
+                addCourse(course);
+            });
+            selectScheduleVariant(scheduleVariantIndex);
+        }
+    </script>
+    <script>
+        function downloadSchedule() {
+            var cal = icsFormatter();
+            
+        }
     </script>
 </head>
 <body>
