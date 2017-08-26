@@ -1,0 +1,28 @@
+{
+    "CourseCode": "DVM4553",
+    "Title": "Développement international et changements environnementaux",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=009102\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DVM4553 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "FSS 1005",
+                            "Professor": "Nuah Masudi  Makungu"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

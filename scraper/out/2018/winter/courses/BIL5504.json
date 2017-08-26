@@ -1,0 +1,28 @@
+{
+    "CourseCode": "BIL5504",
+    "Title": "Tendances et enjeux de la recherche en apprentissage des langues assisté par ordinateur",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=002628\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "BIL5504 A00 - Hybrid course",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1630,
+                            "EndHour": 1930,
+                            "Place": "DEP DEPT",
+                            "Professor": "Marie-Josee  Hamel"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

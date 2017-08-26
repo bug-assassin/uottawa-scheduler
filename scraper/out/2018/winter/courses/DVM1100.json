@@ -1,0 +1,39 @@
+{
+    "CourseCode": "DVM1100",
+    "Title": "Canada and the Challenges of International Development and Globalization",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=009030\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DVM1100 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "MNT 202",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "DVM1100 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "MNT 202",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

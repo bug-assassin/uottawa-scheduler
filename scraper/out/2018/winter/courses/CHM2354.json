@@ -1,0 +1,93 @@
+{
+    "CourseCode": "CHM2354",
+    "Title": "Analytical Chemistry",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=003906\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CHM2354 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "FSS 2005",
+                            "Professor": "Maxim  Berezovski"
+                        },
+                        {
+                            "Name": "CHM2354 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "FSS 2005",
+                            "Professor": "Maxim  Berezovski"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "CHM2354 003",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1530,
+                            "Place": "MHN 257",
+                            "Professor": "Maxim  Berezovski"
+                        },
+                        {
+                            "Name": "CHM2354 004",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1530,
+                            "Place": "MHN 257",
+                            "Professor": "Maxim  Berezovski"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "CHM2354 001",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1230,
+                            "Place": "MRN 301",
+                            "Professor": "Maxim  Berezovski"
+                        },
+                        {
+                            "Name": "CHM2354 002",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1830,
+                            "Place": "MRN 301",
+                            "Professor": "Maxim  Berezovski"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

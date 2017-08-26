@@ -1,0 +1,55 @@
+{
+    "CourseCode": "LIN3315",
+    "Title": "Introduction to Semantics",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=018537\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "LIN3315 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "SMD 227",
+                            "Professor": "Ana C. Arregui"
+                        },
+                        {
+                            "Name": "LIN3315 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "FTX 361",
+                            "Professor": "Ana C. Arregui"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "LIN3315 A01",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "VNR 2075",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

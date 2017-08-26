@@ -1,0 +1,39 @@
+{
+    "CourseCode": "ENG3339",
+    "Title": "Sixteenth-Century Literature",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=012210\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ENG3339 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MRT 219",
+                            "Professor": "Jennifer  Panek"
+                        },
+                        {
+                            "Name": "ENG3339 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MRT 219",
+                            "Professor": "Jennifer  Panek"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

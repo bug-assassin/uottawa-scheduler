@@ -1,0 +1,55 @@
+{
+    "CourseCode": "NUT2504",
+    "Title": "Alimentation des collectivités",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=023235\u0026term=2181\u0026session=TR",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "NUT2504 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "SMD 226",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "NUT2504 A01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-15",
+                            "Day": 6,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "NUT2504 A02",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-15",
+                            "Day": 6,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "CourseCode": "PED3760",
+    "Title": "Didactique de l'anglais à l'élémentaire",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=025241\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PED3760 A00 - Hybrid course",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "02-09",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "LMX 418",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "PED3760 A00 - Hybrid course",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "02-09",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "LMX 418",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

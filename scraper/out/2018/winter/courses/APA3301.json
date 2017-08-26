@@ -1,0 +1,39 @@
+{
+    "CourseCode": "APA3301",
+    "Title": "Ethics in Sport, Physical Activity and Health in Canada",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=001553\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "APA3301 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MNO E217",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "APA3301 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MNT 201",
+                            "Professor": "Christine Marie  Dallaire"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

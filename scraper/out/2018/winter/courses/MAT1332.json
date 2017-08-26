@@ -1,0 +1,217 @@
+{
+    "CourseCode": "MAT1332",
+    "Title": "Calculus for the Life Sciences II",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=019745\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MAT1332 C00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "FSS 2005",
+                            "Professor": "Catalin Constantin  Rada"
+                        },
+                        {
+                            "Name": "MAT1332 C00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "FSS 2005",
+                            "Professor": "Catalin Constantin  Rada"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "MAT1332 C01",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "SMD 422",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MAT1332 C02",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "FTX 147B",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MAT1332 C03",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "CBY B012",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MAT1332 C04",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "TBT 325",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "D",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MAT1332 D00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "FSS 2005",
+                            "Professor": "Guy  Beaulieu"
+                        },
+                        {
+                            "Name": "MAT1332 D00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "FSS 2005",
+                            "Professor": "Guy  Beaulieu"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "MAT1332 D01",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MHN 257",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MAT1332 D02",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "CBY C03",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MAT1332 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "MNT 202",
+                            "Professor": "Robert  Smith"
+                        },
+                        {
+                            "Name": "MAT1332 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "MNT 202",
+                            "Professor": "Robert  Smith"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "MAT1332 B01",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "TBT 333",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MAT1332 B02",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "FSS 1030",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MAT1332 B03",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "FTX 147",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

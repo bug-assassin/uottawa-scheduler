@@ -1,0 +1,28 @@
+{
+    "CourseCode": "BCH8103",
+    "Title": "Advanced Topics in Gene Expression and Protein Synthesis",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=002562\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "M",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "BCH8103 M00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "DEP DEPT",
+                            "Professor": "Ian Anthony James Lorimer"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

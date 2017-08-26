@@ -1,0 +1,39 @@
+{
+    "CourseCode": "ESL2111",
+    "Title": "Oral and Written Communication in English as a Second Language: Intermediate Level I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=012914\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ESL2111 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "SWT 207",
+                            "Professor": "Tahereh  Paribakht"
+                        },
+                        {
+                            "Name": "ESL2111 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "SMD 330",
+                            "Professor": "Tahereh  Paribakht"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

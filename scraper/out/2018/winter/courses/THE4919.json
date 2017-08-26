@@ -1,0 +1,39 @@
+{
+    "CourseCode": "THE4919",
+    "Title": "Shakespeare Meets Molière",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=030330\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "THE4919 A00",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "SMN 311",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "THE4919 A00",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "SMN 311",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

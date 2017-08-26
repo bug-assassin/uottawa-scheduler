@@ -1,0 +1,71 @@
+{
+    "CourseCode": "CRM2702",
+    "Title": "Théories de la réaction sociale en criminologie",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=006049\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CRM2702 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "STE A0150",
+                            "Professor": "Richard  Dubé"
+                        },
+                        {
+                            "Name": "CRM2702 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "STE A0150",
+                            "Professor": "Richard  Dubé"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CRM2702 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MRT 212",
+                            "Professor": "David  Moffette"
+                        },
+                        {
+                            "Name": "CRM2702 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MRT 212",
+                            "Professor": "David  Moffette"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

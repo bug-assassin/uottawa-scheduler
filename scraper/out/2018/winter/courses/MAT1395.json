@@ -1,0 +1,39 @@
+{
+    "CourseCode": "MAT1395",
+    "Title": "The Beauty of Mathematics",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=019756\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MAT1395 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "VNR 5070",
+                            "Professor": "Gilles  Lamothe"
+                        },
+                        {
+                            "Name": "MAT1395 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "VNR 5070",
+                            "Professor": "Gilles  Lamothe"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

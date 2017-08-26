@@ -1,0 +1,82 @@
+{
+    "CourseCode": "ITI1500",
+    "Title": "Systèmes numériques I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=018045\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ITI1500 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "STE A0150",
+                            "Professor": "Ahmed  Karmouch"
+                        },
+                        {
+                            "Name": "ITI1500 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "STE A0150",
+                            "Professor": "Ahmed  Karmouch"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "ITI1500 A01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "CBY B302",
+                            "Professor": "Ahmed  Karmouch"
+                        },
+                        {
+                            "Name": "ITI1500 A02",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "CBY B302",
+                            "Professor": "Ahmed  Karmouch"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "TUT",
+                    "Activities": [
+                        {
+                            "Name": "ITI1500 A03",
+                            "ActivityType": "TUT",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "STE A0150",
+                            "Professor": "Ahmed  Karmouch"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

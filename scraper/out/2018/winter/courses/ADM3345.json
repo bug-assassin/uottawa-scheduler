@@ -1,0 +1,71 @@
+{
+    "CourseCode": "ADM3345",
+    "Title": "Taxation I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=000101\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "M",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ADM3345 M00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "MNT 207",
+                            "Professor": "Richard Carl  Musselman"
+                        },
+                        {
+                            "Name": "ADM3345 M00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "MNO C211",
+                            "Professor": "Richard Carl  Musselman"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "N",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ADM3345 N00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "DMS 4170",
+                            "Professor": "Richard Carl  Musselman"
+                        },
+                        {
+                            "Name": "ADM3345 N00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "DMS 4170",
+                            "Professor": "Richard Carl  Musselman"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

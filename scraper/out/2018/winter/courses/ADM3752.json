@@ -1,0 +1,28 @@
+{
+    "CourseCode": "ADM3752",
+    "Title": "Gestion de portefeuille",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=000158\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "M",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ADM3752 M00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "MNT 204",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "CourseCode": "BCH5101",
+    "Title": "Analysis of -Omics Data",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=002547\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "M",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "BCH5101 M00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1400,
+                            "EndHour": 1530,
+                            "Place": "RGN 2012",
+                            "Professor": "David  Bickel"
+                        },
+                        {
+                            "Name": "BCH5101 M00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1400,
+                            "EndHour": 1530,
+                            "Place": "DEP DEPT",
+                            "Professor": "David  Bickel"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

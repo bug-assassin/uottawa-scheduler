@@ -1,0 +1,39 @@
+{
+    "CourseCode": "GEO1111",
+    "Title": "Introduction to Earth Systems",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=014638\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "GEO1111 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "MRN 150",
+                            "Professor": "Ian Douglas Clark,David  Schneider"
+                        },
+                        {
+                            "Name": "GEO1111 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "MRN 150",
+                            "Professor": "Ian Douglas Clark,David  Schneider"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

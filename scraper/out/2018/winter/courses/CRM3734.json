@@ -1,0 +1,60 @@
+{
+    "CourseCode": "CRM3734",
+    "Title": "Recherche quantitative en criminologie",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=006132\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "TLB",
+                    "Activities": [
+                        {
+                            "Name": "CRM3734 B00",
+                            "ActivityType": "TLB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "VNR 2008",
+                            "Professor": "Carolyn  Côté-Lussier"
+                        },
+                        {
+                            "Name": "CRM3734 B00",
+                            "ActivityType": "TLB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "VNR 2008",
+                            "Professor": "Carolyn  Côté-Lussier"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "TLB",
+                    "Activities": [
+                        {
+                            "Name": "CRM3734 C00",
+                            "ActivityType": "TLB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "VNR 2008",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

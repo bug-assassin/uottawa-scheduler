@@ -1,0 +1,44 @@
+{
+    "CourseCode": "APA4315",
+    "Title": "External Influences and Physical Activity",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=001644\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "APA4315 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 800,
+                            "EndHour": 1000,
+                            "Place": "LEE C102",
+                            "Professor": "François  Haman"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "APA4315 A01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 800,
+                            "EndHour": 1000,
+                            "Place": "MNT 303",
+                            "Professor": "Martine  Dumont"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

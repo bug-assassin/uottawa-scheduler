@@ -1,0 +1,39 @@
+{
+    "CourseCode": "DRC4513",
+    "Title": "Problèmes choisis de droit international I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=008681\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DRC4513 A00 - Droit des réfugiés",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1700,
+                            "EndHour": 1900,
+                            "Place": "FTX 361",
+                            "Professor": "Yves  Lebouthillier"
+                        },
+                        {
+                            "Name": "DRC4513 A00 - Droit des réfugiés",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1700,
+                            "EndHour": 1900,
+                            "Place": "FTX 361",
+                            "Professor": "Yves  Lebouthillier"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "CourseCode": "CML1702",
+    "Title": "Délits civils et responsabilité extracontractuelle II",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=004857\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML1702 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 930,
+                            "EndHour": 1130,
+                            "Place": "FTX 416",
+                            "Professor": "Maria E. Katsivela"
+                        },
+                        {
+                            "Name": "CML1702 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 930,
+                            "EndHour": 1130,
+                            "Place": "FTX 416",
+                            "Professor": "Maria E. Katsivela"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

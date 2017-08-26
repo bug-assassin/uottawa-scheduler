@@ -1,0 +1,39 @@
+{
+    "CourseCode": "DCL5326",
+    "Title": "Studies in Indigenous Legal Issues",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=008045\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "DCL5326 C00 - Aboriginal Financial Management and Governance",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1330,
+                            "Place": "FTX 235",
+                            "Professor": "Yvonne Marie  Boyer"
+                        },
+                        {
+                            "Name": "DCL5326 C00 - Aboriginal Financial Management and Governance",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 930,
+                            "EndHour": 1130,
+                            "Place": "BRS 314",
+                            "Professor": "Yvonne Marie  Boyer"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

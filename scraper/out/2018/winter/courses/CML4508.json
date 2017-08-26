@@ -1,0 +1,71 @@
+{
+    "CourseCode": "CML4508",
+    "Title": "Études en droit international",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=005275\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "D",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "CML4508 D00 - Clinique droit des investissements et du commerce",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 930,
+                            "EndHour": 1130,
+                            "Place": "FTX 315",
+                            "Professor": "Debra Pauline Steger,Wolfgang  Alschner"
+                        },
+                        {
+                            "Name": "CML4508 D00 - Clinique droit des investissements et du commerce",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 930,
+                            "EndHour": 1130,
+                            "Place": "FTX 315",
+                            "Professor": "Debra Pauline Steger,Wolfgang  Alschner"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "E",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "CML4508 E00 - Droit international africain",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1500,
+                            "EndHour": 1700,
+                            "Place": "FTX 413",
+                            "Professor": "Pacifique  Manirakiza"
+                        },
+                        {
+                            "Name": "CML4508 E00 - Droit international africain",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 930,
+                            "EndHour": 1130,
+                            "Place": "FTX 402",
+                            "Professor": "Pacifique  Manirakiza"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

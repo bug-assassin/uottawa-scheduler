@@ -1,0 +1,28 @@
+{
+    "CourseCode": "EDU5466",
+    "Title": "Racism and Antiracism in Education",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=010575\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "S",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "EDU5466 S00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "LMX 240",
+                            "Professor": "Timothy John Stanley"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

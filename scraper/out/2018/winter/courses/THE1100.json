@@ -1,0 +1,66 @@
+{
+    "CourseCode": "THE1100",
+    "Title": "Introduction to the Practice of Theatre: Onstage",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=030132\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "THE1100 C00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "SMN 309",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "THE1100 C00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "SMN 309",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "THE1100 C01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1900,
+                            "EndHour": 2030,
+                            "Place": "SMN 311",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "THE1100 C02",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1900,
+                            "EndHour": 2030,
+                            "Place": "SMN 311",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

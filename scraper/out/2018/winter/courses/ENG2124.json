@@ -1,0 +1,71 @@
+{
+    "CourseCode": "ENG2124",
+    "Title": "Second-Year Seminar",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=012061\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "D",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "ENG2124 D00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "MHN 318",
+                            "Professor": "Jennifer  Panek"
+                        },
+                        {
+                            "Name": "ENG2124 D00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "MHN 318",
+                            "Professor": "Jennifer  Panek"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "E",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "ENG2124 E00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MHN 318",
+                            "Professor": "Jennifer  Blair"
+                        },
+                        {
+                            "Name": "ENG2124 E00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MHN 318",
+                            "Professor": "Jennifer  Blair"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

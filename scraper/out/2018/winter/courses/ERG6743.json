@@ -1,0 +1,83 @@
+{
+    "CourseCode": "ERG6743",
+    "Title": "Intervention de l'ergothérapeute auprès des adultes (santé mentale)",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=012840\u0026term=2181\u0026session=TR",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ERG6743 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-05",
+                            "EndDate": "02-06",
+                            "Day": 1,
+                            "StartHour": 900,
+                            "EndHour": 1230,
+                            "Place": "RGN 2055",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ERG6743 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-05",
+                            "EndDate": "02-06",
+                            "Day": 4,
+                            "StartHour": 900,
+                            "EndHour": 1230,
+                            "Place": "RGN 2055",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ERG6743 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-05",
+                            "EndDate": "02-06",
+                            "Day": 1,
+                            "StartHour": 900,
+                            "EndHour": 1230,
+                            "Place": "RGN 2054",
+                            "Professor": "Andréanne  Dutil"
+                        },
+                        {
+                            "Name": "ERG6743 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-05",
+                            "EndDate": "02-06",
+                            "Day": 4,
+                            "StartHour": 900,
+                            "EndHour": 1230,
+                            "Place": "RGN 2054",
+                            "Professor": "Andréanne  Dutil"
+                        },
+                        {
+                            "Name": "ERG6743 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "02-13",
+                            "EndDate": "02-13",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1300,
+                            "Place": "RGN 2055",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ERG6743 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "02-13",
+                            "EndDate": "02-13",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1300,
+                            "Place": "RGN 2054",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

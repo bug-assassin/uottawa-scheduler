@@ -1,0 +1,28 @@
+{
+    "CourseCode": "ESP5930",
+    "Title": "Aspects of Spanish American Literature III",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=013128\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "ESP5930 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "MHN 215",
+                            "Professor": "Jorge Carlos  Guerrero"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

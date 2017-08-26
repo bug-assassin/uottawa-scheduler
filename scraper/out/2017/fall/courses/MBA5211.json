@@ -1,0 +1,71 @@
+{
+    "CourseCode": "MBA5211",
+    "Title": "Corporate Governance and Ethics",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=020600\u0026term=2179\u0026session=A",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MBA5211 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "10-22",
+                            "EndDate": "12-03",
+                            "Day": 2,
+                            "StartHour": 1600,
+                            "EndHour": 1900,
+                            "Place": "DMS 4140",
+                            "Professor": "Daina  Mazutis"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MBA5211 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "11-04",
+                            "EndDate": "11-04",
+                            "Day": 5,
+                            "StartHour": 800,
+                            "EndHour": 1245,
+                            "Place": "DMS 4120",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MBA5211 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "11-18",
+                            "EndDate": "11-18",
+                            "Day": 5,
+                            "StartHour": 800,
+                            "EndHour": 1245,
+                            "Place": "LMX 243",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MBA5211 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "12-02",
+                            "EndDate": "12-02",
+                            "Day": 5,
+                            "StartHour": 800,
+                            "EndHour": 1245,
+                            "Place": "DMS 4120",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

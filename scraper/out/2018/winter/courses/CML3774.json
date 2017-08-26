@@ -1,0 +1,39 @@
+{
+    "CourseCode": "CML3774",
+    "Title": "Méthodes de rechange pour le règlement de différends",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=005198\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML3774 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1700,
+                            "EndHour": 1900,
+                            "Place": "FTX 413",
+                            "Professor": "Louise  Soyez"
+                        },
+                        {
+                            "Name": "CML3774 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1700,
+                            "EndHour": 1900,
+                            "Place": "FTX 413",
+                            "Professor": "Louise  Soyez"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

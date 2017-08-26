@@ -1,0 +1,226 @@
+{
+    "CourseCode": "MED2603",
+    "Title": "Unité d'intégration",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=021300\u0026term=2181\u0026session=E",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MED2603 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "04-03",
+                            "EndDate": "04-03",
+                            "Day": 1,
+                            "StartHour": 800,
+                            "EndHour": 1030,
+                            "Place": "RGN 2021",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED2603 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "04-04",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1230,
+                            "Place": "RGN 2021",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED2603 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "04-05",
+                            "EndDate": "04-05",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1230,
+                            "Place": "RGN 2021",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED2603 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "04-06",
+                            "EndDate": "04-13",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1230,
+                            "Place": "RGN 2021",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED2603 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "04-09",
+                            "EndDate": "04-09",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1030,
+                            "Place": "RGN 1007",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED2603 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "04-10",
+                            "EndDate": "04-17",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1230,
+                            "Place": "RGN 2021",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED2603 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "04-12",
+                            "EndDate": "04-12",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1030,
+                            "Place": "RGN 2021",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED2603 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "04-16",
+                            "EndDate": "04-16",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1230,
+                            "Place": "RGN 2021",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED2603 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "04-19",
+                            "EndDate": "04-19",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1030,
+                            "Place": "RGN 2021",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED2603 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "04-20",
+                            "EndDate": "04-20",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1230,
+                            "Place": "RGN 2021",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED2603 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "04-24",
+                            "EndDate": "04-24",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1030,
+                            "Place": "RGN 2021",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED2603 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "04-25",
+                            "EndDate": "05-23",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1230,
+                            "Place": "RGN 2021",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED2603 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "04-26",
+                            "EndDate": "04-26",
+                            "Day": 3,
+                            "StartHour": 1030,
+                            "EndHour": 1230,
+                            "Place": "RGN 2021",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED2603 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "04-27",
+                            "EndDate": "05-18",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1230,
+                            "Place": "RGN 2021",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED2603 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "04-30",
+                            "EndDate": "05-21",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1030,
+                            "Place": "RGN 2021",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED2603 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "05-01",
+                            "EndDate": "05-22",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1230,
+                            "Place": "RGN 2021",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED2603 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "05-02",
+                            "EndDate": "05-02",
+                            "Day": 2,
+                            "StartHour": 1230,
+                            "EndHour": 1330,
+                            "Place": "RGN 2021",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED2603 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "05-03",
+                            "EndDate": "05-24",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1030,
+                            "Place": "RGN 2021",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED2603 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "05-25",
+                            "EndDate": "05-25",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1230,
+                            "Place": "RGN 2112",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

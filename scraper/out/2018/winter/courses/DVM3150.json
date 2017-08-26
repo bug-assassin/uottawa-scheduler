@@ -1,0 +1,39 @@
+{
+    "CourseCode": "DVM3150",
+    "Title": "Qualitative Research Methods and Techniques for Doing Fieldwork in International Development",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=009051\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DVM3150 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "TBT 0019",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "DVM3150 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "TBT 0019",
+                            "Professor": "Rahim M. Baba"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

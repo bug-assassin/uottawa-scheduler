@@ -1,0 +1,61 @@
+{
+    "CourseCode": "AHL1500",
+    "Title": "Initiation aux études interdisciplinaires en Arts",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=001023\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "AHL1500 A00 - Mal humain, droits humains",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MNT 207",
+                            "Professor": "Eric  Allina,Jan  Grabowski,Micheline R. Lessard"
+                        },
+                        {
+                            "Name": "AHL1500 A00 - Mal humain, droits humains",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MNT 207",
+                            "Professor": "Eric  Allina,Jan  Grabowski,Micheline R. Lessard"
+                        },
+                        {
+                            "Name": "AHL1500 A00 - Mal humain, droits humains",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "LEE A130",
+                            "Professor": "Eric  Allina,Jan  Grabowski,Micheline R. Lessard"
+                        },
+                        {
+                            "Name": "AHL1500 A00 - Mal humain, droits humains",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "LEE A130",
+                            "Professor": "Eric  Allina,Jan  Grabowski,Micheline R. Lessard"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

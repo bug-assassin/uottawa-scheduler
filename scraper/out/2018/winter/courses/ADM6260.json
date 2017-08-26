@@ -1,0 +1,159 @@
+{
+    "CourseCode": "ADM6260",
+    "Title": "Project Management I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=000509\u0026term=2181\u0026session=G",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ADM6260 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "02-27",
+                            "EndDate": "02-27",
+                            "Day": 1,
+                            "StartHour": 1600,
+                            "EndHour": 1900,
+                            "Place": "DMS 4140",
+                            "Professor": "Stephane  Tywoniak"
+                        },
+                        {
+                            "Name": "ADM6260 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "03-01",
+                            "EndDate": "03-01",
+                            "Day": 3,
+                            "StartHour": 1600,
+                            "EndHour": 1900,
+                            "Place": "DMS 4140",
+                            "Professor": "Stephane  Tywoniak"
+                        },
+                        {
+                            "Name": "ADM6260 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "03-06",
+                            "EndDate": "03-06",
+                            "Day": 1,
+                            "StartHour": 1600,
+                            "EndHour": 1900,
+                            "Place": "DMS 4140",
+                            "Professor": "Stephane  Tywoniak"
+                        },
+                        {
+                            "Name": "ADM6260 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "03-08",
+                            "EndDate": "03-08",
+                            "Day": 3,
+                            "StartHour": 1600,
+                            "EndHour": 1900,
+                            "Place": "DMS 4140",
+                            "Professor": "Stephane  Tywoniak"
+                        },
+                        {
+                            "Name": "ADM6260 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "03-13",
+                            "EndDate": "03-13",
+                            "Day": 1,
+                            "StartHour": 1600,
+                            "EndHour": 1900,
+                            "Place": "DMS 4140",
+                            "Professor": "Stephane  Tywoniak"
+                        },
+                        {
+                            "Name": "ADM6260 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "03-15",
+                            "EndDate": "03-15",
+                            "Day": 3,
+                            "StartHour": 1600,
+                            "EndHour": 1900,
+                            "Place": "DMS 4140",
+                            "Professor": "Stephane  Tywoniak"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ADM6260 BB00",
+                            "ActivityType": "LEC",
+                            "StartDate": "03-03",
+                            "EndDate": "03-03",
+                            "Day": 5,
+                            "StartHour": 1330,
+                            "EndHour": 1545,
+                            "Place": "DMS 4130",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ADM6260 BB00",
+                            "ActivityType": "LEC",
+                            "StartDate": "03-03",
+                            "EndDate": "03-03",
+                            "Day": 5,
+                            "StartHour": 1030,
+                            "EndHour": 1245,
+                            "Place": "DMS 4130",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ADM6260 BB00",
+                            "ActivityType": "LEC",
+                            "StartDate": "03-17",
+                            "EndDate": "03-17",
+                            "Day": 5,
+                            "StartHour": 1330,
+                            "EndHour": 1545,
+                            "Place": "DMS 4130",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ADM6260 BB00",
+                            "ActivityType": "LEC",
+                            "StartDate": "03-17",
+                            "EndDate": "03-17",
+                            "Day": 5,
+                            "StartHour": 1030,
+                            "EndHour": 1245,
+                            "Place": "DMS 4130",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ADM6260 BB00",
+                            "ActivityType": "LEC",
+                            "StartDate": "04-07",
+                            "EndDate": "04-07",
+                            "Day": 5,
+                            "StartHour": 1330,
+                            "EndHour": 1545,
+                            "Place": "DMS 4130",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ADM6260 BB00",
+                            "ActivityType": "LEC",
+                            "StartDate": "04-07",
+                            "EndDate": "04-07",
+                            "Day": 5,
+                            "StartHour": 1030,
+                            "EndHour": 1245,
+                            "Place": "DMS 4130",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

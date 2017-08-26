@@ -1,0 +1,28 @@
+{
+    "CourseCode": "ECO6142",
+    "Title": "Industrial Organization II",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=009590\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ECO6142 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "FSS 9003",
+                            "Professor": "Gamal  Atallah"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

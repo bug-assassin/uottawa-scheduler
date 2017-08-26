@@ -1,0 +1,28 @@
+{
+    "CourseCode": "CRM3307",
+    "Title": "Feminist Perspectives in Criminology",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=006071\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CRM3307 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "VNR 1095",
+                            "Professor": "Zoi  Coucopoulos"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

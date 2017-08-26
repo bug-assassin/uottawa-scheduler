@@ -1,0 +1,49 @@
+{
+    "CourseCode": "NSG56202",
+    "Title": "Soins infirmiers de niveau avancé en milieu de soins tertiaires (Partie 2 de 2)",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=051644\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "NSG56202 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "LPR 284",
+                            "Professor": "Viola  Polomeno"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "H",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "NSG56202 HC00 - CanadaVideo-conference course",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "DEP DEPT",
+                            "Professor": "Viola  Polomeno"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

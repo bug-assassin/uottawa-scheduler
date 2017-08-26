@@ -1,0 +1,28 @@
+{
+    "CourseCode": "MUS4701",
+    "Title": "Séminaire I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=022493\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "MUS4701 A00 - La musique des femmes compositrices à l'époque rom",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "PRZ 307",
+                            "Professor": "Julie  Pedneault D"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

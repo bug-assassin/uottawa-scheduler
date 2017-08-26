@@ -1,0 +1,39 @@
+{
+    "CourseCode": "BCH3520",
+    "Title": "Métabolisme intermédiaire général",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=002463\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "BCH3520 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "MHN 257",
+                            "Professor": "Josée  Coutu"
+                        },
+                        {
+                            "Name": "BCH3520 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "MRT 218",
+                            "Professor": "Josée  Coutu"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

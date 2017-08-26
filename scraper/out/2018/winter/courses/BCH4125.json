@@ -1,0 +1,39 @@
+{
+    "CourseCode": "BCH4125",
+    "Title": "Cellular Regulation and Control",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=002503\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "BCH4125 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "FSS 1030",
+                            "Professor": "John Paul Pezacki"
+                        },
+                        {
+                            "Name": "BCH4125 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MNO E217",
+                            "Professor": "John Paul Pezacki"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

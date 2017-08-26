@@ -1,0 +1,28 @@
+{
+    "CourseCode": "ART1705",
+    "Title": "Art et image",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=039363\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ART1705 A00 - Hybrid course",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "MRT 251",
+                            "Professor": "Jakub  Zdebik"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "CourseCode": "ESP2304",
+    "Title": "Women in Hispanic Culture and Literature",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=012978\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ESP2304 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MRT 211",
+                            "Professor": "Rosalia  Cornejo-Parriego"
+                        },
+                        {
+                            "Name": "ESP2304 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "SMD 227",
+                            "Professor": "Rosalia  Cornejo-Parriego"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

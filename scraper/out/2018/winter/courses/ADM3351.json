@@ -1,0 +1,60 @@
+{
+    "CourseCode": "ADM3351",
+    "Title": "Fixed Income Investments",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=000107\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "M",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ADM3351 M00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "VNR 3035",
+                            "Professor": "Chen  Guo"
+                        },
+                        {
+                            "Name": "ADM3351 M00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "VNR 2095",
+                            "Professor": "Chen  Guo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "N",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ADM3351 N00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "FTX 133",
+                            "Professor": "Chen  Guo"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

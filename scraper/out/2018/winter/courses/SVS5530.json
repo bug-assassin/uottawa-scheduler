@@ -1,0 +1,28 @@
+{
+    "CourseCode": "SVS5530",
+    "Title": "Méthodes d'intervention en service social",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=030052\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "SVS5530 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "FSS 10003",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

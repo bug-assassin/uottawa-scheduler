@@ -1,0 +1,28 @@
+{
+    "CourseCode": "TMM30092",
+    "Title": "Biomedical Research Laboratory (Part 2 of 2)",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=051622\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "TMM30092 A00",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1030,
+                            "EndHour": 1130,
+                            "Place": "DEP DEPT",
+                            "Professor": "Adam D. Rudner"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

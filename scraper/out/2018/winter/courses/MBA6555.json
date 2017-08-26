@@ -1,0 +1,39 @@
+{
+    "CourseCode": "MBA6555",
+    "Title": "Gestion du risque financier",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=020698\u0026term=2181\u0026session=G",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MBA6555 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "03-03",
+                            "EndDate": "03-03",
+                            "Day": 5,
+                            "StartHour": 900,
+                            "EndHour": 1700,
+                            "Place": "DMS 4170",
+                            "Professor": "Imed  Chkir"
+                        },
+                        {
+                            "Name": "MBA6555 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "03-17",
+                            "EndDate": "03-17",
+                            "Day": 5,
+                            "StartHour": 900,
+                            "EndHour": 1700,
+                            "Place": "DMS 4170",
+                            "Professor": "Imed  Chkir"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "CourseCode": "NSG5140",
+    "Title": "Research Methods in Nursing",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=023144\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "NSG5140 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "LPR 286",
+                            "Professor": "Christine  Mcpherson"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "NSG5140 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "VNR 1050",
+                            "Professor": "Wendy Ellen  Peterson"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "H",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "NSG5140 HC00 - CanadaAudio-conference course",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "DEP DEPT",
+                            "Professor": "Christine  Mcpherson"
+                        },
+                        {
+                            "Name": "NSG5140 HD00 - CanadaAudio-conference course",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "DEP DEPT",
+                            "Professor": "Wendy Ellen  Peterson"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

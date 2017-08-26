@@ -1,0 +1,28 @@
+{
+    "CourseCode": "PED3134",
+    "Title": "Social Justice and Global Education",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=024980\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "T",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PED3134 T200 - Hybrid course",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-06",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "LMX 407",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

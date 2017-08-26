@@ -1,0 +1,39 @@
+{
+    "CourseCode": "TRA2589",
+    "Title": "Problèmes de français (L1) dans l'optique de la traduction II",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=031728\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "TRA2589 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "SMD 503",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "TRA2589 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "SMD 503",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

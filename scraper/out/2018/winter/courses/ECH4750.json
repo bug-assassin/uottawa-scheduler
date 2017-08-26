@@ -1,0 +1,28 @@
+{
+    "CourseCode": "ECH4750",
+    "Title": "Conflits et processus de paix au Moyen-Orient",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=009269\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ECH4750 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "SMD 427",
+                            "Professor": "Thomas  Juneau"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

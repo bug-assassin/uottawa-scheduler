@@ -1,0 +1,28 @@
+{
+    "CourseCode": "CSI5112",
+    "Title": "Software Engineering",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=006746\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "W",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CSI5112 W00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "THN 124",
+                            "Professor": "Daniel  Amyot"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

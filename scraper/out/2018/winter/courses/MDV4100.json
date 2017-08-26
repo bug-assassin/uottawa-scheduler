@@ -1,0 +1,28 @@
+{
+    "CourseCode": "MDV4100",
+    "Title": "Seminar in Medieval and Renaissance Studies",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=021239\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "MDV4100 A00 - Travellers and cultural translators",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "MHN 215",
+                            "Professor": "James W.  Nelson Novoa"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

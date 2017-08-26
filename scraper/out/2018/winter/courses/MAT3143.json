@@ -1,0 +1,39 @@
+{
+    "CourseCode": "MAT3143",
+    "Title": "Ring Theory",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=019890\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MAT3143 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "KED B005",
+                            "Professor": "Alistair  Savage"
+                        },
+                        {
+                            "Name": "MAT3143 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "KED B005",
+                            "Professor": "Alistair  Savage"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

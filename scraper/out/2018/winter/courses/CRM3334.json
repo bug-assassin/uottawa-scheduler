@@ -1,0 +1,60 @@
+{
+    "CourseCode": "CRM3334",
+    "Title": "Quantitative Research in Criminology",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=006095\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "TLB",
+                    "Activities": [
+                        {
+                            "Name": "CRM3334 C00",
+                            "ActivityType": "TLB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "VNR 2008",
+                            "Professor": "Holly L.  Johnson"
+                        },
+                        {
+                            "Name": "CRM3334 C00",
+                            "ActivityType": "TLB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "VNR 2008",
+                            "Professor": "Holly L.  Johnson"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "TLB",
+                    "Activities": [
+                        {
+                            "Name": "CRM3334 B00",
+                            "ActivityType": "TLB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "VNR 2008",
+                            "Professor": "Holly L.  Johnson"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

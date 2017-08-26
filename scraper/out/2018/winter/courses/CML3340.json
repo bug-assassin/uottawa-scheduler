@@ -1,0 +1,28 @@
+{
+    "CourseCode": "CML3340",
+    "Title": "Sports Law",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=005061\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML3340 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1800,
+                            "EndHour": 2200,
+                            "Place": "FTX 235",
+                            "Professor": "Eric  Macramalla"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

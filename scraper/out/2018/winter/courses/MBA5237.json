@@ -1,0 +1,83 @@
+{
+    "CourseCode": "MBA5237",
+    "Title": "Change Management",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=020603\u0026term=2181\u0026session=E",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MBA5237 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-06",
+                            "EndDate": "01-06",
+                            "Day": 5,
+                            "StartHour": 1330,
+                            "EndHour": 1545,
+                            "Place": "TBT 0019",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MBA5237 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-06",
+                            "EndDate": "01-06",
+                            "Day": 5,
+                            "StartHour": 1030,
+                            "EndHour": 1245,
+                            "Place": "TBT 0019",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MBA5237 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-20",
+                            "EndDate": "01-20",
+                            "Day": 5,
+                            "StartHour": 1330,
+                            "EndHour": 1545,
+                            "Place": "DMS 4130",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MBA5237 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-20",
+                            "EndDate": "01-20",
+                            "Day": 5,
+                            "StartHour": 1030,
+                            "EndHour": 1245,
+                            "Place": "DMS 4130",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MBA5237 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "02-03",
+                            "EndDate": "02-03",
+                            "Day": 5,
+                            "StartHour": 1330,
+                            "EndHour": 1545,
+                            "Place": "DMS 4130",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MBA5237 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "02-03",
+                            "EndDate": "02-03",
+                            "Day": 5,
+                            "StartHour": 1030,
+                            "EndHour": 1245,
+                            "Place": "DMS 4130",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

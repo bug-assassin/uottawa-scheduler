@@ -1,0 +1,71 @@
+{
+    "CourseCode": "CHM4328",
+    "Title": "Special Topics in Organic Chemistry",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=004044\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CHM4328 B00 - Carbohydrate Chemistry and its applications",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "HNN 013",
+                            "Professor": "Robert  Ben"
+                        },
+                        {
+                            "Name": "CHM4328 B00 - Carbohydrate Chemistry and its applications",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "HNN 013",
+                            "Professor": "Robert  Ben"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "D",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CHM4328 D00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "CBY B012",
+                            "Professor": "Stephen G. Newman"
+                        },
+                        {
+                            "Name": "CHM4328 D00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "CBY B012",
+                            "Professor": "Stephen G. Newman"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

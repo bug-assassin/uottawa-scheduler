@@ -1,0 +1,39 @@
+{
+    "CourseCode": "DVM3350",
+    "Title": "Theories of International Development",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=009053\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DVM3350 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "VNR 1075",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "DVM3350 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "VNR 1075",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "CourseCode": "LSR2118",
+    "Title": "Recreation Program Development and Evaluation",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=019562\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "LSR2118 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "LEE C205",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "LSR2118 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "LEE C205",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "CourseCode": "BIM4920",
+    "Title": "Seminar I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=042736\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "BIM4920 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1630,
+                            "Place": "SWT 105",
+                            "Professor": "Marc  Ekker,Gabriel  Guillet"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "BIM4920 B00",
+                            "ActivityType": "SEM",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1630,
+                            "Place": "THN 133",
+                            "Professor": "Odette  Laneuville,Gabriel  Guillet"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "BIM4920 C00",
+                            "ActivityType": "SEM",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1630,
+                            "Place": "THN 054",
+                            "Professor": "Gabriel  Guillet,Caroline  Petit-Turcotte"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "D",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "BIM4920 D00",
+                            "ActivityType": "SEM",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1630,
+                            "Place": "FSS 4014",
+                            "Professor": "Rees  Kassen,Gabriel  Guillet"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "E",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "BIM4920 E00 - bilingue/Bilingual",
+                            "ActivityType": "SEM",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1630,
+                            "Place": "HGN 305",
+                            "Professor": "Gabriel  Guillet,Guy  Drouin"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

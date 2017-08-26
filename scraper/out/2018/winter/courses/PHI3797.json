@@ -1,0 +1,28 @@
+{
+    "CourseCode": "PHI3797",
+    "Title": "Origines de la philosophie analytique",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=026203\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PHI3797 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "FSS 7003",
+                            "Professor": "Isabelle  Thomas-Fogiel"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

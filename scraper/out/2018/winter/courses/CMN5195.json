@@ -1,0 +1,28 @@
+{
+    "CourseCode": "CMN5195",
+    "Title": "Special Topics",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=005807\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "CMN5195 B00 - Mass Media \u0026 Representation of Black Life Matter",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "DMS 8161",
+                            "Professor": "De B'Beri  Boulou Ebanda"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

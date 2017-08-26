@@ -1,0 +1,60 @@
+{
+    "CourseCode": "MCG2531",
+    "Title": "Thermodynamique II",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=020765\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MCG2531 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "CBY B012",
+                            "Professor": "Bertrand  Jodoin"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "MCG2531 A01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "DEP DEPT",
+                            "Professor": "Bertrand  Jodoin"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "TUT",
+                    "Activities": [
+                        {
+                            "Name": "MCG2531 A02",
+                            "ActivityType": "TUT",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "SMD 430",
+                            "Professor": "Bertrand  Jodoin"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

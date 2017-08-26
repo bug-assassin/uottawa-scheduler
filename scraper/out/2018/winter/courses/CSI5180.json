@@ -1,0 +1,28 @@
+{
+    "CourseCode": "CSI5180",
+    "Title": "Topics in Artificial Intelligence",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=006858\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "W",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CSI5180 W00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "TBT 317",
+                            "Professor": "Amal  Zouaq"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "CourseCode": "HIS4700",
+    "Title": "Séminaire en méthodologie historique",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=016020\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "HIS4700 A00 - Microhistoire, missionnaires et autochtones",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "FSS 7003",
+                            "Professor": "Nicole J.  St-Onge"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

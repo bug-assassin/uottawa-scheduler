@@ -1,0 +1,28 @@
+{
+    "CourseCode": "MUS4301",
+    "Title": "Seminar I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=022430\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "MUS4301 B00 - Music and Politics in the 20th Century",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "PRZ 307",
+                            "Professor": "Christopher Lee  Moore"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

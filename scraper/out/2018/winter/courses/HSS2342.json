@@ -1,0 +1,60 @@
+{
+    "CourseCode": "HSS2342",
+    "Title": "Nutritional Determinants of Health",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=016318\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "HSS2342 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "MRT 212",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "HSS2342 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "STE A0150",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "HSS2342 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "STE A0150",
+                            "Professor": "Keir J.  Menzies"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

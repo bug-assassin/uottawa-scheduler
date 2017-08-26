@@ -1,0 +1,39 @@
+{
+    "CourseCode": "BIO3515",
+    "Title": "Biologie de la conservation des espèces",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=002832\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "BIO3515 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "SMD 427",
+                            "Professor": "Gabriel  Blouin-Demers"
+                        },
+                        {
+                            "Name": "BIO3515 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "CBY B202",
+                            "Professor": "Gabriel  Blouin-Demers"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

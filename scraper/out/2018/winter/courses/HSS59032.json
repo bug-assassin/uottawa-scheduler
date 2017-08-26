@@ -1,0 +1,83 @@
+{
+    "CourseCode": "HSS59032",
+    "Title": "Master's Seminar I (Part 2 of 2)",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=051559\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "HSS59032 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-09",
+                            "EndDate": "01-09",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1100,
+                            "Place": "FSS 4012",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "HSS59032 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-23",
+                            "EndDate": "01-23",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "FSS 4012",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "HSS59032 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "02-06",
+                            "EndDate": "02-06",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "FSS 4012",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "HSS59032 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "02-27",
+                            "EndDate": "02-27",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "FSS 4012",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "HSS59032 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "03-13",
+                            "EndDate": "03-13",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "FSS 4012",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "HSS59032 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "03-27",
+                            "EndDate": "03-27",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "FSS 4012",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "CourseCode": "ECO7002",
+    "Title": "Workshop",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=009716\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "REC",
+                    "Activities": [
+                        {
+                            "Name": "ECO7002 B00",
+                            "ActivityType": "REC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "FSS 9003",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ECO7002 B00",
+                            "ActivityType": "REC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "FSS 9003",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

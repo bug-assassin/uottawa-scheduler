@@ -1,0 +1,39 @@
+{
+    "CourseCode": "DVM4560",
+    "Title": "Gestion de projets internationaux",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=009104\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "DVM4560 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "HGN 305",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "DVM4560 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "HGN 305",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

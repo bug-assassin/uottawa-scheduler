@@ -1,0 +1,71 @@
+{
+    "CourseCode": "MAT2377",
+    "Title": "Probability and Statistics for Engineers",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=019823\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MAT2377 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "TBT 333",
+                            "Professor": "Chen  Xu"
+                        },
+                        {
+                            "Name": "MAT2377 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "TBT 333",
+                            "Professor": "Chen  Xu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MAT2377 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "CBY C03",
+                            "Professor": "Termeh  Kousha"
+                        },
+                        {
+                            "Name": "MAT2377 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "CBY C03",
+                            "Professor": "Termeh  Kousha"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,586 @@
+{
+    "CourseCode": "BCH2333",
+    "Title": "Introduction to Biochemistry",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=002423\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "BCH2333 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MRN 150",
+                            "Professor": "Adam  Shuhendler"
+                        },
+                        {
+                            "Name": "BCH2333 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MRN 150",
+                            "Professor": "Adam  Shuhendler"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "BCH2333 A19",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "LPR 155",
+                            "Professor": "Adam  Shuhendler"
+                        },
+                        {
+                            "Name": "BCH2333 A20",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "TBT 0019",
+                            "Professor": "Adam  Shuhendler"
+                        },
+                        {
+                            "Name": "BCH2333 A21",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "MNT 201",
+                            "Professor": "Adam  Shuhendler"
+                        },
+                        {
+                            "Name": "BCH2333 A22",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "STE J0106",
+                            "Professor": "Adam  Shuhendler"
+                        },
+                        {
+                            "Name": "BCH2333 A23",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "MNT 201",
+                            "Professor": "Adam  Shuhendler"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "BCH2333 A01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "BSC 211",
+                            "Professor": "Josée  Coutu,Luc  Poitras"
+                        },
+                        {
+                            "Name": "BCH2333 A02",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "BSC 211",
+                            "Professor": "Josée  Coutu,Luc  Poitras"
+                        },
+                        {
+                            "Name": "BCH2333 A03",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "BSC 211",
+                            "Professor": "Luc  Poitras,Josée  Coutu"
+                        },
+                        {
+                            "Name": "BCH2333 A04",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "BSC 211",
+                            "Professor": "Luc  Poitras,Josée  Coutu"
+                        },
+                        {
+                            "Name": "BCH2333 A05",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "BSC 211",
+                            "Professor": "Josée  Coutu,Luc  Poitras"
+                        },
+                        {
+                            "Name": "BCH2333 A06",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "BSC 211",
+                            "Professor": "Josée  Coutu,Luc  Poitras"
+                        },
+                        {
+                            "Name": "BCH2333 A07",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 211",
+                            "Professor": "Josée  Coutu,Luc  Poitras"
+                        },
+                        {
+                            "Name": "BCH2333 A08",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 211",
+                            "Professor": "Josée  Coutu,Luc  Poitras"
+                        },
+                        {
+                            "Name": "BCH2333 A09",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "BSC 211",
+                            "Professor": "Josée  Coutu,Luc  Poitras"
+                        },
+                        {
+                            "Name": "BCH2333 A10",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "BSC 211",
+                            "Professor": "Josée  Coutu,Luc  Poitras"
+                        },
+                        {
+                            "Name": "BCH2333 A11",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "BSC 211",
+                            "Professor": "Josée  Coutu,Luc  Poitras"
+                        },
+                        {
+                            "Name": "BCH2333 A12",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "BSC 211",
+                            "Professor": "Josée  Coutu,Luc  Poitras"
+                        },
+                        {
+                            "Name": "BCH2333 A13",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "BSC 211",
+                            "Professor": "Josée  Coutu,Luc  Poitras"
+                        },
+                        {
+                            "Name": "BCH2333 A14",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "BSC 211",
+                            "Professor": "Josée  Coutu,Luc  Poitras"
+                        },
+                        {
+                            "Name": "BCH2333 A15",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "BSC 211",
+                            "Professor": "Josée  Coutu,Luc  Poitras"
+                        },
+                        {
+                            "Name": "BCH2333 A16",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "BSC 211",
+                            "Professor": "Josée  Coutu,Luc  Poitras"
+                        },
+                        {
+                            "Name": "BCH2333 A17",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "BSC 211",
+                            "Professor": "Luc  Poitras,Josée  Coutu"
+                        },
+                        {
+                            "Name": "BCH2333 A18",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "BSC 211",
+                            "Professor": "Luc  Poitras,Josée  Coutu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "BCH2333 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "MRN 150",
+                            "Professor": "Matthew A  Lafreniere"
+                        },
+                        {
+                            "Name": "BCH2333 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "MRN 150",
+                            "Professor": "Matthew A  Lafreniere"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "BCH2333 B17",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "STE J0106",
+                            "Professor": "Matthew A  Lafreniere"
+                        },
+                        {
+                            "Name": "BCH2333 B18",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "CBY C03",
+                            "Professor": "Matthew A  Lafreniere"
+                        },
+                        {
+                            "Name": "BCH2333 B19",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "FTX 135",
+                            "Professor": "Matthew A  Lafreniere"
+                        },
+                        {
+                            "Name": "BCH2333 B20",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "SMD 224",
+                            "Professor": "Matthew A  Lafreniere"
+                        },
+                        {
+                            "Name": "BCH2333 B21",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "LPR 155",
+                            "Professor": "Matthew A  Lafreniere"
+                        },
+                        {
+                            "Name": "BCH2333 B22",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "LPR 155",
+                            "Professor": "Matthew A  Lafreniere"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "BCH2333 B01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "BSC 211",
+                            "Professor": "Josée  Coutu,Luc  Poitras"
+                        },
+                        {
+                            "Name": "BCH2333 B02",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "BSC 211",
+                            "Professor": "Josée  Coutu,Luc  Poitras"
+                        },
+                        {
+                            "Name": "BCH2333 B03",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "BSC 211",
+                            "Professor": "Luc  Poitras,Josée  Coutu"
+                        },
+                        {
+                            "Name": "BCH2333 B04",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "BSC 211",
+                            "Professor": "Luc  Poitras,Josée  Coutu"
+                        },
+                        {
+                            "Name": "BCH2333 B05",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "BSC 211",
+                            "Professor": "Josée  Coutu,Luc  Poitras"
+                        },
+                        {
+                            "Name": "BCH2333 B06",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "BSC 211",
+                            "Professor": "Josée  Coutu,Luc  Poitras"
+                        },
+                        {
+                            "Name": "BCH2333 B07",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 211",
+                            "Professor": "Josée  Coutu,Luc  Poitras"
+                        },
+                        {
+                            "Name": "BCH2333 B08",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 211",
+                            "Professor": "Josée  Coutu,Luc  Poitras"
+                        },
+                        {
+                            "Name": "BCH2333 B09",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "BSC 211",
+                            "Professor": "Josée  Coutu,Luc  Poitras"
+                        },
+                        {
+                            "Name": "BCH2333 B10",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "BSC 211",
+                            "Professor": "Josée  Coutu,Luc  Poitras"
+                        },
+                        {
+                            "Name": "BCH2333 B11",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "BSC 211",
+                            "Professor": "Josée  Coutu,Luc  Poitras"
+                        },
+                        {
+                            "Name": "BCH2333 B12",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "BSC 211",
+                            "Professor": "Josée  Coutu,Luc  Poitras"
+                        },
+                        {
+                            "Name": "BCH2333 B13",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "BSC 211",
+                            "Professor": "Josée  Coutu,Luc  Poitras"
+                        },
+                        {
+                            "Name": "BCH2333 B14",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "BSC 211",
+                            "Professor": "Josée  Coutu,Luc  Poitras"
+                        },
+                        {
+                            "Name": "BCH2333 B15",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "BSC 211",
+                            "Professor": "Luc  Poitras,Josée  Coutu"
+                        },
+                        {
+                            "Name": "BCH2333 B16",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "BSC 211",
+                            "Professor": "Luc  Poitras,Josée  Coutu"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

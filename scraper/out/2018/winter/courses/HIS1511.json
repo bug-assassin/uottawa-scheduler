@@ -1,0 +1,39 @@
+{
+    "CourseCode": "HIS1511",
+    "Title": "Le monde au XXe siècle depuis 1945",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=015512\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "HIS1511 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "SCR 002",
+                            "Professor": "François  Lalonde"
+                        },
+                        {
+                            "Name": "HIS1511 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "SCR 002",
+                            "Professor": "François  Lalonde"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

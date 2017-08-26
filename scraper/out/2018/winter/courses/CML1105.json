@@ -1,0 +1,423 @@
+{
+    "CourseCode": "CML1105",
+    "Title": "First-Year Thematic Course",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=004780\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "G",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML1105 G00 - Natural Resources Law",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1600,
+                            "EndHour": 1800,
+                            "Place": "FTX 402",
+                            "Professor": "Stewart  Elgie"
+                        },
+                        {
+                            "Name": "CML1105 G00 - Natural Resources Law",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1500,
+                            "EndHour": 1700,
+                            "Place": "FSS 7003",
+                            "Professor": "Stewart  Elgie"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML1105 A00 - Comparative Health Systems Law and Policy",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 930,
+                            "EndHour": 1130,
+                            "Place": "FTX 136",
+                            "Professor": "Colleen  Flood"
+                        },
+                        {
+                            "Name": "CML1105 A00 - Comparative Health Systems Law and Policy",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1500,
+                            "EndHour": 1700,
+                            "Place": "FTX 136",
+                            "Professor": "Colleen  Flood"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "L",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML1105 L00 - Access to Justice and Refugees",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1600,
+                            "EndHour": 1800,
+                            "Place": "FTX 135",
+                            "Professor": "David W. Wiseman"
+                        },
+                        {
+                            "Name": "CML1105 L00 - Access to Justice and Refugees",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1600,
+                            "EndHour": 1800,
+                            "Place": "FTX 136",
+                            "Professor": "David W. Wiseman"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "M",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML1105 M00 - Aboriginal Legal Mechanisms",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 930,
+                            "EndHour": 1130,
+                            "Place": "FTX 135",
+                            "Professor": "Darren Padraic  O'Toole"
+                        },
+                        {
+                            "Name": "CML1105 M00 - Aboriginal Legal Mechanisms",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1500,
+                            "EndHour": 1700,
+                            "Place": "FTX 315",
+                            "Professor": "Darren Padraic  O'Toole"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML1105 C00 - Climate Change and Legal Change",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 930,
+                            "EndHour": 1130,
+                            "Place": "FTX 413",
+                            "Professor": "Heather  McLeod-Kilmurray"
+                        },
+                        {
+                            "Name": "CML1105 C00 - Climate Change and Legal Change",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1500,
+                            "EndHour": 1700,
+                            "Place": "FTX 401",
+                            "Professor": "Heather  McLeod-Kilmurray"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "D",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML1105 D00 - International Humanitarian Law",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1600,
+                            "EndHour": 1800,
+                            "Place": "FTX 136",
+                            "Professor": "Allan Michael  Rock"
+                        },
+                        {
+                            "Name": "CML1105 D00 - International Humanitarian Law",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1600,
+                            "EndHour": 1800,
+                            "Place": "FTX 416",
+                            "Professor": "Allan Michael  Rock"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "F",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML1105 F00 - Law of Good Government",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 930,
+                            "EndHour": 1130,
+                            "Place": "FTX 232",
+                            "Professor": "Duff  Conacher"
+                        },
+                        {
+                            "Name": "CML1105 F00 - Law of Good Government",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1500,
+                            "EndHour": 1700,
+                            "Place": "BRS 232",
+                            "Professor": "Duff  Conacher"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "K",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML1105 K00 - Legal Data Science",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1600,
+                            "EndHour": 1800,
+                            "Place": "FTX 315",
+                            "Professor": "Wolfgang  Alschner"
+                        },
+                        {
+                            "Name": "CML1105 K00 - Legal Data Science",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1600,
+                            "EndHour": 1800,
+                            "Place": "FTX 316",
+                            "Professor": "Wolfgang  Alschner"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "N",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML1105 N00 - Disability Rights Law and Social Justice",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1600,
+                            "EndHour": 1800,
+                            "Place": "BRS 314",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "CML1105 N00 - Disability Rights Law and Social Justice",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1600,
+                            "EndHour": 1800,
+                            "Place": "BRS 314",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML1105 B00 - Cyber Feminism",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1030,
+                            "Place": "FTX 402",
+                            "Professor": "Jane  Bailey"
+                        },
+                        {
+                            "Name": "CML1105 B00 - Cyber Feminism",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1500,
+                            "EndHour": 1700,
+                            "Place": "FTX 402",
+                            "Professor": "Jane  Bailey"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "E",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML1105 E00 - Introduction to Legal History",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 930,
+                            "EndHour": 1130,
+                            "Place": "FTX 102",
+                            "Professor": "Constance  Backhouse"
+                        },
+                        {
+                            "Name": "CML1105 E00 - Introduction to Legal History",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1500,
+                            "EndHour": 1700,
+                            "Place": "FTX 102",
+                            "Professor": "Constance  Backhouse"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "H",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML1105 H00 - Charter Rights and Remedies in Criminal Cases",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1800,
+                            "EndHour": 2000,
+                            "Place": "FTX 136",
+                            "Professor": "Jeffrey  Johnston"
+                        },
+                        {
+                            "Name": "CML1105 H00 - Charter Rights and Remedies in Criminal Cases",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1800,
+                            "EndHour": 2000,
+                            "Place": "FTX 136",
+                            "Professor": "Jeffrey  Johnston"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "I",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML1105 I00 - Immigration Health Law",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 930,
+                            "EndHour": 1130,
+                            "Place": "BRS 232",
+                            "Professor": "Yin Yuan  Chen"
+                        },
+                        {
+                            "Name": "CML1105 I00 - Immigration Health Law",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1500,
+                            "EndHour": 1700,
+                            "Place": "FTX 413",
+                            "Professor": "Yin Yuan  Chen"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

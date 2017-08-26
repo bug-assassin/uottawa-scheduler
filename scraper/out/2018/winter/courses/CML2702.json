@@ -1,0 +1,39 @@
+{
+    "CourseCode": "CML2702",
+    "Title": "Droit des sociétés",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=004932\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML2702 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1500,
+                            "Place": "FTX 361",
+                            "Professor": "Gabrielle H.  St-Hilaire"
+                        },
+                        {
+                            "Name": "CML2702 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1500,
+                            "Place": "FTX 361",
+                            "Professor": "Gabrielle H.  St-Hilaire"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

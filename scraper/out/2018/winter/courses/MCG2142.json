@@ -1,0 +1,55 @@
+{
+    "CourseCode": "MCG2142",
+    "Title": "Biological and Engineering Materials II",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=020748\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MCG2142 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "LPR 154",
+                            "Professor": "Fabio  Variola"
+                        },
+                        {
+                            "Name": "MCG2142 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "LPR 154",
+                            "Professor": "Fabio  Variola"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "MCG2142 A01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 800,
+                            "EndHour": 1000,
+                            "Place": "DEP DEPT",
+                            "Professor": "Fabio  Variola"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

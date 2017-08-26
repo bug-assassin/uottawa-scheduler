@@ -1,0 +1,157 @@
+{
+    "CourseCode": "ANP1106",
+    "Title": "Human Anatomy and Physiology II",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=001260\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "D",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ANP1106 D00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MNT 202",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ANP1106 D00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MNT 202",
+                            "Professor": "Joanne  Savory,William A. Staines"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ANP1106 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "MNT 202",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ANP1106 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "MNT 202",
+                            "Professor": "Jacqueline A.  Carnegie,Pierre A. Fortier"
+                        },
+                        {
+                            "Name": "ANP1106 AP00 - CA Pembroke Algonquin College",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1230,
+                            "EndHour": 1400,
+                            "Place": "Not available at this time.",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ANP1106 AP00 - CA Pembroke Algonquin College",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "Not available at this time.",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ANP1106 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MNT 202",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ANP1106 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MNT 202",
+                            "Professor": "Mina  Zeroual,Frank  Feiner"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ANP1106 C00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "UCU AUD",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ANP1106 C00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "UCU AUD",
+                            "Professor": "Jacqueline A.  Carnegie,William A. Staines"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

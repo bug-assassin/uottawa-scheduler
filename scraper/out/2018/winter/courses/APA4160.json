@@ -1,0 +1,66 @@
+{
+    "CourseCode": "APA4160",
+    "Title": "Fitness Testing and Exercise Prescription",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=001636\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "APA4160 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 800,
+                            "EndHour": 1000,
+                            "Place": "WLD 108",
+                            "Professor": "Carla  Geurts"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "APA4160 A01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1900,
+                            "EndHour": 2100,
+                            "Place": "MNT 303",
+                            "Professor": "Martine  Dumont"
+                        },
+                        {
+                            "Name": "APA4160 A02",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1200,
+                            "Place": "MNT 303",
+                            "Professor": "Martine  Dumont"
+                        },
+                        {
+                            "Name": "APA4160 A03",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1200,
+                            "EndHour": 1400,
+                            "Place": "MNT 303",
+                            "Professor": "Martine  Dumont"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

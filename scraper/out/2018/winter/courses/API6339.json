@@ -1,0 +1,133 @@
+{
+    "CourseCode": "API6339",
+    "Title": "Special Topics in International Affairs",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=001824\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "H",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "API6339 H00 - Comp. Appro. to Crime \u0026 Punish.",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "FSS 6032",
+                            "Professor": "Nomi Claire  Lazar"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "I",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "API6339 I00 - African Politics in a Global Era",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "FSS 6004",
+                            "Professor": "Rita  Abrahamsen"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "J",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "API6339 J00 - Challenges for Science \u0026 Technology Governance",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "FSS 6004",
+                            "Professor": "Patrick Conrad  Fafard"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "E",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "API6339 E00 - China's Economy and Governance",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "FSS 6004",
+                            "Professor": "Yongjing  Zhang"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "F",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "API6339 F00 - Fragile States",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "FSS 8003",
+                            "Professor": "Christoph  Zuercher"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "G",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "API6339 G00 - Irrationality \u0026 Foreign Policy Decision Making",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "FSS 6032",
+                            "Professor": "Paul  Robinson"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

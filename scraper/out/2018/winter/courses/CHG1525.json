@@ -1,0 +1,55 @@
+{
+    "CourseCode": "CHG1525",
+    "Title": "Principes de base du génie chimique",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=003675\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CHG1525 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "STE F0126",
+                            "Professor": "Jean-Philippe  St-Pierre"
+                        },
+                        {
+                            "Name": "CHG1525 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "STE F0126",
+                            "Professor": "Jean-Philippe  St-Pierre"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "TUT",
+                    "Activities": [
+                        {
+                            "Name": "CHG1525 A01",
+                            "ActivityType": "TUT",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "TBT 317",
+                            "Professor": "Jean-Philippe  St-Pierre"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

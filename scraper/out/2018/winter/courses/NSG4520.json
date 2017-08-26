@@ -1,0 +1,28 @@
+{
+    "CourseCode": "NSG4520",
+    "Title": "Éléments d'enseignement au patient",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=023101\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "NSG4520 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "RGN 2012",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

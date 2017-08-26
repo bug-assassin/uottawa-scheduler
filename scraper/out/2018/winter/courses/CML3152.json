@@ -1,0 +1,39 @@
+{
+    "CourseCode": "CML3152",
+    "Title": "Supreme Court Seminar",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=004984\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "CML3152 B00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1500,
+                            "Place": "FTX 102",
+                            "Professor": "Vanessa Ann  MacDonnell"
+                        },
+                        {
+                            "Name": "CML3152 B00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1500,
+                            "Place": "FTX 102",
+                            "Professor": "Vanessa Ann  MacDonnell"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

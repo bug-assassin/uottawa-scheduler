@@ -1,0 +1,39 @@
+{
+    "CourseCode": "CMN3103",
+    "Title": "Qualitative Methods",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=005519\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CMN3103 C00 - Hybrid course",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MRT 256",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "CMN3103 C00 - Hybrid course",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MRT 256",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

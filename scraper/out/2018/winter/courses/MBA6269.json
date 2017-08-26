@@ -1,0 +1,28 @@
+{
+    "CourseCode": "MBA6269",
+    "Title": "Management Consulting",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=020679\u0026term=2181\u0026session=G",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MBA6269 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "02-26",
+                            "EndDate": "04-08",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "DMS 4140",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

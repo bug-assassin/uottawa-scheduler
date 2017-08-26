@@ -1,0 +1,28 @@
+{
+    "CourseCode": "API5536",
+    "Title": "Méthodes de recherche en politiques publiques",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=001805\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "API5536 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "TBT 0021",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

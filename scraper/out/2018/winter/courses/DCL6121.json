@@ -1,0 +1,71 @@
+{
+    "CourseCode": "DCL6121",
+    "Title": "Studies in International Law I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=008139\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DCL6121 C00 - Transnational Corp. Human Rights \u0026 Int. Eco. Law",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 930,
+                            "EndHour": 1130,
+                            "Place": "GSD 307",
+                            "Professor": "Penelope C. Simons"
+                        },
+                        {
+                            "Name": "DCL6121 C00 - Transnational Corp. Human Rights \u0026 Int. Eco. Law",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1030,
+                            "Place": "FTX 413",
+                            "Professor": "Penelope C. Simons"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "G",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DCL6121 G00 - International Criminal Law",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1900,
+                            "EndHour": 2100,
+                            "Place": "FTX 102",
+                            "Professor": "Joseph  Rikhof,Linda  Bianchi"
+                        },
+                        {
+                            "Name": "DCL6121 G00 - International Criminal Law",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1900,
+                            "EndHour": 2100,
+                            "Place": "FTX 102",
+                            "Professor": "Joseph  Rikhof,Linda  Bianchi"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

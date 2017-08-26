@@ -1,0 +1,103 @@
+{
+    "CourseCode": "ESL2361",
+    "Title": "Advanced Writing Skills for Second Language Learners",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=012938\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "E",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ESL2361 E00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "STT 125",
+                            "Professor": "Jennifer A.  St.John"
+                        },
+                        {
+                            "Name": "ESL2361 E00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MNT 204",
+                            "Professor": "Jennifer A.  St.John"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "F",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ESL2361 F00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "SMD 422",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ESL2361 F00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "SMD 227",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "G",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ESL2361 G00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "SWT 207",
+                            "Professor": "Beverly  Baker"
+                        },
+                        {
+                            "Name": "ESL2361 G00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "FSS 4012",
+                            "Professor": "Beverly  Baker"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

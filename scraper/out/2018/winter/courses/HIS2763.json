@@ -1,0 +1,39 @@
+{
+    "CourseCode": "HIS2763",
+    "Title": "Le Canada de 1867 à 1939",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=015667\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "HIS2763 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "WLD 108",
+                            "Professor": "Peter C. Bischoff"
+                        },
+                        {
+                            "Name": "HIS2763 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "WLD 108",
+                            "Professor": "Peter C. Bischoff"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

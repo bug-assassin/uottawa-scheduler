@@ -1,0 +1,28 @@
+{
+    "CourseCode": "EVD5109",
+    "Title": "Applied Environmental Sustainability",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=013197\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "EVD5109 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "HGN 305",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

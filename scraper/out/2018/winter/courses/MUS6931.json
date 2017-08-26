@@ -1,0 +1,49 @@
+{
+    "CourseCode": "MUS6931",
+    "Title": "Topics in Musical Pedagogy",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=022614\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MUS6931 A00 - Brain and Music",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "PRZ 208",
+                            "Professor": "Gilles R.  Comeau"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "H",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MUS6931 HC00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "DEP DEPT",
+                            "Professor": "Gilles R.  Comeau"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

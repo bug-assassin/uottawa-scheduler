@@ -1,0 +1,39 @@
+{
+    "CourseCode": "CML3323",
+    "Title": "Insurance",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=005060\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML3323 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1700,
+                            "EndHour": 1900,
+                            "Place": "FTX 227",
+                            "Professor": "Elizabeth  Quigley"
+                        },
+                        {
+                            "Name": "CML3323 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1700,
+                            "EndHour": 1900,
+                            "Place": "FTX 227",
+                            "Professor": "Elizabeth  Quigley"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "CourseCode": "BIM4316",
+    "Title": "Modern Bioanalytical Chemistry",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=002641\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "BIM4316 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "STE B0138",
+                            "Professor": "Maxim  Berezovski"
+                        },
+                        {
+                            "Name": "BIM4316 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "STE B0138",
+                            "Professor": "Maxim  Berezovski"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "BIM4316 A01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1700,
+                            "Place": "MRN 08",
+                            "Professor": "Maxim  Berezovski"
+                        },
+                        {
+                            "Name": "BIM4316 A02",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1230,
+                            "Place": "MRN 08",
+                            "Professor": "Maxim  Berezovski"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

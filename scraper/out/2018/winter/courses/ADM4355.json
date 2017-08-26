@@ -1,0 +1,39 @@
+{
+    "CourseCode": "ADM4355",
+    "Title": "Finance, Ethics and Social Responsibility",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=000220\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "M",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ADM4355 M00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "VNR 1095",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ADM4355 M00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "VNR 1095",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

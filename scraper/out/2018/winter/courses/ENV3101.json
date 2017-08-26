@@ -1,0 +1,39 @@
+{
+    "CourseCode": "ENV3101",
+    "Title": "Legal Context of Environmental Issues",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=012619\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ENV3101 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "SMD 427",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ENV3101 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "TBT 319",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

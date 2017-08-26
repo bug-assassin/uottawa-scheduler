@@ -1,0 +1,28 @@
+{
+    "CourseCode": "POL7535",
+    "Title": "Méthodologies quantitatives avancées",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=042811\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "POL7535 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "FSS 10003",
+                            "Professor": "Benjamin  Ferland"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

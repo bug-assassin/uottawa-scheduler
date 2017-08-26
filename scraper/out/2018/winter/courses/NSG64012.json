@@ -1,0 +1,49 @@
+{
+    "CourseCode": "NSG64012",
+    "Title": "Clinical Project in Advanced Nursing Practice (Part 2 of 2)",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=051652\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "H",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "NSG64012 HC00 - CanadaAudio-conference course",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "LPR 286",
+                            "Professor": "Brandi Lynn  Vanderspank"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "NSG64012 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "LPR 285",
+                            "Professor": "David  Wright"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

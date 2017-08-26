@@ -1,0 +1,28 @@
+{
+    "CourseCode": "CMN5155",
+    "Title": "Advanced Research in Traditional and Emerging Media",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=005798\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "CMN5155 B00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "FSS 7003",
+                            "Professor": "Elizabeth  Dubois"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "CourseCode": "LIN4372",
+    "Title": "Linguistics Analysis of an Unfamiliar Language",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=018656\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "LIN4372 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "FSS 7003",
+                            "Professor": "Andrés  Salanova"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

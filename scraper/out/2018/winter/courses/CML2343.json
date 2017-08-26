@@ -1,0 +1,39 @@
+{
+    "CourseCode": "CML2343",
+    "Title": "Commercial Law",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=004911\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML2343 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1500,
+                            "Place": "FTX 147B",
+                            "Professor": "Stephen G.  Blair"
+                        },
+                        {
+                            "Name": "CML2343 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1500,
+                            "EndHour": 1700,
+                            "Place": "FTX 232",
+                            "Professor": "Stephen G.  Blair"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

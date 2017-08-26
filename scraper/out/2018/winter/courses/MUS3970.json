@@ -1,0 +1,28 @@
+{
+    "CourseCode": "MUS3970",
+    "Title": "Musical Approach for Young Students",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=022400\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MUS3970 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "PRZ 113",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

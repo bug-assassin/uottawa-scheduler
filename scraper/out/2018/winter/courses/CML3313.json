@@ -1,0 +1,39 @@
+{
+    "CourseCode": "CML3313",
+    "Title": "Interviewing and Counselling",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=005055\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "D",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "CML3313 D00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 930,
+                            "EndHour": 1130,
+                            "Place": "FTX 315",
+                            "Professor": "Lynn  Rockman"
+                        },
+                        {
+                            "Name": "CML3313 D00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1500,
+                            "EndHour": 1700,
+                            "Place": "FTX 315",
+                            "Professor": "Lynn  Rockman"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

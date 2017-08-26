@@ -1,0 +1,28 @@
+{
+    "CourseCode": "SVS5534",
+    "Title": "Intervention interculturelle et service social",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=030056\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "SVS5534 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "FSS 12003",
+                            "Professor": "Stéphanie  Garneau"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "CourseCode": "CML2314",
+    "Title": "Constitutional Litigation",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=004904\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "CML2314 000",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 900,
+                            "EndHour": 1300,
+                            "Place": "FTX 102",
+                            "Professor": "Joseph  Magnet"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

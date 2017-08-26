@@ -1,0 +1,55 @@
+{
+    "CourseCode": "CHM2713",
+    "Title": "Chimie de l'environnement",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=003931\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CHM2713 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "FSS 10003",
+                            "Professor": "Kathy-Sarah  Focsanéanu"
+                        },
+                        {
+                            "Name": "CHM2713 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "LMX 223",
+                            "Professor": "Kathy-Sarah  Focsanéanu"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "CHM2713 A01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "DEP DEPT",
+                            "Professor": "Kathy-Sarah  Focsanéanu"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

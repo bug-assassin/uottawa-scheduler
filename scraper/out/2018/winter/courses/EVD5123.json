@@ -1,0 +1,28 @@
+{
+    "CourseCode": "EVD5123",
+    "Title": "Evidence Synthesis and Evaluation",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=042777\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "EVD5123 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "TBT 0021",
+                            "Professor": "Geoffrey Ross  McCarney"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

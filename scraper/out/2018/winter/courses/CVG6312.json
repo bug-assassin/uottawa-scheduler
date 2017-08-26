@@ -1,0 +1,28 @@
+{
+    "CourseCode": "CVG6312",
+    "Title": "Special Topics in Civil Engineering",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=007370\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "W",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CVG6312 W00 - Climate Change/Water Resources",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "MNO E217",
+                            "Professor": "Ousmane  Seidou"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

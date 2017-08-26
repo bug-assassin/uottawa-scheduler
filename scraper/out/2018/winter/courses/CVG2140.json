@@ -1,0 +1,147 @@
+{
+    "CourseCode": "CVG2140",
+    "Title": "Mechanics of Materials I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=007012\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CVG2140 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "FSS 4007",
+                            "Professor": "Beatriz  Martin-Perez"
+                        },
+                        {
+                            "Name": "CVG2140 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "FSS 4007",
+                            "Professor": "Beatriz  Martin-Perez"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "CVG2140 A01",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "STE J0106",
+                            "Professor": "Beatriz  Martin-Perez"
+                        },
+                        {
+                            "Name": "CVG2140 A02",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MRT 252",
+                            "Professor": "Beatriz  Martin-Perez"
+                        },
+                        {
+                            "Name": "CVG2140 A03",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MNO C211",
+                            "Professor": "Beatriz  Martin-Perez"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CVG2140 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "STE G0103",
+                            "Professor": "Alaa Mohammed  Abdulridha"
+                        },
+                        {
+                            "Name": "CVG2140 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "STE G0103",
+                            "Professor": "Alaa Mohammed  Abdulridha"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "CVG2140 B01",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "STE C0136",
+                            "Professor": "Alaa Mohammed  Abdulridha"
+                        },
+                        {
+                            "Name": "CVG2140 B02",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MRT 251",
+                            "Professor": "Alaa Mohammed  Abdulridha"
+                        },
+                        {
+                            "Name": "CVG2140 B03",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MRT 219",
+                            "Professor": "Alaa Mohammed  Abdulridha"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

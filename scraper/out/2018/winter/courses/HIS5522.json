@@ -1,0 +1,28 @@
+{
+    "CourseCode": "HIS5522",
+    "Title": "Séminaire de recherche",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=016111\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "HIS5522 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "MRT 224",
+                            "Professor": "Naomi B. Davidson"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

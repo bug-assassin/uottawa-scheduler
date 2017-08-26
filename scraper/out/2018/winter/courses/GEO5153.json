@@ -1,0 +1,28 @@
+{
+    "CourseCode": "GEO5153",
+    "Title": "Computer Techniques in the Earth Sciences",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=014905\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "GEO5153 B00 - Quantitative Analysis in Geology (Adv. GIS)",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "MNT 141",
+                            "Professor": "Bahram  Daneshfar"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

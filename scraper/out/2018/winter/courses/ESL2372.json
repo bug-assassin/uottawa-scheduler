@@ -1,0 +1,39 @@
+{
+    "CourseCode": "ESL2372",
+    "Title": "English Pronunciation for Effective Oral Communication",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=012941\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ESL2372 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "FSS 6032",
+                            "Professor": "Jennifer A.  St.John"
+                        },
+                        {
+                            "Name": "ESL2372 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "SWT 105",
+                            "Professor": "Jennifer A.  St.John"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

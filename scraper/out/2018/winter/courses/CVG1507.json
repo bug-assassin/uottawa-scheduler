@@ -1,0 +1,44 @@
+{
+    "CourseCode": "CVG1507",
+    "Title": "Dessin industriel et séminaires en génie civil",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=006995\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CVG1507 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "CBY B02",
+                            "Professor": "Jules-Ange  Infante"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "CVG1507 A01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MNO C211",
+                            "Professor": "Jules-Ange  Infante"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

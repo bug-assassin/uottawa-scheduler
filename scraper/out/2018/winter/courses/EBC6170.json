@@ -1,0 +1,28 @@
+{
+    "CourseCode": "EBC6170",
+    "Title": "Internet Security",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=009214\u0026term=2181\u0026session=E",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "EBC6170 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "02-15",
+                            "Day": 1,
+                            "StartHour": 1600,
+                            "EndHour": 1900,
+                            "Place": "LPR 154",
+                            "Professor": "Umar  Ruhi"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

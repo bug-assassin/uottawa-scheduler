@@ -1,0 +1,39 @@
+{
+    "CourseCode": "SCS1150",
+    "Title": "Introduction to Studying the Social Sciences",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=028597\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "SCS1150 C00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "FSS 1030",
+                            "Professor": "Stuart  Chambers"
+                        },
+                        {
+                            "Name": "SCS1150 C00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "FSS 1030",
+                            "Professor": "Stuart  Chambers"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "CourseCode": "PSY3377",
+    "Title": "Cognition",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=027706\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "PSY3377 B01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "VNR 2015",
+                            "Professor": "Patrick S.R.  Davidson"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "TLB",
+                    "Activities": [
+                        {
+                            "Name": "PSY3377 B00",
+                            "ActivityType": "TLB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "WLD 108",
+                            "Professor": "Patrick S.R.  Davidson"
+                        },
+                        {
+                            "Name": "PSY3377 B00",
+                            "ActivityType": "TLB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "WLD 110",
+                            "Professor": "Patrick S.R.  Davidson"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "PSY3377 C01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "VNR 2025",
+                            "Professor": "Sylvain  Gagnon"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "TLB",
+                    "Activities": [
+                        {
+                            "Name": "PSY3377 C00",
+                            "ActivityType": "TLB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "MRN 130",
+                            "Professor": "Sylvain  Gagnon"
+                        },
+                        {
+                            "Name": "PSY3377 C00",
+                            "ActivityType": "TLB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "MRN 130",
+                            "Professor": "Sylvain  Gagnon"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

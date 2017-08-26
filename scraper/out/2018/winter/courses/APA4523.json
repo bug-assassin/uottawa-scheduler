@@ -1,0 +1,55 @@
+{
+    "CourseCode": "APA4523",
+    "Title": "Counselling en matière d'activité physique",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=001664\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "APA4523 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1100,
+                            "Place": "LEE B163",
+                            "Professor": "Michelle  Fortier"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "APA4523 A01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 800,
+                            "EndHour": 1000,
+                            "Place": "LEE B165",
+                            "Professor": "Michelle  Fortier"
+                        },
+                        {
+                            "Name": "APA4523 A02",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1900,
+                            "EndHour": 2100,
+                            "Place": "LEE B163",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

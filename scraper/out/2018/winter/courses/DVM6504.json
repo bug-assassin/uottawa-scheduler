@@ -1,0 +1,28 @@
+{
+    "CourseCode": "DVM6504",
+    "Title": "Mouvements sociaux, équité et droits humains",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=009156\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "DVM6504 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "FSS 8003",
+                            "Professor": "Delphine  Nakache"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

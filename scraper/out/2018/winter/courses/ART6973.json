@@ -1,0 +1,28 @@
+{
+    "CourseCode": "ART6973",
+    "Title": "The Work of Art in Context",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=002325\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "ART6973 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "BRS 302",
+                            "Professor": "Penny Anne Cousineau-Levine"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

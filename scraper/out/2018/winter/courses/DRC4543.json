@@ -1,0 +1,39 @@
+{
+    "CourseCode": "DRC4543",
+    "Title": "Thèmes choisis de droit international II",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=008709\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DRC4543 A00 - Droit international africain",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1500,
+                            "EndHour": 1700,
+                            "Place": "FTX 413",
+                            "Professor": "Pacifique  Manirakiza"
+                        },
+                        {
+                            "Name": "DRC4543 A00 - Droit international africain",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 930,
+                            "EndHour": 1130,
+                            "Place": "FTX 402",
+                            "Professor": "Pacifique  Manirakiza"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

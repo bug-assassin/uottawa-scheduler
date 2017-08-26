@@ -1,0 +1,39 @@
+{
+    "CourseCode": "HIS2742",
+    "Title": "L'Europe au XXe siècle",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=015661\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "HIS2742 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "SMD 428",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "HIS2742 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "SMD 222",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

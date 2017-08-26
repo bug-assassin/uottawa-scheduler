@@ -1,0 +1,28 @@
+{
+    "CourseCode": "FRA3704",
+    "Title": "Éditique I : le texte et l'image",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=013721\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "FRA3704 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "MRT 0036",
+                            "Professor": "Bertrand  Labasse"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

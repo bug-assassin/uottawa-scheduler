@@ -1,0 +1,123 @@
+{
+    "CourseCode": "CML4307",
+    "Title": "Legal Writing:  Write With Purpose, Essential Skills for Lawyers",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=005264\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "I",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "CML4307 I00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1830,
+                            "Place": "WLD 115",
+                            "Professor": "Shelley  Appleby-Ostroff"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "E",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "CML4307 E00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1800,
+                            "EndHour": 2200,
+                            "Place": "FTX 235",
+                            "Professor": "Nathalie S  Levman"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "F",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "CML4307 F00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1800,
+                            "EndHour": 2200,
+                            "Place": "FTX 315",
+                            "Professor": "Ashley Laura Brown  Deathe"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "G",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "CML4307 G00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1700,
+                            "EndHour": 1900,
+                            "Place": "FSS 4014",
+                            "Professor": "Peter Juhan  Aadoson"
+                        },
+                        {
+                            "Name": "CML4307 G00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1700,
+                            "EndHour": 1900,
+                            "Place": "FSS 7003",
+                            "Professor": "Peter Juhan  Aadoson"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "H",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "CML4307 H00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1830,
+                            "Place": "BRS 302",
+                            "Professor": "Shelley  Appleby-Ostroff"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

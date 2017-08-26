@@ -1,0 +1,39 @@
+{
+    "CourseCode": "SRS2115",
+    "Title": "Religious Ways of the Aboriginal Peoples",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=029516\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "SRS2115 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "FTX 232",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "SRS2115 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "MNT 201",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

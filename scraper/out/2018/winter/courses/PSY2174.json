@@ -1,0 +1,92 @@
+{
+    "CourseCode": "PSY2174",
+    "Title": "Research Methods and Ethics",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=027625\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "G",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PSY2174 G00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "MRT 219",
+                            "Professor": "Gustavo  Gottret"
+                        },
+                        {
+                            "Name": "PSY2174 G00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "MRT 219",
+                            "Professor": "Gustavo  Gottret"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "PSY2174 G01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "VNR 2025",
+                            "Professor": "Gustavo  Gottret"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "H",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PSY2174 H00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "MRT 219",
+                            "Professor": "Yaroslav  Konar"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "PSY2174 H01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "VNR 2025",
+                            "Professor": "Yaroslav  Konar"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

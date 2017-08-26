@@ -1,0 +1,39 @@
+{
+    "CourseCode": "EVS1101",
+    "Title": "Introduction to Environmental Science",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=013290\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "EVS1101 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "STE B0138",
+                            "Professor": "Alexandre  Poulain,Danielle  Fortin"
+                        },
+                        {
+                            "Name": "EVS1101 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "STE B0138",
+                            "Professor": "Danielle  Fortin,Alexandre  Poulain"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

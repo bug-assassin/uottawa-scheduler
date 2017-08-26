@@ -1,0 +1,28 @@
+{
+    "CourseCode": "ELG5100",
+    "Title": "Software Engineering Project Management",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=011443\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "W",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ELG5100 W00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "LEE B152",
+                            "Professor": "Shervin  Shirmohammadi"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

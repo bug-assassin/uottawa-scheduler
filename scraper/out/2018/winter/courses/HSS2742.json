@@ -1,0 +1,39 @@
+{
+    "CourseCode": "HSS2742",
+    "Title": "Déterminants nutritionnels de la santé",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=016334\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "HSS2742 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "STE G0103",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "HSS2742 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "STE G0103",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "CourseCode": "FEM6502",
+    "Title": "Femmes, droits et citoyenneté dans un monde globalisé",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=013395\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "FEM6502 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "VNR 1050",
+                            "Professor": "Andrea  Martinez"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

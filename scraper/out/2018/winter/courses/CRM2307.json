@@ -1,0 +1,39 @@
+{
+    "CourseCode": "CRM2307",
+    "Title": "Feminist Perspectives on Women and Victimization",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=006035\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CRM2307 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "HGN 302",
+                            "Professor": "Christine  Bruckert"
+                        },
+                        {
+                            "Name": "CRM2307 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "HGN 302",
+                            "Professor": "Christine  Bruckert"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

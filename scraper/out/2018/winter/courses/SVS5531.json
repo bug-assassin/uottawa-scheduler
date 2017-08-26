@@ -1,0 +1,28 @@
+{
+    "CourseCode": "SVS5531",
+    "Title": "Intervention auprès des individus et des familles",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=030053\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "SVS5531 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "FSS 10003",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

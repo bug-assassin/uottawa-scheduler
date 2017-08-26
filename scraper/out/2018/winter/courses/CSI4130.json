@@ -1,0 +1,55 @@
+{
+    "CourseCode": "CSI4130",
+    "Title": "Computer Graphics",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=006666\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CSI4130 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "MNO E217",
+                            "Professor": "Jochen  Lang"
+                        },
+                        {
+                            "Name": "CSI4130 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "SMD 427",
+                            "Professor": "Jochen  Lang"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "CSI4130 A01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "STE 2052",
+                            "Professor": "Jochen  Lang"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "CourseCode": "CML3307",
+    "Title": "Trusts",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=005054\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML3307 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 930,
+                            "EndHour": 1130,
+                            "Place": "FTX 232",
+                            "Professor": "Graham  Mayeda"
+                        },
+                        {
+                            "Name": "CML3307 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 930,
+                            "EndHour": 1130,
+                            "Place": "FTX 133",
+                            "Professor": "Graham  Mayeda"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

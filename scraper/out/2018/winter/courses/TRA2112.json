@@ -1,0 +1,28 @@
+{
+    "CourseCode": "TRA2112",
+    "Title": "General Translation from French Into English (L1) II",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=031716\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "TRA2112 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "MRT 0036",
+                            "Professor": "Sylvie  Lambert"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

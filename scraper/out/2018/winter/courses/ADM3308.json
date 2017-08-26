@@ -1,0 +1,39 @@
+{
+    "CourseCode": "ADM3308",
+    "Title": "Business Data Mining",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=000078\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "M",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ADM3308 M00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "DMS 4120",
+                            "Professor": "Bijan  Raahemi"
+                        },
+                        {
+                            "Name": "ADM3308 M00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "DMS 4120",
+                            "Professor": "Bijan  Raahemi"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

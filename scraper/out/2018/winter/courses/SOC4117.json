@@ -1,0 +1,28 @@
+{
+    "CourseCode": "SOC4117",
+    "Title": "Quantitative Research Laboratory",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=029304\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "SOC4117 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "VNR 2025",
+                            "Professor": "Gustave J.  Goldmann"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

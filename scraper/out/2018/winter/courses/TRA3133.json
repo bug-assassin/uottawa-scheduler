@@ -1,0 +1,28 @@
+{
+    "CourseCode": "TRA3133",
+    "Title": "Technical Translation from French into English (L1) I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=031746\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "TRA3133 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "DMS 2175",
+                            "Professor": "Lynne  Bowker"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

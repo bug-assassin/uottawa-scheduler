@@ -1,0 +1,71 @@
+{
+    "CourseCode": "DCL6731",
+    "Title": "Problèmes choisis de droit international I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=008203\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "D",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DCL6731 D00 - Droit international africain",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1500,
+                            "EndHour": 1700,
+                            "Place": "FTX 413",
+                            "Professor": "Pacifique  Manirakiza"
+                        },
+                        {
+                            "Name": "DCL6731 D00 - Droit international africain",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 930,
+                            "EndHour": 1130,
+                            "Place": "FTX 402",
+                            "Professor": "Pacifique  Manirakiza"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DCL6731 C00 - Clinique: Investissements et commerce intl",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 930,
+                            "EndHour": 1130,
+                            "Place": "FTX 315",
+                            "Professor": "Debra Pauline Steger,Wolfgang  Alschner"
+                        },
+                        {
+                            "Name": "DCL6731 C00 - Clinique: Investissements et commerce intl",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 930,
+                            "EndHour": 1130,
+                            "Place": "FTX 315",
+                            "Professor": "Debra Pauline Steger,Wolfgang  Alschner"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

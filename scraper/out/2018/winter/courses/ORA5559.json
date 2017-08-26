@@ -1,0 +1,28 @@
+{
+    "CourseCode": "ORA5559",
+    "Title": "Stage IV",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=023355\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "STG",
+                    "Activities": [
+                        {
+                            "Name": "ORA5559 A00",
+                            "ActivityType": "STG",
+                            "StartDate": "03-02",
+                            "EndDate": "03-02",
+                            "Day": 4,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

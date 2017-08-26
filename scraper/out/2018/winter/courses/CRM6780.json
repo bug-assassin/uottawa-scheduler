@@ -1,0 +1,49 @@
+{
+    "CourseCode": "CRM6780",
+    "Title": "Sujets choisis I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=006434\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "D",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "CRM6780 D00 - Médiations sociale \u0026 pénale: questions \u0026 pratiques",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "FSS 14005",
+                            "Professor": "Véronique  Strimelle"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "CRM6780 C00 - Immigration, frontières et criminalisation",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "FSS 14005",
+                            "Professor": "David  Moffette"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

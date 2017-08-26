@@ -1,0 +1,91 @@
+{
+    "CourseCode": "BIO4921",
+    "Title": "Seminar II",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=039370\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "D",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "BIO4921 D00 - Bilingue/Bilingual",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1630,
+                            "Place": "LMX 342",
+                            "Professor": "Howard D. Rundle,David J. Currie,Heather Marie  Kharouba"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "BIO4921 A00 - Cellular/Molecular option",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1630,
+                            "Place": "FSS 6004",
+                            "Professor": "Howard D. Rundle,Nicolas  Corradi"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "BIO4921 B00 - Physiology option",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1630,
+                            "Place": "FSS 14001",
+                            "Professor": "Howard D. Rundle"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "BIO4921 C00 - Ecology option",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1630,
+                            "Place": "FSS 10003",
+                            "Professor": "Howard D. Rundle"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

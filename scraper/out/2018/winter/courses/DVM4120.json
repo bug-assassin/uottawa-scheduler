@@ -1,0 +1,28 @@
+{
+    "CourseCode": "DVM4120",
+    "Title": "International Development Issues in Africa",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=009072\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "DVM4120 B00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "FSS 1005",
+                            "Professor": "Christopher  Huggins"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

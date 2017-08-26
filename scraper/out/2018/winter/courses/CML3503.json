@@ -1,0 +1,39 @@
+{
+    "CourseCode": "CML3503",
+    "Title": "Droit municipal",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=005121\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML3503 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1500,
+                            "EndHour": 1700,
+                            "Place": "FTX 401",
+                            "Professor": "Stéphane  Émard-Chabot"
+                        },
+                        {
+                            "Name": "CML3503 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1500,
+                            "EndHour": 1700,
+                            "Place": "FTX 102",
+                            "Professor": "Stéphane  Émard-Chabot"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "CourseCode": "MUS2307",
+    "Title": "Theory and Analysis II",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=022128\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MUS2307 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "PRZ 113",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MUS2307 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "PRZ 113",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

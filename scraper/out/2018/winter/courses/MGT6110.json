@@ -1,0 +1,28 @@
+{
+    "CourseCode": "MGT6110",
+    "Title": "Entrepreneurial Process and Opportunity Recognition",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=021336\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "MGT6110 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "DEP DEPT",
+                            "Professor": "Barbara  Orser"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

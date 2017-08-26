@@ -1,0 +1,49 @@
+{
+    "CourseCode": "ADM3319",
+    "Title": "Cross-Cultural Management",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=000084\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "M",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ADM3319 M00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "TBT 070",
+                            "Professor": "Catherine Jane  Elliott"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "N",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ADM3319 N00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "MNT 207",
+                            "Professor": "David H.  Delcorde"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

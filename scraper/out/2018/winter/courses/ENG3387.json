@@ -1,0 +1,39 @@
+{
+    "CourseCode": "ENG3387",
+    "Title": "Canadian Fiction 1950 to the Present",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=012252\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ENG3387 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "SMD 422",
+                            "Professor": "Gerald  Lynch"
+                        },
+                        {
+                            "Name": "ENG3387 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "SMD 422",
+                            "Professor": "Gerald  Lynch"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

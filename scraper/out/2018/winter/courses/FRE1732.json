@@ -1,0 +1,39 @@
+{
+    "CourseCode": "FRE1732",
+    "Title": "Cultures et littératures des francophonies canadiennes",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=014190\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "FRE1732 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "SMD 402",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "FRE1732 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "TBT 0021",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

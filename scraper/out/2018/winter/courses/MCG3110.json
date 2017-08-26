@@ -1,0 +1,44 @@
+{
+    "CourseCode": "MCG3110",
+    "Title": "Heat Transfer",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=020781\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MCG3110 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "FSS 4007",
+                            "Professor": "Patrick François  Richer"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "TUT",
+                    "Activities": [
+                        {
+                            "Name": "MCG3110 A01",
+                            "ActivityType": "TUT",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 800,
+                            "EndHour": 1000,
+                            "Place": "STE H0104",
+                            "Professor": "Patrick François  Richer"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

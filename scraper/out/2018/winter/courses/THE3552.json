@@ -1,0 +1,28 @@
+{
+    "CourseCode": "THE3552",
+    "Title": "Technique théâtrale II",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=030249\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "THE3552 A00",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "SMN 202",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

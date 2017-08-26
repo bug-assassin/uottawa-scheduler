@@ -1,0 +1,28 @@
+{
+    "CourseCode": "ORA6744",
+    "Title": "Troubles de la communication des clientèles spécifiques",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=023386\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ORA6744 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "RGN 1007",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

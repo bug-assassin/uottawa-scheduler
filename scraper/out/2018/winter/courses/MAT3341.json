@@ -1,0 +1,39 @@
+{
+    "CourseCode": "MAT3341",
+    "Title": "Applied Linear Algebra",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=019908\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MAT3341 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "MRT 211",
+                            "Professor": "Michael  Newman"
+                        },
+                        {
+                            "Name": "MAT3341 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "MRT 211",
+                            "Professor": "Michael  Newman"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

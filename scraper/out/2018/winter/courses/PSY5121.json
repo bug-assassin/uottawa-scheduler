@@ -1,0 +1,28 @@
+{
+    "CourseCode": "PSY5121",
+    "Title": "Advanced Statistics in Psychology: Multivariate Data Analysis",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=027884\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PSY5121 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "VNR 2008",
+                            "Professor": "Sylvain J.  Chartier"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

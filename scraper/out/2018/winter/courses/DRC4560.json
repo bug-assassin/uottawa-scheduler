@@ -1,0 +1,28 @@
+{
+    "CourseCode": "DRC4560",
+    "Title": "Droit judiciaire II",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=008725\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DRC4560 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "FTX 361",
+                            "Professor": "Denis  Brochu"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

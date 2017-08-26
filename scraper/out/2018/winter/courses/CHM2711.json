@@ -1,0 +1,39 @@
+{
+    "CourseCode": "CHM2711",
+    "Title": "Introduction à la structure et aux liaisons",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=003929\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CHM2711 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "STE F0126",
+                            "Professor": "Heshel  Teitelbaum"
+                        },
+                        {
+                            "Name": "CHM2711 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "STE F0126",
+                            "Professor": "Heshel  Teitelbaum"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

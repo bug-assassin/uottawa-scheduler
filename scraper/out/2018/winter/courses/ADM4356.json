@@ -1,0 +1,39 @@
+{
+    "CourseCode": "ADM4356",
+    "Title": "Alternative Investments and Risk Management",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=000221\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "M",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ADM4356 M00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "DMS 4170",
+                            "Professor": "William F.  Rentz"
+                        },
+                        {
+                            "Name": "ADM4356 M00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "DMS 4170",
+                            "Professor": "William F.  Rentz"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "CourseCode": "ESP3935",
+    "Title": "Reading Hispanic Texts: Theatre and the Poetry",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=013038\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ESP3935 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "DMS 10161",
+                            "Professor": "Gaston  Lillo"
+                        },
+                        {
+                            "Name": "ESP3935 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "DMS 10161",
+                            "Professor": "Gaston  Lillo"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

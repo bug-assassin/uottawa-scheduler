@@ -1,0 +1,39 @@
+{
+    "CourseCode": "CML3156",
+    "Title": "Sentencing Theory and Practice",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=004988\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML3156 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 930,
+                            "EndHour": 1130,
+                            "Place": "FTX 401",
+                            "Professor": "Joao Gustavo  Vieira Velloso"
+                        },
+                        {
+                            "Name": "CML3156 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 930,
+                            "EndHour": 1130,
+                            "Place": "FTX 413",
+                            "Professor": "Joao Gustavo  Vieira Velloso"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

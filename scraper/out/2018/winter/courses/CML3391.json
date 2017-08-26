@@ -1,0 +1,39 @@
+{
+    "CourseCode": "CML3391",
+    "Title": "Dispute Resolution in Family Law",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=005107\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "CML3391 B00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1500,
+                            "EndHour": 1700,
+                            "Place": "FTX 416",
+                            "Professor": "Lynn  Rockman"
+                        },
+                        {
+                            "Name": "CML3391 B00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1500,
+                            "EndHour": 1700,
+                            "Place": "FTX 416",
+                            "Professor": "Lynn  Rockman"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

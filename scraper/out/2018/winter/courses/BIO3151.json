@@ -1,0 +1,91 @@
+{
+    "CourseCode": "BIO3151",
+    "Title": "Molecular Biology Laboratory",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=002798\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "M",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "BIO3151 M00",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1900,
+                            "Place": "BSC 236",
+                            "Professor": "John  Basso"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "N",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "BIO3151 N00",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1900,
+                            "Place": "BSC 236",
+                            "Professor": "John  Basso"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "O",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "BIO3151 O00",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1900,
+                            "Place": "BSC 236",
+                            "Professor": "John  Basso"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "P",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "BIO3151 P00",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1730,
+                            "Place": "BSC 236",
+                            "Professor": "John  Basso"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

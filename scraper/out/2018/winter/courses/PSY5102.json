@@ -1,0 +1,28 @@
+{
+    "CourseCode": "PSY5102",
+    "Title": "Applied Psychopathology",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=027874\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PSY5102 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "VNR 2027",
+                            "Professor": "Andrea  Ashbaugh"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

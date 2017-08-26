@@ -1,0 +1,28 @@
+{
+    "CourseCode": "PAP3355",
+    "Title": "Budgetary Policy and Public Finance",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=023492\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PAP3355 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "VNR 1075",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

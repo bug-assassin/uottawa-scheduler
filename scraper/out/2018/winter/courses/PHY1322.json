@@ -1,0 +1,236 @@
+{
+    "CourseCode": "PHY1322",
+    "Title": "Principles of Physics II",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=026724\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PHY1322 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "MRN 150",
+                            "Professor": "Andrzej  Czajkowski"
+                        },
+                        {
+                            "Name": "PHY1322 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "MRN 150",
+                            "Professor": "Andrzej  Czajkowski"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "PHY1322 A17",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MHN 033",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "PHY1322 A18",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "CBY B205",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "PHY1322 A01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3010",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1322 A02",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3010",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1322 A03",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3010",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1322 A04",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3010",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1322 A05",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3010",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1322 A06",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3010",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1322 A07",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3010",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1322 A08",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3010",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1322 A09",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3010",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1322 A10",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3010",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1322 A11",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "STE 3010",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1322 A12",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "STE 3010",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1322 A13",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "STE 3010",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1322 A14",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "Not available at this time.",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "PHY1322 A15",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "STE 3010",
+                            "Professor": "Michael C. H.  Wong"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

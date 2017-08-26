@@ -1,0 +1,71 @@
+{
+    "CourseCode": "BMG5109",
+    "Title": "Advanced Topics in Medical Instrumentation",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=003266\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "W",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "BMG5109 W00 - Sensory Systems and Signal Processing",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "VNR 3075",
+                            "Professor": "Hilmi  Dajani"
+                        },
+                        {
+                            "Name": "BMG5109 W00 - Sensory Systems and Signal Processing",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "VNR 3075",
+                            "Professor": "Hilmi  Dajani"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "X",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "BMG5109 X00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "LMX 221",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "BMG5109 X00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "LMX 221",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

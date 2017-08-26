@@ -1,0 +1,28 @@
+{
+    "CourseCode": "DCL6732",
+    "Title": "Problèmes choisis de droit international II",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=008204\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DCL6732 000 - Droit international des droits de la personne",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "FTX 401",
+                            "Professor": "Mona  Paré"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

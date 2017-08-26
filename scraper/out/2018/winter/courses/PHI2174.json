@@ -1,0 +1,39 @@
+{
+    "CourseCode": "PHI2174",
+    "Title": "Ethics",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=025929\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PHI2174 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "SMD 428",
+                            "Professor": "Andrew  Sneddon"
+                        },
+                        {
+                            "Name": "PHI2174 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "SMD 428",
+                            "Professor": "Andrew  Sneddon"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

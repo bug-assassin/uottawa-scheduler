@@ -1,0 +1,28 @@
+{
+    "CourseCode": "ADM4337",
+    "Title": "Managing Change",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=000202\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "M",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ADM4337 M00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "DMS 4130",
+                            "Professor": "Samia  Chreim"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

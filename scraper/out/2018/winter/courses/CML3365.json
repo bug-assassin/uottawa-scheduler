@@ -1,0 +1,39 @@
+{
+    "CourseCode": "CML3365",
+    "Title": "Civil Liberties",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=005081\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "CML3365 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1030,
+                            "Place": "FTX 359",
+                            "Professor": "Joanne  St. Lewis"
+                        },
+                        {
+                            "Name": "CML3365 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1500,
+                            "Place": "FTX 136",
+                            "Professor": "Joanne  St. Lewis"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

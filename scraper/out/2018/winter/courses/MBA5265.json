@@ -1,0 +1,50 @@
+{
+    "CourseCode": "MBA5265",
+    "Title": "Performance Management",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=020611\u0026term=2181\u0026session=E",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MBA5265 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-13",
+                            "EndDate": "01-13",
+                            "Day": 5,
+                            "StartHour": 800,
+                            "EndHour": 1245,
+                            "Place": "DMS 4130",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MBA5265 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-27",
+                            "EndDate": "01-27",
+                            "Day": 5,
+                            "StartHour": 800,
+                            "EndHour": 1245,
+                            "Place": "DMS 4130",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MBA5265 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "02-10",
+                            "EndDate": "02-10",
+                            "Day": 5,
+                            "StartHour": 800,
+                            "EndHour": 1245,
+                            "Place": "DMS 4130",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

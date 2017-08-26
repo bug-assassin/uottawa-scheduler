@@ -1,0 +1,39 @@
+{
+    "CourseCode": "GNG5121",
+    "Title": "Planning of Experiments in Engineering Design",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=015068\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "W",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "GNG5121 W00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "DMS 4130",
+                            "Professor": "François  Robitaille"
+                        },
+                        {
+                            "Name": "GNG5121 W00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "CBY C03",
+                            "Professor": "François  Robitaille"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

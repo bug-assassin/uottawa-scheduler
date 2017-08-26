@@ -1,0 +1,39 @@
+{
+    "CourseCode": "CML3206",
+    "Title": "Wills and the Law of Succession",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=005017\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML3206 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1700,
+                            "EndHour": 1900,
+                            "Place": "FTX 302",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "CML3206 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1700,
+                            "EndHour": 1900,
+                            "Place": "FTX 147",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

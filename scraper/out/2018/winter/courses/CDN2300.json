@@ -1,0 +1,39 @@
+{
+    "CourseCode": "CDN2300",
+    "Title": "Methodology of Documentary Research in Canadian Studies",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=003544\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CDN2300 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "WLD 104",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "CDN2300 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "WLD 104",
+                            "Professor": "Tracy Lynn  Coates"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

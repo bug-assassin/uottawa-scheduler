@@ -1,0 +1,39 @@
+{
+    "CourseCode": "BIO3502",
+    "Title": "Évolution moléculaire",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=002826\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "BIO3502 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "MRN 130",
+                            "Professor": "Guy  Drouin"
+                        },
+                        {
+                            "Name": "BIO3502 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "MRN 130",
+                            "Professor": "Guy  Drouin"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

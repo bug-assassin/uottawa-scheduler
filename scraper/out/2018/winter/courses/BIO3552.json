@@ -1,0 +1,28 @@
+{
+    "CourseCode": "BIO3552",
+    "Title": "Laboratoire de biologie cellulaire",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=002848\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "BIO3552 A00",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1900,
+                            "Place": "BSC 231",
+                            "Professor": "Alp  Oran"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "CourseCode": "CML2703",
+    "Title": "Propriétaires et locataires",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=004933\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML2703 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1030,
+                            "Place": "FTX 235",
+                            "Professor": "Joseph E. Roach"
+                        },
+                        {
+                            "Name": "CML2703 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 930,
+                            "EndHour": 1130,
+                            "Place": "FTX 136",
+                            "Professor": "Joseph E. Roach"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

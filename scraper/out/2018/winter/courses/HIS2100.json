@@ -1,0 +1,39 @@
+{
+    "CourseCode": "HIS2100",
+    "Title": "The Historian's Craft",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=015519\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "HIS2100 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "SMD 222",
+                            "Professor": "Heather  Murray"
+                        },
+                        {
+                            "Name": "HIS2100 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "SMD 221",
+                            "Professor": "Heather  Murray"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

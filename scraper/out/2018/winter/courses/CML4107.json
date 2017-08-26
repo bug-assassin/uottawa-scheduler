@@ -1,0 +1,39 @@
+{
+    "CourseCode": "CML4107",
+    "Title": "Studies in Business Law",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=005223\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "CML4107 A00 - Aboriginal Financial Management and Governance",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1330,
+                            "Place": "FTX 235",
+                            "Professor": "Yvonne Marie  Boyer"
+                        },
+                        {
+                            "Name": "CML4107 A00 - Aboriginal Financial Management and Governance",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 930,
+                            "EndHour": 1130,
+                            "Place": "BRS 314",
+                            "Professor": "Yvonne Marie  Boyer"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

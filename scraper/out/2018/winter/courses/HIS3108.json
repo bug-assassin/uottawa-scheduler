@@ -1,0 +1,39 @@
+{
+    "CourseCode": "HIS3108",
+    "Title": "Quebec in the 20th Century",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=015695\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "HIS3108 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "SWT 105",
+                            "Professor": "Damien-Claude  Bélanger"
+                        },
+                        {
+                            "Name": "HIS3108 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "SMD 428",
+                            "Professor": "Damien-Claude  Bélanger"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "CourseCode": "ART2942",
+    "Title": "Electronic Art",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=002047\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "ART2942 A00",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1230,
+                            "Place": "LRR 219",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

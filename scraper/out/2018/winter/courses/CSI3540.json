@@ -1,0 +1,71 @@
+{
+    "CourseCode": "CSI3540",
+    "Title": "Structures, techniques et normes du Web",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=006633\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CSI3540 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "VNR 2027",
+                            "Professor": "Iluju  Kiringa"
+                        },
+                        {
+                            "Name": "CSI3540 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "VNR 3076",
+                            "Professor": "Iluju  Kiringa"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "CSI3540 A01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "STE 0130",
+                            "Professor": "Iluju  Kiringa"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "TUT",
+                    "Activities": [
+                        {
+                            "Name": "CSI3540 A02",
+                            "ActivityType": "TUT",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "VNR 4084",
+                            "Professor": "Iluju  Kiringa"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

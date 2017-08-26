@@ -1,0 +1,61 @@
+{
+    "CourseCode": "NSG4134",
+    "Title": "Political and Economic Contexts of Health Care",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=023009\u0026term=2181\u0026session=TR",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "NSG4134 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-17",
+                            "EndDate": "01-20",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1800,
+                            "Place": "RGN 2003",
+                            "Professor": "Thomas  Foth"
+                        },
+                        {
+                            "Name": "NSG4134 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-17",
+                            "EndDate": "01-20",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1800,
+                            "Place": "RGN 2003",
+                            "Professor": "Thomas  Foth"
+                        },
+                        {
+                            "Name": "NSG4134 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-17",
+                            "EndDate": "01-20",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1800,
+                            "Place": "RGN 2003",
+                            "Professor": "Thomas  Foth"
+                        },
+                        {
+                            "Name": "NSG4134 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-17",
+                            "EndDate": "01-20",
+                            "Day": 5,
+                            "StartHour": 830,
+                            "EndHour": 1800,
+                            "Place": "RGN 2003",
+                            "Professor": "Thomas  Foth"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

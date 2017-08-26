@@ -1,0 +1,49 @@
+{
+    "CourseCode": "CRM4302",
+    "Title": "Abolitionism and the Criminal Justice System",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=006139\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "D",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CRM4302 D00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "VNR 3075",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CRM4302 C00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "VNR 3075",
+                            "Professor": "Justin Robert Joseph  Piché"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

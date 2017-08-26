@@ -1,0 +1,28 @@
+{
+    "CourseCode": "EMP5179",
+    "Title": "Manufacturing Systems Analysis",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=012004\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "W",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "EMP5179 W00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "MRT 250",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "CourseCode": "HSS2511",
+    "Title": "Posture, mouvement et prévention des blessures",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=016326\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "HSS2511 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "HNN 013",
+                            "Professor": "Steve  Pelletier"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

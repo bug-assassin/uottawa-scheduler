@@ -1,0 +1,88 @@
+{
+    "CourseCode": "CHG1125",
+    "Title": "Chemical Engineering Fundamentals",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=003673\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CHG1125 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "FSS 1007",
+                            "Professor": "Andrew  Sowinski"
+                        },
+                        {
+                            "Name": "CHG1125 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "FSS 1007",
+                            "Professor": "Andrew  Sowinski"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "CHG1125 A01",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MRT 219",
+                            "Professor": "Andrew  Sowinski"
+                        },
+                        {
+                            "Name": "CHG1125 A02",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "TBT 0021",
+                            "Professor": "Andrew  Sowinski"
+                        },
+                        {
+                            "Name": "CHG1125 A03",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MRT 015",
+                            "Professor": "Andrew  Sowinski"
+                        },
+                        {
+                            "Name": "CHG1125 A04",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MRT 015",
+                            "Professor": "Andrew  Sowinski"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

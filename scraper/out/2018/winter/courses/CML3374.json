@@ -1,0 +1,39 @@
+{
+    "CourseCode": "CML3374",
+    "Title": "Law and Society",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=005090\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "W",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML3374 WA00 - Refugee/Criminal Law Clinic",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1300,
+                            "EndHour": 1500,
+                            "Place": "BRS 232",
+                            "Professor": "David W. Wiseman"
+                        },
+                        {
+                            "Name": "CML3374 WA00 - Refugee/Criminal Law Clinic",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1600,
+                            "EndHour": 1800,
+                            "Place": "BRS 232",
+                            "Professor": "David W. Wiseman"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

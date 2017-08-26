@@ -1,0 +1,28 @@
+{
+    "CourseCode": "ECO6181",
+    "Title": "Topics in Monetary Economics",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=009621\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ECO6181 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "FSS 9003",
+                            "Professor": "Francesca  Rondina"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

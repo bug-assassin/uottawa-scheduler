@@ -1,0 +1,28 @@
+{
+    "CourseCode": "CIN2102",
+    "Title": "History of Cinema II: since 1960",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=004363\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CIN2102 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "MRT 015",
+                            "Professor": "Florian  Grandena"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

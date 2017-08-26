@@ -1,0 +1,60 @@
+{
+    "CourseCode": "HSS2121",
+    "Title": "History of Health Care",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=016315\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "HSS2121 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MNT 201",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "HSS2121 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "DMS 1110",
+                            "Professor": "Louise A. Edmonds"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "HSS2121 C00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "SMD 425",
+                            "Professor": "Louise A. Edmonds"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

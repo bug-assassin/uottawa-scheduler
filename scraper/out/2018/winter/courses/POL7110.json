@@ -1,0 +1,28 @@
+{
+    "CourseCode": "POL7110",
+    "Title": "International Political Economy",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=027485\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "POL7110 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "FSS 7003",
+                            "Professor": "Jacqueline  Best"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

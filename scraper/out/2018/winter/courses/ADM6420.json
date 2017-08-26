@@ -1,0 +1,28 @@
+{
+    "CourseCode": "ADM6420",
+    "Title": "Electronic Marketing",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=000610\u0026term=2181\u0026session=E",
+    "Sections": [
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ADM6420 C00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "02-15",
+                            "Day": 3,
+                            "StartHour": 1600,
+                            "EndHour": 1900,
+                            "Place": "DMS 4140",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

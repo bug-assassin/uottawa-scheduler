@@ -1,0 +1,39 @@
+{
+    "CourseCode": "FEM2104",
+    "Title": "Gender, (Dis)Ability and Health",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=013322\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "FEM2104 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "STE A0150",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "FEM2104 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MHN 257",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

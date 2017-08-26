@@ -1,0 +1,55 @@
+{
+    "CourseCode": "BIO3558",
+    "Title": "Zoologie des vertébrés",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=002852\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "BIO3558 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "FTX 235",
+                            "Professor": "François  Chapleau"
+                        },
+                        {
+                            "Name": "BIO3558 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "FSS 6032",
+                            "Professor": "François  Chapleau"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "BIO3558 A01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 112",
+                            "Professor": "François  Chapleau"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

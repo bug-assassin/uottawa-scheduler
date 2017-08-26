@@ -1,0 +1,49 @@
+{
+    "CourseCode": "PAP6502",
+    "Title": "Gouvernance démocratique",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=023576\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "PAP6502 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "FSS 8003",
+                            "Professor": "Louis  Simard"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "PAP6502 B00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "FSS 5023",
+                            "Professor": "Anne  Mevellec"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "CourseCode": "PHI4308",
+    "Title": "Texts in American Philosophy",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=026249\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PHI4308 A00 - Naturalism and Pragmatism:  Dewey versus Santayana",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "DMS 11143",
+                            "Professor": "Paul D. Forster"
+                        },
+                        {
+                            "Name": "PHI4308 A00 - Naturalism and Pragmatism:  Dewey versus Santayana",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "DMS 11143",
+                            "Professor": "Paul D. Forster"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

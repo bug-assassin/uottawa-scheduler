@@ -1,0 +1,28 @@
+{
+    "CourseCode": "DVM9997",
+    "Title": "Comprehensive Examination II",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=009177\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "S",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DVM9997 S00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 0,
+                            "EndHour": 1200,
+                            "Place": "Not available at this time.",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

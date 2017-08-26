@@ -1,0 +1,28 @@
+{
+    "CourseCode": "CML4382",
+    "Title": "Feminist Legal Issues",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=005266\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML4382 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1730,
+                            "EndHour": 2130,
+                            "Place": "FTX 402",
+                            "Professor": "Constance  Backhouse"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

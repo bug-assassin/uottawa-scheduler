@@ -1,0 +1,39 @@
+{
+    "CourseCode": "ANT3140",
+    "Title": "Cultures and Societies",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=001325\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ANT3140 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "VNR 1075",
+                            "Professor": "Hope  MacLean"
+                        },
+                        {
+                            "Name": "ANT3140 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "VNR 1075",
+                            "Professor": "Hope  MacLean"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

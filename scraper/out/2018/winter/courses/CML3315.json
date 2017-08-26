@@ -1,0 +1,71 @@
+{
+    "CourseCode": "CML3315",
+    "Title": "Negotiation",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=005056\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "CML3315 C00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1800,
+                            "EndHour": 2000,
+                            "Place": "FTX 402",
+                            "Professor": "Juliet Lucy  Knapton"
+                        },
+                        {
+                            "Name": "CML3315 C00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1800,
+                            "EndHour": 2000,
+                            "Place": "FTX 235",
+                            "Professor": "Juliet Lucy  Knapton"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "D",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "CML3315 D00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1600,
+                            "EndHour": 1800,
+                            "Place": "FTX 235",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "CML3315 D00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1700,
+                            "EndHour": 1900,
+                            "Place": "FTX 401",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "CourseCode": "ELG6380",
+    "Title": "Theory Semiconductor Devices",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=011874\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "W",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ELG6380 W00 - Theory of Semiconductor Device",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "CBY B012",
+                            "Professor": "Henry Peter Schriemer"
+                        },
+                        {
+                            "Name": "ELG6380 W00 - Theory of Semiconductor Device",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "CBY B012",
+                            "Professor": "Henry Peter Schriemer"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

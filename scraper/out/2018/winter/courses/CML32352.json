@@ -1,0 +1,28 @@
+{
+    "CourseCode": "CML32352",
+    "Title": "Law Review Editorship (Part 2 of 2)",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=051407\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "STG",
+                    "Activities": [
+                        {
+                            "Name": "CML32352 000",
+                            "ActivityType": "STG",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "FTX 401",
+                            "Professor": "Kyle  Kirkup"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

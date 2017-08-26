@@ -1,0 +1,39 @@
+{
+    "CourseCode": "ADM3323",
+    "Title": "Market Research",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=000087\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "M",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ADM3323 M00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "DMS 4170",
+                            "Professor": "Michael A. Guolla"
+                        },
+                        {
+                            "Name": "ADM3323 M00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "DMS 4170",
+                            "Professor": "Michael A. Guolla"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

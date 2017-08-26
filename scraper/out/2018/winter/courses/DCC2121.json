@@ -1,0 +1,28 @@
+{
+    "CourseCode": "DCC2121",
+    "Title": "Legal Theory and Social Sciences",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=007913\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DCC2121 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "FTX 351",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

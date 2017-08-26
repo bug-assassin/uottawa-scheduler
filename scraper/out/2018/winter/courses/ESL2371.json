@@ -1,0 +1,39 @@
+{
+    "CourseCode": "ESL2371",
+    "Title": "Advanced Grammar in Use: Written and Oral Expression",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=012940\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ESL2371 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "DMS 3105",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ESL2371 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MNT 103",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

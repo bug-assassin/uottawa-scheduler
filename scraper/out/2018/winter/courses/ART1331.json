@@ -1,0 +1,49 @@
+{
+    "CourseCode": "ART1331",
+    "Title": "The Photograph and Visual Culture",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=001918\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "ART1331 C00",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1230,
+                            "Place": "LRR 013",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "ART1331 B00",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1230,
+                            "Place": "LRR 013",
+                            "Professor": "Andrew E. Wright"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

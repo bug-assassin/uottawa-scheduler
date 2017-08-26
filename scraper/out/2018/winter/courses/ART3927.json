@@ -1,0 +1,28 @@
+{
+    "CourseCode": "ART3927",
+    "Title": "Sculpture in Context II: Practices in Performance",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=002202\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "ART3927 A00",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1230,
+                            "Place": "LRR 114",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

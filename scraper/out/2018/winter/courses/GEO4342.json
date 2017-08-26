@@ -1,0 +1,28 @@
+{
+    "CourseCode": "GEO4342",
+    "Title": "Natural and Contaminant Groundwater Geochemistry",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=014803\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "GEO4342 A00 - Groundwater Geochemistry and Isotopes",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "MRN 123",
+                            "Professor": "Ian Douglas Clark"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

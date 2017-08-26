@@ -1,0 +1,39 @@
+{
+    "CourseCode": "CVG6305",
+    "Title": "Special Topics in Civil Engineering",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=007356\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "W",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CVG6305 W00 - Rock Mechanics",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "VNR 3035",
+                            "Professor": "Rozalina  Dimitrova"
+                        },
+                        {
+                            "Name": "CVG6305 W00 - Rock Mechanics",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "VNR 5070",
+                            "Professor": "Rozalina  Dimitrova"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

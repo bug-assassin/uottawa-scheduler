@@ -1,0 +1,39 @@
+{
+    "CourseCode": "POL2508",
+    "Title": "Pensée politique moderne I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=027190\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "POL2508 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MRT 212",
+                            "Professor": "François  Charbonneau"
+                        },
+                        {
+                            "Name": "POL2508 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MRT 212",
+                            "Professor": "François  Charbonneau"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

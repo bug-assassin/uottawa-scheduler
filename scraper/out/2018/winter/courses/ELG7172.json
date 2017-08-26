@@ -1,0 +1,60 @@
+{
+    "CourseCode": "ELG7172",
+    "Title": "Topics in Signal Processing I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=011924\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "W",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ELG7172 W00 - Sensory Systems \u0026 Signal Processing",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "VNR 3075",
+                            "Professor": "Hilmi  Dajani"
+                        },
+                        {
+                            "Name": "ELG7172 W00 - Sensory Systems \u0026 Signal Processing",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "VNR 3075",
+                            "Professor": "Hilmi  Dajani"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ELG7172 B00 - Princip. of Data \u0026 Error Analy. in Engin. Measur.",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "MNO E218",
+                            "Professor": "Miodrag  Bolic"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

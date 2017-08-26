@@ -1,0 +1,39 @@
+{
+    "CourseCode": "MUS39022",
+    "Title": "Wind Ensemble (Part 2 of 2)",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=051383\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "MUS39022 A00",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1730,
+                            "EndHour": 2000,
+                            "Place": "PRZ 109",
+                            "Professor": "Daniel  Gress"
+                        },
+                        {
+                            "Name": "MUS39022 A00",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1730,
+                            "EndHour": 2000,
+                            "Place": "PRZ 109",
+                            "Professor": "Daniel  Gress"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

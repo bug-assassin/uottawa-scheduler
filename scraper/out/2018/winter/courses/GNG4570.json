@@ -1,0 +1,28 @@
+{
+    "CourseCode": "GNG4570",
+    "Title": "Droit pour les ingénieurs",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=015065\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "GNG4570 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "MNO E218",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

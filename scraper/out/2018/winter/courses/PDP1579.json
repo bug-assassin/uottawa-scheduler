@@ -1,0 +1,39 @@
+{
+    "CourseCode": "PDP1579",
+    "Title": "Mesure et évaluation, stratégies d'enseignement et accommodements",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=023837\u0026term=2181\u0026session=M",
+    "Sections": [
+        {
+            "SectionCode": "W",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PDP1579 WC00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-09",
+                            "EndDate": "04-05",
+                            "Day": 1,
+                            "StartHour": 1800,
+                            "EndHour": 2100,
+                            "Place": "LMX 339",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "PDP1579 WC00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-09",
+                            "EndDate": "04-05",
+                            "Day": 3,
+                            "StartHour": 1800,
+                            "EndHour": 2100,
+                            "Place": "LMX 339",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

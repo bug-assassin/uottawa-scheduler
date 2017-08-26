@@ -1,0 +1,39 @@
+{
+    "CourseCode": "CSI4142",
+    "Title": "Introduction to Data Science",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=039377\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CSI4142 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "DMS 1120",
+                            "Professor": "Herna L. Viktor"
+                        },
+                        {
+                            "Name": "CSI4142 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "DMS 1120",
+                            "Professor": "Herna L. Viktor"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

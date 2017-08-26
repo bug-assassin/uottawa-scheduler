@@ -1,0 +1,28 @@
+{
+    "CourseCode": "SCI4100",
+    "Title": "Special Topics in Science, Society and Policy",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=028595\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "D",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "SCI4100 D00 - A Primer on Science Policy",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "FSS 11003",
+                            "Professor": "Paul  Dufour"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

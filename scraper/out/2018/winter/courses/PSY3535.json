@@ -1,0 +1,44 @@
+{
+    "CourseCode": "PSY3535",
+    "Title": "Développement social de l'enfant",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=027730\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PSY3535 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "VNR 1075",
+                            "Professor": "Jean-François  Bureau"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "PSY3535 A01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "VNR 1075",
+                            "Professor": "Jean-François  Bureau"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

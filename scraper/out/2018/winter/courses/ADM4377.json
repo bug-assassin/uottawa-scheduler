@@ -1,0 +1,28 @@
+{
+    "CourseCode": "ADM4377",
+    "Title": "Digital Enterprise Systems and Strategies",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=000222\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "M",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ADM4377 M00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "SMD 222",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

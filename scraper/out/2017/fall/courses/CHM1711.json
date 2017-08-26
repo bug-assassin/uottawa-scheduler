@@ -1,0 +1,169 @@
+{
+    "CourseCode": "CHM1711",
+    "Title": "Principes de chimie",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=003870\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CHM1711 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "UCU AUD",
+                            "Professor": "Alain  St-Amant"
+                        },
+                        {
+                            "Name": "CHM1711 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "UCU AUD",
+                            "Professor": "Alain  St-Amant"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "CHM1711 B01",
+                            "ActivityType": "LAB",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "MRN 301",
+                            "Professor": "Rashmi  Venkateswaran"
+                        },
+                        {
+                            "Name": "CHM1711 B02",
+                            "ActivityType": "LAB",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "MRN 301",
+                            "Professor": "Rashmi  Venkateswaran"
+                        },
+                        {
+                            "Name": "CHM1711 B03",
+                            "ActivityType": "LAB",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "MRN 301",
+                            "Professor": "Rashmi  Venkateswaran"
+                        },
+                        {
+                            "Name": "CHM1711 B04",
+                            "ActivityType": "LAB",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "MRN 301",
+                            "Professor": "Rashmi  Venkateswaran"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CHM1711 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "MRN 150",
+                            "Professor": "Alain  St-Amant"
+                        },
+                        {
+                            "Name": "CHM1711 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 2,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "MRN 150",
+                            "Professor": "Alain  St-Amant"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "CHM1711 A01",
+                            "ActivityType": "LAB",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "MRN 301",
+                            "Professor": "Rashmi  Venkateswaran"
+                        },
+                        {
+                            "Name": "CHM1711 A02",
+                            "ActivityType": "LAB",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "MRN 301",
+                            "Professor": "Rashmi  Venkateswaran"
+                        },
+                        {
+                            "Name": "CHM1711 A03",
+                            "ActivityType": "LAB",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "MRN 301",
+                            "Professor": "Rashmi  Venkateswaran"
+                        },
+                        {
+                            "Name": "CHM1711 A04",
+                            "ActivityType": "LAB",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "MRN 301",
+                            "Professor": "Rashmi  Venkateswaran"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

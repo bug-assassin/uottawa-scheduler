@@ -1,0 +1,28 @@
+{
+    "CourseCode": "PSY52022",
+    "Title": "Psychodiagnostic Assessment of Adults and Children (Part 2 of 2)",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=051570\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PSY52022 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "VNR 2027",
+                            "Professor": "John D. Hunsley"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

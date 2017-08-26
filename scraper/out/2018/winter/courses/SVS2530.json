@@ -1,0 +1,28 @@
+{
+    "CourseCode": "SVS2530",
+    "Title": "Familles, générations et service social",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=030010\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "SVS2530 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "STE A0150",
+                            "Professor": "Marguerite  Soulière"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

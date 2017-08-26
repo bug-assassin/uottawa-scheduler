@@ -1,0 +1,55 @@
+{
+    "CourseCode": "MCG3131",
+    "Title": "Machine Design",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=020791\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MCG3131 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "DMS 1140",
+                            "Professor": "Ahsan Faraz  Ahmed"
+                        },
+                        {
+                            "Name": "MCG3131 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "DMS 1140",
+                            "Professor": "Ahsan Faraz  Ahmed"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "TUT",
+                    "Activities": [
+                        {
+                            "Name": "MCG3131 A01",
+                            "ActivityType": "TUT",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 800,
+                            "EndHour": 1000,
+                            "Place": "MRT 205",
+                            "Professor": "Ahsan Faraz  Ahmed"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

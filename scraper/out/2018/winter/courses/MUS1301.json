@@ -1,0 +1,28 @@
+{
+    "CourseCode": "MUS1301",
+    "Title": "Topics in Music Appreciation I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=022063\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MUS1301 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "PRZ 113",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "CourseCode": "CRM1700",
+    "Title": "Introduction à la criminologie",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=006016\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "D",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CRM1700 D00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "UCU AUD",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "CRM1700 D00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "UCU AUD",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

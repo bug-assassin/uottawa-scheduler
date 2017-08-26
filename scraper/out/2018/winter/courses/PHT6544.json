@@ -1,0 +1,39 @@
+{
+    "CourseCode": "PHT6544",
+    "Title": "Mécanismes et prise en charge de la douleur en physiothérapie",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=026683\u0026term=2181\u0026session=TR",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PHT6544 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-09",
+                            "EndDate": "01-30",
+                            "Day": 1,
+                            "StartHour": 900,
+                            "EndHour": 1130,
+                            "Place": "RGN 2113",
+                            "Professor": "François  Tremblay"
+                        },
+                        {
+                            "Name": "PHT6544 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-11",
+                            "EndDate": "02-01",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1530,
+                            "Place": "RGN 2112",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

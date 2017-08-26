@@ -1,0 +1,39 @@
+{
+    "CourseCode": "FRA2789",
+    "Title": "Grammaire d'aujourd'hui",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=013637\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "FRA2789 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "FTX 232",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "FRA2789 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "FTX 232",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

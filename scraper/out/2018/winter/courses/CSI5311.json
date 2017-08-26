@@ -1,0 +1,39 @@
+{
+    "CourseCode": "CSI5311",
+    "Title": "Distributed Databases and Transaction Processing",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=006883\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "W",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CSI5311 W00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "LPR 155",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "CSI5311 W00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "LMX 221",
+                            "Professor": "Iluju  Kiringa"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

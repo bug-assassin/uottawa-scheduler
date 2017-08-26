@@ -1,0 +1,99 @@
+{
+    "CourseCode": "APA3125",
+    "Title": "Prevention and Care of Athletic Injuries",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=001533\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "APA3125 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 800,
+                            "EndHour": 1000,
+                            "Place": "MRT 212",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "APA3125 A01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1200,
+                            "EndHour": 1400,
+                            "Place": "MNT 317",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "APA3125 A02",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1400,
+                            "EndHour": 1600,
+                            "Place": "MNT 317",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "APA3125 A03",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1600,
+                            "EndHour": 1800,
+                            "Place": "MNT 317",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "APA3125 A04",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 800,
+                            "EndHour": 1000,
+                            "Place": "MNT 317",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "APA3125 A05",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1000,
+                            "EndHour": 1200,
+                            "Place": "MNT 317",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "APA3125 A06",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1200,
+                            "EndHour": 1400,
+                            "Place": "MNT 317",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

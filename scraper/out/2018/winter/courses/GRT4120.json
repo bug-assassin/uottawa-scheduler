@@ -1,0 +1,28 @@
+{
+    "CourseCode": "GRT4120",
+    "Title": "Multiplidisciplinary Approaches of Intervention in Gerontology",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=015156\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "GRT4120 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "FSS 6004",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

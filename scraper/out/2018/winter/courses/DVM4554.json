@@ -1,0 +1,28 @@
+{
+    "CourseCode": "DVM4554",
+    "Title": "Globalisation, citoyenneté et développement",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=009103\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "DVM4554 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "SMD 330",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "CourseCode": "HIS4365",
+    "Title": "Selected Topics in History",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=015967\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "HIS4365 A00 - The Making of the Digital Age",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "SMD 422",
+                            "Professor": "Chad M. Gaffield"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "HIS4365 B00 - Contemporary Jewish History in a Comp. Perspective",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "TBT 323",
+                            "Professor": "Pierre  Anctil"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

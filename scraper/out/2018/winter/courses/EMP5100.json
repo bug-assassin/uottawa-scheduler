@@ -1,0 +1,28 @@
+{
+    "CourseCode": "EMP5100",
+    "Title": "Introduction to Engineering Management",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=011983\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "W",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "EMP5100 W00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "STE G0103",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

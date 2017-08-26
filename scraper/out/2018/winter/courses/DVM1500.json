@@ -1,0 +1,39 @@
+{
+    "CourseCode": "DVM1500",
+    "Title": "Le Canada face aux enjeux du développement international et de la mondialisation",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=009031\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DVM1500 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "FSS 2005",
+                            "Professor": "Marie-Eve  Desrosiers"
+                        },
+                        {
+                            "Name": "DVM1500 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "FSS 2005",
+                            "Professor": "Marie-Eve  Desrosiers"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

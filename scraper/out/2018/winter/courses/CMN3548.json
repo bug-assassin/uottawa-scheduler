@@ -1,0 +1,28 @@
+{
+    "CourseCode": "CMN3548",
+    "Title": "Consultation et formation en communication organisationnelle",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=005630\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CMN3548 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "LEE C207",
+                            "Professor": "Sylvie  Grosjean"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

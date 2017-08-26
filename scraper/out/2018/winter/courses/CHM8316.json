@@ -1,0 +1,39 @@
+{
+    "CourseCode": "CHM8316",
+    "Title": "Surface Chemistry",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=004236\u0026term=2181\u0026session=TR",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CHM8316 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "02-26",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "LMX 405",
+                            "Professor": "Javier  Giorgi"
+                        },
+                        {
+                            "Name": "CHM8316 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "02-26",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "LMX 405",
+                            "Professor": "Javier  Giorgi"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

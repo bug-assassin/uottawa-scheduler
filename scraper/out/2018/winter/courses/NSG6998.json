@@ -1,0 +1,49 @@
+{
+    "CourseCode": "NSG6998",
+    "Title": "Special Topics in Nursing",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=023215\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "NSG6998 A00 - Knowledge Mobilization in Nursing and Healthcare",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "VNR 1050",
+                            "Professor": "Wendy Annette  Gifford"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "H",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "NSG6998 HC00 - Knowledge Mobilization in Nursing and HealthcareCanadaAudio-conference course",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "DEP DEPT",
+                            "Professor": "Wendy Annette  Gifford"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "CourseCode": "FLS4581",
+    "Title": "Immersion autonome : Communication et argumentation à l'oral en contexte universitaire",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=013494\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "FLS4581 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "KED B015",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "FLS4581 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "KED B015",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "CourseCode": "GEO5143",
+    "Title": "Environmental Isotopes and Groundwater Geochemistry",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=014888\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "GEO5143 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "MRN 123",
+                            "Professor": "Ian Douglas Clark"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

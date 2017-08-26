@@ -1,0 +1,28 @@
+{
+    "CourseCode": "ANT3743",
+    "Title": "Anthropologie de l'Asie de l'Est",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=001362\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ANT3743 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "FSS 1005",
+                            "Professor": "Vincent  Mirza"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

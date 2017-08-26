@@ -1,0 +1,39 @@
+{
+    "CourseCode": "CML1613",
+    "Title": "Droit constitutionnel I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=004850\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML1613 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1500,
+                            "EndHour": 1700,
+                            "Place": "FTX 147",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "CML1613 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1500,
+                            "EndHour": 1700,
+                            "Place": "FTX 147",
+                            "Professor": "Martha  Jackman"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "CourseCode": "DCL6339",
+    "Title": "Special Topics in Law",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=008169\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "E",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DCL6339 E00 - Law and Geography",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1700,
+                            "EndHour": 1900,
+                            "Place": "FSS 10003",
+                            "Professor": "Tenille Elizabeth  Brown"
+                        },
+                        {
+                            "Name": "DCL6339 E00 - Law and Geography",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1700,
+                            "EndHour": 1900,
+                            "Place": "BRS 314",
+                            "Professor": "Tenille Elizabeth  Brown"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "H",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DCL6339 H00 - Food law",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1330,
+                            "Place": "FTX 136",
+                            "Professor": "Heather  McLeod-Kilmurray,Angela  Lee"
+                        },
+                        {
+                            "Name": "DCL6339 H00 - Food law",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1500,
+                            "Place": "FTX 136",
+                            "Professor": "Heather  McLeod-Kilmurray,Angela  Lee"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DCL6339 B00 - Environmental Law",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1300,
+                            "EndHour": 1500,
+                            "Place": "FTX 227",
+                            "Professor": "Jamie  Benidickson"
+                        },
+                        {
+                            "Name": "DCL6339 B00 - Environmental Law",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1500,
+                            "Place": "FTX 227",
+                            "Professor": "Jamie  Benidickson"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DCL6339 C00 - Scholarly Writing for Publication",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1700,
+                            "Place": "DMS 10143",
+                            "Professor": "Elizabeth F Judge"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "F",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DCL6339 F00 - Sports Law",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1800,
+                            "EndHour": 2200,
+                            "Place": "FTX 235",
+                            "Professor": "Eric  Macramalla"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

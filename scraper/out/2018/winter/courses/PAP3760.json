@@ -1,0 +1,39 @@
+{
+    "CourseCode": "PAP3760",
+    "Title": "Gestion de la différence",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=023509\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PAP3760 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "UCU 205",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "PAP3760 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "UCU 205",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

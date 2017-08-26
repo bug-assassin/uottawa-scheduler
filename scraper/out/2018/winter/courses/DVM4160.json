@@ -1,0 +1,28 @@
+{
+    "CourseCode": "DVM4160",
+    "Title": "International Project Management",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=009082\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "DVM4160 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "FSS 1005",
+                            "Professor": "Lauchlan Thomas  Munro"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

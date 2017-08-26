@@ -1,0 +1,50 @@
+{
+    "CourseCode": "NSG4100",
+    "Title": "Clinical Update",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=022975\u0026term=2181\u0026session=TR",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "NSG4100 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-03",
+                            "EndDate": "01-05",
+                            "Day": 2,
+                            "StartHour": 900,
+                            "EndHour": 1600,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "NSG4100 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-03",
+                            "EndDate": "01-05",
+                            "Day": 3,
+                            "StartHour": 900,
+                            "EndHour": 1600,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "NSG4100 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-03",
+                            "EndDate": "01-05",
+                            "Day": 4,
+                            "StartHour": 900,
+                            "EndHour": 1600,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

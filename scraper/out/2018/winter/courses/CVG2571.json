@@ -1,0 +1,55 @@
+{
+    "CourseCode": "CVG2571",
+    "Title": "Mesures et arpentage",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=007033\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CVG2571 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "STE C0136",
+                            "Professor": "Jules-Ange  Infante"
+                        },
+                        {
+                            "Name": "CVG2571 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "STE C0136",
+                            "Professor": "Jules-Ange  Infante"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "TUT",
+                    "Activities": [
+                        {
+                            "Name": "CVG2571 A01",
+                            "ActivityType": "TUT",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1200,
+                            "EndHour": 1300,
+                            "Place": "STE C0136",
+                            "Professor": "Jules-Ange  Infante"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

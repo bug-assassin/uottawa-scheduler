@@ -1,0 +1,39 @@
+{
+    "CourseCode": "SRS3190",
+    "Title": "Popular Culture and Religion",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=029620\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "SRS3190 A00 - Hybrid course",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "SMD 503",
+                            "Professor": "Adele  Reinhartz"
+                        },
+                        {
+                            "Name": "SRS3190 A00 - Hybrid course",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "SMD 503",
+                            "Professor": "Adele  Reinhartz"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "CourseCode": "CRM3719",
+    "Title": "Détermination de la peine",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=006123\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CRM3719 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "VNR 1095",
+                            "Professor": "Françoise  Vanhamme"
+                        },
+                        {
+                            "Name": "CRM3719 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "VNR 1095",
+                            "Professor": "Françoise  Vanhamme"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

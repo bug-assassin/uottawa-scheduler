@@ -1,0 +1,49 @@
+{
+    "CourseCode": "ADM4340",
+    "Title": "Cases Studies in Accounting",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=000205\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "M",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ADM4340 M00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "DMS 4170",
+                            "Professor": "Sheldon  Weatherstone"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "N",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ADM4340 N00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "DMS 4170",
+                            "Professor": "Sheldon  Weatherstone"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

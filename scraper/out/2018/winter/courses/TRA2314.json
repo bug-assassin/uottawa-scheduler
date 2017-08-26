@@ -1,0 +1,39 @@
+{
+    "CourseCode": "TRA2314",
+    "Title": "Problems in English (L1) for Translators II",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=031722\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "TRA2314 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "SMD 503",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "TRA2314 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "SMD 227",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

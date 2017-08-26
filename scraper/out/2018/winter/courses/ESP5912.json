@@ -1,0 +1,28 @@
+{
+    "CourseCode": "ESP5912",
+    "Title": "Aspects of Spanish Literature I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=013120\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "ESP5912 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "MHN 215",
+                            "Professor": "James W.  Nelson Novoa"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

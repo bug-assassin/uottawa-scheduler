@@ -1,0 +1,28 @@
+{
+    "CourseCode": "TRA6970",
+    "Title": "Simultaneous Interpretation Workshop from English to French II",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=031922\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "TLB",
+                    "Activities": [
+                        {
+                            "Name": "TRA6970 A00",
+                            "ActivityType": "TLB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "SMD 504",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

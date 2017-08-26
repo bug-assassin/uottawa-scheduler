@@ -1,0 +1,60 @@
+{
+    "CourseCode": "MDV3100",
+    "Title": "Selected Topics in Medieval and Renaissance Studies",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=021237\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MDV3100 B00 - The Age of Justinian",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "SMD 224",
+                            "Professor": "Geoffrey B. Greatrex"
+                        },
+                        {
+                            "Name": "MDV3100 B00 - The Age of Justinian",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "SMD 224",
+                            "Professor": "Geoffrey B. Greatrex"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MDV3100 A00 - The Italian RenaissanceHybrid course",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "LEE C107",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "CourseCode": "BIO2533",
+    "Title": "Génétique",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=002737\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "BIO2533 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MNT 202",
+                            "Professor": "Guy  Drouin"
+                        },
+                        {
+                            "Name": "BIO2533 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MNT 202",
+                            "Professor": "Guy  Drouin"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "BIO2533 A01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "BSC 310",
+                            "Professor": "Guy  Drouin"
+                        },
+                        {
+                            "Name": "BIO2533 A02",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "BSC 310",
+                            "Professor": "Guy  Drouin,Cindy  Lesage-Pelletier,Gabriel  Guillet"
+                        },
+                        {
+                            "Name": "BIO2533 A03",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "BSC 310",
+                            "Professor": "Guy  Drouin"
+                        },
+                        {
+                            "Name": "BIO2533 A04",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "BSC 310",
+                            "Professor": "Guy  Drouin"
+                        },
+                        {
+                            "Name": "BIO2533 A05",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "BSC 310",
+                            "Professor": "Guy  Drouin,Cindy  Lesage-Pelletier,Gabriel  Guillet"
+                        },
+                        {
+                            "Name": "BIO2533 A06",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "BSC 310",
+                            "Professor": "Guy  Drouin"
+                        },
+                        {
+                            "Name": "BIO2533 A07",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "BSC 310",
+                            "Professor": "Guy  Drouin"
+                        },
+                        {
+                            "Name": "BIO2533 A08",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "BSC 310",
+                            "Professor": "Guy  Drouin"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

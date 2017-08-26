@@ -1,0 +1,39 @@
+{
+    "CourseCode": "BCH4116",
+    "Title": "Analytical Biochemistry",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=002494\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "BCH4116 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "STE B0138",
+                            "Professor": "Maxim  Berezovski"
+                        },
+                        {
+                            "Name": "BCH4116 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "STE B0138",
+                            "Professor": "Maxim  Berezovski"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

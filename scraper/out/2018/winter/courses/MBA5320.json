@@ -1,0 +1,181 @@
+{
+    "CourseCode": "MBA5320",
+    "Title": "Strategic Marketing Management",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=020616\u0026term=2181\u0026session=B",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MBA5320 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-06",
+                            "EndDate": "01-06",
+                            "Day": 5,
+                            "StartHour": 800,
+                            "EndHour": 1015,
+                            "Place": "TBT 0019",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MBA5320 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-20",
+                            "EndDate": "01-20",
+                            "Day": 5,
+                            "StartHour": 800,
+                            "EndHour": 1015,
+                            "Place": "DMS 4130",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MBA5320 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-21",
+                            "EndDate": "01-21",
+                            "Day": 6,
+                            "StartHour": 900,
+                            "EndHour": 1115,
+                            "Place": "DMS 4130",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MBA5320 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "02-03",
+                            "EndDate": "02-03",
+                            "Day": 5,
+                            "StartHour": 800,
+                            "EndHour": 1015,
+                            "Place": "DMS 4130",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MBA5320 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "02-04",
+                            "EndDate": "02-04",
+                            "Day": 6,
+                            "StartHour": 800,
+                            "EndHour": 1245,
+                            "Place": "DMS 4130",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MBA5320 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "02-24",
+                            "EndDate": "02-24",
+                            "Day": 5,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "DMS 4130",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MBA5320 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "03-03",
+                            "EndDate": "03-03",
+                            "Day": 5,
+                            "StartHour": 800,
+                            "EndHour": 1015,
+                            "Place": "DMS 4130",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MBA5320 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "03-04",
+                            "EndDate": "03-04",
+                            "Day": 6,
+                            "StartHour": 900,
+                            "EndHour": 1115,
+                            "Place": "DMS 4130",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MBA5320 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "03-17",
+                            "EndDate": "03-17",
+                            "Day": 5,
+                            "StartHour": 800,
+                            "EndHour": 1015,
+                            "Place": "DMS 4130",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MBA5320 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "03-18",
+                            "EndDate": "03-18",
+                            "Day": 6,
+                            "StartHour": 800,
+                            "EndHour": 1245,
+                            "Place": "DMS 4130",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MBA5320 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "04-07",
+                            "EndDate": "04-07",
+                            "Day": 5,
+                            "StartHour": 800,
+                            "EndHour": 1015,
+                            "Place": "DMS 4130",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "E",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MBA5320 EE00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "02-12",
+                            "Day": 0,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "TBT 0019",
+                            "Professor": "David W.  Large"
+                        },
+                        {
+                            "Name": "MBA5320 EE00",
+                            "ActivityType": "LEC",
+                            "StartDate": "02-26",
+                            "EndDate": "03-26",
+                            "Day": 0,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "TBT 0019",
+                            "Professor": "David W.  Large"
+                        },
+                        {
+                            "Name": "MBA5320 EE00",
+                            "ActivityType": "LEC",
+                            "StartDate": "04-06",
+                            "EndDate": "04-06",
+                            "Day": 4,
+                            "StartHour": 1800,
+                            "EndHour": 2100,
+                            "Place": "MRT 221",
+                            "Professor": "David W.  Large"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

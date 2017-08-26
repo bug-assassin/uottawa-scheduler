@@ -1,0 +1,28 @@
+{
+    "CourseCode": "HIS4551",
+    "Title": "Séminaire en histoire des États-Unis",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=016002\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "HIS4551 A00 - Révolution et formation nationale, 1776-1830",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "DMS 9143",
+                            "Professor": "Lotfi  Ben Rejeb"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

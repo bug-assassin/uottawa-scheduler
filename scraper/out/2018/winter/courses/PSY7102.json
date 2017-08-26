@@ -1,0 +1,28 @@
+{
+    "CourseCode": "PSY7102",
+    "Title": "Field Research in Social and Community Interventions",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=028233\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PSY7102 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "FSS 5023",
+                            "Professor": "John Charles  Sylvestre"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

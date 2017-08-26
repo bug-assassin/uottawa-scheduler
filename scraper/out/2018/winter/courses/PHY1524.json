@@ -1,0 +1,93 @@
+{
+    "CourseCode": "PHY1524",
+    "Title": "Principes fondamentaux de physique pour ingénieurs",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=026732\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PHY1524 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "VNR 2075",
+                            "Professor": "Serge  Desgreniers"
+                        },
+                        {
+                            "Name": "PHY1524 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "MRT 211",
+                            "Professor": "Serge  Desgreniers"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "PHY1524 A01",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1230,
+                            "Place": "FTX 235",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "PHY1524 A02",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1524 A03",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1524 A04",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

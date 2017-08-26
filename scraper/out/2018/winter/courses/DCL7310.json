@@ -1,0 +1,39 @@
+{
+    "CourseCode": "DCL7310",
+    "Title": "Technopolicy: Interplay Between Technologies and Existing Legal Rules",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=008283\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "DCL7310 A00 - Interplay between Techn. and Existing Legal Rules",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1000,
+                            "EndHour": 1200,
+                            "Place": "FTX 235",
+                            "Professor": "Elizabeth F Judge"
+                        },
+                        {
+                            "Name": "DCL7310 A00 - Interplay between Techn. and Existing Legal Rules",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1100,
+                            "EndHour": 1300,
+                            "Place": "FTX 413",
+                            "Professor": "Elizabeth F Judge"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

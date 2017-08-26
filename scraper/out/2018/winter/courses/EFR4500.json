@@ -1,0 +1,39 @@
+{
+    "CourseCode": "EFR4500",
+    "Title": "Séminaire d'intégration en études des francophonies",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=011173\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "EFR4500 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "SMD 429",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "EFR4500 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "DMS 9143",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

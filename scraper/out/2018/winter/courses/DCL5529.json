@@ -1,0 +1,28 @@
+{
+    "CourseCode": "DCL5529",
+    "Title": "Droit des sociétés",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=008072\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "DCL5529 000",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1800,
+                            "EndHour": 2100,
+                            "Place": "FSS 9003",
+                            "Professor": "Bryan  Robinson"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

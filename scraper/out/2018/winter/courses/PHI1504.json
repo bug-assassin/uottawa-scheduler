@@ -1,0 +1,39 @@
+{
+    "CourseCode": "PHI1504",
+    "Title": "Les grands philosophes",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=025886\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PHI1504 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "MNT 207",
+                            "Professor": "Noureddine  Mouelhi"
+                        },
+                        {
+                            "Name": "PHI1504 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "LMX 219",
+                            "Professor": "Noureddine  Mouelhi"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

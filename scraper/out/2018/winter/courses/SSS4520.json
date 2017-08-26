@@ -1,0 +1,28 @@
+{
+    "CourseCode": "SSS4520",
+    "Title": "Régulation et institutions sociales de la santé",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=029998\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "SSS4520 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "VNR 2027",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

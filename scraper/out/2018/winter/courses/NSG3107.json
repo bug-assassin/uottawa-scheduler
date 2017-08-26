@@ -1,0 +1,28 @@
+{
+    "CourseCode": "NSG3107",
+    "Title": "Family-Centered Care of Children with Acute and Chronic Illness",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=022817\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "NSG3107 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1230,
+                            "EndHour": 1530,
+                            "Place": "RGN 2003",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

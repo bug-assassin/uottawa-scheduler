@@ -1,0 +1,39 @@
+{
+    "CourseCode": "CRM2306",
+    "Title": "Prison Community and the Deprivation of Liberty",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=006034\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CRM2306 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "FSS 1007",
+                            "Professor": "Justin Robert Joseph  Piché"
+                        },
+                        {
+                            "Name": "CRM2306 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "FSS 1007",
+                            "Professor": "Justin Robert Joseph  Piché"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

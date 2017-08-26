@@ -1,0 +1,39 @@
+{
+    "CourseCode": "ANP1105",
+    "Title": "Human Anatomy and Physiology I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=001257\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "D",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ANP1105 D00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MNT 203",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ANP1105 D00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MNT 203",
+                            "Professor": "Qiao  Li,Simon  Lemaire"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

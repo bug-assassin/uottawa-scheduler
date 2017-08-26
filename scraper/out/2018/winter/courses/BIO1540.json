@@ -1,0 +1,257 @@
+{
+    "CourseCode": "BIO1540",
+    "Title": "Introduction à la biologie cellulaire",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=002678\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "BIO1540 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "UCU AUD",
+                            "Professor": "Elaine  Beaulieu,Marc Adrien  Charette,Charles  Benoît,Fabien  Avaron"
+                        },
+                        {
+                            "Name": "BIO1540 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "UCU AUD",
+                            "Professor": "Elaine  Beaulieu,Fabien  Avaron"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "BIO1540 A01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 302",
+                            "Professor": "Elaine  Beaulieu"
+                        },
+                        {
+                            "Name": "BIO1540 A02",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 302",
+                            "Professor": "Elaine  Beaulieu"
+                        },
+                        {
+                            "Name": "BIO1540 A03",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 302",
+                            "Professor": "Elaine  Beaulieu"
+                        },
+                        {
+                            "Name": "BIO1540 A04",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 302",
+                            "Professor": "Elaine  Beaulieu"
+                        },
+                        {
+                            "Name": "BIO1540 A05",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 302",
+                            "Professor": "Elaine  Beaulieu"
+                        },
+                        {
+                            "Name": "BIO1540 A06",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 310",
+                            "Professor": "Elaine  Beaulieu"
+                        },
+                        {
+                            "Name": "BIO1540 A07",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 310",
+                            "Professor": "Elaine  Beaulieu"
+                        },
+                        {
+                            "Name": "BIO1540 A08",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 310",
+                            "Professor": "Elaine  Beaulieu,Caroline  Petit-Turcotte"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "BIO1540 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "UCU AUD",
+                            "Professor": "Elaine  Beaulieu,Fabien  Avaron"
+                        },
+                        {
+                            "Name": "BIO1540 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "UCU AUD",
+                            "Professor": "Elaine  Beaulieu,Fabien  Avaron"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "BIO1540 B01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 302",
+                            "Professor": "Elaine  Beaulieu"
+                        },
+                        {
+                            "Name": "BIO1540 B02",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 302",
+                            "Professor": "Elaine  Beaulieu"
+                        },
+                        {
+                            "Name": "BIO1540 B03",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 302",
+                            "Professor": "Elaine  Beaulieu"
+                        },
+                        {
+                            "Name": "BIO1540 B04",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 302",
+                            "Professor": "Elaine  Beaulieu"
+                        },
+                        {
+                            "Name": "BIO1540 B05",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 302",
+                            "Professor": "Elaine  Beaulieu"
+                        },
+                        {
+                            "Name": "BIO1540 B06",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 310",
+                            "Professor": "Elaine  Beaulieu"
+                        },
+                        {
+                            "Name": "BIO1540 B07",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 310",
+                            "Professor": "Elaine  Beaulieu"
+                        },
+                        {
+                            "Name": "BIO1540 B08",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "BSC 110",
+                            "Professor": "Elaine  Beaulieu"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

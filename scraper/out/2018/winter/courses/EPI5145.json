@@ -1,0 +1,28 @@
+{
+    "CourseCode": "EPI5145",
+    "Title": "Globalization and Health Equity",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=042770\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "EPI5145 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1330,
+                            "EndHour": 1630,
+                            "Place": "RGN 2111",
+                            "Professor": "Ronald  Labonté"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

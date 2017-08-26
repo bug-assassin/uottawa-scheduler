@@ -1,0 +1,39 @@
+{
+    "CourseCode": "TMM4108",
+    "Title": "Bacterial Diseases",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=031680\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "TMM4108 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 900,
+                            "EndHour": 1030,
+                            "Place": "RGN 2009",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "TMM4108 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "RGN 2021",
+                            "Professor": "Thien-Fah  Mah"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

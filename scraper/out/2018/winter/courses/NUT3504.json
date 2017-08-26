@@ -1,0 +1,28 @@
+{
+    "CourseCode": "NUT3504",
+    "Title": "Introduction à la recherche en nutrition",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=023247\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "NUT3504 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "MNT 103",
+                            "Professor": "Bénédicte  Fontaine-Bisson"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

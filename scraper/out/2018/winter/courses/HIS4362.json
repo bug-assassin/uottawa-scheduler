@@ -1,0 +1,28 @@
+{
+    "CourseCode": "HIS4362",
+    "Title": "Selected Topics in European History",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=015964\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "HIS4362 A00 - Shoah. The Extermination of European Jews",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "MRT 219",
+                            "Professor": "Jan  Grabowski"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

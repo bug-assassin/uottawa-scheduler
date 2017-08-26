@@ -1,0 +1,39 @@
+{
+    "CourseCode": "ORA5551",
+    "Title": "Psychoacoustique de l'oreille endommagée et pharmacologie",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=023353\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ORA5551 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "RGN 3031",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ORA5551 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "04-10",
+                            "EndDate": "04-10",
+                            "Day": 1,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "RGN 2113",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "CourseCode": "EDU5160",
+    "Title": "Mathematical Thinking Across the Mathematics Curriculum",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=010433\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "S",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "EDU5160 S00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "LMX 241",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

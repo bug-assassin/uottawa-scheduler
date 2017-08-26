@@ -1,0 +1,72 @@
+{
+    "CourseCode": "CML4109",
+    "Title": "Studies in Human Rights",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=005225\u0026term=2181\u0026session=F",
+    "Sections": [
+        {
+            "SectionCode": "J",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "CML4109 JB00 - Representing Law Through Visual Arts",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-03",
+                            "EndDate": "01-22",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "FTX 401",
+                            "Professor": "Joanne  St. Lewis"
+                        },
+                        {
+                            "Name": "CML4109 JB00 - Representing Law Through Visual Arts",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-03",
+                            "EndDate": "01-22",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "FTX 401",
+                            "Professor": "Joanne  St. Lewis"
+                        },
+                        {
+                            "Name": "CML4109 JB00 - Representing Law Through Visual Arts",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-03",
+                            "EndDate": "01-22",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "FTX 413",
+                            "Professor": "Joanne  St. Lewis"
+                        },
+                        {
+                            "Name": "CML4109 JB00 - Representing Law Through Visual Arts",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-03",
+                            "EndDate": "01-22",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "FTX 401",
+                            "Professor": "Joanne  St. Lewis"
+                        },
+                        {
+                            "Name": "CML4109 JB00 - Representing Law Through Visual Arts",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-03",
+                            "EndDate": "01-22",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "FTX 413",
+                            "Professor": "Joanne  St. Lewis"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

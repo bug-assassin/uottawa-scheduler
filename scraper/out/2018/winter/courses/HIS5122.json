@@ -1,0 +1,28 @@
+{
+    "CourseCode": "HIS5122",
+    "Title": "Research Seminar",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=016078\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "HIS5122 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "DMS 9143",
+                            "Professor": "Heather  Murray"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

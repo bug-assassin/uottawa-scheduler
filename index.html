@@ -33,42 +33,50 @@ Year Select
 
         .monitored_table {
             margin-left: 0.5rem;
-            table-layout:fixed;
+            table-layout: fixed;
         }
+
         #courseListTable .courseTitle {
             border: 1px solid #dbdbdb;
             border-width: 0 0 1px;
             padding: .5em .75em;
             vertical-align: top;
         }
-        body.modal-open { overflow: hidden; }
+
+        body.modal-open {
+            overflow: hidden;
+        }
     </style>
 
     <script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date();
+            // noinspection AssignmentToFunctionParameterJS
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
 
         ga('create', 'UA-102626620-1', 'auto');
         ga('send', 'pageview');
 
     </script>
 
-    <script
-            src="https://code.jquery.com/jquery-2.2.4.min.js"
-            integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
-            crossorigin="anonymous"></script> <!-- jquery 3.xx breaks the radio button deselect below, find out why -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
 
     <script src='https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.min.js'></script>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.4/js.cookie.min.js" integrity="sha256-NjbogQqosWgor0UBdCURR5dzcvAgHnfUZMcZ8RCwkk8=" crossorigin="anonymous"></script>
-
+    <script src="templates.js"></script>
     <script src="blob.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/1.3.3/FileSaver.min.js" integrity="sha256-FPJJt8nA+xL4RU6/gsriA8p8xAeLGatoyTjldvQKGdE=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/1.3.3/FileSaver.min.js"
+            integrity="sha256-FPJJt8nA+xL4RU6/gsriA8p8xAeLGatoyTjldvQKGdE=" crossorigin="anonymous"></script>
     <script src="icsFormatter.js"></script>
     <script src="utilities.js"></script>
-    <script src="course.titles.min.js"></script><!-- Used for autocomplete search -->
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.4.3/css/bulma.min.css">
     <!-- Css Framework -->
@@ -87,9 +95,11 @@ Year Select
         .fc-event {
             margin-bottom: 1px;
         }
+
         .eventPlace, .eventProf {
             font-size: 0.9em;
         }
+
         .table-spacer {
             height: 1rem;
         }
@@ -99,74 +109,32 @@ Year Select
             integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
             crossorigin="anonymous"></script> -->
     <script>
-        var dayStrings = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
-
-        var template_activity = `
-            <tr>
-            <td>
-            {{ActivityType}}
-        </td>
-        <td>
-        {{Name}}
-        </td>
-        <td>
-        {{Place}}
-        </td>
-        <td>
-        {{Professor}}
-        </td>
-        <td>
-        {{Day}} {{StartHour}} - {{EndHour}}
-        </td>
-            </tr>`;
-
         var courseList = [];
+        var coursesTitle = [];
         var selectedScheduleVariantIndex = 0;
         var topGeneratedActivities = [];
-        var currentYear = new Date().getFullYear();//TODO update to actual selected year
-        var currentSemester = 0;//TODO 0 Fall, 1 Winter
+        var currentTerm = null;
+        var COURSE_TITLES_FILENAME = "step_2_course_titles.json";
+
         var appVersion = 1;
+        var apiRoot = "./scraper/out/";
+
+        var autocomplete = null;
 
         //Allow radio buttons to be deselectable
         $(function () {
-            var inputClickHandler = function () {
-                var previousValue = $(this).attr('previousValue');
-                var name = $(this).attr('name');
-
-                if (previousValue == 'checked') {
-                    $(this).prop('checked', false);
-                    $(this).attr('previousValue', false);
-                    $(this).checkboxradio("refresh");//This method doesn't exist but it works for some reason (any non-existent method will refresh the view)
-                }
-                else {
-                    $("input[name=" + name + "]:radio").attr('previousValue', false);
-                    $(this).attr('previousValue', 'checked');
-                }
-            };
-
-            /*
-             $('.record_table tr').click(function (event) {
-             if (event.target.type !== 'checkbox') {
-             $(':checkbox', this).trigger('click');
-             }
-             });
-             */
-
-            $("input[type='radio']").click(inputClickHandler);
-
-            $('.monitored_table tbody tr').click(function (event) {
-                if (event.target.type !== 'radio') {
-                    $(':radio', this).trigger("click");
-                }
-            });
+             autocomplete = new Awesomplete($('#courseSearch')[0]);
 
             $('#courseListTable').on('click', '.removeCourseBtn', function () {
                 var courseCode = $(this).parent().parent().parent().attr('data-course-code');
-                removeCourse(courseCode);
-            });
 
-            new Awesomplete($('#courseSearch')[0], {
-                list: coursesTitle
+                //Remove Course With CourseCode From List
+                courseList = courseList.filter(function (course) {
+                    return course.CourseCode != courseCode;
+                });
+                UIRemoveCourse(courseCode);
+                setCookiesAsync();
+                generateAndShowSchedules();
             });
 
             document.getElementById("courseSearch").addEventListener('awesomplete-selectcomplete', function (e) {
@@ -183,82 +151,36 @@ Year Select
                     return e.CourseCode == courseCode;
                 }).length > 0) return;
 
-            var path = "./courses/" + courseCode + ".json";
-            $.getJSON(path, addCourse);
+            var path = currentTerm + "courses/" + courseCode + ".json";
+            $.getJSON(path, function (course) {
+                courseList.push(course);
+                setCookiesAsync();
+                UIAddCourse(course);
+                generateAndShowSchedules();
+            });
         }
-        function addCourse(course) {
-            courseList.push(course);
-            updateCookiesAsync();
-
+        function UIAddCourse(course) {
             var courseHtml = generateCourseHTML(course);
             $('#courseListTable').append(courseHtml);
-
-            //Update Agenda
-            generateAndShowSchedules();
         }
-        function removeCourse(courseCode) {
-            courseList = courseList.filter(function (course) {//Remove course from courselist
-                return course.CourseCode != courseCode;
-            });
-            updateCookiesAsync();
-
-            //Update View
-            $("#courseListTable tbody[data-course-code=" + courseCode + "]").remove();
-
-            //Update Agenda
-            generateAndShowSchedules();
+        function UIRemoveCourse(courseCode) {
+            $("#courseListTable").find("tbody[data-course-code=" + courseCode + "]").remove();
         }
-        
-        function updateCookiesAsync() {
-            console.log('Updated Cookies');
+        function UIClearCoursesAndScheduleView() {
+            $("#courseListTable").empty();
+            var calendarView = $("#calendar");
+            calendarView.fullCalendar('removeEvents');
+        }
+
+
+        function setCookiesAsync() {
             setTimeout(updateCookies, 0);
             function updateCookies() {
-                Cookies.set('version', appVersion);
-                Cookies.set('courses', courseList);
-                Cookies.set('scheduleVariantIndex', selectedScheduleVariantIndex);
+                Store.set('version', appVersion);
+                Store.set(currentTerm + 'courses', courseList);
+                Store.set(currentTerm + 'scheduleVariantIndex', selectedScheduleVariantIndex);
+                console.log('Updated Cookies');
             }
-        }
-
-        function generateCourseHTML(course) {
-            var courseHtml = "<tbody data-course-code='{{CourseCode}}'><tr><th class='courseTitle' colspan='2'>{{CourseCode}} {{CourseName}} <a class='removeCourseBtn'><span class='icon is-small'><i class='icon-cancel'></i></span></a> </th></tr><td><table class='monitored_table table'>"
-                .replaceAll("{{CourseCode}}", course.CourseCode)
-                .replace("{{CourseName}}", course.Title);
-
-            course.Sections.forEach(function (courseSection) {
-                //For Each Section Code (A, B, C)
-                var sectionCode = courseSection.SectionCode;
-                var sectionHtml = "<thead><tr><th>Section {{SectionCode}}</th></tr></thead>".replace("{{SectionCode}}", sectionCode);
-
-                //TODO Sort By LEC, DGD, ETC
-                courseSection.ActivityGroups.forEach(function (activityGroup) {
-                    sectionHtml += "<tbody>";
-                    activityGroup.Activities.forEach(function (activity) {
-                        sectionHtml += generateActivityHtml(activity, sectionCode);
-                    });
-                    sectionHtml += "</tbody>";
-                });
-
-                courseHtml += sectionHtml;
-            });
-
-            courseHtml += "</table></td>";
-            courseHtml += "<tr class='table-spacer'></tr>";
-            courseHtml += "</tbody>";
-
-            return courseHtml;
-        }
-
-        function generateActivityHtml(activity, sectionCode) {
-            var result = template_activity.replace("{{ActivityType}}", activity.ActivityType)
-                .replaceAll("{{Name}}", activity.Name)
-                .replace("{{Day}}", dayStrings[activity.Day])
-                .replace("{{StartHour}}", convertHourMinuteIntegerToString(activity.StartHour))
-                .replace("{{EndHour}}", convertHourMinuteIntegerToString(activity.EndHour))
-                .replace("{{Place}}", activity.Place)
-                .replace("{{Professor}}", activity.Professor)
-                .replace("{{SectionName}}", "section_" + sectionCode + activity.ActivityType);
-
-            return result;
         }
     </script>
 
@@ -273,7 +195,7 @@ Year Select
                 var title = element.find('.fc-title');
                 title.html(title.text());
             },
-            eventClick: function(calEvent, jsEvent, view) {
+            eventClick: function (calEvent, jsEvent, view) {
 
                 //alert('Event: ' + calEvent.title);
                 //alert('Coordinates: ' + jsEvent.pageX + ',' + jsEvent.pageY);
@@ -289,7 +211,7 @@ Year Select
 
                 eventClickView.find('.modal-close').click(closeModal);
                 eventClickView.click(function (e) {
-                    if(!$(e.target).hasClass('box')) {
+                    if (!$(e.target).hasClass('box')) {
                         closeModal();
                     }
                 });
@@ -301,42 +223,74 @@ Year Select
         };
 
         $(function () {
-            $('#radioNumActivityComb input').on('change', function () {
-                var selectedIndex = parseInt($('#radioNumActivityComb input[name=scheduleIndex]:checked').val());
-                selectScheduleVariant(selectedIndex);
+            $('#radioNumActivityComb').find('input').on('change', function () {
+                var selectedIndex = parseInt($('#radioNumActivityComb').find('input[name=scheduleIndex]:checked').val());
+                setAndShowScheduleVariant(selectedIndex);
             });
-            showNumSelectableActivities(0); //Disable all radio buttons
+            UIShowNumSelectableActivities(0); //Disable all radio buttons
 
             $("#calendar").fullCalendar(calendarSettings);
-            removeDateInDayHeader();
+            //Remove The Date from the calendar headings (Mon 23 -> Mon)
+            $('.fc-day-header span').each(function (index, element) {
+                element.textContent = element.textContent.split(" ")[0];
+            });
         });
 
-        function removeDateInDayHeader() {//Could not find option to disable this in fullcalendar
-            $('.fc-day-header span').each(function (index, element) {
-                element.textContent = element.textContent.split(" ")[0]; //Converts "Mon 23" to Mon
-            });
-        }
 
         function pickTopGeneratedActivities(generatedActivitiesCombinations) {
             if (generatedActivitiesCombinations.length < 5) {
                 return toArray(generatedActivitiesCombinations);
             }
-
             //TODO
             //Pick top 5 activity comb
             return generatedActivitiesCombinations.slice(0, 4);
         }
-        function showNumSelectableActivities(activitiesLength) {
-            $('#radioNumActivityComb input[type="radio"]').each(function (index, radioBtn) {
+        function UIShowNumSelectableActivities(activitiesLength) {
+            $('#radioNumActivityComb').find('input[type="radio"]').each(function (index, radioBtn) {
                 $(radioBtn).prop("disabled", parseInt(radioBtn.value) >= activitiesLength);
             });
         }
-        function clearSelectedActivityIndex() {
+        function UIClearSelectedActivityIndex() {
             $('#radioNumActivityComb').find('input[name="scheduleIndex"]').prop('checked', false);
         }
+        function UIShowError(message) {
+            var errorMsg = $('#errorMessage');
+            errorMsg.html("&nbsp;" + message);
+            errorMsg.show();
+        }
+        function UIClearError() {
+            $('#errorMessage').hide();
+        }
+        function setAndShowScheduleVariant(index) {
+            selectedScheduleVariantIndex = index;
+            setCookiesAsync();
+            UIShowScheduleVariant();
+        }
+        function UIShowScheduleVariant() {
+            if(isEmpty(topGeneratedActivities))
+                return;
+
+            var index = selectedScheduleVariantIndex;
+
+            var activities = toArray(topGeneratedActivities[index]);
+            var fullCalendarActivities = [];
+            activities.forEach(function (activity) {
+                fullCalendarActivities.push(convertActivityToFullCalendarFormat(activity));
+            });
+
+            //Change Selected Schedule #
+            UIClearSelectedActivityIndex();
+            $('#radioNumActivityComb').find('input[name="scheduleIndex"][value="' + index + '"]').prop('checked', true);
+
+            var calendarView = $("#calendar");
+            calendarView.fullCalendar('removeEvents');
+            calendarView.fullCalendar('renderEvents', fullCalendarActivities);
+        }
+
         function generateAndShowSchedules() {
-            if(courseList.length == 0) {
-                clearError();
+            if (isEmpty(courseList)) {
+                UIClearError();
+                topGeneratedActivities = [];
                 return
             }
 
@@ -344,43 +298,16 @@ Year Select
             console.log("Generated %s activities", generatedActivitiesComb.length);
 
             topGeneratedActivities = pickTopGeneratedActivities(generatedActivitiesComb);
-            showNumSelectableActivities(topGeneratedActivities.length);
-            clearSelectedActivityIndex();
+            UIShowNumSelectableActivities(topGeneratedActivities.length);
+            UIClearSelectedActivityIndex();
 
             if (topGeneratedActivities.length == 0) {
-                showError("No combination is possible. Remove 1 or more courses.")
+                UIShowError("No combination is possible. Remove 1 or more courses.")
             }
             else {
-                selectScheduleVariant(0);
-                clearError();
+                setAndShowScheduleVariant(0);
+                UIClearError();
             }
-        }
-        function showError(message) {
-            $('#errorMessage').html("&nbsp;" + message);
-            $('#errorMessage').show();
-        }
-        function clearError() {
-            $('#errorMessage').hide();
-        }
-
-        function selectScheduleVariant(index) {
-            var activities = toArray(topGeneratedActivities[index]);
-            selectedScheduleVariantIndex = index;
-            updateCookiesAsync();
-
-            var fullCalendarActivities = [];
-
-            activities.forEach(function (activity) {
-                fullCalendarActivities.push(convertActivityToFullCalendarFormat(activity));
-            });
-
-            //Change Selected Schedule #
-            clearSelectedActivityIndex();
-            $('#radioNumActivityComb input[name="scheduleIndex"][value="' + index + '"]').prop('checked', true);
-
-
-            $("#calendar").fullCalendar('removeEvents');
-            $("#calendar").fullCalendar('renderEvents', fullCalendarActivities);
         }
         function convertActivityToFullCalendarFormat(activity) {
             var courseCode = activity.Name.split(" ")[0];
@@ -395,35 +322,67 @@ Year Select
                 end: convertHourMinuteIntegerToString(activity.EndHour),
                 dow: [eventDay],
                 allDay: false
-            }
+            };
 
             return event;
         }
     </script>
     <script>
-        Cookies.defaults.expires = 14;
-        setTimeout(loadCookies, 0);
-        function loadCookies() {
-            var cookiesVersion = Cookies.get('version');
-            if(appVersion > cookiesVersion) {
-                return //Don't parse if cookies are old version
+        $(function () {
+            currentTerm = Store.get('term');
+            if(currentTerm == null) return;
+
+            loadState(currentTerm, UIUpdate);
+        });
+
+        function showCourseSearchAndTerm() {
+            autocomplete.list = coursesTitle;
+            $('#courseSearch').prop('disabled', isEmpty(coursesTitle));
+            if(!isEmpty(currentTerm)) {
+                $('.termBtn').removeClass('is-outlined').addClass('is-outlined');
+
+                var year = currentTerm.substr(0, 4);
+                var semester = currentTerm.substr(5, (currentTerm.length - 6));//6 = 5 + 1(to get the previous to last index of the string)
+
+                var termBtn = $('.termBtn[data-year="' + year + '"][data-semester="' + semester +'"]');
+                termBtn.removeClass('is-loading');
+                termBtn.removeClass('is-outlined');
+            }
+        }
+
+        function loadState(term, isDone) {
+            if(isEmpty(term)) {
+                throw 'Term cannot be empty';
+                return
             }
 
-            var courses = Cookies.getJSON('courses');
-            var scheduleVariantIndex = Cookies.get('scheduleVariantIndex');
+            var cookiesVersion = parseInt(Store.get('version') || 0);
+            if (appVersion > cookiesVersion) {
+                Store.clear();
+            }
 
-            courses.forEach(function (course) {
-                addCourse(course);
-            });
-            selectScheduleVariant(scheduleVariantIndex);
+            courseList = Store.getJSON(term + 'courses') || [];
+            selectedScheduleVariantIndex = Store.get(term + 'scheduleVariantIndex') || 0;
+
+            var titlesKey = term + COURSE_TITLES_FILENAME;
+            coursesTitle = Store.getJSON(titlesKey) || [];
+            if(isEmpty(coursesTitle)) {
+                $.getJSON(apiRoot + titlesKey, function (data) {
+                    coursesTitle = data;
+                    Store.set(titlesKey, coursesTitle);
+                    isDone();
+                });
+            } else {
+                isDone();
+            }
         }
     </script>
     <script>
         $(function () {
-           $('#downloadSchedule').click(function () {
-               downloadSchedule();
-               return false; //Prevent link from doing anything
-           });
+            $('#downloadSchedule').click(function () {
+                downloadSchedule();
+                return false; //Prevent link from doing anything
+            });
         });
         function convertActivityToICSFormat(activity) {
             var dayStrings = ['MO', 'TU', 'WE', 'TH', 'FR', 'SA', 'SU'];
@@ -433,6 +392,8 @@ Year Select
             function toISODateFormat(year, monthHour, hourMinute) {
                 return year + "-" + monthHour + "T" + convertHourMinuteIntegerToString(hourMinute) + ":00Z";
             }
+
+            var currentYear = parseInt(currentTerm.substr(0, 4)); //TODO find better way
 
             var startHourDate = moment(toISODateFormat(currentYear, activity.StartDate, activity.StartHour));
             var endHourDate = moment(toISODateFormat(currentYear, activity.StartDate, activity.EndHour));
@@ -472,14 +433,44 @@ Year Select
 
                 try {
                     cal.addEvent(calEvent.title, calEvent.description, calEvent.location, calEvent.startDate, calEvent.endDate, calEvent.rrule);
-                }catch (e) {
-                    if(e.length > 0) throw e;
+                } catch (e) {
+                    if (e.length > 0) throw e;
                 }
             });
 
             cal.download("uottawa-scheduler", ".ics");
         }
 
+    </script>
+    <script>
+        $(function () {
+            $('.termBtn').click(function () {
+                if($(this).hasClass('is-loading')) return;
+                
+                var path = "";
+                path += $(this).attr('data-year') + "/";
+                path += $(this).attr('data-semester') + "/";
+                currentTerm = path;
+                Store.set('term', currentTerm);
+
+                $(this).addClass('is-loading');
+
+                loadState(currentTerm, UIUpdate);
+                
+               return false;
+            });
+
+        });
+        function UIUpdate() {
+            UIClearCoursesAndScheduleView();
+            showCourseSearchAndTerm();
+
+            courseList.forEach(function (course) {
+                UIAddCourse(course);
+            });
+            generateAndShowSchedules();
+            UIShowScheduleVariant();
+        }
     </script>
 </head>
 <body>
@@ -496,7 +487,8 @@ Year Select
 <nav class="navbar ">
     <div class="navbar-brand">
         <a class="navbar-item" href="http://bulma.io">
-            <img src="http://bulma.io/images/bulma-logo.png" alt="Bulma: a modern CSS framework based on Flexbox" width="112" height="28">
+            <img src="http://bulma.io/images/bulma-logo.png" alt="Bulma: a modern CSS framework based on Flexbox"
+                 width="112" height="28">
         </a>
 
         <a class="navbar-item is-hidden-desktop" href="https://github.com/dansirbu" target="_blank">
@@ -655,7 +647,8 @@ Year Select
 
 <section class="section">
     <div class="container">
-        <h1 class="title has-text-centered">Generate your University Of Ottawa schedule easily. Start by adding <a href="#courseListAdd">courses</a></h1>
+        <h1 class="title has-text-centered">Generate your University Of Ottawa schedule easily. Start by adding <a
+                href="#courseListAdd">courses</a></h1>
     </div>
 </section>
 
@@ -683,12 +676,28 @@ Year Select
                 Add To <a href="#schedule">Schedule</a>
             </p>
             <div class="panel-block">
-                <p class="control has-icons-left">
-                    <input id="courseSearch" class="input is-flat" type="text" placeholder="Search Course">
-                    <span class="icon is-small is-left">
+                <div class="field is-horizontal">
+                    <div class="field-body">
+                        <div class="field">
+                            <p class="control has-icons-left">
+                                <input id="courseSearch" class="input is-flat" type="text" placeholder="Search Course" disabled>
+                                <span class="icon is-small is-left">
                         <i class="fa fa-search"></i>
                     </span>
-                </p>
+                            </p>
+                        </div>
+
+
+                        <div class="field has-addons">
+                            <p class="control">
+                                <a class="button is-primary is-outlined termBtn" data-year="2017" data-semester="fall">2017 Fall</a>
+                            </p>
+                            <p class="control">
+                                <a class="button is-primary is-outlined termBtn" data-year="2018" data-semester="winter">2018 Winter</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
             </div>
 
             <div class="panel-block" style="border-bottom: none; border-top: none;">

@@ -1,0 +1,28 @@
+{
+    "CourseCode": "BIO5900",
+    "Title": "MSc Seminar",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=003064\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "S",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "BIO5900 S00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "MNO E217",
+                            "Professor": "Risa D. Sargent"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

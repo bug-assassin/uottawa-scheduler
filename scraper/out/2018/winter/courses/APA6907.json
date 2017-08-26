@@ -1,0 +1,28 @@
+{
+    "CourseCode": "APA6907",
+    "Title": "Examination of Psychosocial Literature in Sport, Physical Activity and Health",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=001764\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "APA6907 000",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "THN 054",
+                            "Professor": "Michael A. Robidoux"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

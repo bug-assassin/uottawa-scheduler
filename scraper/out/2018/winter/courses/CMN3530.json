@@ -1,0 +1,28 @@
+{
+    "CourseCode": "CMN3530",
+    "Title": "Planification des communications",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=005612\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CMN3530 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "DMS 1110",
+                            "Professor": "Frédérik  Matte"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

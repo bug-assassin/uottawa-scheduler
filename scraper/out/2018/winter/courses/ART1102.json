@@ -1,0 +1,28 @@
+{
+    "CourseCode": "ART1102",
+    "Title": "Methodologies in the History and Theory of Art",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=001900\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ART1102 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "SMD 402",
+                            "Professor": "Celina  Jeffery"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "CourseCode": "MBA6296",
+    "Title": "Seminar in Management II",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=020688\u0026term=2181\u0026session=G",
+    "Sections": [
+        {
+            "SectionCode": "D",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "MBA6296 D00 - Today’s Global Business Envi. \u0026 Strategic Markets",
+                            "ActivityType": "SEM",
+                            "StartDate": "03-10",
+                            "EndDate": "03-10",
+                            "Day": 5,
+                            "StartHour": 1330,
+                            "EndHour": 1815,
+                            "Place": "DMS 4130",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MBA6296 D00 - Today’s Global Business Envi. \u0026 Strategic Markets",
+                            "ActivityType": "SEM",
+                            "StartDate": "03-24",
+                            "EndDate": "03-24",
+                            "Day": 5,
+                            "StartHour": 1330,
+                            "EndHour": 1815,
+                            "Place": "DMS 4130",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MBA6296 D00 - Today’s Global Business Envi. \u0026 Strategic Markets",
+                            "ActivityType": "SEM",
+                            "StartDate": "04-08",
+                            "EndDate": "04-08",
+                            "Day": 6,
+                            "StartHour": 1330,
+                            "EndHour": 1815,
+                            "Place": "DMS 4130",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "MBA6296 CC00 - Data Analytics With R Advanced",
+                            "ActivityType": "SEM",
+                            "StartDate": "02-26",
+                            "EndDate": "03-19",
+                            "Day": 0,
+                            "StartHour": 1600,
+                            "EndHour": 1900,
+                            "Place": "DMS 4140",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MBA6296 CC00 - Data Analytics With R Advanced",
+                            "ActivityType": "SEM",
+                            "StartDate": "03-23",
+                            "EndDate": "03-23",
+                            "Day": 4,
+                            "StartHour": 1600,
+                            "EndHour": 1900,
+                            "Place": "DMS 4140",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MBA6296 CC00 - Data Analytics With R Advanced",
+                            "ActivityType": "SEM",
+                            "StartDate": "03-26",
+                            "EndDate": "03-26",
+                            "Day": 0,
+                            "StartHour": 1600,
+                            "EndHour": 1900,
+                            "Place": "DMS 4140",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

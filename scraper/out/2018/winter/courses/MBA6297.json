@@ -1,0 +1,50 @@
+{
+    "CourseCode": "MBA6297",
+    "Title": "Mobilizing Seminar in Management I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=020689\u0026term=2181\u0026session=G",
+    "Sections": [
+        {
+            "SectionCode": "F",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "MBA6297 F00 - Financing an Entrepreneurial Venture",
+                            "ActivityType": "SEM",
+                            "StartDate": "02-26",
+                            "EndDate": "03-12",
+                            "Day": 0,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "DMS 4140",
+                            "Professor": "Stephen  Daze"
+                        },
+                        {
+                            "Name": "MBA6297 F00 - Financing an Entrepreneurial Venture",
+                            "ActivityType": "SEM",
+                            "StartDate": "03-16",
+                            "EndDate": "03-16",
+                            "Day": 4,
+                            "StartHour": 1800,
+                            "EndHour": 2100,
+                            "Place": "DMS 4140",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MBA6297 F00 - Financing an Entrepreneurial Venture",
+                            "ActivityType": "SEM",
+                            "StartDate": "03-19",
+                            "EndDate": "03-26",
+                            "Day": 0,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "DMS 4140",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

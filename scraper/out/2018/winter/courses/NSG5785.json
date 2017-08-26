@@ -1,0 +1,28 @@
+{
+    "CourseCode": "NSG5785",
+    "Title": "Méthodes thérapeutiques en soins de santé primaires II",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=023165\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "NSG5785 A00 - Hybrid course",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1800,
+                            "EndHour": 2100,
+                            "Place": "DEP DEPT",
+                            "Professor": "France  Farley"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

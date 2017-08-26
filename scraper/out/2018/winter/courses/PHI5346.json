@@ -1,0 +1,28 @@
+{
+    "CourseCode": "PHI5346",
+    "Title": "Social and Political Philosophy I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=026381\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "PHI5346 A00 - The Concept of Pol. Culture",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "TBT 311",
+                            "Professor": "Hilliard  Aronovitch"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "CourseCode": "SRS3785",
+    "Title": "Religion et multiculturalisme au Canada",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=029696\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "SRS3785 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "DMS 9143",
+                            "Professor": "Peter F. Beyer"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

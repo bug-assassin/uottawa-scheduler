@@ -1,0 +1,39 @@
+{
+    "CourseCode": "ECO3532",
+    "Title": "Histoire de la pensée économique",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=009389\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ECO3532 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MNT 103",
+                            "Professor": "Claude  Parthenay"
+                        },
+                        {
+                            "Name": "ECO3532 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MNT 103",
+                            "Professor": "Claude  Parthenay"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

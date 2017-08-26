@@ -1,0 +1,49 @@
+{
+    "CourseCode": "DCC2119",
+    "Title": "Protection of Rights and Freedoms",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=007911\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DCC2119 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "FTX 302",
+                            "Professor": "Janine Élise Ewart  Lespérance"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DCC2119 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "FTX 147",
+                            "Professor": "Sasha  Hart"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

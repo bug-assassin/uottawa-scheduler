@@ -1,0 +1,28 @@
+{
+    "CourseCode": "EPI5244",
+    "Title": "Special Topics in Epidemiology",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=012684\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "E",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "EPI5244 E00 - Public Health/Services\u0026Policy",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "DEP DEPT",
+                            "Professor": "Ian D. Graham"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

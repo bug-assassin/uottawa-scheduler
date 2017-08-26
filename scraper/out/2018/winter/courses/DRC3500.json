@@ -1,0 +1,154 @@
+{
+    "CourseCode": "DRC3500",
+    "Title": "Enseignement appliqué III : Séminaire d'exposé juridique",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=008623\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "J",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "DRC3500 J00 - Libertés fondamentales et droits démocratiques",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "DEP DEPT",
+                            "Professor": "Pierre  Thibault"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "K",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "DRC3500 K00 - Santé, éthique et nouvelles technologies",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "FTX 235",
+                            "Professor": "Karen  Eltis"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "L",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "DRC3500 L00 - Responsabilité médicale",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "DEP DEPT",
+                            "Professor": "Audrey  Ferron Parayre"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "M",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "DRC3500 M00 - Droit financier",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "MRT 256",
+                            "Professor": "Pascale  Cornut St-Pierre"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "N",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "DRC3500 N00 - Liberté de religion et conflit de droit",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "DEP DEPT",
+                            "Professor": "Pascale  Fournier"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "O",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "DRC3500 O00 - Droit des ressources naturelles",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "FSS 10003",
+                            "Professor": "Thomas  Burelli"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "I",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "DRC3500 I00 - Libertés fondamentales et droits démocratiques",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "DEP DEPT",
+                            "Professor": "Pierre  Thibault"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

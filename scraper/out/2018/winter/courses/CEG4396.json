@@ -1,0 +1,71 @@
+{
+    "CourseCode": "CEG4396",
+    "Title": "Computer Network Management",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=003631\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CEG4396 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "DMS 11143",
+                            "Professor": "Dimitrios  Makrakis"
+                        },
+                        {
+                            "Name": "CEG4396 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "DMS 11143",
+                            "Professor": "Dimitrios  Makrakis"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "CEG4396 A01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1600,
+                            "EndHour": 1900,
+                            "Place": "STE 2060",
+                            "Professor": "Dimitrios  Makrakis"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "TUT",
+                    "Activities": [
+                        {
+                            "Name": "CEG4396 A02",
+                            "ActivityType": "TUT",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "DMS 9143",
+                            "Professor": "Dimitrios  Makrakis"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

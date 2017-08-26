@@ -1,0 +1,39 @@
+{
+    "CourseCode": "POL3535",
+    "Title": "Politique et francophonie en Ontario",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=027268\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "POL3535 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "FSS 6032",
+                            "Professor": "Linda  Cardinal"
+                        },
+                        {
+                            "Name": "POL3535 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "FSS 7035",
+                            "Professor": "Linda  Cardinal"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

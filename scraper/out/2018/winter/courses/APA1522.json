@@ -1,0 +1,28 @@
+{
+    "CourseCode": "APA1522",
+    "Title": "Santé : Une perspective mondiale",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=001431\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "APA1522 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "FSS 1006",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "CourseCode": "HIS4135",
+    "Title": "Seminar in Canadian History",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=015904\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "HIS4135 C00 - Canada and the Two World Wars",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "TBT 309",
+                            "Professor": "Serge  Durflinger"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "CourseCode": "PSY1501",
+    "Title": "Introduction à la psychologie : fondements",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=027606\u0026term=2179\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PSY1501 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 4,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "MNT 202",
+                            "Professor": "Christophe André Fortin"
+                        },
+                        {
+                            "Name": "PSY1501 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "MNT 202",
+                            "Professor": "Christophe André Fortin"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PSY1501 C00",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 4,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "FSS 4007",
+                            "Professor": "Christophe André Fortin"
+                        },
+                        {
+                            "Name": "PSY1501 C00",
+                            "ActivityType": "LEC",
+                            "StartDate": "09-06",
+                            "EndDate": "12-06",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "FSS 4007",
+                            "Professor": "Christophe André Fortin"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

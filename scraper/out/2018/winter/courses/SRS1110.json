@@ -1,0 +1,28 @@
+{
+    "CourseCode": "SRS1110",
+    "Title": "Witchcraft, Magic and Occult Traditions",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=029486\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "SRS1110 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "MRN 150",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

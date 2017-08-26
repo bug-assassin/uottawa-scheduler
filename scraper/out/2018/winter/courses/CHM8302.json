@@ -1,0 +1,135 @@
+{
+    "CourseCode": "CHM8302",
+    "Title": "Advanced Topics in Inorganic Chemistry",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=004210\u0026term=2181\u0026session=TR",
+    "Sections": [
+        {
+            "SectionCode": "J",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CHM8302 J00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "02-16",
+                            "Day": 0,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "MRN 130",
+                            "Professor": "Jaclyn  Brusso"
+                        },
+                        {
+                            "Name": "CHM8302 J00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "02-16",
+                            "Day": 3,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "MRN 130",
+                            "Professor": "Jaclyn  Brusso"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "K",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CHM8302 K00",
+                            "ActivityType": "LEC",
+                            "StartDate": "02-26",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "MRT 252",
+                            "Professor": "Eva  Hemmer"
+                        },
+                        {
+                            "Name": "CHM8302 K00",
+                            "ActivityType": "LEC",
+                            "StartDate": "02-26",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "MRT 252",
+                            "Professor": "Eva  Hemmer"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "F",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CHM8302 F00",
+                            "ActivityType": "LEC",
+                            "StartDate": "02-26",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "MRN 130",
+                            "Professor": "R. Tom  Baker"
+                        },
+                        {
+                            "Name": "CHM8302 F00",
+                            "ActivityType": "LEC",
+                            "StartDate": "02-26",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "MRN 130",
+                            "Professor": "R. Tom  Baker"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "H",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CHM8302 H00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "02-16",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "FSS 7003",
+                            "Professor": "Sandro  Gambarotta"
+                        },
+                        {
+                            "Name": "CHM8302 H00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "02-16",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "LMX 223",
+                            "Professor": "Sandro  Gambarotta"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

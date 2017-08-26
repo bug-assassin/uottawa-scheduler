@@ -1,0 +1,28 @@
+{
+    "CourseCode": "SOC2506",
+    "Title": "Introduction à l'étude de la déviance et des problèmes sociaux",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=029175\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "SOC2506 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "HGN 302",
+                            "Professor": "Brieg  Capitaine"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

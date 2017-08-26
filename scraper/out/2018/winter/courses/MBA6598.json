@@ -1,0 +1,39 @@
+{
+    "CourseCode": "MBA6598",
+    "Title": "Projet MBA de consultation I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=020703\u0026term=2181\u0026session=E",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "REC",
+                    "Activities": [
+                        {
+                            "Name": "MBA6598 B00",
+                            "ActivityType": "REC",
+                            "StartDate": "01-14",
+                            "EndDate": "01-14",
+                            "Day": 6,
+                            "StartHour": 1130,
+                            "EndHour": 1345,
+                            "Place": "DMS 4140",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MBA6598 B00",
+                            "ActivityType": "REC",
+                            "StartDate": "02-11",
+                            "EndDate": "02-11",
+                            "Day": 6,
+                            "StartHour": 1030,
+                            "EndHour": 1245,
+                            "Place": "DMS 4140",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "CourseCode": "SOC2551",
+    "Title": "Mondialisation : aspects sociologiques et anthropologiques",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=029184\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "SOC2551 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "STE G0103",
+                            "Professor": "Abdoulaye  Gueye"
+                        },
+                        {
+                            "Name": "SOC2551 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "STE G0103",
+                            "Professor": "Abdoulaye  Gueye"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "CourseCode": "ADM3701",
+    "Title": "Gestion des opérations",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=000123\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "M",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ADM3701 M00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "VNR 2095",
+                            "Professor": "Gilles  Reinhardt"
+                        },
+                        {
+                            "Name": "ADM3701 M00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "FTX 227",
+                            "Professor": "Gilles  Reinhardt"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "N",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ADM3701 N00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "SMD 430",
+                            "Professor": "Gilles  Reinhardt"
+                        },
+                        {
+                            "Name": "ADM3701 N00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "FTX 135",
+                            "Professor": "Gilles  Reinhardt"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

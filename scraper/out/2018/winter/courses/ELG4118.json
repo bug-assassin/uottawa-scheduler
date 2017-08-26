@@ -1,0 +1,82 @@
+{
+    "CourseCode": "ELG4118",
+    "Title": "Wave Propagation and Antennas",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=011324\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ELG4118 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "MNO C211",
+                            "Professor": "Derek Albert  Mcnamara"
+                        },
+                        {
+                            "Name": "ELG4118 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "LMX 223",
+                            "Professor": "Derek Albert  Mcnamara"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "ELG4118 A01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "CBY B520",
+                            "Professor": "Derek Albert  Mcnamara"
+                        },
+                        {
+                            "Name": "ELG4118 A03",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "CBY B519",
+                            "Professor": "Derek Albert  Mcnamara"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "TUT",
+                    "Activities": [
+                        {
+                            "Name": "ELG4118 A02",
+                            "ActivityType": "TUT",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "FSS 7003",
+                            "Professor": "Derek Albert  Mcnamara"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

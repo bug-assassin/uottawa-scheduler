@@ -1,0 +1,39 @@
+{
+    "CourseCode": "ELG5195",
+    "Title": "Digital Logic Design: Principles and Practices",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=011560\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "W",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ELG5195 W00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "LEE A131",
+                            "Professor": "Voicu Zamfir Groza"
+                        },
+                        {
+                            "Name": "ELG5195 W00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "FTX 147B",
+                            "Professor": "Voicu Zamfir Groza"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

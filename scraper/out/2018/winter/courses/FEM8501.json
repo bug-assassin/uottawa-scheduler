@@ -1,0 +1,28 @@
+{
+    "CourseCode": "FEM8501",
+    "Title": "Séminaire en études des femmes",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=013402\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "FEM8501 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "VNR 3076",
+                            "Professor": "Agnès  Berthelot-Raffard"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

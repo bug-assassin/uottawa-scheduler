@@ -1,0 +1,28 @@
+{
+    "CourseCode": "SOC3312",
+    "Title": "Theoretical Currents in Contemporary Sociology",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=029237\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "SOC3312 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "VNR 1095",
+                            "Professor": "Abdoulaye  Gueye"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

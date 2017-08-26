@@ -1,0 +1,39 @@
+{
+    "CourseCode": "PHA3512",
+    "Title": "Pharmacologie",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=025811\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PHA3512 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "RGN 3248",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "PHA3512 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "RGN 3248",
+                            "Professor": "John Joseph  Leddy"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

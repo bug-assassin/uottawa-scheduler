@@ -1,0 +1,28 @@
+{
+    "CourseCode": "PED3704",
+    "Title": "L'éducation aux valeurs en milieu scolaire",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=025192\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PED3704 AE00 - Hybrid course",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "03-23",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "LMX 241",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

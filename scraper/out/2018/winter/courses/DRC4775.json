@@ -1,0 +1,28 @@
+{
+    "CourseCode": "DRC4775",
+    "Title": "Droit pénal II",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=008883\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DRC4775 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "FTX 147B",
+                            "Professor": "Marc  Bastien"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

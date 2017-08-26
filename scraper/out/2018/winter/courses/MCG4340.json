@@ -1,0 +1,71 @@
+{
+    "CourseCode": "MCG4340",
+    "Title": "Mechanical Engineering Laboratory",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=020885\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MCG4340 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "MRT 218",
+                            "Professor": "Catherine A. Mavriplis"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "MCG4340 A01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1330,
+                            "EndHour": 1830,
+                            "Place": "DEP DEPT",
+                            "Professor": "Catherine A. Mavriplis"
+                        },
+                        {
+                            "Name": "MCG4340 A02",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1600,
+                            "EndHour": 2100,
+                            "Place": "DEP DEPT",
+                            "Professor": "Catherine A. Mavriplis"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "MCG4340 A03",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "MRT 218",
+                            "Professor": "Catherine A. Mavriplis"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

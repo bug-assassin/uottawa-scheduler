@@ -1,0 +1,39 @@
+{
+    "CourseCode": "SOC3542",
+    "Title": "Analyse statistique appliquée",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=029269\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "SOC3542 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "SMD 428",
+                            "Professor": "Jean-Paul  Mbuya Mutombo"
+                        },
+                        {
+                            "Name": "SOC3542 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "LMX 220",
+                            "Professor": "Jean-Paul  Mbuya Mutombo"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

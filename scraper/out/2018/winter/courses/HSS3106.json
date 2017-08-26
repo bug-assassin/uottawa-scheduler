@@ -1,0 +1,71 @@
+{
+    "CourseCode": "HSS3106",
+    "Title": "Pharmacology: Mechanisms and Compliance",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=016343\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "HSS3106 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "LMX 221",
+                            "Professor": "Shannon A. Bainbridge-Whiteside"
+                        },
+                        {
+                            "Name": "HSS3106 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MNO E217",
+                            "Professor": "Shannon A. Bainbridge-Whiteside"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "HSS3106 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "FSS 1006",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "HSS3106 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "FSS 1006",
+                            "Professor": "Karen Patricia  Phillips"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

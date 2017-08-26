@@ -1,0 +1,39 @@
+{
+    "CourseCode": "ENG2118",
+    "Title": "Comic Books and Graphic Novels",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=012057\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ENG2118 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "STE G0103",
+                            "Professor": "Marc Andrew  Hewson"
+                        },
+                        {
+                            "Name": "ENG2118 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "STE G0103",
+                            "Professor": "Marc Andrew  Hewson"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

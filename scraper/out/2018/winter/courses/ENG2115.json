@@ -1,0 +1,39 @@
+{
+    "CourseCode": "ENG2115",
+    "Title": "Women and Literature 1900 to the Present",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=012054\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ENG2115 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MRT 218",
+                            "Professor": "Rosemary Ellen  Daniels"
+                        },
+                        {
+                            "Name": "ENG2115 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MRT 218",
+                            "Professor": "Rosemary Ellen  Daniels"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

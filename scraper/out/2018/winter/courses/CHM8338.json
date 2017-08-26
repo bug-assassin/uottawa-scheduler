@@ -1,0 +1,39 @@
+{
+    "CourseCode": "CHM8338",
+    "Title": "Unimolecular Reaction Dynamics: Experiment and Theory",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=004280\u0026term=2181\u0026session=E",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CHM8338 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "02-16",
+                            "Day": 4,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "LPR 154",
+                            "Professor": "Paul Michael  Mayer"
+                        },
+                        {
+                            "Name": "CHM8338 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "02-16",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "LPR 154",
+                            "Professor": "Paul Michael  Mayer"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

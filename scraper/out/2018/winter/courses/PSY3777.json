@@ -1,0 +1,55 @@
+{
+    "CourseCode": "PSY3777",
+    "Title": "Processus cognitifs",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=027753\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "PSY3777 B01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "VNR 2025",
+                            "Professor": "Kathleen  Biard"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "TLB",
+                    "Activities": [
+                        {
+                            "Name": "PSY3777 B00",
+                            "ActivityType": "TLB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "VNR 1075",
+                            "Professor": "Kathleen  Biard"
+                        },
+                        {
+                            "Name": "PSY3777 B00",
+                            "ActivityType": "TLB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "VNR 1075",
+                            "Professor": "Kathleen  Biard"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

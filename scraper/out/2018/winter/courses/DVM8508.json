@@ -1,0 +1,28 @@
+{
+    "CourseCode": "DVM8508",
+    "Title": "Séminaire de recherche en développement international",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=009170\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "DVM8508 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "VNR 2027",
+                            "Professor": "Joshua  Ramisch"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

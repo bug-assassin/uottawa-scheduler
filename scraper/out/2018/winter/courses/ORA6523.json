@@ -1,0 +1,50 @@
+{
+    "CourseCode": "ORA6523",
+    "Title": "Évaluation audiologique II",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=023366\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ORA6523 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "RGN 3031",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ORA6523 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "03-08",
+                            "EndDate": "03-08",
+                            "Day": 3,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "RGN 2113",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ORA6523 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "04-09",
+                            "EndDate": "04-09",
+                            "Day": 0,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "RGN 2012",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

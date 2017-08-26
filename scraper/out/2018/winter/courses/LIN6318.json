@@ -1,0 +1,28 @@
+{
+    "CourseCode": "LIN6318",
+    "Title": "Semantics II",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=018773\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "LIN6318 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "MHN 420",
+                            "Professor": "Ana C. Arregui"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

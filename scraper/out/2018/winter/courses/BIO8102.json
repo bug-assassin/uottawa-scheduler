@@ -1,0 +1,55 @@
+{
+    "CourseCode": "BIO8102",
+    "Title": "Special Topics in Biology",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=003083\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "H",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "BIO8102 H00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1400,
+                            "Place": "VNR 1095",
+                            "Professor": "Xuhua  Xia"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "BIO8102 H01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1830,
+                            "Place": "MNT 141",
+                            "Professor": "Xuhua  Xia"
+                        },
+                        {
+                            "Name": "BIO8102 H02",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1830,
+                            "Place": "MNT 142",
+                            "Professor": "Xuhua  Xia"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "CourseCode": "GEG4128",
+    "Title": "Places and Landscapes of the North American City",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=014413\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "GEG4128 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "DMS 8143",
+                            "Professor": "Brian  Ray"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

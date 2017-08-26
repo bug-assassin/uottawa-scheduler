@@ -1,0 +1,39 @@
+{
+    "CourseCode": "EDU5471",
+    "Title": "Skill Development in Counselling and Psychotherapy",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=010576\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "S",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "EDU5471 S00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "LMX 403",
+                            "Professor": "David  Smith"
+                        },
+                        {
+                            "Name": "EDU5471 S100",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "LMX 218",
+                            "Professor": "Nicola  Gazzola"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

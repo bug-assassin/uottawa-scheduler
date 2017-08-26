@@ -1,0 +1,39 @@
+{
+    "CourseCode": "CML2316",
+    "Title": "Advanced Constitutional Law and Legal Rights",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=004906\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML2316 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1500,
+                            "Place": "FTX 316",
+                            "Professor": "Kyle  Kirkup"
+                        },
+                        {
+                            "Name": "CML2316 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 930,
+                            "EndHour": 1130,
+                            "Place": "FTX 359",
+                            "Professor": "Kyle  Kirkup"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

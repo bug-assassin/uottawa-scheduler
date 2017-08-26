@@ -1,0 +1,72 @@
+{
+    "CourseCode": "CML4347",
+    "Title": "Property",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=042742\u0026term=2181\u0026session=F",
+    "Sections": [
+        {
+            "SectionCode": "J",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML4347 JN00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-03",
+                            "EndDate": "01-22",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "FTX 361",
+                            "Professor": "Teresa  Scassa"
+                        },
+                        {
+                            "Name": "CML4347 JN00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-03",
+                            "EndDate": "01-22",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "FTX 361",
+                            "Professor": "Teresa  Scassa"
+                        },
+                        {
+                            "Name": "CML4347 JN00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-03",
+                            "EndDate": "01-22",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "FTX 359",
+                            "Professor": "Teresa  Scassa"
+                        },
+                        {
+                            "Name": "CML4347 JN00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-03",
+                            "EndDate": "01-22",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "FTX 359",
+                            "Professor": "Teresa  Scassa"
+                        },
+                        {
+                            "Name": "CML4347 JN00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-03",
+                            "EndDate": "01-22",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "FTX 351",
+                            "Professor": "Teresa  Scassa"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

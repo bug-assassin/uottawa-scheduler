@@ -1,0 +1,28 @@
+{
+    "CourseCode": "ELG6369",
+    "Title": "Nonlinear Microwaves Devices and Effects",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=011852\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "W",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ELG6369 W00 - Non Linear Microwave Devices",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "SMD 226",
+                            "Professor": "Mustapha Cherif Eddine Yagoub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

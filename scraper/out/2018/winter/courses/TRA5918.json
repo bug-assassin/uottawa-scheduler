@@ -1,0 +1,28 @@
+{
+    "CourseCode": "TRA5918",
+    "Title": "Translation Workshop III",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=031872\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "TRA5918 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "MHN 523",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

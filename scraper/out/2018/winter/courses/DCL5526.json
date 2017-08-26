@@ -1,0 +1,28 @@
+{
+    "CourseCode": "DCL5526",
+    "Title": "Engagements financiers",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=008069\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "DCL5526 000",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "TBT 309",
+                            "Professor": "Véronique  Semexant"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

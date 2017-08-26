@@ -1,0 +1,39 @@
+{
+    "CourseCode": "SRS2513",
+    "Title": "Les religions du monde II",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=029561\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "SRS2513 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MNO E217",
+                            "Professor": "Michel  Gardaz"
+                        },
+                        {
+                            "Name": "SRS2513 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MRT 256",
+                            "Professor": "Michel  Gardaz"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

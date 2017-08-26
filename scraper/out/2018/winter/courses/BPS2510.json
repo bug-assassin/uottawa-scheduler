@@ -1,0 +1,39 @@
+{
+    "CourseCode": "BPS2510",
+    "Title": "Introduction aux sciences biopharmaceutiques",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=003327\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "BPS2510 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MHN 033",
+                            "Professor": "Alison Barbara  Flynn"
+                        },
+                        {
+                            "Name": "BPS2510 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MHN 033",
+                            "Professor": "Alison Barbara  Flynn"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "CourseCode": "ECO3551",
+    "Title": "Introduction à l'économétrie",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=009402\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ECO3551 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "MNT 204",
+                            "Professor": "Jason  Garred"
+                        },
+                        {
+                            "Name": "ECO3551 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "MNT 204",
+                            "Professor": "Jason  Garred"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

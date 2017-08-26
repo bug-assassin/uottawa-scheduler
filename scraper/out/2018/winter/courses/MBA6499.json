@@ -1,0 +1,50 @@
+{
+    "CourseCode": "MBA6499",
+    "Title": "MBA Consulting Project",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=020694\u0026term=2181\u0026session=B",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "REC",
+                    "Activities": [
+                        {
+                            "Name": "MBA6499 B00",
+                            "ActivityType": "REC",
+                            "StartDate": "01-19",
+                            "EndDate": "01-19",
+                            "Day": 4,
+                            "StartHour": 1800,
+                            "EndHour": 2015,
+                            "Place": "DMS 4140",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MBA6499 B00",
+                            "ActivityType": "REC",
+                            "StartDate": "02-02",
+                            "EndDate": "02-02",
+                            "Day": 4,
+                            "StartHour": 1800,
+                            "EndHour": 2015,
+                            "Place": "DMS 4140",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MBA6499 B00",
+                            "ActivityType": "REC",
+                            "StartDate": "04-06",
+                            "EndDate": "04-06",
+                            "Day": 4,
+                            "StartHour": 1800,
+                            "EndHour": 2015,
+                            "Place": "DMS 4140",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

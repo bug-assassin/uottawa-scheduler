@@ -1,0 +1,28 @@
+{
+    "CourseCode": "LIN7301",
+    "Title": "Statistics for Linguistics Research",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=018782\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "LIN7301 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "MHN 420",
+                            "Professor": "Laura  Sabourin"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

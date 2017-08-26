@@ -1,0 +1,71 @@
+{
+    "CourseCode": "CSI3131",
+    "Title": "Operating Systems",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=006609\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CSI3131 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "TBT 070",
+                            "Professor": "Amiya  Nayak"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "CSI3131 A01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "STE 0130",
+                            "Professor": "Amiya  Nayak"
+                        },
+                        {
+                            "Name": "CSI3131 A02",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "CBY B02",
+                            "Professor": "Amiya  Nayak"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "TUT",
+                    "Activities": [
+                        {
+                            "Name": "CSI3131 A03",
+                            "ActivityType": "TUT",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "MHN 033",
+                            "Professor": "Amiya  Nayak"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

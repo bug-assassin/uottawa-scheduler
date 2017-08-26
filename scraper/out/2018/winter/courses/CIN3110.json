@@ -1,0 +1,28 @@
+{
+    "CourseCode": "CIN3110",
+    "Title": "Special Topics in Film Studies",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=004371\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CIN3110 A00 - Landscape and Identity British Cinema",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "MRT 015",
+                            "Professor": "James  Brooke-Smith"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

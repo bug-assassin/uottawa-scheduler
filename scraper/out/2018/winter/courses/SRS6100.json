@@ -1,0 +1,28 @@
+{
+    "CourseCode": "SRS6100",
+    "Title": "Religion and Law",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=029856\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "SRS6100 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "DEP DEPT",
+                            "Professor": "Lori  Beaman"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

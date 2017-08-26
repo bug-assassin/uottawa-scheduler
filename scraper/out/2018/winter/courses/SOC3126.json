@@ -1,0 +1,39 @@
+{
+    "CourseCode": "SOC3126",
+    "Title": "Marx and Marxist Analysis",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=029213\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "SOC3126 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "VNR 1095",
+                            "Professor": "Joseph Eli Sawan"
+                        },
+                        {
+                            "Name": "SOC3126 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "VNR 1095",
+                            "Professor": "Joseph Eli Sawan"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

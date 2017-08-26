@@ -1,0 +1,39 @@
+{
+    "CourseCode": "LSR2110",
+    "Title": "Leisure : Concepts and Values",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=019556\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "LSR2110 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MNT 204",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "LSR2110 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MNT 204",
+                            "Professor": "Paul A.  Heintzman"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

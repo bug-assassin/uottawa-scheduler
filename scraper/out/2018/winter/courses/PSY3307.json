@@ -1,0 +1,71 @@
+{
+    "CourseCode": "PSY3307",
+    "Title": "Psychometric Methods",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=027704\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "E",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PSY3307 E00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "MRT 219",
+                            "Professor": "Chris Mark  Beauchamp"
+                        },
+                        {
+                            "Name": "PSY3307 E00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "MRT 219",
+                            "Professor": "Chris Mark  Beauchamp"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "D",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PSY3307 D00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "MRT 219",
+                            "Professor": "Elizabeth Anne  Kristjansson"
+                        },
+                        {
+                            "Name": "PSY3307 D00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "MRT 219",
+                            "Professor": "Elizabeth Anne  Kristjansson"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

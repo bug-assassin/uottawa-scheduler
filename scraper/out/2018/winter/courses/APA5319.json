@@ -1,0 +1,28 @@
+{
+    "CourseCode": "APA5319",
+    "Title": "Seminar: Intervention and Consultation",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=042718\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "APA5319 000",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "STE J0106",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

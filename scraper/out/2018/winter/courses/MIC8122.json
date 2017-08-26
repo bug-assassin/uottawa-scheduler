@@ -1,0 +1,28 @@
+{
+    "CourseCode": "MIC8122",
+    "Title": "Advanced Topics in Immunology",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=021440\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "MIC8122 B00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "RGN 2022",
+                            "Professor": "Lisheng  Wang,Seunghwan  Lee"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

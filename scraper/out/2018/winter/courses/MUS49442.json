@@ -1,0 +1,28 @@
+{
+    "CourseCode": "MUS49442",
+    "Title": "Musique de chambre III (Partie 2 of 2)",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=051382\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MUS49442 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 900,
+                            "EndHour": 1100,
+                            "Place": "PRZ 121",
+                            "Professor": "Daniel  Gress,David  Jalbert,Paul  Marleyn"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "CourseCode": "MED27012",
+    "Title": "Développement des aptitudes cliniques partie I (2 de 2)",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=051346\u0026term=2181\u0026session=E",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "TLB",
+                    "Activities": [
+                        {
+                            "Name": "MED27012 000",
+                            "ActivityType": "TLB",
+                            "StartDate": "01-11",
+                            "EndDate": "01-18",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1700,
+                            "Place": "RGN 2241",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED27012 000",
+                            "ActivityType": "TLB",
+                            "StartDate": "01-25",
+                            "EndDate": "01-25",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1700,
+                            "Place": "RGN 2241",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED27012 000",
+                            "ActivityType": "TLB",
+                            "StartDate": "02-01",
+                            "EndDate": "02-15",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1500,
+                            "Place": "RGN 2241",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED27012 000",
+                            "ActivityType": "TLB",
+                            "StartDate": "02-21",
+                            "EndDate": "02-21",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1500,
+                            "Place": "RGN 2241",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED27012 000",
+                            "ActivityType": "TLB",
+                            "StartDate": "02-22",
+                            "EndDate": "03-01",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1700,
+                            "Place": "RGN 2241",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED27012 000",
+                            "ActivityType": "TLB",
+                            "StartDate": "03-08",
+                            "EndDate": "03-08",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1500,
+                            "Place": "RGN 2241",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED27012 000",
+                            "ActivityType": "TLB",
+                            "StartDate": "03-22",
+                            "EndDate": "03-29",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1500,
+                            "Place": "RGN 2241",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED27012 000",
+                            "ActivityType": "TLB",
+                            "StartDate": "04-05",
+                            "EndDate": "04-05",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1700,
+                            "Place": "RGN 2241",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED27012 000",
+                            "ActivityType": "TLB",
+                            "StartDate": "04-12",
+                            "EndDate": "04-19",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1500,
+                            "Place": "RGN 2241",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED27012 000",
+                            "ActivityType": "TLB",
+                            "StartDate": "04-26",
+                            "EndDate": "05-03",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1700,
+                            "Place": "RGN 2241",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MED27012 000",
+                            "ActivityType": "TLB",
+                            "StartDate": "05-10",
+                            "EndDate": "05-10",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1500,
+                            "Place": "RGN 2241",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

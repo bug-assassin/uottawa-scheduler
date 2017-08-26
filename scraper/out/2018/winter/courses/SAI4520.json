@@ -1,0 +1,61 @@
+{
+    "CourseCode": "SAI4520",
+    "Title": "Pratique interprofessionnelle en soins de santé",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=028590\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "W",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "SAI4520 WB00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-09",
+                            "EndDate": "01-09",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "RGN 3248",
+                            "Professor": "Jean Daniel  Jacob"
+                        },
+                        {
+                            "Name": "SAI4520 WB00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-12",
+                            "EndDate": "01-12",
+                            "Day": 4,
+                            "StartHour": 930,
+                            "EndHour": 1230,
+                            "Place": "RGN 2003",
+                            "Professor": "Jean Daniel  Jacob"
+                        },
+                        {
+                            "Name": "SAI4520 WB00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-16",
+                            "EndDate": "01-16",
+                            "Day": 1,
+                            "StartHour": 1530,
+                            "EndHour": 1830,
+                            "Place": "RGN 2003",
+                            "Professor": "Jean Daniel  Jacob"
+                        },
+                        {
+                            "Name": "SAI4520 WB00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-19",
+                            "EndDate": "01-19",
+                            "Day": 4,
+                            "StartHour": 900,
+                            "EndHour": 1200,
+                            "Place": "RGN 2005",
+                            "Professor": "Jean Daniel  Jacob"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

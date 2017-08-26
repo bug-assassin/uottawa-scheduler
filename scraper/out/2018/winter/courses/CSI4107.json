@@ -1,0 +1,39 @@
+{
+    "CourseCode": "CSI4107",
+    "Title": "Information Retrieval and the Internet",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=006646\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CSI4107 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "TBT 327",
+                            "Professor": "Diana M. Inkpen"
+                        },
+                        {
+                            "Name": "CSI4107 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "TBT 327",
+                            "Professor": "Diana M. Inkpen"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

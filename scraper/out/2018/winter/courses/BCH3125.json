@@ -1,0 +1,55 @@
+{
+    "CourseCode": "BCH3125",
+    "Title": "Protein Structure and Function",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=002437\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "BCH3125 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "MRT 218",
+                            "Professor": "Corrie John Bayley  daCosta"
+                        },
+                        {
+                            "Name": "BCH3125 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "MRT 218",
+                            "Professor": "Corrie John Bayley  daCosta"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "BCH3125 A01",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "MNT 203",
+                            "Professor": "Corrie John Bayley  daCosta"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "CourseCode": "DVM2750",
+    "Title": "Fondements de la pensée politique et sociale : Le libéralisme classique et le socialisme",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=009039\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DVM2750 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "TBT 333",
+                            "Professor": "Nadia  Abu-Zahra"
+                        },
+                        {
+                            "Name": "DVM2750 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "TBT 333",
+                            "Professor": "Nadia  Abu-Zahra"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

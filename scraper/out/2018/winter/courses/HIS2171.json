@@ -1,0 +1,39 @@
+{
+    "CourseCode": "HIS2171",
+    "Title": "Latin America, Modern Period",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=015539\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "HIS2171 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "VNR 5070",
+                            "Professor": "Alberto Guillermo Florez-Malagon"
+                        },
+                        {
+                            "Name": "HIS2171 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "MNT 207",
+                            "Professor": "Alberto Guillermo Florez-Malagon"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

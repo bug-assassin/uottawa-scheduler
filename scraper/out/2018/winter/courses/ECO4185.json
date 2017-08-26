@@ -1,0 +1,39 @@
+{
+    "CourseCode": "ECO4185",
+    "Title": "Financial Econometrics",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=009440\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ECO4185 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "FSS 1005",
+                            "Professor": "Maral  Kichian"
+                        },
+                        {
+                            "Name": "ECO4185 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "FSS 4012",
+                            "Professor": "Maral  Kichian"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

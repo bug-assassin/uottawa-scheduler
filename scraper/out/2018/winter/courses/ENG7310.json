@@ -1,0 +1,28 @@
+{
+    "CourseCode": "ENG7310",
+    "Title": "American Literature I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=012445\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "ENG7310 A00 - Emerson, Melville \u0026 Whitman",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "MHN 318",
+                            "Professor": "Thomas M. Allen"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

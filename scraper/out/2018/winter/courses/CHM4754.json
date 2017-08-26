@@ -1,0 +1,55 @@
+{
+    "CourseCode": "CHM4754",
+    "Title": "Principes d'analyse instrumentale",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=004059\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CHM4754 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "VNR 4084",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "CHM4754 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "VNR 4084",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "CHM4754 B01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1230,
+                            "Place": "MRN 312",
+                            "Professor": "Paul Michael  Mayer"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "CourseCode": "ADM6261",
+    "Title": "Project Management II",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=000510\u0026term=2181\u0026session=G",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ADM6261 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "03-20",
+                            "EndDate": "03-20",
+                            "Day": 1,
+                            "StartHour": 1600,
+                            "EndHour": 1900,
+                            "Place": "DMS 4140",
+                            "Professor": "Stephane  Tywoniak"
+                        },
+                        {
+                            "Name": "ADM6261 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "03-22",
+                            "EndDate": "03-22",
+                            "Day": 3,
+                            "StartHour": 1600,
+                            "EndHour": 1900,
+                            "Place": "DMS 4140",
+                            "Professor": "Stephane  Tywoniak"
+                        },
+                        {
+                            "Name": "ADM6261 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "03-27",
+                            "EndDate": "03-27",
+                            "Day": 1,
+                            "StartHour": 1600,
+                            "EndHour": 1900,
+                            "Place": "DMS 4140",
+                            "Professor": "Stephane  Tywoniak"
+                        },
+                        {
+                            "Name": "ADM6261 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "03-29",
+                            "EndDate": "03-29",
+                            "Day": 3,
+                            "StartHour": 1600,
+                            "EndHour": 1900,
+                            "Place": "DMS 4140",
+                            "Professor": "Stephane  Tywoniak"
+                        },
+                        {
+                            "Name": "ADM6261 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "04-03",
+                            "EndDate": "04-03",
+                            "Day": 1,
+                            "StartHour": 1600,
+                            "EndHour": 1900,
+                            "Place": "DMS 4140",
+                            "Professor": "Stephane  Tywoniak"
+                        },
+                        {
+                            "Name": "ADM6261 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "04-05",
+                            "EndDate": "04-05",
+                            "Day": 3,
+                            "StartHour": 1600,
+                            "EndHour": 1900,
+                            "Place": "DMS 4140",
+                            "Professor": "Stephane  Tywoniak"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "D",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ADM6261 D00",
+                            "ActivityType": "LEC",
+                            "StartDate": "02-26",
+                            "EndDate": "03-23",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "DMS 4140",
+                            "Professor": "Lavagnon  Ika"
+                        },
+                        {
+                            "Name": "ADM6261 D00",
+                            "ActivityType": "LEC",
+                            "StartDate": "04-04",
+                            "EndDate": "04-04",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "DMS 4140",
+                            "Professor": "Lavagnon  Ika"
+                        },
+                        {
+                            "Name": "ADM6261 D00",
+                            "ActivityType": "LEC",
+                            "StartDate": "04-06",
+                            "EndDate": "04-06",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "DMS 4140",
+                            "Professor": "Lavagnon  Ika"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

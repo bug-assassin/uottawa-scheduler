@@ -1,0 +1,77 @@
+{
+    "CourseCode": "APA2534",
+    "Title": "Administration des services de loisir, de sport et d'activité physique",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=001496\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "APA2534 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 800,
+                            "EndHour": 1000,
+                            "Place": "FSS 1030",
+                            "Professor": "Marijke  Taks"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "APA2534 A01",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1900,
+                            "EndHour": 2100,
+                            "Place": "LMX 223",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "APA2534 A02",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1900,
+                            "EndHour": 2100,
+                            "Place": "WLD 105",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "APA2534 A03",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1900,
+                            "EndHour": 2100,
+                            "Place": "FSS 10003",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "APA2534 A04",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1900,
+                            "EndHour": 2100,
+                            "Place": "FTX 316",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

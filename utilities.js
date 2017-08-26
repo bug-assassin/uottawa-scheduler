@@ -1,3 +1,5 @@
+var noop = function () {};
+
 function convertHourMinuteIntegerToString(hourMinute) {
     var hourMinuteString = hourMinute.toString();
     var length = hourMinuteString.length;
@@ -54,4 +56,33 @@ if (typeof module === "object" && module.exports) {
     module.exports = {
         timer: timer
     };
+}
+
+
+var Store = {
+    set: function (key, data) {
+        if(typeof data === "string" || data instanceof String) {
+            localStorage.setItem(key, data);
+        }
+        else {
+            localStorage.setItem(key, JSON.stringify(data));
+        }
+    },
+    get: function (key) {
+      return localStorage.getItem(key);
+    },
+    getJSON: function (key) {
+        var item = localStorage.getItem(key);
+        if(item == null) {
+            return item;
+        }
+        return JSON.parse(item);
+    },
+    clear: function () {
+        localStorage.clear();
+    }
+};
+
+function isEmpty(value) {
+    return value == null || value.length == 0
 }

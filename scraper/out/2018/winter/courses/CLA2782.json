@@ -1,0 +1,39 @@
+{
+    "CourseCode": "CLA2782",
+    "Title": "Bible et culture II : Les textes et les traditions du christianisme des origines",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=004485\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CLA2782 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "MRT 212",
+                            "Professor": "Pierluigi  Piovanelli"
+                        },
+                        {
+                            "Name": "CLA2782 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "MRT 212",
+                            "Professor": "Pierluigi  Piovanelli"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "CourseCode": "MGT8101",
+    "Title": "Financial Accounting and Reporting",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=021355\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MGT8101 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "DEP DEPT",
+                            "Professor": "Walid  Ben Amar,Sylvain  Durocher,Tiemei  Li,Darlene  Himick"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

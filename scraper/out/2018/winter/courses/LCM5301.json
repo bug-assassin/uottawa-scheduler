@@ -1,0 +1,28 @@
+{
+    "CourseCode": "LCM5301",
+    "Title": "Special Topics in World Literatures and Cultures I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=018378\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "LCM5301 A00 - Intercultural Theatre",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1600,
+                            "EndHour": 1900,
+                            "Place": "MHN 215",
+                            "Professor": "Joerg  Esleben"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "CourseCode": "APA3120",
+    "Title": "Psychomotor Behavior Laboratory",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=001528\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "APA3120 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 800,
+                            "EndHour": 1000,
+                            "Place": "TBT 070",
+                            "Professor": "Anthony  Carlsen"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "APA3120 A01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1000,
+                            "EndHour": 1200,
+                            "Place": "MNT 417",
+                            "Professor": "Anthony  Carlsen"
+                        },
+                        {
+                            "Name": "APA3120 A02",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1200,
+                            "EndHour": 1400,
+                            "Place": "MNT 417",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "APA3120 A03",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1400,
+                            "EndHour": 1600,
+                            "Place": "MNT 417",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "APA3120 A04",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1600,
+                            "EndHour": 1800,
+                            "Place": "MNT 417",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "APA3120 A05",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1200,
+                            "EndHour": 1400,
+                            "Place": "MNT 417",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "APA3120 A06",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1400,
+                            "EndHour": 1600,
+                            "Place": "MNT 417",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

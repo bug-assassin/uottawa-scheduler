@@ -1,0 +1,39 @@
+{
+    "CourseCode": "CMN3130",
+    "Title": "Communication Planning",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=005535\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CMN3130 C00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "TBT 070",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "CMN3130 C00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "DMS 1140",
+                            "Professor": "Sherry L.  Ferguson"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

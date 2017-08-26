@@ -1,0 +1,39 @@
+{
+    "CourseCode": "HSS3305",
+    "Title": "Pathophysiology of Health Problems",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=016346\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "HSS3305 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "FSS 1006",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "HSS3305 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "FSS 1006",
+                            "Professor": "Shannon A. Bainbridge-Whiteside"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

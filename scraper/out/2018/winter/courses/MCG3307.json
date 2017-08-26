@@ -1,0 +1,77 @@
+{
+    "CourseCode": "MCG3307",
+    "Title": "Control Systems",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=020807\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MCG3307 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "FSS 4007",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MCG3307 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1600,
+                            "Place": "FSS 4007",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "MCG3307 A01",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1000,
+                            "EndHour": 1200,
+                            "Place": "CBY B02",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MCG3307 A02",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1200,
+                            "EndHour": 1400,
+                            "Place": "CBY B02",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "MCG3307 A03",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1630,
+                            "EndHour": 1830,
+                            "Place": "STE 2060",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

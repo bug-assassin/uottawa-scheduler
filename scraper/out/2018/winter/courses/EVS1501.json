@@ -1,0 +1,39 @@
+{
+    "CourseCode": "EVS1501",
+    "Title": "Introduction aux sciences environnementales",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=013291\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "EVS1501 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "VNR 1095",
+                            "Professor": "Alexandre  Poulain,Danielle  Fortin"
+                        },
+                        {
+                            "Name": "EVS1501 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "VNR 2095",
+                            "Professor": "Alexandre  Poulain,Danielle  Fortin"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

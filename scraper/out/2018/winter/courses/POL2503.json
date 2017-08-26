@@ -1,0 +1,28 @@
+{
+    "CourseCode": "POL2503",
+    "Title": "Introduction aux relations internationales et à la politique mondiale",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=027187\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "POL2503 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "CBY C03",
+                            "Professor": "Pierre  Martel"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

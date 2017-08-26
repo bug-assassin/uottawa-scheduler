@@ -1,0 +1,49 @@
+{
+    "CourseCode": "NSG5592",
+    "Title": "Analyse statistique en sciences infirmières",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=023157\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "NSG5592 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "LPR 285",
+                            "Professor": "Bernard Martin  Pinet"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "H",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "NSG5592 HC00 - CanadaVideo-conference course",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "DEP DEPT",
+                            "Professor": "Bernard Martin  Pinet"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "CourseCode": "CLA5924",
+    "Title": "Topics in Late Antique History",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=004585\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "CLA5924 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "SMD 429",
+                            "Professor": "Pierluigi  Piovanelli"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

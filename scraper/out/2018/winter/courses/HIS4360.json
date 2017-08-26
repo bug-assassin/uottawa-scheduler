@@ -1,0 +1,28 @@
+{
+    "CourseCode": "HIS4360",
+    "Title": "Selected Topics in Canadian History",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=015962\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "HIS4360 B00 - Canada's Poor: Protest and Policy",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "DMS 10161",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

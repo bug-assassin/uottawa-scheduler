@@ -1,0 +1,28 @@
+{
+    "CourseCode": "POL7519",
+    "Title": "Construction et transformation des états et des régimes politiques",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=027517\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "POL7519 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "FSS 12003",
+                            "Professor": "Cédric  Jourde"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

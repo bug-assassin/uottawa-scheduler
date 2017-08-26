@@ -1,0 +1,39 @@
+{
+    "CourseCode": "ECH4725",
+    "Title": "Le défi de la démocratie dans les affaires internationales",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=009265\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ECH4725 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "HGN 305",
+                            "Professor": "Christina  Clark-Kazak"
+                        },
+                        {
+                            "Name": "ECH4725 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "HGN 305",
+                            "Professor": "Christina  Clark-Kazak"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

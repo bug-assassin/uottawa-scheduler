@@ -1,0 +1,60 @@
+{
+    "CourseCode": "PSY1101",
+    "Title": "Introduction to Psychology: Foundations",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=027599\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "H",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PSY1101 H00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "MNT 203",
+                            "Professor": "Najwa  Haddad"
+                        },
+                        {
+                            "Name": "PSY1101 H00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "MNT 203",
+                            "Professor": "Najwa  Haddad"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "I",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PSY1101 I00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "MNT 202",
+                            "Professor": "Mark  Dallas"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

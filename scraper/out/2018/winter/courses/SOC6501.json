@@ -1,0 +1,28 @@
+{
+    "CourseCode": "SOC6501",
+    "Title": "Problématique de recherche sociologique",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=029373\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "SOC6501 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "FSS 11003",
+                            "Professor": "Maurice  Lévesque"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

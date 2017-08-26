@@ -1,0 +1,39 @@
+{
+    "CourseCode": "FLS4500",
+    "Title": "Séminaire de fin de parcours",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=039408\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "FLS4500 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MRT 252",
+                            "Professor": "Monika  Jezak"
+                        },
+                        {
+                            "Name": "FLS4500 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "TBT 325",
+                            "Professor": "Monika  Jezak"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

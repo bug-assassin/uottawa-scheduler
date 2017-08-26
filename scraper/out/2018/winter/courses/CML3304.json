@@ -1,0 +1,39 @@
+{
+    "CourseCode": "CML3304",
+    "Title": "Taxation",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=005052\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML3304 C00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1700,
+                            "EndHour": 1900,
+                            "Place": "FTX 359",
+                            "Professor": "Ian  Macgregor"
+                        },
+                        {
+                            "Name": "CML3304 C00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1700,
+                            "EndHour": 1900,
+                            "Place": "FTX 359",
+                            "Professor": "Ian  Macgregor"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

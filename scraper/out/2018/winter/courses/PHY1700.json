@@ -1,0 +1,39 @@
+{
+    "CourseCode": "PHY1700",
+    "Title": "Au-delà du Big Bang",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=026739\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PHY1700 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MRN 130",
+                            "Professor": "Serge  Desgreniers"
+                        },
+                        {
+                            "Name": "PHY1700 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MRN 130",
+                            "Professor": "Serge  Desgreniers"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "CourseCode": "FRA5590",
+    "Title": "Atelier de méthodologie",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=013910\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "FRA5590 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "FSS 14005",
+                            "Professor": "Michel  Fournier"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "CourseCode": "PHY4335",
+    "Title": "Physics of Continuous Media",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=026864\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PHY4335 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "FSS 1005",
+                            "Professor": "James  Harden"
+                        },
+                        {
+                            "Name": "PHY4335 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "FSS 1005",
+                            "Professor": "James  Harden"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

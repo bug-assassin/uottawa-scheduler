@@ -1,0 +1,49 @@
+{
+    "CourseCode": "NSG6160",
+    "Title": "Policy, Political Action and Change in Health Care",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=023184\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "NSG6160 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1700,
+                            "EndHour": 2000,
+                            "Place": "LPR 285",
+                            "Professor": "Thomas  Foth"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "H",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "NSG6160 HC00 - CanadaAudio-conference course",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1700,
+                            "EndHour": 2000,
+                            "Place": "DEP DEPT",
+                            "Professor": "Thomas  Foth"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "CourseCode": "PAP3745",
+    "Title": "Gouvernance et secteur communautaire",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=023506\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PAP3745 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "UCU 205",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

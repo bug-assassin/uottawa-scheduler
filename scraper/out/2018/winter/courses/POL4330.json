@@ -1,0 +1,49 @@
+{
+    "CourseCode": "POL4330",
+    "Title": "Honours Seminar in International Relations and Global Politics",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=027338\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "POL4330 C00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "FSS 9003",
+                            "Professor": "Nisha  Shah"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "D",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "POL4330 D00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "GSD 307",
+                            "Professor": "Kevin  McMillan"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

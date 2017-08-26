@@ -1,0 +1,39 @@
+{
+    "CourseCode": "DCL6126",
+    "Title": "International Humanitarian Law: Contemporary Challenges",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=008144\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "DCL6126 A00 - Contemporary Challenges",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1900,
+                            "EndHour": 2100,
+                            "Place": "FTX 235",
+                            "Professor": "Ilario Maria  Maiolo"
+                        },
+                        {
+                            "Name": "DCL6126 A00 - Contemporary Challenges",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1900,
+                            "EndHour": 2100,
+                            "Place": "BRS 232",
+                            "Professor": "Ilario Maria  Maiolo"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

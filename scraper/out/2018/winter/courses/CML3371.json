@@ -1,0 +1,39 @@
+{
+    "CourseCode": "CML3371",
+    "Title": "Intellectual Property Law",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=005087\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML3371 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1700,
+                            "EndHour": 1900,
+                            "Place": "FTX 351",
+                            "Professor": "Stéphane Éric  Caron,Michael  O'Neill,Alexander Brian Gloor"
+                        },
+                        {
+                            "Name": "CML3371 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1700,
+                            "EndHour": 1900,
+                            "Place": "FTX 351",
+                            "Professor": "Stéphane Éric  Caron,Alexander Brian Gloor,Michael  O'Neill"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

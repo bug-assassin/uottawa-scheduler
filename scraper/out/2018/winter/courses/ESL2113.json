@@ -1,0 +1,39 @@
+{
+    "CourseCode": "ESL2113",
+    "Title": "English Grammar for Second Language Learners: Intermediate Level",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=012916\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ESL2113 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "UCU 205",
+                            "Professor": "Sheila Anne  Scott"
+                        },
+                        {
+                            "Name": "ESL2113 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "SMD 221",
+                            "Professor": "Sheila Anne  Scott"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "CourseCode": "GEO3163",
+    "Title": "Igneous Petrology",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=014730\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "GEO3163 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "MRN 123",
+                            "Professor": "Jonathan  O'Neil"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "GEO3163 A01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "MRN 121",
+                            "Professor": "Jonathan  O'Neil"
+                        },
+                        {
+                            "Name": "GEO3163 A01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "MRN 0018",
+                            "Professor": "Jonathan  O'Neil"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

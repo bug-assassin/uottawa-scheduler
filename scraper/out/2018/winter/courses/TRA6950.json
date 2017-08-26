@@ -1,0 +1,28 @@
+{
+    "CourseCode": "TRA6950",
+    "Title": "Simultaneous Interpretation from English to French",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=031915\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "TLB",
+                    "Activities": [
+                        {
+                            "Name": "TRA6950 A00",
+                            "ActivityType": "TLB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "SMD 504",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "CourseCode": "ESL2122",
+    "Title": "Listening and Speaking Skills for Second Language Learners: Low Advanced",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=012918\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ESL2122 C00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "SMD 222",
+                            "Professor": "Carla M.  Schnitzler"
+                        },
+                        {
+                            "Name": "ESL2122 C00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "SMD 222",
+                            "Professor": "Carla M.  Schnitzler"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

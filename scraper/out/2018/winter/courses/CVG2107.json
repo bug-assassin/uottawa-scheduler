@@ -1,0 +1,88 @@
+{
+    "CourseCode": "CVG2107",
+    "Title": "Geotechnical Materials and Processes",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=007005\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CVG2107 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "MRT 212",
+                            "Professor": "Mamadou  Fall"
+                        },
+                        {
+                            "Name": "CVG2107 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "MRT 212",
+                            "Professor": "Mamadou  Fall"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "CVG2107 A01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "CBY D113",
+                            "Professor": "Mamadou  Fall"
+                        },
+                        {
+                            "Name": "CVG2107 A02",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1600,
+                            "Place": "CBY D113",
+                            "Professor": "Mamadou  Fall"
+                        },
+                        {
+                            "Name": "CVG2107 A03",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "CBY D113",
+                            "Professor": "Mamadou  Fall"
+                        },
+                        {
+                            "Name": "CVG2107 A04",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "CBY D113",
+                            "Professor": "Mamadou  Fall"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

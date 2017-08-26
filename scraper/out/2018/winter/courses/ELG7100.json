@@ -1,0 +1,39 @@
+{
+    "CourseCode": "ELG7100",
+    "Title": "Topics in Electromagnetics I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=011899\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "G",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ELG7100 G00 - Topics in Electromagnetics: Moment Method",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "CBY B202",
+                            "Professor": "Derek Albert  Mcnamara"
+                        },
+                        {
+                            "Name": "ELG7100 G00 - Topics in Electromagnetics: Moment Method",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "CBY B202",
+                            "Professor": "Derek Albert  Mcnamara"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "CourseCode": "MCG4139",
+    "Title": "Computational Methods in Fluid and Heat Transfer",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=020863\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MCG4139 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "LPR 285",
+                            "Professor": "James Gerald  McDonald"
+                        },
+                        {
+                            "Name": "MCG4139 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "LPR 285",
+                            "Professor": "James Gerald  McDonald"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "MCG4139 A01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "STE 2060",
+                            "Professor": "James Gerald  McDonald"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

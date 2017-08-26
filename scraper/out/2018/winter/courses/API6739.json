@@ -1,0 +1,28 @@
+{
+    "CourseCode": "API6739",
+    "Title": "Thèmes choisis en affaires internationales",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=001855\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "API6739 B00 - La démocratie dans le monde: enjeux et perspect.",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1430,
+                            "Place": "FSS 6032",
+                            "Professor": "Gilles  Breton"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

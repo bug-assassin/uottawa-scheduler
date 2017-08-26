@@ -1,0 +1,28 @@
+{
+    "CourseCode": "CML3173",
+    "Title": "Law-Related Internship",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=004998\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "W",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "STG",
+                    "Activities": [
+                        {
+                            "Name": "CML3173 WN00 - UN Document Practicum",
+                            "ActivityType": "STG",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "FTX 401",
+                            "Professor": "Saeid  Mirzaei Yengejeh"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "CourseCode": "FRA5502",
+    "Title": "Lectures féministes",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=013859\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "FRA5502 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "MHN 246",
+                            "Professor": "Lucie  Joubert"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

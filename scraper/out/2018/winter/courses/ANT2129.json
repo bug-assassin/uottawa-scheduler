@@ -1,0 +1,39 @@
+{
+    "CourseCode": "ANT2129",
+    "Title": "Anthropology of Cities",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=001293\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ANT2129 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "VNR 5070",
+                            "Professor": "Mary Margaret  Stalcup"
+                        },
+                        {
+                            "Name": "ANT2129 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "VNR 5070",
+                            "Professor": "Mary Margaret  Stalcup"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

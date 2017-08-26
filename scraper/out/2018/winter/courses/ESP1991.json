@@ -1,0 +1,55 @@
+{
+    "CourseCode": "ESP1991",
+    "Title": "Elementary Spanish I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=012965\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ESP1991 AP00 - CA Pembroke Algonquin College",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1530,
+                            "EndHour": 1700,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ESP1991 AP00 - CA Pembroke Algonquin College",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1400,
+                            "EndHour": 1530,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "TLB",
+                    "Activities": [
+                        {
+                            "Name": "ESP1991 AP01 - CA Pembroke Algonquin College",
+                            "ActivityType": "TLB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1830,
+                            "EndHour": 2000,
+                            "Place": "DEP DEPT",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

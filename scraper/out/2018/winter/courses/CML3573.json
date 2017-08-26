@@ -1,0 +1,28 @@
+{
+    "CourseCode": "CML3573",
+    "Title": "Stage en droit",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=005157\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "H",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "STG",
+                    "Activities": [
+                        {
+                            "Name": "CML3573 HC00 - Stage en droit communautaire",
+                            "ActivityType": "STG",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1700,
+                            "EndHour": 1900,
+                            "Place": "BRS 302",
+                            "Professor": "Andrée-Anne Jeanne D'Arc Marie  Martel"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

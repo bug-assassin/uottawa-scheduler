@@ -1,0 +1,115 @@
+{
+    "CourseCode": "CHM2330",
+    "Title": "Physical Chemistry: Introduction to the Molecular Properties of Matter",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=003902\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CHM2330 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "MRT 218",
+                            "Professor": "Natalie  Goto"
+                        },
+                        {
+                            "Name": "CHM2330 000",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "MRT 218",
+                            "Professor": "Natalie  Goto"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "CHM2330 006",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "CBY C03",
+                            "Professor": "Natalie  Goto"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "CHM2330 001",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1330,
+                            "EndHour": 1730,
+                            "Place": "MRN 08",
+                            "Professor": "Natalie  Goto"
+                        },
+                        {
+                            "Name": "CHM2330 002",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1330,
+                            "EndHour": 1730,
+                            "Place": "MRN 08",
+                            "Professor": "Natalie  Goto"
+                        },
+                        {
+                            "Name": "CHM2330 003",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1330,
+                            "EndHour": 1730,
+                            "Place": "MRN 08",
+                            "Professor": "Natalie  Goto"
+                        },
+                        {
+                            "Name": "CHM2330 004",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1330,
+                            "EndHour": 1730,
+                            "Place": "MRN 08",
+                            "Professor": "Natalie  Goto"
+                        },
+                        {
+                            "Name": "CHM2330 005",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1330,
+                            "EndHour": 1730,
+                            "Place": "MRN 08",
+                            "Professor": "Heshel  Teitelbaum"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

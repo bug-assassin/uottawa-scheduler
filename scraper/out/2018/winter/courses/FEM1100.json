@@ -1,0 +1,60 @@
+{
+    "CourseCode": "FEM1100",
+    "Title": "Women, Gender, Feminism: An Introduction",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=013319\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "FEM1100 C00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "MNT 202",
+                            "Professor": "Gulzar R.  Charania"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "D",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "FEM1100 D00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "FSS 2005",
+                            "Professor": "Mythili  Rajiva"
+                        },
+                        {
+                            "Name": "FEM1100 D00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "FSS 2005",
+                            "Professor": "Mythili  Rajiva"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

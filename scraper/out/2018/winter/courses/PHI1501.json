@@ -1,0 +1,39 @@
+{
+    "CourseCode": "PHI1501",
+    "Title": "Raisonnement et pensée critique",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=025883\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "D",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PHI1501 D00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "HNN 013",
+                            "Professor": "Noureddine  Mouelhi"
+                        },
+                        {
+                            "Name": "PHI1501 D00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1730,
+                            "EndHour": 1900,
+                            "Place": "HNN 013",
+                            "Professor": "Noureddine  Mouelhi"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

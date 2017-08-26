@@ -1,0 +1,39 @@
+{
+    "CourseCode": "CML4545",
+    "Title": "La responsabilité professionnelle et les enjeux de la pratique de droit",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=005293\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "N",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML4545 N00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 930,
+                            "EndHour": 1130,
+                            "Place": "FTX 232",
+                            "Professor": "Alain Antoine  Roussy"
+                        },
+                        {
+                            "Name": "CML4545 N00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1500,
+                            "Place": "FTX 135",
+                            "Professor": "Alain Antoine  Roussy"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

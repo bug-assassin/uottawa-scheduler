@@ -1,2 +1,5 @@
 .idea/
 uottawa-scheduler.iml
+step_1_clean_courses.json
+step_2_normalized_courses.json
+stats.json

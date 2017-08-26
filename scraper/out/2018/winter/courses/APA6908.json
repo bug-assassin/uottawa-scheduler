@@ -1,0 +1,28 @@
+{
+    "CourseCode": "APA6908",
+    "Title": "Examination of Biophysical Literature in Sport, Physical Activity and Health",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=001765\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "APA6908 000",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 830,
+                            "EndHour": 1130,
+                            "Place": "HGN 305",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

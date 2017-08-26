@@ -1,0 +1,39 @@
+{
+    "CourseCode": "ANP1505",
+    "Title": "Anatomie humaine et physiologie I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=001275\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "C",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ANP1505 C00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "SCR 002",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ANP1505 C00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "SCR 002",
+                            "Professor": "Jean Marc  Renaud,Michel  Désilets"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

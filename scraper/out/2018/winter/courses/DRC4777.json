@@ -1,0 +1,28 @@
+{
+    "CourseCode": "DRC4777",
+    "Title": "Thèmes choisis de droit pénal I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=008885\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "0",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DRC4777 000 - Fouilles, surveillance et vie privée",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1900,
+                            "EndHour": 2200,
+                            "Place": "FTX 137",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

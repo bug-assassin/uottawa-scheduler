@@ -1,0 +1,39 @@
+{
+    "CourseCode": "CML4134",
+    "Title": "Studies in Environmental Law",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=005244\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "SEM",
+                    "Activities": [
+                        {
+                            "Name": "CML4134 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1500,
+                            "Place": "FTX 416",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "CML4134 A00",
+                            "ActivityType": "SEM",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1200,
+                            "Place": "BRS 232",
+                            "Professor": "Nathalie  Chalifour"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

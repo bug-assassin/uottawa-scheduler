@@ -1,0 +1,39 @@
+{
+    "CourseCode": "ECH3310",
+    "Title": "Current Problems in International Human Rights",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=009241\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ECH3310 A00 - International Human Rights ...",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "SMD 224",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "ECH3310 A00 - International Human Rights ...",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "SMD 224",
+                            "Professor": "Nomi Claire  Lazar"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

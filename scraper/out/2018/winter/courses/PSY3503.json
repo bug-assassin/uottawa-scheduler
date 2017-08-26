@@ -1,0 +1,66 @@
+{
+    "CourseCode": "PSY3503",
+    "Title": "Apprentissage et conditionnement",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=027712\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PSY3503 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MRT 221",
+                            "Professor": "Jean-Philippe  Thivierge"
+                        },
+                        {
+                            "Name": "PSY3503 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "MRT 221",
+                            "Professor": "Jean-Philippe  Thivierge"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "PSY3503 B01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 900,
+                            "EndHour": 1000,
+                            "Place": "FSS 7003",
+                            "Professor": "Jean-Philippe  Thivierge"
+                        },
+                        {
+                            "Name": "PSY3503 B02",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1100,
+                            "Place": "FSS 7003",
+                            "Professor": "Jean-Philippe  Thivierge"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

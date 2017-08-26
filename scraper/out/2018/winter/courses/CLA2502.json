@@ -1,0 +1,39 @@
+{
+    "CourseCode": "CLA2502",
+    "Title": "Athènes, la Perse et Sparte",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=004455\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CLA2502 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "CBY C03",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "CLA2502 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "CBY C03",
+                            "Professor": "N/a"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,443 @@
+{
+    "CourseCode": "PHY1124",
+    "Title": "Fundamentals of Physics for Engineers",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=026711\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PHY1124 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "STE B0138",
+                            "Professor": "Peter  Piercy"
+                        },
+                        {
+                            "Name": "PHY1124 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "STE B0138",
+                            "Professor": "Peter  Piercy"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "PHY1124 A16",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "STE B0138",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "PHY1124 A01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1124 A02",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1124 A03",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1124 A04",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1124 A05",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1124 A06",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1124 A07",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1124 A08",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1124 A09",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3003",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1124 A10",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3003",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1124 A11",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1124 A12",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1124 A13",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1124 A14",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "Not available at this time.",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "PHY1124 A15",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "STE 3003",
+                            "Professor": "Michael C. H.  Wong"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "PHY1124 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "STE G0103",
+                            "Professor": "Ebrahim  Karimi"
+                        },
+                        {
+                            "Name": "PHY1124 B00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "STE G0103",
+                            "Professor": "Ebrahim  Karimi"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "DGD",
+                    "Activities": [
+                        {
+                            "Name": "PHY1124 B16",
+                            "ActivityType": "DGD",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1600,
+                            "EndHour": 1730,
+                            "Place": "MHN 257",
+                            "Professor": "N/a"
+                        }
+                    ]
+                },
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "PHY1124 B01",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1124 B02",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1124 B03",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1124 B04",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1124 B05",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1124 B06",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1124 B07",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1124 B08",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1124 B09",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3003",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1124 B10",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "STE 3003",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1124 B11",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1124 B12",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1124 B13",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "STE 3040",
+                            "Professor": "Michael C. H.  Wong"
+                        },
+                        {
+                            "Name": "PHY1124 B14",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "Not available at this time.",
+                            "Professor": "N/a"
+                        },
+                        {
+                            "Name": "PHY1124 B15",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 1000,
+                            "EndHour": 1300,
+                            "Place": "STE 3003",
+                            "Professor": "Michael C. H.  Wong"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

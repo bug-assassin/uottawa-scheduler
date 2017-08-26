@@ -1,0 +1,39 @@
+{
+    "CourseCode": "DCL7311",
+    "Title": "Studies in Intellectual and Industrial Property",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=008284\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "B",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DCL7311 B00 - Intellectual Property",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1700,
+                            "EndHour": 1900,
+                            "Place": "FTX 351",
+                            "Professor": "Stéphane Éric  Caron,Michael  O'Neill,Alexander Brian Gloor"
+                        },
+                        {
+                            "Name": "DCL7311 B00 - Intellectual Property",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1700,
+                            "EndHour": 1900,
+                            "Place": "FTX 351",
+                            "Professor": "Stéphane Éric  Caron,Alexander Brian Gloor,Michael  O'Neill"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

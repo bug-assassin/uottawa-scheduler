@@ -1,0 +1,28 @@
+{
+    "CourseCode": "BIO3551",
+    "Title": "Laboratoire de biologie moléculaire",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=002847\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "N",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LAB",
+                    "Activities": [
+                        {
+                            "Name": "BIO3551 N00",
+                            "ActivityType": "LAB",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 1300,
+                            "EndHour": 1900,
+                            "Place": "BSC 236",
+                            "Professor": "John  Basso"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

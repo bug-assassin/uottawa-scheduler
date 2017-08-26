@@ -1,0 +1,124 @@
+{
+    "CourseCode": "DCL5121",
+    "Title": "Studies in Human Rights I",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=008015\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "H",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DCL5121 H00 - Advanced Family Law",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 930,
+                            "EndHour": 1130,
+                            "Place": "FTX 402",
+                            "Professor": "Natasha  Bakht"
+                        },
+                        {
+                            "Name": "DCL5121 H00 - Advanced Family Law",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 2,
+                            "StartHour": 930,
+                            "EndHour": 1130,
+                            "Place": "FTX 359",
+                            "Professor": "Natasha  Bakht"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "I",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DCL5121 I00 - Feminist Legal Issues",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1730,
+                            "EndHour": 2130,
+                            "Place": "FTX 402",
+                            "Professor": "Constance  Backhouse"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "K",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DCL5121 K00 - Race, Racism and the Law",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1500,
+                            "Place": "FTX 315",
+                            "Professor": "Rakhi  Ruparelia"
+                        },
+                        {
+                            "Name": "DCL5121 K00 - Race, Racism and the Law",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1500,
+                            "Place": "FTX 315",
+                            "Professor": "Rakhi  Ruparelia"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SectionCode": "M",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "DCL5121 M00 - Civil Liberties",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 4,
+                            "StartHour": 830,
+                            "EndHour": 1030,
+                            "Place": "FTX 359",
+                            "Professor": "Joanne  St. Lewis"
+                        },
+                        {
+                            "Name": "DCL5121 M00 - Civil Liberties",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1500,
+                            "Place": "FTX 136",
+                            "Professor": "Joanne  St. Lewis"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

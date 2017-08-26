@@ -1,0 +1,28 @@
+{
+    "CourseCode": "REA7103",
+    "Title": "Knowledge Transfer and Exchange Seminar",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=028413\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "REA7103 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1200,
+                            "EndHour": 1500,
+                            "Place": "RGN 2009",
+                            "Professor": "Lucie  Brosseau"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

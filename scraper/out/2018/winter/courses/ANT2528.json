@@ -1,0 +1,39 @@
+{
+    "CourseCode": "ANT2528",
+    "Title": "Anthropologie pour le 21e siècle",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=001307\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "ANT2528 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1130,
+                            "EndHour": 1300,
+                            "Place": "MNO E218",
+                            "Professor": "Louise Nathalie  Boucher"
+                        },
+                        {
+                            "Name": "ANT2528 A00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1430,
+                            "Place": "VNR 1075",
+                            "Professor": "Louise Nathalie  Boucher"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

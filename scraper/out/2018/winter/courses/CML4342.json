@@ -1,0 +1,39 @@
+{
+    "CourseCode": "CML4342",
+    "Title": "Torts",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=042741\u0026term=2181\u0026session=H",
+    "Sections": [
+        {
+            "SectionCode": "N",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "CML4342 N00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1300,
+                            "EndHour": 1500,
+                            "Place": "FTX 147",
+                            "Professor": "Stéphane  Émard-Chabot"
+                        },
+                        {
+                            "Name": "CML4342 N00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-29",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1300,
+                            "EndHour": 1500,
+                            "Place": "FTX 232",
+                            "Professor": "Stéphane  Émard-Chabot"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

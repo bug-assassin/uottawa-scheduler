@@ -1,0 +1,50 @@
+{
+    "CourseCode": "EDU6474",
+    "Title": "Practicum in Counselling Psychology II",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=010848\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "S",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "EDU6474 S00",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 1430,
+                            "EndHour": 1730,
+                            "Place": "LMX 218",
+                            "Professor": "Cristelle  Audet"
+                        },
+                        {
+                            "Name": "EDU6474 S100",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 1,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "LMX 218",
+                            "Professor": "Nicola  Gazzola"
+                        },
+                        {
+                            "Name": "EDU6474 S200",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1730,
+                            "EndHour": 2030,
+                            "Place": "LMX 218",
+                            "Professor": "Cristelle  Audet"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

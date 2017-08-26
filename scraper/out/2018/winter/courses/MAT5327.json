@@ -1,0 +1,39 @@
+{
+    "CourseCode": "MAT5327",
+    "Title": "Topics in Algebra",
+    "Url": "https://web30.uottawa.ca/v3/SITS/timetable/Course.aspx?id=020338\u0026term=2181\u0026session=FS",
+    "Sections": [
+        {
+            "SectionCode": "A",
+            "ActivityGroups": [
+                {
+                    "ActivityType": "LEC",
+                    "Activities": [
+                        {
+                            "Name": "MAT5327 A00 - Superalgebra and supergeometry",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 3,
+                            "StartHour": 1000,
+                            "EndHour": 1130,
+                            "Place": "KED B004",
+                            "Professor": "Hadi  Salmasian"
+                        },
+                        {
+                            "Name": "MAT5327 A00 - Superalgebra and supergeometry",
+                            "ActivityType": "LEC",
+                            "StartDate": "01-08",
+                            "EndDate": "04-11",
+                            "Day": 0,
+                            "StartHour": 830,
+                            "EndHour": 1000,
+                            "Place": "KED B004",
+                            "Professor": "Hadi  Salmasian"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
