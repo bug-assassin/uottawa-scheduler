@@ -151,7 +151,7 @@ Year Select
                     return e.CourseCode == courseCode;
                 }).length > 0) return;
 
-            var path = currentTerm + "courses/" + courseCode + ".json";
+            var path = "scraper/out/" + currentTerm + "courses/" + courseCode + ".json";
             $.getJSON(path, function (course) {
                 courseList.push(course);
                 setCookiesAsync();
