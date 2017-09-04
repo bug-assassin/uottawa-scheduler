@@ -97,7 +97,7 @@ var ics = function(name) {
                         });
 
                         for (var d in rrule.byday) {
-                            if (BYDAY_VALUES.indexOf(rrule.byday[d]) < 0) {
+                            if (BYDAY_VALUES.indexOf(d) < 0) {
                                 throw "Recurrence rule 'byday' values must include only the following: 'SU', 'MO', 'TU', 'WE', 'TH', 'FR', 'SA'";
                             }
                         }
