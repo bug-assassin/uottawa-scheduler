@@ -96,8 +96,8 @@ var ics = function(name) {
                             return rrule.byday.indexOf(elem) == pos;
                         });
 
-                        for (var d in rrule.byday) {
-                            if (BYDAY_VALUES.indexOf(rrule.byday[d]) < 0) {
+                        for (var i = 0; i < rrule.byday.length; i++) {
+                            if (BYDAY_VALUES.indexOf(rrule.byday[i]) < 0) {
                                 throw "Recurrence rule 'byday' values must include only the following: 'SU', 'MO', 'TU', 'WE', 'TH', 'FR', 'SA'";
                             }
                         }
@@ -105,8 +105,8 @@ var ics = function(name) {
                 }
             }
 
-            var start = moment(begin).format('YYYYMMDD[T]HHmmss[Z]');
-            var end = moment(stop).format('YYYYMMDD[T]HHmmss[Z]')
+            var start = moment.utc(begin).format('YYYYMMDD[T]HHmmss[Z]');
+            var end = moment.utc(stop).format('YYYYMMDD[T]HHmmss[Z]')
 
             // recurrence rule vars
             var rruleString;
@@ -117,8 +117,8 @@ var ics = function(name) {
                     rruleString = 'RRULE:FREQ=' + rrule.freq;
 
                     if (rrule.until) {
-                        var uDate = new Date(Date.parse(rrule.until)).toISOString();
-                        rruleString += ';UNTIL=' + uDate.substring(0, uDate.length - 13).replace(/[-]/g, '') + '000000Z';
+                        var uDate = moment.utc(rrule.until);
+                        rruleString += ';UNTIL=' + uDate.format("YYYYMMDD[T]000000[Z]");
                     }
 
                     if (rrule.interval) {
